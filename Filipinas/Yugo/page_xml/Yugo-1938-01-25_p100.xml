@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2019-04-19T13:00:56.378+02:00</Created>
+        <LastChange>2026-06-24T12:27:02.090+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: SpanishTraditionalSort
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="141948" pageId="5270933" pageNr="100" tsid="293751241" status="FINAL" userId="362915" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ZQEZNGMJAEEMJTCOJKAFDSVM" xmlUrl="https://files.transkribus.eu/Get?id=IPURYXBKRASADBDAZISLXVLN" imageId="3080916"/>
+    </Metadata>
+    <Page imageFilename="0100_image00101.jpg" imageWidth="1533" imageHeight="1900">
+        <PrintSpace>
+            <Coords points="0,39 1533,39 1533,1900 0,1900"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1788257046560" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:0;}">
+            <Coords points="929,1819 1385,1819 1385,1849 929,1849"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="930,1820 1384,1820 1384,1848 930,1848"/>
+                <Baseline points="930,1842 1036,1842 1085,1841 1195,1842 1316,1847 1384,1844"/>
+                <Word id="w_w2aab1b7b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="930,1820 1036,1820 1036,1847 930,1847"/>
+                    <TextEquiv>
+                        <Unicode>Impreso</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="7.0" italic="true"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1055,1826 1085,1826 1085,1841 1055,1841"/>
+                    <TextEquiv>
+                        <Unicode>en</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="7.0" italic="true"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1103,1820 1195,1820 1195,1843 1103,1843"/>
+                    <TextEquiv>
+                        <Unicode>Manila</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="7.0" italic="true"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1ac37" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="1215,1821 1316,1821 1316,1848 1215,1848"/>
+                    <TextEquiv>
+                        <Unicode>Gráfica,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="7.0" italic="true"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1ac55" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="1336,1821 1384,1821 1384,1844 1336,1844"/>
+                    <TextEquiv>
+                        <Unicode>Inc.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="7.0" italic="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Impreso en Manila Gráfica, Inc.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Impreso en Manila Gráfica, Inc.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="92,39 176,39 176,44 92,44"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:2;}">
+            <Coords points="1414,1368 1520,1368 1520,1372 1414,1372"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:3;}">
+            <Coords points="462,683 767,683 767,690 462,690"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

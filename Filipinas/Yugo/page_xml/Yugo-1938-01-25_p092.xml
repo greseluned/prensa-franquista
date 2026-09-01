@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2019-04-19T13:00:53.914+02:00</Created>
+        <LastChange>2026-06-24T12:25:28.667+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: SpanishTraditionalSort
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="141948" pageId="5270925" pageNr="92" tsid="293750972" status="FINAL" userId="362915" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=FERIQJNCFDBTUSANUSHCOSBT" xmlUrl="https://files.transkribus.eu/Get?id=IKPDWEXFHKXYNOPZLLQDJAFR" imageId="3080902"/>
+    </Metadata>
+    <Page imageFilename="0092_image00093.jpg" imageWidth="1603" imageHeight="1893">
+        <PrintSpace>
+            <Coords points="0,93 1603,93 1603,1893 0,1893"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1788257045742" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="3" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="560,738 998,738 998,800 560,800"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="561,739 997,739 997,799 561,799"/>
+                <Baseline points="561,793 997,793"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="561,739 997,739 997,799 561,799"/>
+                    <TextEquiv>
+                        <Unicode>OBSEQUIO</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="17.0" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>OBSEQUIO</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="17.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>OBSEQUIO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="722,898 842,898 842,974 722,974"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="741,938 809,936 808,906 740,908"/>
+                <Baseline points="741,938 809,936"/>
+                <TextEquiv>
+                    <Unicode>DE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="1101,1890 1484,1890 1484,1893 1101,1893"/>
+        </SeparatorRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:3;}">
+            <Coords points="292,1094 1254,1094 1254,1170 292,1170"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="293,1095 1253,1095 1253,1169 293,1169"/>
+                <Baseline points="293,1167 761,1169 907,1167 1253,1169"/>
+                <Word id="w_w2aab1b3b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="293,1095 761,1095 761,1169 293,1169"/>
+                    <TextEquiv>
+                        <Unicode>ROXAS</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="23.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1ac13" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="839,1095 907,1095 907,1167 839,1167"/>
+                    <TextEquiv>
+                        <Unicode>Y</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="23.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1ac17" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="983,1097 1253,1097 1253,1169 983,1169"/>
+                    <TextEquiv>
+                        <Unicode>CIA.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Arial" fontSize="23.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ROXAS Y CIA.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="23.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ROXAS Y CIA.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:4;}">
+            <Coords points="0,1139 14,1139 14,1506 0,1506"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:5;}">
+            <Coords points="1,889 6,889 6,1139 1,1139"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:6;}">
+            <Coords points="6,97 10,97 10,286 6,286"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:7;}">
+            <Coords points="10,1506 16,1506 16,1765 10,1765"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:8;}">
+            <Coords points="1581,93 1603,93 1603,1600 1581,1600"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:9;}">
+            <Coords points="1585,1600 1594,1600 1594,1858 1585,1858"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

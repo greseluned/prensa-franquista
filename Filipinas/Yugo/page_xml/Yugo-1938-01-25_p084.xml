@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2019-04-19T13:00:51.194+02:00</Created>
+        <LastChange>2026-06-29T16:07:47.312+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="141948" pageId="5270917" pageNr="84" tsid="294300350" status="FINAL" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=UPUSQULKWDAOSDMWEGLCNNTJ" xmlUrl="https://files.transkribus.eu/Get?id=DHCOMHJDJOYAHUCLFPPCWLTF" imageId="3080889"/>
+    </Metadata>
+    <Page imageFilename="0084_image00085.jpg" imageWidth="1622" imageHeight="1910">
+        <PrintSpace>
+            <Coords points="35,376 1622,376 1622,1781 35,1781"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1788257042230" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="245,376 1330,376 1330,1516 245,1516"/>
+        </GraphicRegion>
+        <SeparatorRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="1595,456 1604,456 1604,902 1595,902"/>
+        </SeparatorRegion>
+        <TextRegion id="r" custom="readingOrder {index:2;}">
+            <Coords points="172,384 1386,384 1386,1558 172,1558"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="328,1515 1309,498 1287,477 306,1494"/>
+                <Baseline points="328,1515 1309,498"/>
+                <TextEquiv>
+                    <Unicode>UN ESPAÑOL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:3;}">
+            <Coords points="1601,902 1622,902 1622,1653 1601,1653"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:4;}">
+            <Coords points="35,1710 39,1710 39,1781 35,1781"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

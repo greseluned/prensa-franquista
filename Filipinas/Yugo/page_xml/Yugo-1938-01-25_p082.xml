@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2019-04-19T13:00:50.576+02:00</Created>
+        <LastChange>2026-06-24T11:42:53.849+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: SpanishTraditionalSort
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="141948" pageId="5270915" pageNr="82" tsid="293741434" status="FINAL" userId="362915" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=JNNMYWJLLCMOUXPSLGXXVECA" xmlUrl="https://files.transkribus.eu/Get?id=BSUEYPPROBNCNOPRZKBBTARK" imageId="3080886"/>
+    </Metadata>
+    <Page imageFilename="0082_image00083.jpg" imageWidth="1626" imageHeight="1907">
+        <PrintSpace>
+            <Coords points="11,135 1626,135 1626,1907 11,1907"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1788338582668" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_1_2"/>
+                <RegionRefIndexed index="2" regionRef="r_2_1"/>
+                <RegionRefIndexed index="3" regionRef="r_2_2"/>
+                <RegionRefIndexed index="4" regionRef="r_2_3"/>
+                <RegionRefIndexed index="5" regionRef="r_3_1"/>
+                <RegionRefIndexed index="6" regionRef="r_4_1"/>
+                <RegionRefIndexed index="7" regionRef="r_5_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="162,170 1334,170 1334,299 162,299"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="163,171 1333,171 1333,298 163,298"/>
+                <Baseline points="163,294 277,292 893,283 1041,276 1333,272"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="163,196 277,196 277,294 163,294"/>
+                    <TextEquiv>
+                        <Unicode>A.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="30.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ab7" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="331,186 893,186 893,290 331,290"/>
+                    <TextEquiv>
+                        <Unicode>SORIANO</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="30.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac23" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="955,182 1041,182 1041,276 955,276"/>
+                    <TextEquiv>
+                        <Unicode>Y</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="30.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac27" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="1099,176 1333,176 1333,277 1099,277"/>
+                    <TextEquiv>
+                        <Unicode>CIA.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="30.0" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>A. SORIANO Y CIA.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="30.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A. SORIANO Y CIA.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:1;}">
+            <Coords points="163,318 1332,318 1332,386 163,386"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="164,319 1331,319 1331,385 164,385"/>
+                <Baseline points="164,382 898,368 976,366 1331,358"/>
+                <Word id="w_w2aab1b1b2b3b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="164,330 898,330 898,382 164,382"/>
+                    <TextEquiv>
+                        <Unicode>ADMINISTRACIONES</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b1ac35" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="941,329 976,329 976,366 941,366"/>
+                    <TextEquiv>
+                        <Unicode>Y</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b3b1ac39" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1011,321 1331,321 1331,365 1011,365"/>
+                    <TextEquiv>
+                        <Unicode>SEGUROS</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ADMINISTRACIONES Y SEGUROS</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ADMINISTRACIONES Y SEGUROS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:2;}">
+            <Coords points="168,737 766,737 766,812 168,812"/>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="169,738 765,738 765,811 169,811"/>
+                <Baseline points="169,799 377,795 665,786 765,784"/>
+                <Word id="w_w2aab1b3b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="169,754 377,754 377,810 169,810"/>
+                    <TextEquiv>
+                        <Unicode>Agentes</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="14.0" bold="true" italic="true"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="409,742 665,742 665,805 409,805"/>
+                    <TextEquiv>
+                        <Unicode>Qenerales</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="14.0" bold="true" italic="true"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b1b1ac37" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="689,739 765,739 765,785 689,785"/>
+                    <TextEquiv>
+                        <Unicode>de:</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="14.0" bold="true" italic="true"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Agentes Generales de:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Agentes Qenerales de:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:3;}">
+            <Coords points="379,833 1215,833 1215,1114 379,1114"/>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="417,834 1074,834 1074,898 417,898"/>
+                <Baseline points="417,898 757,887 979,881 1074,879"/>
+                <Word id="w_w2aab1b3b2b3b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="417,842 757,842 757,898 417,898"/>
+                    <TextEquiv>
+                        <Unicode>Commonwealth</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b1ac27" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="783,841 979,841 979,886 783,886"/>
+                    <TextEquiv>
+                        <Unicode>Insurance</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b1ac47" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="1000,834 1074,834 1074,880 1000,880"/>
+                    <TextEquiv>
+                        <Unicode>Co.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Commonwealth Insurance Co.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="380,899 1153,899 1153,969 380,969"/>
+                <Baseline points="380,963 383,963 510,962 666,957 882,952 1038,955 1152,945"/>
+                <Word id="w_w2aab1b3b2b3b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="380,919 383,919 383,965 380,965"/>
+                    <TextEquiv>
+                        <Unicode>i</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b3b1b1" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="418,917 510,917 510,965 418,965"/>
+                    <TextEquiv>
+                        <Unicode>The</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b3b1b9" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="530,914 666,914 666,961 530,961"/>
+                    <TextEquiv>
+                        <Unicode>Home</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b3b1c19" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="688,911 882,911 882,956 688,956"/>
+                    <TextEquiv>
+                        <Unicode>Insurance</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b3b1c39" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="906,904 1038,904 1038,955 906,955"/>
+                    <TextEquiv>
+                        <Unicode>Assn.,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b3b1c53" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="1063,899 1152,899 1152,947 1063,947"/>
+                    <TextEquiv>
+                        <Unicode>Ltd.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>The Home Insurance Assn., Ltd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="419,964 1214,964 1214,1041 419,1041"/>
+                <Baseline points="419,1031 512,1029 727,1023 945,1017 1098,1020 1214,1011"/>
+                <Word id="w_w2aab1b3b2b3b5ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="419,985 512,985 512,1031 419,1031"/>
+                    <TextEquiv>
+                        <Unicode>The</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b5ab9" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="532,982 727,982 727,1037 532,1037"/>
+                    <TextEquiv>
+                        <Unicode>Yangtsze</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b5ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="749,977 945,977 945,1023 749,1023"/>
+                    <TextEquiv>
+                        <Unicode>Insurance</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b5ac47" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="965,971 1098,971 1098,1020 965,1020"/>
+                    <TextEquiv>
+                        <Unicode>Assn.,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b5ac61" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="1125,965 1214,965 1214,1012 1125,1012"/>
+                    <TextEquiv>
+                        <Unicode>Ltd.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>The Yangtsze Insurance Assn., Ltd.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="425,1040 1007,1040 1007,1113 425,1113"/>
+                <Baseline points="425,1103 591,1098 696,1095 914,1089 1007,1086"/>
+                <Word id="w_w2aab1b3b2b3b7ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="425,1056 591,1056 591,1112 425,1112"/>
+                    <TextEquiv>
+                        <Unicode>Niagara</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b7ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="610,1049 696,1049 696,1097 610,1097"/>
+                    <TextEquiv>
+                        <Unicode>Pire</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b7ac27" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="718,1047 914,1047 914,1094 718,1094"/>
+                    <TextEquiv>
+                        <Unicode>Insurance</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b3b7ac47" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="934,1041 1007,1041 1007,1087 934,1087"/>
+                    <TextEquiv>
+                        <Unicode>Co.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Niagara Fire Insurance Co.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Commonwealth Insurance Co.i The Home Insurance Assn., Ltd.The Yangtsze Insurance Assn., Ltd.Niagara Pire Insurance Co.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:4;}">
+            <Coords points="424,1101 1212,1101 1212,1171 424,1171"/>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="425,1102 1211,1102 1211,1170 425,1170"/>
+                <Baseline points="425,1170 518,1168 794,1159 901,1156 1118,1150 1211,1148"/>
+                <Word id="w_w2aab1b3b2b5b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="425,1123 518,1123 518,1170 425,1170"/>
+                    <TextEquiv>
+                        <Unicode>The</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b5b1ab9" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="538,1118 794,1118 794,1166 538,1166"/>
+                    <TextEquiv>
+                        <Unicode>Connecticut</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b5b1ac33" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="812,1111 901,1111 901,1159 812,1159"/>
+                    <TextEquiv>
+                        <Unicode>Fire</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b5b1ac43" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="923,1109 1118,1109 1118,1155 923,1155"/>
+                    <TextEquiv>
+                        <Unicode>Insurance</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <Word id="w_w2aab1b3b2b5b1ac63" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="1138,1103 1211,1103 1211,1149 1138,1149"/>
+                    <TextEquiv>
+                        <Unicode>Co.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>The Connecticut Fire Insurance Co.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>The Connecticut Fire Insurance Co.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:5;}">
+            <Coords points="598,1526 938,1526 938,1577 598,1577"/>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="599,1527 937,1527 937,1576 599,1576"/>
+                <Baseline points="599,1575 714,1573 791,1565 936,1558"/>
+                <Word id="w_w2aab1b5b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="599,1537 714,1537 714,1575 599,1575"/>
+                    <TextEquiv>
+                        <Unicode>Manila,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1ac17" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="728,1533 791,1533 791,1569 728,1569"/>
+                    <TextEquiv>
+                        <Unicode>Islas</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+                </Word>
+                <Word id="w_w2aab1b5b2b1b1ac29" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="804,1529 936,1529 936,1569 804,1569"/>
+                    <TextEquiv>
+                        <Unicode>Filipinas.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Manila, Islas Filipinas.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Manila, Islas Filipinas.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:6;}">
+            <Coords points="186,1650 458,1650 458,1768 186,1768"/>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="187,1651 457,1651 457,1698 187,1698"/>
+                <Baseline points="187,1689 219,1689 280,1688 326,1687 457,1691"/>
+                <Word id="w_w2aab1b7b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="187,1656 219,1656 219,1689 187,1689"/>
+                    <TextEquiv>
+                        <Unicode>P.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1ab7" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="240,1655 280,1655 280,1689 240,1689"/>
+                    <TextEquiv>
+                        <Unicode>O.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1ac13" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="303,1655 362,1655 362,1694 303,1694"/>
+                    <TextEquiv>
+                        <Unicode>Box</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b1b1b1" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="383,1665 457,1665 457,1694 383,1694"/>
+                    <TextEquiv>
+                        <Unicode>Z22Z</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>P. O. Box 3223</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="188,1719 451,1719 451,1767 188,1767"/>
+                <Baseline points="188,1758 215,1758 426,1754 451,1753"/>
+                <Word id="w_w2aab1b7b2b1b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="188,1724 248,1724 248,1758 188,1758"/>
+                    <TextEquiv>
+                        <Unicode>Tel.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b3b1b1" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="282,1728 426,1728 426,1764 282,1764"/>
+                    <TextEquiv>
+                        <Unicode>2-50-8</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
+                </Word>
+                <Word id="w_w2aab1b7b2b1b3b1c15" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="443,1736 451,1736 451,1753 443,1753"/>
+                    <TextEquiv>
+                        <Unicode>&gt;</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Tel. 2-30-8 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P. O. Box Z22ZTel. 2-50-8 &gt;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:7;}">
+            <Coords points="1105,1609 1356,1609 1356,1719 1105,1719"/>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1109,1610 1352,1610 1352,1651 1109,1651"/>
+                <Baseline points="1109,1651 1222,1647 1352,1642"/>
+                <Word id="w_w2aab1b9b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1109,1614 1222,1614 1222,1651 1109,1651"/>
+                    <TextEquiv>
+                        <Unicode>Edificio</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+                </Word>
+                <Word id="w_w2aab1b9b2b1b1ac19" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1242,1612 1352,1612 1352,1646 1242,1646"/>
+                    <TextEquiv>
+                        <Unicode>Soriano</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Edificio Soriano</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="1106,1677 1355,1677 1355,1718 1106,1718"/>
+                <Baseline points="1106,1718 1187,1714 1355,1708"/>
+                <Word id="w_w2aab1b9b2b1b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="1106,1683 1187,1683 1187,1718 1106,1718"/>
+                    <TextEquiv>
+                        <Unicode>Plaza</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+                </Word>
+                <Word id="w_w2aab1b9b2b1b3ac13" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="1207,1680 1355,1680 1355,1713 1207,1713"/>
+                    <TextEquiv>
+                        <Unicode>Cervantes</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Plaza Cervantes</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Edificio SorianoPlaza Cervantes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:8;}">
+            <Coords points="11,1310 41,1310 41,1907 11,1907"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:9;}">
+            <Coords points="377,859 404,859 404,1183 377,1183"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:10;}">
+            <Coords points="1574,1546 1581,1546 1581,1670 1574,1670"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:11;}">
+            <Coords points="1604,1229 1624,1229 1624,1867 1604,1867"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:12;}">
+            <Coords points="1593,135 1604,135 1604,927 1593,927"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:13;}">
+            <Coords points="1606,358 1626,358 1626,670 1606,670"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:14;}">
+            <Coords points="1615,670 1626,670 1626,967 1615,967"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

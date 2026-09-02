@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2019-04-19T13:00:42.334+02:00</Created>
+        <LastChange>2026-06-23T11:56:37.649+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: SpanishTraditionalSort
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="141948" pageId="5270898" pageNr="65" tsid="293584157" status="FINAL" userId="362915" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=WPDSBFBFUTFGYONIGWIKKPMQ" xmlUrl="https://files.transkribus.eu/Get?id=FJPAHRPXDGCLNGALPEOMZVSL" imageId="3080856"/>
+    </Metadata>
+    <Page imageFilename="0065_image00066.jpg" imageWidth="1618" imageHeight="1892">
+        <PrintSpace>
+            <Coords points="16,208 1448,208 1448,1709 16,1709"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1788338577831" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="382,1597 1340,1597 1340,1704 382,1704"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="383,1598 1318,1598 1318,1633 383,1633"/>
+                <Baseline points="383,1611 580,1629 766,1629 952,1627 1132,1628 1318,1630"/>
+                <Word id="w_w2aab1b1b2b1b1ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="383,1598 580,1598 580,1633 383,1633"/>
+                    <TextEquiv>
+                        <Unicode>"¡FRANCO,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac21" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="599,1598 766,1598 766,1629 599,1629"/>
+                    <TextEquiv>
+                        <Unicode>FRANCO,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac37" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="785,1599 952,1599 952,1627 785,1627"/>
+                    <TextEquiv>
+                        <Unicode>FRANCO!</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac53" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="986,1600 1132,1600 1132,1633 986,1633"/>
+                    <TextEquiv>
+                        <Unicode>¡ARRIBA</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b1ac69" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="1151,1602 1318,1602 1318,1630 1151,1630"/>
+                    <TextEquiv>
+                        <Unicode>ESPAÑA!.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>"¡FRANCO, FRANCO, FRANCO! ¡ARRIBA ESPAÑA!.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="390,1666 1339,1666 1339,1703 390,1703"/>
+                <Baseline points="390,1703 500,1695 683,1694 893,1697 1003,1697 1189,1698 1339,1682"/>
+                <Word id="w_w2aab1b1b2b1b3ab1" language="English" custom="readingOrder {index:0;}">
+                    <Coords points="390,1667 500,1667 500,1703 390,1703"/>
+                    <TextEquiv>
+                        <Unicode>¡VIVA</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b3ac13" language="English" custom="readingOrder {index:1;}">
+                    <Coords points="514,1666 683,1666 683,1694 514,1694"/>
+                    <TextEquiv>
+                        <Unicode>ESPAÑA!.</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b3ac31" language="English" custom="readingOrder {index:2;}">
+                    <Coords points="727,1666 893,1666 893,1700 727,1700"/>
+                    <TextEquiv>
+                        <Unicode>¡ESPAÑA,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b3ac49" language="English" custom="readingOrder {index:3;}">
+                    <Coords points="911,1667 1003,1667 1003,1697 911,1697"/>
+                    <TextEquiv>
+                        <Unicode>UNA,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b3ac59" language="English" custom="readingOrder {index:4;}">
+                    <Coords points="1022,1668 1189,1668 1189,1698 1022,1698"/>
+                    <TextEquiv>
+                        <Unicode>GRANDE,</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <Word id="w_w2aab1b1b2b1b3ac75" language="English" custom="readingOrder {index:5;}">
+                    <Coords points="1206,1669 1339,1669 1339,1697 1206,1697"/>
+                    <TextEquiv>
+                        <Unicode>UBRE!"</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>¡VIVA ESPAÑA!. ¡ESPAÑA, UNA, GRANDE, LIBRE!"</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>"¡FRANCO, FRANCO, FRANCO! ¡ARRIBA ESPAÑA!.¡VIVA ESPAÑA!. ¡ESPAÑA, UNA, GRANDE, UBRE!"</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="272,1547 1448,1547 1448,1554 272,1554"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="16,208 23,208 23,460 16,460"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="23,514 30,514 30,805 23,805"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="714,1552 751,1552 751,1553 714,1553"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="24,701 30,701 30,774 24,774"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

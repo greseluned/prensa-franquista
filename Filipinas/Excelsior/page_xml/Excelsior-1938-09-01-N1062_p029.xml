@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:16:07.324314+00:00</Created>
+    <LastChange>2026-09-11T08:16:07.324314+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-09-01-N1062_p029" imageWidth="1055" imageHeight="1501">
+    <TextRegion id="r003">
+      <Coords points="927,191 789,189 789,313 920,315 927,191"/>
+      <TextLine id="r003-l001" index="0" custom="heights_v2:[96.1,27.7]">
+        <Coords points="789,189 789,313 824,313 855,313 884,313 920,315 927,191 789,189"/>
+        <Baseline points="789,285 824,285 855,285 886,285 921,287"/>
+        <TextEquiv conf="0.402">
+          <Unicode>miere</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="304,1137 299,1171 330,1175 335,1141 304,1137"/>
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[25.8,8.7]">
+        <Coords points="299,1171 330,1175 335,1141 304,1137 299,1171"/>
+        <Baseline points="300,1162 331,1166"/>
+        <TextEquiv conf="0.756">
+          <Unicode>2h</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="767,1121 686,1145 698,1189 780,1164 767,1121"/>
+      <TextLine id="r002-l003" index="0" custom="heights_v2:[36.0,9.3]">
+        <Coords points="698,1189 780,1164 767,1121 725,1134 686,1145 698,1189"/>
+        <Baseline points="696,1180 736,1169 778,1155"/>
+        <TextEquiv conf="0.937">
+          <Unicode>alta</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="341,1190 325,1213 325,1250 914,1255 916,1217 716,1215 676,1162 562,1180 493,1179 347,1153 341,1190"/>
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[29.1,8.7]">
+        <Coords points="493,1179 459,1175 425,1169 397,1162 347,1153 341,1190 380,1197 418,1206 454,1213 493,1217 528,1217 567,1217 602,1213 640,1206 682,1199 676,1162 634,1169 596,1175 562,1180 493,1179"/>
+        <Baseline points="342,1182 382,1189 420,1197 455,1204 493,1208 528,1208 566,1208 601,1204 638,1197 680,1191"/>
+        <TextEquiv conf="0.968">
+          <Unicode>Como perfume de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="1" custom="heights_v2:[28.8,8.7]">
+        <Coords points="325,1250 396,1250 459,1248 512,1252 699,1253 716,1253 780,1253 844,1253 914,1255 916,1217 716,1215 651,1217 589,1215 524,1215 462,1211 394,1213 325,1213 325,1250"/>
+        <Baseline points="325,1242 395,1242 460,1239 524,1244 588,1244 652,1246 716,1244 780,1244 844,1244 915,1246"/>
+        <TextEquiv conf="0.406">
+          <Unicode>COMPñIH InCORPORHDH</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

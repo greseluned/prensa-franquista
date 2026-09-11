@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:09:34.117887+00:00</Created>
+    <LastChange>2026-09-11T08:09:34.117887+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-05-01-N1058_p043" imageWidth="1055" imageHeight="1507">
+    <TextRegion id="r000">
+      <Coords points="97,241 78,318 78,361 218,363 211,200 97,198 97,241"/>
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[31.9,11.2]">
+        <Coords points="97,198 97,241 113,241 129,243 146,243 161,243 177,243 192,243 211,243 211,200 192,200 177,200 161,200 146,200 129,200 119,199 97,198"/>
+        <Baseline points="97,230 114,230 129,232 146,232 161,232 177,232 192,232 211,232"/>
+        <TextEquiv conf="0.952">
+          <Unicode>Galeria</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l002" index="1" custom="heights_v2:[28.2,10.7]">
+        <Coords points="121,301 142,301 161,301 183,301 183,262 161,262 142,262 121,262 121,301"/>
+        <Baseline points="121,290 142,290 161,290 183,290"/>
+        <TextEquiv conf="0.999">
+          <Unicode>de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l003" index="2" custom="heights_v2:[31.2,11.8]">
+        <Coords points="78,361 94,360 100,361 218,363 216,320 200,320 185,320 170,320 155,320 143,319 125,319 110,319 98,318 78,318 78,361"/>
+        <Baseline points="78,349 95,349 110,350 125,350 140,350 155,351 170,351 185,351 200,351 217,351"/>
+        <TextEquiv conf="0.990">
+          <Unicode>Excelsior</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="382,751 379,787 498,795 501,759 382,751"/>
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[27.3,9.5]">
+        <Coords points="379,787 478,794 479,794 498,795 501,759 481,757 463,757 449,756 433,755 416,753 400,752 382,751 379,787"/>
+        <Baseline points="380,778 398,779 414,781 430,782 447,783 463,785 480,785 499,786"/>
+        <TextEquiv conf="0.739">
+          <Unicode>A</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="484,1260 482,1322 824,1324 872,1304 924,1304 923,1239 506,1239 484,1260"/>
+      <TextLine id="r003-l005" index="0" custom="heights_v2:[15.7,5.9]">
+        <Coords points="923,1239 874,1240 828,1240 783,1240 737,1240 691,1240 646,1240 599,1240 553,1240 506,1239 505,1261 553,1262 599,1262 646,1262 691,1262 737,1262 783,1262 828,1262 875,1262 923,1261 923,1239"/>
+        <Baseline points="505,1255 553,1256 599,1256 646,1256 691,1256 737,1256 783,1256 828,1256 875,1256 923,1255"/>
+        <TextEquiv conf="0.991">
+          <Unicode>En la Srta. Lily Pardo de Tavera, cuya fo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l006" index="1" custom="heights_v2:[15.4,5.8]">
+        <Coords points="923,1261 872,1261 824,1261 775,1261 727,1261 678,1261 631,1261 582,1261 534,1260 484,1260 484,1281 534,1281 582,1282 631,1282 678,1282 727,1282 775,1282 824,1282 872,1282 923,1282 923,1261"/>
+        <Baseline points="484,1275 534,1275 582,1276 631,1276 678,1276 727,1276 775,1276 824,1276 872,1276 923,1276"/>
+        <TextEquiv conf="0.985">
+          <Unicode>tografía engalana esta Galería de EXCEL-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="2" custom="heights_v2:[15.3,5.3]">
+        <Coords points="483,1302 532,1302 582,1304 629,1304 678,1304 726,1304 775,1304 823,1304 872,1304 924,1304 923,1283 872,1283 823,1283 775,1283 726,1283 678,1283 629,1283 582,1283 533,1282 483,1282 483,1302"/>
+        <Baseline points="483,1297 533,1297 582,1298 629,1298 678,1298 726,1298 775,1298 823,1298 872,1298 924,1298"/>
+        <TextEquiv conf="0.696">
+          <Unicode>SIOR, se aunan una delicada hermosura y la</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l008" index="3" custom="heights_v2:[14.9,5.0]">
+        <Coords points="482,1322 522,1322 558,1322 568,1323 824,1324 824,1304 783,1304 747,1304 708,1304 672,1304 633,1304 597,1304 559,1302 522,1302 483,1302 482,1322"/>
+        <Baseline points="482,1317 522,1317 559,1317 597,1319 633,1319 672,1319 708,1319 747,1319 783,1319 824,1319"/>
+        <TextEquiv conf="0.978">
+          <Unicode>encantadora simpatía de su trato.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="478,1431 423,1435 426,1467 480,1463 478,1431"/>
+      <TextLine id="r002-l009" index="0" custom="heights_v2:[24.3,8.1]">
+        <Coords points="423,1435 426,1467 453,1464 480,1463 478,1431 423,1435"/>
+        <Baseline points="425,1459 452,1456 480,1455"/>
+        <TextEquiv conf="0.347">
+          <Unicode>170.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

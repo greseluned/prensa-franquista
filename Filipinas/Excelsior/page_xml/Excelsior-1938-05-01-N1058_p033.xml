@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:09:12.168267+00:00</Created>
+    <LastChange>2026-09-11T08:09:12.168267+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-05-01-N1058_p033" imageWidth="1055" imageHeight="1507">
+    <TextRegion id="r001">
+      <Coords points="209,279 40,313 67,458 643,345 818,323 801,176 718,96 316,176 209,279"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[92.0,26.4]">
+        <Coords points="508,138 467,149 407,158 316,176 339,292 423,275 499,263 575,241 650,230 740,213 718,96 508,138"/>
+        <Baseline points="334,266 419,249 492,238 571,215 645,204 735,187"/>
+        <TextEquiv conf="0.272">
+          <Unicode>DIgA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l002" index="1" custom="heights_v2:[119.0,28.6]">
+        <Coords points="67,458 202,432 238,424 323,407 400,390 447,384 643,345 722,334 818,323 801,176 705,187 622,199 535,217 452,234 379,244 292,263 209,279 128,297 40,313 67,458"/>
+        <Baseline points="62,430 153,413 232,396 317,379 396,362 475,351 560,334 639,317 718,305 815,294"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="91,1224 -53,1250 13,1560 168,1531 302,1492 387,1481 345,1168 261,1179 91,1224"/>
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[254.3,61.8]">
+        <Coords points="-53,1250 13,1560 89,1543 168,1531 302,1492 387,1481 345,1168 261,1179 146,1211 91,1224 -53,1250"/>
+        <Baseline points="0,1499 79,1482 153,1471 221,1454 294,1431 379,1420"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:12:00.390764+00:00</Created>
+    <LastChange>2026-09-11T08:12:00.390764+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-06-01-N1059_p034" imageWidth="1055" imageHeight="1506">
+    <TextRegion id="r001">
+      <Coords points="351,155 140,178 144,206 177,234 182,291 325,278 323,250 355,184 351,155"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[22.0,6.9]">
+        <Coords points="140,178 144,206 173,202 198,199 222,197 249,195 274,193 298,191 323,188 355,184 351,155 319,160 296,162 271,164 248,166 140,178"/>
+        <Baseline points="143,199 172,195 197,193 222,190 249,188 273,186 298,184 322,181 354,177"/>
+        <TextEquiv conf="0.951">
+          <Unicode>COMUNIQUESE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l002" index="1" custom="heights_v2:[16.3,5.4]">
+        <Coords points="213,231 244,227 276,225 314,223 313,201 274,203 243,205 210,210 176,212 177,234 213,231"/>
+        <Baseline points="177,228 213,226 244,222 275,219 313,217"/>
+        <TextEquiv conf="0.999">
+          <Unicode>con el mundo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l003" index="2" custom="heights_v2:[16.2,5.8]">
+        <Coords points="229,250 269,248 268,226 228,228 229,250"/>
+        <Baseline points="228,244 269,242"/>
+        <TextEquiv conf="0.983">
+          <Unicode>por</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l004" index="3" custom="heights_v2:[21.3,7.0]">
+        <Coords points="284,282 294,280 325,278 323,250 292,252 263,257 238,259 211,261 180,263 182,291 284,282"/>
+        <Baseline points="181,284 213,282 240,280 266,278 293,273 325,271"/>
+        <TextEquiv conf="0.997">
+          <Unicode>TELEFONO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="272,294 238,296 240,322 274,320 272,294"/>
+      <TextLine id="r003-l005" index="0" custom="heights_v2:[19.4,6.7]">
+        <Coords points="238,296 240,322 274,320 272,294 238,296"/>
+        <Baseline points="240,316 273,313"/>
+        <TextEquiv conf="1.000">
+          <Unicode>de</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="375,319 146,341 148,369 377,347 375,319"/>
+      <TextLine id="r002-l006" index="0" custom="heights_v2:[21.6,6.6]">
+        <Coords points="325,324 312,326 287,328 261,330 222,334 202,337 177,339 146,341 148,369 225,362 233,360 262,358 328,352 343,349 377,347 375,319 325,324"/>
+        <Baseline points="148,363 179,361 206,358 233,354 262,352 289,349 316,347 343,343 376,340"/>
+        <TextEquiv conf="0.994">
+          <Unicode>LARGA DISTANCIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="142,380 129,401 135,487 211,480 254,460 403,444 395,355 142,380"/>
+      <TextLine id="r000-l007" index="0" custom="heights_v2:[14.1,4.9]">
+        <Coords points="346,360 334,362 308,364 280,369 254,371 227,373 200,376 173,378 142,380 144,399 175,397 202,395 229,392 256,390 283,388 309,383 337,381 363,377 397,374 395,355 346,360"/>
+        <Baseline points="143,394 175,392 202,390 228,387 255,385 282,383 309,378 336,376 363,372 396,369"/>
+        <TextEquiv conf="0.966">
+          <Unicode>Consulte las primeras pági-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="1" custom="heights_v2:[13.8,4.8]">
+        <Coords points="397,374 397,372 363,376 335,378 305,383 277,385 246,389 218,392 188,396 160,398 129,401 130,419 162,417 191,415 220,410 249,408 278,403 308,401 336,397 366,394 399,390 397,374"/>
+        <Baseline points="130,414 161,412 190,410 219,405 249,403 278,399 307,396 336,392 365,390 398,385"/>
+        <TextEquiv conf="0.999">
+          <Unicode>nas del directorio de teléfonos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l009" index="2" custom="heights_v2:[13.7,4.9]">
+        <Coords points="398,390 366,392 336,396 307,401 279,403 249,407 221,410 192,412 162,414 131,416 132,435 164,433 193,430 222,428 252,426 280,421 310,419 339,415 368,410 400,408 398,390"/>
+        <Baseline points="132,430 163,428 193,425 222,423 251,421 280,417 309,414 338,410 367,405 400,403"/>
+        <TextEquiv conf="1.000">
+          <Unicode>por los sitios conectados por</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l010" index="3" custom="heights_v2:[13.9,5.1]">
+        <Coords points="131,436 132,453 164,451 193,448 222,444 251,442 281,439 309,435 339,433 368,428 401,426 400,407 366,409 336,414 308,416 278,421 250,423 221,425 190,430 162,432 131,434 131,436"/>
+        <Baseline points="132,448 163,446 193,443 222,439 251,437 280,434 309,430 338,428 367,423 401,421"/>
+        <TextEquiv conf="0.979">
+          <Unicode>teléfono de larga distancia ó lla-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l011" index="4" custom="heights_v2:[14.6,5.1]">
+        <Coords points="132,451 135,471 166,466 195,464 224,462 254,460 283,455 312,453 341,448 370,446 403,444 402,424 369,427 339,429 309,433 281,436 251,440 223,442 194,445 165,447 132,451 132,451"/>
+        <Baseline points="134,466 166,461 195,459 224,457 253,455 282,450 311,448 340,443 369,441 403,439"/>
+        <TextEquiv conf="0.920">
+          <Unicode>me “09" y pregunte sobre el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l012" index="5" custom="heights_v2:[14.5,5.2]">
+        <Coords points="211,480 209,460 171,465 134,467 135,487 211,480"/>
+        <Baseline points="134,481 172,479 210,475"/>
+        <TextEquiv conf="1.000">
+          <Unicode>servicio.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="444,657 443,678 481,692 542,694 661,694 694,682 695,662 444,657"/>
+      <TextLine id="r006-l013" index="0" custom="heights_v2:[14.7,5.8]">
+        <Coords points="443,678 475,680 501,678 528,680 555,680 582,680 609,680 636,680 662,680 694,682 695,662 568,659 555,659 528,659 518,658 492,658 474,659 444,657 443,678"/>
+        <Baseline points="443,672 475,674 502,672 528,674 555,674 582,674 609,674 636,674 663,674 694,676"/>
+        <TextEquiv conf="0.983">
+          <Unicode>EL MUNDO A SU ALCANCE EN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l014" index="1" custom="heights_v2:[12.5,4.7]">
+        <Coords points="571,694 598,694 627,694 661,694 661,677 627,677 598,677 571,677 542,677 514,675 481,675 481,692 512,692 542,694 571,694"/>
+        <Baseline points="481,687 513,687 542,690 571,690 598,690 627,690 661,690"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ALGUNOS SEGUNDOS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="509,775 522,839 576,869 614,867 663,914 716,915 790,864 900,862 896,756 685,754 509,775"/>
+      <TextLine id="r007-l015" index="0" custom="heights_v2:[52.1,13.4]">
+        <Coords points="522,839 566,831 606,826 646,822 685,819 727,819 768,822 808,822 849,822 896,822 896,756 849,756 808,756 768,756 739,755 685,754 509,775 522,839"/>
+        <Baseline points="520,826 564,817 605,813 645,808 685,806 728,806 768,808 808,808 849,808 896,808"/>
+        <TextEquiv conf="0.148">
+          <Unicode>eaínřko</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l016" index="1" custom="heights_v2:[33.5,9.0]">
+        <Coords points="614,867 649,864 685,864 718,864 755,867 790,864 841,863 860,862 900,862 898,820 860,820 822,822 790,822 753,824 721,822 685,822 649,822 611,824 574,826 576,869 614,867"/>
+        <Baseline points="575,860 614,858 649,855 685,855 719,855 755,858 790,855 824,855 860,853 900,853"/>
+        <TextEquiv conf="0.345">
+          <Unicode>pavalsnanug</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l017" index="2" custom="heights_v2:[34.7,11.7]">
+        <Coords points="714,915 714,870 665,870 665,914 714,915"/>
+        <Baseline points="665,905 714,905"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="628,956 736,956 738,917 625,917 628,956"/>
+      <TextLine id="r008-l018" index="0" custom="heights_v2:[28.5,11.3]">
+        <Coords points="738,917 625,917 628,956 665,954 698,954 736,956 738,917"/>
+        <Baseline points="627,945 665,943 699,943 737,945"/>
+        <TextEquiv conf="0.287">
+          <Unicode>B1)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r009">
+      <Coords points="876,1141 717,1141 717,1172 876,1172 876,1141"/>
+      <TextLine id="r009-l019" index="0" custom="heights_v2:[23.0,8.1]">
+        <Coords points="840,1141 811,1141 782,1141 752,1141 717,1141 717,1172 752,1172 782,1172 811,1172 840,1172 876,1172 876,1141 840,1141"/>
+        <Baseline points="717,1164 752,1164 782,1164 811,1164 840,1164 876,1164"/>
+        <TextEquiv conf="0.662">
+          <Unicode>RE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="939,1240 378,1244 381,1297 941,1292 939,1240"/>
+      <TextLine id="r004-l020" index="0" custom="heights_v2:[41.2,11.2]">
+        <Coords points="777,1241 751,1242 688,1244 636,1242 378,1244 381,1297 446,1292 506,1292 568,1292 629,1294 634,1295 778,1293 812,1292 835,1293 941,1292 939,1240 872,1242 836,1241 777,1241"/>
+        <Baseline points="381,1285 446,1281 506,1281 569,1281 629,1283 690,1285 752,1283 813,1281 873,1283 940,1281"/>
+        <TextEquiv conf="0.262">
+          <Unicode>NINNINENDNNE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="558,1293 417,1296 419,1327 558,1325 558,1293"/>
+      <TextLine id="r005-l022" index="0" custom="heights_v2:[23.3,8.5]">
+        <Coords points="417,1296 419,1327 455,1325 490,1325 522,1325 558,1325 558,1293 417,1296"/>
+        <Baseline points="419,1319 455,1317 490,1317 522,1317 558,1317"/>
+        <TextEquiv conf="0.451">
+          <Unicode>1eo</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r010">
+      <Coords points="832,1293 830,1324 868,1326 870,1296 832,1293"/>
+      <TextLine id="r010-l021" index="0" custom="heights_v2:[23.3,7.1]">
+        <Coords points="830,1324 868,1326 870,1296 832,1293 830,1324"/>
+        <Baseline points="831,1317 869,1319"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

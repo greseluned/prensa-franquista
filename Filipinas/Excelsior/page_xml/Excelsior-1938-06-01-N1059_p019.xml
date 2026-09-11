@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:11:21.118453+00:00</Created>
+    <LastChange>2026-09-11T08:11:21.118453+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-06-01-N1059_p019" imageWidth="1055" imageHeight="1506">
+    <TextRegion id="r004">
+      <Coords points="912,219 863,219 863,316 912,316 912,219"/>
+      <TextLine id="r004-l001" index="0" custom="heights_v2:[71.8,24.6]">
+        <Coords points="863,219 863,316 912,316 912,219 863,219"/>
+        <Baseline points="863,291 912,291"/>
+        <TextEquiv conf="0.375">
+          <Unicode>K</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="229,1136 281,1161 318,1216 318,1252 556,1254 629,1213 682,1205 676,1166 574,1181 481,1180 389,1163 246,1101 229,1136"/>
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[29.1,10.0]">
+        <Coords points="281,1161 331,1184 381,1201 431,1211 479,1219 529,1221 579,1219 629,1213 682,1205 676,1166 623,1175 574,1181 528,1182 481,1180 437,1173 389,1163 343,1147 297,1126 246,1101 229,1136 281,1161"/>
+        <Baseline points="234,1127 285,1152 334,1175 383,1191 433,1201 480,1209 529,1211 578,1209 627,1203 681,1195"/>
+        <TextEquiv conf="0.367">
+          <Unicode>Aion como perfume &amp;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="1" custom="heights_v2:[26.5,9.8]">
+        <Coords points="318,1252 346,1252 371,1252 398,1252 422,1252 449,1252 473,1252 493,1254 556,1254 556,1218 525,1218 500,1218 476,1216 449,1216 422,1216 398,1216 371,1216 346,1216 318,1216 318,1252"/>
+        <Baseline points="318,1242 346,1242 371,1242 398,1242 422,1242 449,1242 474,1242 500,1244 525,1244 556,1244"/>
+        <TextEquiv conf="0.274">
+          <Unicode>COmpſñI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="615,1257 914,1255 914,1220 613,1222 615,1257"/>
+      <TextLine id="r002-l005" index="0" custom="heights_v2:[26.7,8.3]">
+        <Coords points="914,1220 613,1222 615,1257 650,1255 683,1255 715,1253 748,1253 779,1253 812,1253 844,1253 877,1255 914,1255 914,1220"/>
+        <Baseline points="615,1248 650,1246 683,1246 715,1244 748,1244 779,1244 812,1244 845,1244 877,1246 914,1246"/>
+        <TextEquiv conf="0.413">
+          <Unicode>nCORPORHDH</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="767,1127 687,1153 700,1197 782,1170 767,1127"/>
+      <TextLine id="r003-l003" index="0" custom="heights_v2:[35.1,10.4]">
+        <Coords points="700,1197 782,1170 767,1127 726,1141 687,1153 700,1197"/>
+        <Baseline points="697,1187 738,1175 779,1160"/>
+        <TextEquiv conf="0.987">
+          <Unicode>alta</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="498,1413 469,1413 469,1440 498,1440 498,1413"/>
+      <TextLine id="r001-l006" index="0" custom="heights_v2:[20.0,7.0]">
+        <Coords points="469,1413 469,1440 498,1440 498,1413 469,1413"/>
+        <Baseline points="469,1433 498,1433"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

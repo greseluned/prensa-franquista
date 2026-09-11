@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:09:09.851786+00:00</Created>
+    <LastChange>2026-09-11T08:09:09.851786+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-05-01-N1058_p031" imageWidth="1055" imageHeight="1507">
+    <TextRegion id="r000">
+      <Coords points="90,1326 90,1379 793,1382 885,1362 987,1362 988,1326 885,1326 772,1232 682,1231 622,1217 410,1216 291,1326 90,1326"/>
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[87.0,18.6]">
+        <Coords points="410,1216 410,1321 434,1321 458,1323 481,1323 504,1323 528,1323 551,1323 574,1323 597,1323 622,1323 622,1217 597,1217 574,1217 551,1217 528,1217 504,1217 481,1217 458,1217 440,1216 410,1216"/>
+        <Baseline points="410,1303 435,1303 458,1304 481,1304 504,1304 528,1304 551,1304 574,1304 597,1304 622,1304"/>
+        <TextEquiv conf="0.570">
+          <Unicode>VE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l002" index="1" custom="heights_v2:[73.1,16.5]">
+        <Coords points="682,1231 666,1231 652,1231 635,1231 635,1320 652,1320 666,1320 682,1320 696,1320 709,1320 726,1322 740,1322 754,1322 772,1322 772,1232 754,1232 740,1232 726,1232 718,1231 682,1231"/>
+        <Baseline points="635,1304 652,1304 666,1304 682,1304 696,1304 710,1304 726,1305 740,1305 754,1305 772,1305"/>
+        <TextEquiv conf="0.335">
+          <Unicode>A</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="2" custom="heights_v2:[13.8,4.9]">
+        <Coords points="90,1345 192,1345 291,1345 390,1344 489,1345 588,1345 687,1346 786,1345 885,1345 987,1345 988,1326 885,1326 786,1326 687,1328 588,1326 489,1326 390,1325 291,1326 90,1326 90,1345"/>
+        <Baseline points="90,1340 192,1340 291,1340 390,1339 489,1340 588,1340 687,1341 786,1340 885,1340 987,1340"/>
+        <TextEquiv conf="0.997">
+          <Unicode>LA REINA DEL CARNAVAL DE ILOILO.—La bella Srta. Lilia Caram, que reinó como S. M. Lilia I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="3" custom="heights_v2:[12.7,4.4]">
+        <Coords points="90,1360 192,1361 291,1362 390,1361 489,1362 588,1362 687,1363 786,1363 885,1362 987,1362 987,1345 885,1345 786,1346 687,1346 588,1345 489,1345 390,1344 291,1345 192,1344 90,1343 90,1356 90,1360"/>
+        <Baseline points="90,1356 192,1357 291,1358 390,1357 489,1358 588,1358 687,1359 786,1359 885,1358 987,1358"/>
+        <TextEquiv conf="0.914">
+          <Unicode>en las fiestas carnavalinas de la cindad de Iloilo, fotografiada con su Rey consorte y corte de honor, mo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="4" custom="heights_v2:[12.5,4.4]">
+        <Coords points="90,1379 170,1379 208,1379 325,1380 325,1380 402,1380 480,1380 556,1381 559,1381 636,1381 712,1380 793,1382 793,1365 713,1363 635,1364 557,1364 480,1363 402,1363 325,1363 247,1363 170,1362 90,1362 90,1379"/>
+        <Baseline points="90,1374 170,1374 247,1376 325,1376 402,1376 480,1376 557,1377 635,1377 713,1376 793,1378"/>
+        <TextEquiv conf="0.923">
+          <Unicode>mentos después de ser coronada por la Concejala de Manila, Srta. Carmen Planas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="253,1230 185,1230 185,1318 253,1318 253,1230"/>
+      <TextLine id="r001-l003" index="0" custom="heights_v2:[74.9,12.7]">
+        <Coords points="235,1230 219,1230 203,1230 185,1230 185,1318 203,1318 219,1318 235,1318 253,1318 253,1230 235,1230"/>
+        <Baseline points="185,1305 203,1305 219,1305 235,1305 253,1305"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

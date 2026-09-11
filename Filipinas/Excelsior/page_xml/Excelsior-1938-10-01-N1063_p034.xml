@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:19:03.486934+00:00</Created>
+    <LastChange>2026-09-11T08:19:03.486934+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-10-01-N1063_p034" imageWidth="1047" imageHeight="1496">
+    <TextRegion id="r000">
+      <Coords points="64,256 43,337 43,377 217,377 205,213 64,214 64,256"/>
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[31.8,10.5]">
+        <Coords points="150,213 138,214 126,214 112,214 96,214 81,214 64,214 64,256 81,256 96,256 112,256 126,256 142,256 157,255 171,255 186,255 205,255 205,213 150,213"/>
+        <Baseline points="64,246 81,246 96,246 112,246 126,246 141,246 157,244 171,244 186,244 205,244"/>
+        <TextEquiv conf="0.981">
+          <Unicode>Galeria</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l002" index="1" custom="heights_v2:[28.1,10.0]">
+        <Coords points="100,314 126,313 154,313 154,275 126,275 98,276 100,314"/>
+        <Baseline points="100,304 126,303 154,303"/>
+        <TextEquiv conf="1.000">
+          <Unicode>de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l003" index="2" custom="heights_v2:[28.7,11.6]">
+        <Coords points="43,377 165,377 175,377 175,377 217,377 214,337 192,338 177,337 157,337 138,337 120,337 101,337 82,337 64,337 43,337 43,377"/>
+        <Baseline points="43,365 64,365 82,365 101,365 120,365 138,365 157,365 175,365 194,367 216,365"/>
+        <TextEquiv conf="0.997">
+          <Unicode>Excelsior</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="44,1306 44,1390 488,1389 488,1305 44,1306"/>
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[17.2,6.4]">
+        <Coords points="44,1330 95,1330 143,1328 193,1328 240,1328 290,1328 339,1328 386,1327 436,1328 488,1328 488,1305 100,1306 94,1306 44,1306 44,1330"/>
+        <Baseline points="44,1323 94,1323 143,1322 193,1322 240,1322 290,1322 339,1322 387,1321 436,1322 488,1322"/>
+        <TextEquiv conf="0.797">
+          <Unicode>Bellísima v gentil Srta. Monserrat Vidal,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="1" custom="heights_v2:[16.4,6.1]">
+        <Coords points="45,1349 96,1348 145,1348 193,1348 242,1348 290,1348 339,1348 387,1348 436,1348 488,1348 488,1326 436,1326 387,1326 339,1326 290,1326 242,1326 193,1326 145,1326 96,1326 45,1327 45,1349"/>
+        <Baseline points="45,1343 96,1342 145,1342 193,1342 242,1342 290,1342 339,1342 387,1342 436,1342 488,1342"/>
+        <TextEquiv conf="0.971">
+          <Unicode>muy apreciada en nuestros círculos sociales</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="2" custom="heights_v2:[16.7,5.7]">
+        <Coords points="488,1345 437,1345 388,1345 340,1345 291,1345 241,1346 194,1346 145,1346 96,1346 45,1346 45,1369 96,1369 145,1369 194,1369 242,1369 291,1368 340,1368 388,1368 437,1368 488,1368 488,1345"/>
+        <Baseline points="45,1363 96,1363 145,1363 194,1363 242,1363 291,1362 340,1362 388,1362 437,1362 488,1362"/>
+        <TextEquiv conf="0.688">
+          <Unicode>más distinguidos v cuya fotografía avalora</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="3" custom="heights_v2:[16.7,5.4]">
+        <Coords points="44,1390 94,1389 143,1389 193,1389 240,1389 290,1389 338,1389 346,1389 488,1389 487,1366 435,1369 387,1369 340,1366 290,1366 240,1366 193,1366 143,1366 94,1366 44,1368 44,1390"/>
+        <Baseline points="44,1384 94,1383 143,1383 193,1383 240,1383 290,1383 339,1383 387,1386 436,1386 488,1383"/>
+        <TextEquiv conf="0.970">
+          <Unicode>sobremanera esta Galería de EXCELSIOR.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

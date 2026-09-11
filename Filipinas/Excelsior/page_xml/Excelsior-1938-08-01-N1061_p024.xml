@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:13:37.850346+00:00</Created>
+    <LastChange>2026-09-11T08:13:37.850346+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-08-01-N1061_p024" imageWidth="1060" imageHeight="1499">
+    <TextRegion id="r001">
+      <Coords points="453,675 402,684 432,859 484,850 453,675"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[145.5,32.7]">
+        <Coords points="402,684 432,859 484,850 453,675 402,684"/>
+        <Baseline points="427,827 478,818"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="176,1066 153,1066 153,1109 176,1109 176,1066"/>
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[32.6,11.0]">
+        <Coords points="153,1066 153,1109 176,1109 176,1066 153,1066"/>
+        <Baseline points="153,1098 176,1098"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

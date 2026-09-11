@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:16:08.743142+00:00</Created>
+    <LastChange>2026-09-11T08:16:08.743142+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-09-01-N1062_p031" imageWidth="1055" imageHeight="1501">
+    <TextRegion id="r001">
+      <Coords points="756,1262 511,1271 511,1356 749,1347 875,1350 875,1265 928,1161 928,1076 850,1076 850,1161 756,1262"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[64.1,21.1]">
+        <Coords points="928,1076 850,1076 850,1161 928,1161 928,1076"/>
+        <Baseline points="850,1140 928,1140"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l002" index="1" custom="heights_v2:[67.6,17.0]">
+        <Coords points="590,1268 589,1268 549,1272 511,1271 511,1356 601,1352 632,1350 669,1350 749,1347 875,1350 875,1265 828,1265 788,1265 756,1262 705,1265 678,1265 590,1268"/>
+        <Baseline points="511,1339 554,1339 595,1336 632,1333 673,1333 710,1333 750,1330 788,1333 828,1333 875,1333"/>
+        <TextEquiv conf="0.313">
+          <Unicode>meo</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="20,1386 18,1432 56,1482 975,1485 1021,1438 1021,1392 20,1386"/>
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[34.3,12.2]">
+        <Coords points="18,1432 134,1435 243,1438 355,1438 464,1438 573,1438 685,1438 794,1438 903,1438 1021,1438 1021,1392 903,1392 794,1392 685,1392 573,1392 464,1392 355,1392 243,1392 135,1389 20,1386 18,1432"/>
+        <Baseline points="19,1420 134,1423 243,1426 355,1426 464,1426 573,1426 685,1426 794,1426 903,1426 1021,1426"/>
+        <TextEquiv conf="0.507">
+          <Unicode>MAJA�MADERAS DE ORIENTE“ JUNGLA� EMBRU JO DE SEVILLA-HINDUSTAN-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="1" custom="heights_v2:[35.4,12.6]">
+        <Coords points="975,1485 975,1437 866,1437 766,1437 667,1434 564,1434 464,1434 364,1434 263,1431 162,1431 55,1434 56,1482 162,1479 261,1479 364,1482 464,1482 564,1482 666,1482 741,1485 975,1485"/>
+        <Baseline points="56,1470 162,1467 262,1467 364,1470 464,1470 564,1470 666,1470 766,1473 866,1473 975,1473"/>
+        <TextEquiv conf="0.602">
+          <Unicode>SUSPIRO DE GRANADA - ELLA - FLOR DE BLASON - ORGIA-YANHIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

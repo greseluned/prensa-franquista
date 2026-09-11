@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:10:44.919220+00:00</Created>
+    <LastChange>2026-09-11T08:10:44.919220+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-05-01-N1058_p068" imageWidth="1055" imageHeight="1507">
+    <TextRegion id="r000">
+      <Coords points="496,189 417,200 430,291 518,279 631,369 896,285 993,267 972,152 874,170 737,128 496,189"/>
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[68.8,23.1]">
+        <Coords points="417,200 430,291 518,279 593,260 663,236 755,218 737,128 573,170 564,173 496,189 417,200"/>
+        <Baseline points="427,268 512,256 586,238 659,213 750,195"/>
+        <TextEquiv conf="0.336">
+          <Unicode>Un Monhaje</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l002" index="1" custom="heights_v2:[87.3,29.2]">
+        <Coords points="896,285 993,267 972,152 874,170 776,204 696,227 596,258 631,369 896,285"/>
+        <Baseline points="622,342 720,311 805,287 890,256 988,238"/>
+        <TextEquiv conf="0.267">
+          <Unicode>C Katcia!</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

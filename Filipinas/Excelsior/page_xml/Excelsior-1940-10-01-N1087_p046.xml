@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:24:23.105811+00:00</Created>
+    <LastChange>2026-09-11T08:24:23.105811+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1940-10-01-N1087_p046" imageWidth="763" imageHeight="1137">
+    <TextRegion id="r001">
+      <Coords points="248,174 195,182 203,238 256,230 248,174"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[46.9,9.7]">
+        <Coords points="195,182 203,238 256,230 248,174 195,182"/>
+        <Baseline points="202,228 254,221"/>
+        <TextEquiv conf="0.583">
+          <Unicode>T</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="305,208 273,210 278,286 310,284 305,208"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[63.6,12.6]">
+        <Coords points="273,210 278,286 310,284 305,208 273,210"/>
+        <Baseline points="277,273 309,271"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="382,354 344,362 350,393 388,385 382,354"/>
+      <TextLine id="r003-l003" index="0" custom="heights_v2:[23.0,8.2]">
+        <Coords points="344,362 350,393 388,385 382,354 344,362"/>
+        <Baseline points="349,385 386,377"/>
+        <TextEquiv conf="1.000">
+          <Unicode>DE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="445,497 371,508 376,539 450,528 445,497"/>
+      <TextLine id="r004-l004" index="0" custom="heights_v2:[24.0,7.6]">
+        <Coords points="371,508 376,539 412,533 450,528 445,497 371,508"/>
+        <Baseline points="375,532 411,526 449,520"/>
+        <TextEquiv conf="0.999">
+          <Unicode>MAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="58,978 59,1011 116,1009 155,1031 543,1027 550,1009 551,976 170,972 58,978"/>
+      <TextLine id="r000-l006" index="0" custom="heights_v2:[25.0,8.2]">
+        <Coords points="59,1011 116,1009 170,1005 222,1005 277,1005 330,1007 385,1007 437,1007 492,1007 550,1009 551,976 551,976 361,974 330,974 318,974 170,972 113,976 58,978 59,1011"/>
+        <Baseline points="58,1003 115,1001 170,997 222,997 277,997 330,999 385,999 437,999 492,999 550,1001"/>
+        <TextEquiv conf="0.627">
+          <Unicode>ALLERES DE FOTOGRABADO Y Z</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="1" custom="heights_v2:[17.3,6.9]">
+        <Coords points="483,1027 496,1027 543,1027 543,1003 496,1003 454,1004 411,1004 369,1004 326,1004 285,1004 241,1004 200,1004 154,1006 155,1031 200,1029 241,1029 285,1029 326,1029 349,1029 483,1027"/>
+        <Baseline points="155,1024 200,1022 241,1022 285,1022 326,1022 369,1022 411,1022 454,1022 496,1020 543,1020"/>
+        <TextEquiv conf="0.828">
+          <Unicode>32 STA. POTENGIANA, MANILA, L.F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="551,976 553,1008 647,1005 687,1026 709,1025 719,1003 716,970 551,976"/>
+      <TextLine id="r005-l005" index="0" custom="heights_v2:[25.4,7.4]">
+        <Coords points="553,1008 579,1007 600,1007 647,1005 669,1005 692,1005 719,1003 716,970 690,972 669,972 666,972 630,973 622,974 613,974 551,976 553,1008"/>
+        <Baseline points="552,1001 579,999 601,999 624,999 647,997 669,997 692,997 718,995"/>
+        <TextEquiv conf="0.982">
+          <Unicode>INCOGRAFIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l007" index="1" custom="heights_v2:[15.6,4.7]">
+        <Coords points="709,1025 708,1004 685,1006 687,1026 709,1025"/>
+        <Baseline points="686,1022 709,1020"/>
+        <TextEquiv conf="0.424">
+          <Unicode>„</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

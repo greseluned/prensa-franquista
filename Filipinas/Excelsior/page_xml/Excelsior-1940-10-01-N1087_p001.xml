@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:22:49.209394+00:00</Created>
+    <LastChange>2026-09-11T08:22:49.209394+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1940-10-01-N1087_p001" imageWidth="763" imageHeight="1137">
+    <TextRegion id="r000">
+      <Coords points="-7,972 -11,1044 78,1050 82,978 -7,972"/>
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[56.0,16.1]">
+        <Coords points="-11,1044 78,1050 82,978 -7,972 -11,1044"/>
+        <Baseline points="-10,1028 79,1033"/>
+        <TextEquiv conf="0.277">
+          <Unicode>FUВRE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

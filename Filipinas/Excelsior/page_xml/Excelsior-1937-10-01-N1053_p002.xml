@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:03:21.774928+00:00</Created>
+    <LastChange>2026-09-11T08:03:21.774928+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1937-10-01-N1053_p002" imageWidth="515" imageHeight="749">
+    <TextRegion id="r001">
+      <Coords points="345,257 157,257 157,291 345,291 345,257"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[25.0,8.8]">
+        <Coords points="310,257 279,257 251,257 221,257 190,257 157,257 157,291 190,291 221,291 251,291 279,291 310,291 345,291 345,257 310,257"/>
+        <Baseline points="157,282 190,282 221,282 251,282 279,282 310,282 345,282"/>
+        <TextEquiv conf="0.505">
+          <Unicode>HOMEN AJE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="272,336 231,336 231,366 272,366 272,336"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[21.9,7.9]">
+        <Coords points="231,336 231,366 272,366 272,336 231,336"/>
+        <Baseline points="231,358 272,358"/>
+        <TextEquiv conf="1.000">
+          <Unicode>DE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="401,408 107,408 107,451 145,494 356,494 401,451 401,408"/>
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[30.9,11.8]">
+        <Coords points="363,408 333,408 300,408 269,408 236,408 206,408 173,408 142,408 107,408 107,451 142,451 173,451 206,451 236,451 269,451 300,451 333,451 363,451 401,451 401,408 363,408"/>
+        <Baseline points="107,439 142,439 173,439 206,439 236,439 269,439 300,439 333,439 363,439 401,439"/>
+        <TextEquiv conf="0.999">
+          <Unicode>SAN MIGUEL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="1" custom="heights_v2:[29.1,11.1]">
+        <Coords points="178,494 206,494 234,494 264,494 292,494 320,494 356,494 356,453 320,453 292,453 264,453 234,453 206,453 178,453 145,453 145,494 178,494"/>
+        <Baseline points="145,483 178,483 206,483 234,483 264,483 292,483 320,483 356,483"/>
+        <TextEquiv conf="0.981">
+          <Unicode>BREWERY</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

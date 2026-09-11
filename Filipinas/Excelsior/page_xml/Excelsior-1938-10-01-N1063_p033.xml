@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:19:02.906422+00:00</Created>
+    <LastChange>2026-09-11T08:19:02.906422+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-10-01-N1063_p033" imageWidth="1047" imageHeight="1496">
+    <TextRegion id="r002">
+      <Coords points="457,153 317,178 330,231 459,208 543,206 716,233 728,180 638,161 546,151 457,153"/>
+      <TextLine id="r002-l001" index="0" custom="heights_v2:[40.8,13.9]">
+        <Coords points="317,178 330,231 376,221 418,214 459,208 501,206 543,206 585,208 627,214 669,223 716,233 728,180 638,161 546,151 457,153 317,178"/>
+        <Baseline points="326,218 373,207 416,201 459,194 501,192 544,192 587,194 630,201 672,209 719,220"/>
+        <TextEquiv conf="0.120">
+          <Unicode>uaaa</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="243,492 149,492 149,520 241,520 243,492"/>
+      <TextLine id="r001-l002" index="0" custom="heights_v2:[22.5,6.1]">
+        <Coords points="180,492 180,492 149,492 149,520 182,520 209,518 241,520 243,492 180,492"/>
+        <Baseline points="149,514 181,514 209,512 241,514"/>
+        <TextEquiv conf="0.379">
+          <Unicode>uIs</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="486,910 449,914 459,1001 496,997 486,910"/>
+      <TextLine id="r004-l003" index="0" custom="heights_v2:[63.6,23.9]">
+        <Coords points="449,914 459,1001 496,997 486,910 449,914"/>
+        <Baseline points="457,977 493,973"/>
+        <TextEquiv conf="0.259">
+          <Unicode>I</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="156,1250 49,1252 55,1347 156,1345 156,1250"/>
+      <TextLine id="r000-l006" index="0" custom="heights_v2:[70.9,24.0]">
+        <Coords points="49,1252 55,1347 87,1345 120,1345 156,1345 156,1250 49,1252"/>
+        <Baseline points="53,1323 87,1321 120,1321 156,1321"/>
+        <TextEquiv conf="0.615">
+          <Unicode>D)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="365,1227 369,1347 673,1345 668,1225 365,1227"/>
+      <TextLine id="r003-l004" index="0" custom="heights_v2:[43.0,13.7]">
+        <Coords points="365,1227 368,1283 403,1281 435,1281 467,1281 499,1281 533,1281 566,1281 598,1281 630,1281 668,1281 668,1225 365,1227"/>
+        <Baseline points="367,1270 403,1268 435,1268 467,1268 499,1268 533,1268 566,1268 598,1268 630,1268 668,1268"/>
+        <TextEquiv conf="0.617">
+          <Unicode>LIESHR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l005" index="1" custom="heights_v2:[23.6,9.9]">
+        <Coords points="371,1320 405,1320 438,1320 469,1318 499,1318 531,1318 563,1318 593,1318 625,1318 662,1318 662,1285 625,1285 593,1285 563,1285 531,1285 499,1285 469,1285 436,1287 405,1287 371,1287 371,1320"/>
+        <Baseline points="371,1310 405,1310 437,1310 469,1308 499,1308 531,1308 563,1308 593,1308 625,1308 662,1308"/>
+        <TextEquiv conf="0.442">
+          <Unicode>COMPAñIH</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="2" custom="heights_v2:[27.2,9.4]">
+        <Coords points="673,1345 671,1309 632,1311 602,1311 568,1313 536,1313 504,1313 472,1313 437,1313 405,1313 371,1311 369,1347 673,1345"/>
+        <Baseline points="369,1338 405,1340 437,1340 472,1340 504,1340 536,1340 570,1340 602,1338 634,1338 672,1336"/>
+        <TextEquiv conf="0.191">
+          <Unicode>IDCURPORADA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:18:50.171382+00:00</Created>
+    <LastChange>2026-09-11T08:18:50.171382+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-10-01-N1063_p028" imageWidth="991" imageHeight="1382">
+    <TextRegion id="r000">
+      <Coords points="490,480 31,479 31,627 47,667 47,821 751,821 967,813 967,659 850,659 702,471 490,480"/>
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[113.3,34.1]">
+        <Coords points="31,479 31,627 133,627 226,627 320,627 405,627 502,627 593,619 702,619 702,471 490,480 31,479"/>
+        <Baseline points="31,593 133,593 226,593 320,593 405,593 499,593 593,585 702,585"/>
+        <TextEquiv conf="0.985">
+          <Unicode>MISSING</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l002" index="1" custom="heights_v2:[120.4,33.8]">
+        <Coords points="47,821 751,821 850,813 967,813 967,659 850,659 739,667 655,667 554,667 452,667 359,667 257,667 156,667 47,667 47,821"/>
+        <Baseline points="47,787 156,787 257,787 359,787 452,787 554,787 655,787 748,787 850,780 967,780"/>
+        <TextEquiv conf="0.986">
+          <Unicode>PAGE/PAGES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

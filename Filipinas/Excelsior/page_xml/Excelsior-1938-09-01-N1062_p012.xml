@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-11T08:15:43.169948+00:00</Created>
+    <LastChange>2026-09-11T08:15:43.169948+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Excelsior-1938-09-01-N1062_p012" imageWidth="1055" imageHeight="1501">
+    <TextRegion id="r001">
+      <Coords points="668,449 371,454 371,527 673,521 668,449"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[51.6,20.6]">
+        <Coords points="371,527 673,521 668,449 588,454 521,454 451,454 371,454 371,527"/>
+        <Baseline points="371,506 451,506 521,506 591,506 671,501"/>
+        <TextEquiv conf="0.756">
+          <Unicode>Homenaje</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="558,675 473,680 477,748 562,743 558,675"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[51.6,16.5]">
+        <Coords points="473,680 477,748 562,743 558,675 473,680"/>
+        <Baseline points="476,731 561,726"/>
+        <TextEquiv conf="0.925">
+          <Unicode>De</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="806,889 231,894 237,975 301,1056 726,1056 806,970 806,889"/>
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[62.7,18.2]">
+        <Coords points="231,894 237,975 306,970 366,970 426,970 486,970 551,970 611,970 671,970 731,970 806,970 806,889 231,894"/>
+        <Baseline points="235,957 306,952 366,952 426,952 486,952 551,952 611,952 671,952 731,952 806,952"/>
+        <TextEquiv conf="1.000">
+          <Unicode>SAN MIGUEL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="1" custom="heights_v2:[69.4,19.1]">
+        <Coords points="366,1056 426,1056 481,1056 541,1056 596,1056 656,1056 726,1056 726,968 656,968 596,968 541,968 481,968 426,968 366,968 301,968 301,1056 366,1056"/>
+        <Baseline points="301,1037 366,1037 426,1037 481,1037 541,1037 596,1037 656,1037 726,1037"/>
+        <TextEquiv conf="1.000">
+          <Unicode>BREWERY</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

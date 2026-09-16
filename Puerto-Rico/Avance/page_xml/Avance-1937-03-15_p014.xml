@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:42:47.655194+00:00</Created>
+    <LastChange>2026-09-16T07:42:47.655194+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1937-03-15_p014" imageWidth="1732" imageHeight="2370">
+    <TextRegion id="r003">
+      <Coords points="1096,364 882,359 882,410 1096,414 1096,364"/>
+      <TextLine id="r003-l001" index="0" custom="heights_v2:[37.1,13.0]">
+        <Coords points="882,359 882,410 955,410 989,412 1096,414 1096,364 1022,364 990,362 882,359"/>
+        <Baseline points="882,397 956,397 1022,401 1096,401"/>
+        <TextEquiv conf="0.998">
+          <Unicode>AVANCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="821,599 742,698 742,765 1194,774 1241,682 1306,682 1306,613 821,599"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[49.8,19.7]">
+        <Coords points="1306,682 1306,613 1241,613 1213,610 1145,608 1138,608 1087,608 1062,606 983,603 933,603 911,601 821,599 821,668 880,668 933,673 984,673 1034,673 1087,677 1138,677 1188,677 1241,682 1306,682"/>
+        <Baseline points="821,648 882,648 933,653 984,653 1036,653 1087,658 1138,658 1190,658 1241,662 1306,662"/>
+        <TextEquiv conf="0.999">
+          <Unicode>el mejor que</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l003" index="1" custom="heights_v2:[48.5,18.3]">
+        <Coords points="742,765 802,765 858,765 908,765 965,769 968,769 1020,769 1037,771 1194,774 1194,707 1129,707 1073,707 1026,703 966,703 914,698 858,698 802,698 742,698 742,765"/>
+        <Baseline points="742,746 802,746 858,746 910,746 966,751 1022,751 1073,756 1129,756 1194,756"/>
+        <TextEquiv conf="1.000">
+          <Unicode>sabe hacerse</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="714,1414 714,1547 942,1538 1232,1538 1232,1439 1139,1433 1141,1404 714,1414"/>
+      <TextLine id="r001-l006" index="0" custom="heights_v2:[98.0,35.7]">
+        <Coords points="714,1547 942,1538 998,1538 1054,1538 1110,1538 1166,1538 1232,1538 1232,1439 1139,1433 1141,1404 793,1412 766,1414 714,1414 714,1547"/>
+        <Baseline points="714,1512 774,1512 830,1507 886,1507 942,1502 998,1502 1054,1502 1110,1502 1166,1502 1232,1502"/>
+        <TextEquiv conf="0.247">
+          <Unicode>de lheilí Ro</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="1092,1185 924,1185 924,1270 1092,1270 1092,1185"/>
+      <TextLine id="r004-l004" index="0" custom="heights_v2:[60.5,23.9]">
+        <Coords points="1008,1185 924,1185 924,1270 1008,1270 1092,1270 1092,1185 1008,1185"/>
+        <Baseline points="924,1246 1008,1246 1092,1246"/>
+        <TextEquiv conf="1.000">
+          <Unicode>DON</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="1294,1442 1311,1145 1158,1136 1139,1433 1294,1442"/>
+      <TextLine id="r005-l005" index="0" custom="heights_v2:[240.9,56.8]">
+        <Coords points="1311,1145 1232,1140 1158,1136 1139,1433 1294,1442 1311,1145"/>
+        <Baseline points="1143,1376 1218,1381 1297,1386"/>
+        <TextEquiv conf="0.970">
+          <Unicode>Q</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="926,1637 513,1637 513,1708 923,1708 1437,1727 1437,1655 926,1637"/>
+      <TextLine id="r000-l007" index="0" custom="heights_v2:[52.0,19.4]">
+        <Coords points="513,1637 513,1708 923,1708 1179,1717 1221,1717 1249,1720 1437,1727 1437,1655 1325,1655 1253,1649 1184,1646 1124,1646 1024,1642 926,1637 513,1637"/>
+        <Baseline points="513,1689 620,1689 723,1689 821,1689 924,1689 1022,1693 1124,1698 1222,1698 1325,1707 1437,1707"/>
+        <TextEquiv conf="0.839">
+          <Unicode>.....un producto Serrallés!....</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

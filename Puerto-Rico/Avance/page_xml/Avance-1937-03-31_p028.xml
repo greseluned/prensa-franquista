@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:49:29.960146+00:00</Created>
+    <LastChange>2026-09-16T07:49:29.960146+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1937-03-31_p028" imageWidth="1671" imageHeight="2377">
+    <TextRegion id="r003">
+      <Coords points="776,394 773,438 984,442 984,398 776,394"/>
+      <TextLine id="r003-l001" index="0" custom="heights_v2:[33.0,10.9]">
+        <Coords points="773,438 984,442 984,398 911,398 846,398 776,394 773,438"/>
+        <Baseline points="774,427 846,431 911,431 984,431"/>
+        <TextEquiv conf="0.999">
+          <Unicode>AVANCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="645,931 640,1008 1096,1016 1096,939 645,931"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[60.9,16.4]">
+        <Coords points="640,1008 926,1013 938,1012 958,1014 1096,1016 1096,939 1036,939 988,939 961,936 931,936 886,939 842,939 799,935 746,935 697,935 645,931 640,1008"/>
+        <Baseline points="641,992 697,996 746,996 794,996 842,1000 891,1000 939,996 988,1000 1036,1000 1096,1000"/>
+        <TextEquiv conf="0.998">
+          <Unicode>EMBARQUE VIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="447,1113 442,1227 539,1231 621,1305 1120,1313 1185,1243 1286,1243 1286,1129 447,1113"/>
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[88.3,25.7]">
+        <Coords points="442,1227 539,1231 633,1235 724,1235 818,1239 907,1239 999,1239 1092,1243 1185,1243 1286,1243 1286,1129 1185,1129 1092,1129 1003,1125 907,1125 818,1125 729,1121 633,1121 544,1117 447,1113 442,1227"/>
+        <Baseline points="443,1201 540,1205 633,1209 726,1209 818,1213 907,1213 1000,1213 1092,1217 1185,1217 1286,1217"/>
+        <TextEquiv conf="1.000">
+          <Unicode>BULL LINES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="1" custom="heights_v2:[48.3,15.3]">
+        <Coords points="871,1309 895,1309 951,1309 1004,1309 1055,1309 1120,1313 1124,1250 1059,1246 1004,1246 951,1246 895,1246 842,1246 794,1242 734,1242 681,1242 621,1242 621,1305 681,1305 734,1305 789,1305 835,1309 871,1309"/>
+        <Baseline points="621,1290 681,1290 734,1290 790,1290 842,1294 895,1294 951,1294 1004,1294 1056,1294 1121,1298"/>
+        <TextEquiv conf="0.870">
+          <Unicode>LA LINEA DEL COMERCIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="1264,1410 468,1394 468,1470 1261,1486 1264,1410"/>
+      <TextLine id="r001-l005" index="0" custom="heights_v2:[57.4,19.0]">
+        <Coords points="666,1398 645,1398 630,1397 468,1394 468,1470 559,1470 629,1473 666,1474 734,1474 818,1474 906,1474 992,1478 1079,1478 1164,1482 1261,1486 1264,1410 666,1398"/>
+        <Baseline points="468,1451 560,1451 645,1455 734,1455 818,1455 907,1455 992,1459 1080,1459 1165,1463 1262,1467"/>
+        <TextEquiv conf="0.745">
+          <Unicode>CARGA: NUESTRA ESPECIALIDAD</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

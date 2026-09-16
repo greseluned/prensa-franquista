@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:45:33.646043+00:00</Created>
+    <LastChange>2026-09-16T07:45:33.646043+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1937-10-15_p007" imageWidth="1667" imageHeight="2431">
+    <TextRegion id="r001">
+      <Coords points="763,334 557,336 557,374 763,372 763,334"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[29.0,9.1]">
+        <Coords points="609,335 602,336 582,336 557,336 557,374 610,373 626,372 648,372 671,372 693,372 715,372 737,372 763,372 763,334 609,335"/>
+        <Baseline points="557,365 582,365 604,365 626,363 648,363 671,363 693,363 715,363 737,363 763,363"/>
+        <TextEquiv conf="0.999">
+          <Unicode>AVANCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="575,1820 536,1845 537,1877 780,1875 809,1849 809,1821 575,1820"/>
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[19.7,7.7]">
+        <Coords points="809,1821 779,1821 754,1821 748,1821 575,1820 575,1847 603,1847 628,1847 653,1847 678,1847 704,1847 729,1847 754,1849 779,1849 809,1849 809,1821"/>
+        <Baseline points="575,1839 603,1839 628,1839 653,1839 678,1839 704,1839 729,1839 754,1841 779,1841 809,1841"/>
+        <TextEquiv conf="0.678">
+          <Unicode>e Honor junto al cadáve</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="1" custom="heights_v2:[22.7,9.2]">
+        <Coords points="537,1877 566,1875 593,1875 619,1874 646,1874 672,1874 698,1874 725,1874 751,1874 780,1875 782,1843 753,1842 725,1842 698,1842 672,1842 646,1842 619,1842 591,1843 566,1843 536,1845 537,1877"/>
+        <Baseline points="537,1867 566,1866 593,1866 619,1864 646,1864 672,1864 698,1864 725,1864 751,1864 781,1866"/>
+        <TextEquiv conf="0.921">
+          <Unicode>Don José Pérez Losada.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="990,1822 989,1846 1031,1847 1031,1823 990,1822"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[17.7,6.5]">
+        <Coords points="989,1846 1031,1847 1031,1823 990,1822 989,1846"/>
+        <Baseline points="990,1839 1031,1841"/>
+        <TextEquiv conf="0.957">
+          <Unicode>lista</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

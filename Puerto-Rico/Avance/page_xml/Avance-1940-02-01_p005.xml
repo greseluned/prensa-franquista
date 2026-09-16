@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:29:29.000605+00:00</Created>
+    <LastChange>2026-09-16T07:29:29.000605+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1940-02-01_p005" imageWidth="1667" imageHeight="2179">
+    <TextRegion id="r004">
+      <Coords points="639,304 637,335 835,339 835,308 639,304"/>
+      <TextLine id="r004-l001" index="0" custom="heights_v2:[23.3,7.6]">
+        <Coords points="637,335 703,336 704,336 705,336 835,339 835,308 811,308 790,308 768,308 749,307 726,307 706,306 706,306 683,306 662,306 639,304 637,335"/>
+        <Baseline points="638,327 662,329 683,329 704,329 726,330 747,330 768,332 790,332 811,332 835,332"/>
+        <TextEquiv conf="0.999">
+          <Unicode>AVANCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="1301,323 1283,325 1285,353 1303,351 1301,323"/>
+      <TextLine id="r005-l002" index="0" custom="heights_v2:[21.4,6.9]">
+        <Coords points="1283,325 1285,353 1303,351 1301,323 1283,325"/>
+        <Baseline points="1284,346 1303,344"/>
+        <TextEquiv conf="1.000">
+          <Unicode>3</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="175,366 174,432 830,451 832,385 175,366"/>
+      <TextLine id="r003-l003" index="0" custom="heights_v2:[51.8,14.2]">
+        <Coords points="174,432 249,434 321,435 393,438 438,440 830,451 832,385 756,383 684,382 613,379 540,378 468,375 441,374 175,366 174,432"/>
+        <Baseline points="174,418 249,420 322,421 394,424 466,427 539,429 611,431 683,434 755,435 831,437"/>
+        <TextEquiv conf="0.916">
+          <Unicode>DISCURSO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="152,694 150,788 402,798 475,833 961,847 1029,815 1283,817 1290,673 1302,629 1306,496 271,469 271,507 172,616 152,694"/>
+      <TextLine id="r002-l004" index="0" custom="heights_v2:[28.2,9.6]">
+        <Coords points="1306,496 1188,493 1179,493 271,469 271,507 387,509 502,511 616,514 730,517 845,520 959,523 1073,526 1188,531 1305,534 1306,496"/>
+        <Baseline points="271,498 387,499 502,502 617,505 730,507 845,510 960,513 1073,516 1188,522 1305,524"/>
+        <TextEquiv conf="0.973">
+          <Unicode>pronunciado por el Camarada Genaro Riestra, Jefe Regional</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l005" index="1" custom="heights_v2:[28.5,9.9]">
+        <Coords points="269,553 385,556 500,557 613,560 728,564 842,567 957,571 1070,574 1185,575 1302,580 1304,541 1186,537 1071,536 957,533 843,529 729,526 615,521 501,519 386,517 270,514 269,553"/>
+        <Baseline points="269,543 386,546 500,547 614,550 729,554 842,557 957,561 1070,564 1185,566 1303,570"/>
+        <TextEquiv conf="0.617">
+          <Unicode>de F. E. T. y de las J. O. N. S. en Cuba, con motivo de la inaugu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l006" index="2" custom="heights_v2:[28.4,9.7]">
+        <Coords points="271,601 296,601 320,602 343,602 367,602 390,602 414,602 437,602 461,602 488,601 486,563 459,564 437,564 414,564 390,564 367,564 343,564 320,564 298,563 271,563 271,601"/>
+        <Baseline points="271,591 296,591 320,592 343,592 367,592 390,592 414,592 437,592 461,592 488,591"/>
+        <TextEquiv conf="0.705">
+          <Unicode>ración del se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l007" index="3" custom="heights_v2:[28.1,9.6]">
+        <Coords points="499,609 554,608 606,606 659,608 711,609 764,611 816,612 869,613 921,615 976,618 978,580 923,577 870,576 817,574 765,573 712,572 660,570 607,569 553,570 498,572 499,609"/>
+        <Baseline points="499,600 554,598 607,597 659,598 712,600 764,601 816,602 869,604 921,605 977,608"/>
+        <TextEquiv conf="0.635">
+          <Unicode>jundo comedor de "Auxilio S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l008" index="4" custom="heights_v2:[27.5,10.0]">
+        <Coords points="1303,592 1264,590 1229,589 1193,588 1158,586 1122,585 1087,583 1050,583 1015,583 978,582 976,619 1015,621 1050,621 1085,621 1121,622 1156,624 1192,625 1227,627 1263,628 1302,629 1303,592"/>
+        <Baseline points="977,609 1015,611 1050,611 1086,611 1121,612 1157,614 1192,615 1228,617 1263,618 1303,619"/>
+        <TextEquiv conf="0.909">
+          <Unicode>ocial en la Habana.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l009" index="5" custom="heights_v2:[23.5,8.3]">
+        <Coords points="1290,641 1163,638 1039,637 916,633 793,629 668,626 545,623 422,620 298,616 172,616 172,648 297,648 421,652 544,655 667,658 792,660 915,665 1039,669 1162,670 1290,673 1290,641"/>
+        <Baseline points="172,639 298,639 421,644 544,646 668,649 792,652 916,656 1039,661 1162,662 1290,665"/>
+        <TextEquiv conf="0.970">
+          <Unicode>AUXILIO SOCIAL" ATENDERA LA REPATRIACION DE LOS ESPANOLES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l010" index="6" custom="heights_v2:[24.0,8.3]">
+        <Coords points="384,684 459,686 531,689 605,690 677,691 751,693 823,696 897,697 969,700 1046,701 1047,669 970,668 898,665 824,664 752,661 678,659 606,658 532,656 460,654 385,652 384,684"/>
+        <Baseline points="384,676 459,678 532,680 605,682 678,683 751,685 824,687 897,689 970,692 1046,693"/>
+        <TextEquiv conf="0.997">
+          <Unicode>QUE SE HALLEN SIN TRABAJO EN CUBA.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l011" index="7" custom="heights_v2:[23.7,7.9]">
+        <Coords points="1287,722 1159,719 1033,713 907,712 782,708 657,706 531,702 406,698 280,695 152,694 152,725 279,727 405,729 530,734 656,738 781,739 907,744 1032,745 1158,751 1286,753 1287,722"/>
+        <Baseline points="152,717 279,719 405,721 530,726 656,730 781,731 907,736 1032,737 1158,743 1286,746"/>
+        <TextEquiv conf="0.996">
+          <Unicode>SIN DESATENDER LOS COMEDORES, TANTO LOS ESTABLECIDOS COMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l012" index="8" custom="heights_v2:[24.1,8.0]">
+        <Coords points="153,756 280,761 405,765 530,768 655,771 779,773 904,778 1029,782 1154,783 1283,783 1283,751 1154,751 1029,750 905,746 780,741 655,738 531,736 406,733 281,729 154,724 153,756"/>
+        <Baseline points="153,748 281,753 405,757 530,760 655,763 780,765 904,770 1029,774 1154,775 1283,775"/>
+        <TextEquiv conf="0.976">
+          <Unicode>LOS PROXIMOS A ESTABLECER, PROPICIARA VIAJES COLECTIVOS DE RE-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l013" index="9" custom="heights_v2:[24.1,8.1]">
+        <Coords points="402,798 528,800 653,805 778,808 904,812 1029,815 1283,817 1283,785 1154,785 1030,782 905,780 779,775 654,773 530,768 403,765 279,761 151,756 150,788 402,798"/>
+        <Baseline points="150,780 278,785 403,790 529,792 653,797 778,799 904,804 1029,807 1154,809 1283,809"/>
+        <TextEquiv conf="0.871">
+          <Unicode>CREO, BECAS EN ESPANA PARA ESTUDIANTES DE CUBA, Y EN CUBA PA-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l014" index="10" custom="heights_v2:[23.9,7.9]">
+        <Coords points="962,815 906,812 851,811 799,810 745,808 691,807 638,805 585,804 531,803 475,801 475,833 530,834 584,836 638,837 690,838 744,840 798,841 850,843 904,844 961,847 962,815"/>
+        <Baseline points="475,825 530,826 584,828 638,829 690,831 744,832 798,833 850,835 904,836 961,839"/>
+        <TextEquiv conf="0.893">
+          <Unicode>RA ESTUDIANTES DE ESPANA.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="130,1057 383,1064 448,1037 574,1040 653,1103 708,1131 707,1147 723,1159 723,1241 707,1867 1278,1881 1299,893 183,863 137,892 130,1057"/>
+      <TextLine id="r001-l015" index="0" custom="heights_v2:[19.8,6.8]">
+        <Coords points="933,883 926,883 803,880 741,878 549,873 433,870 378,868 183,863 183,890 309,893 432,897 555,900 679,903 802,907 925,910 1049,913 1172,917 1298,920 1299,893 1173,890 1105,888 933,883"/>
+        <Baseline points="183,883 309,886 432,890 556,893 679,896 802,900 926,903 1049,906 1172,910 1298,913"/>
+        <TextEquiv conf="0.529">
+          <Unicode>Trátasé de un documento vigoroso, en el que pal- España v por mandato expreso del Caudillo (aplau-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="1" custom="heights_v2:[19.2,6.7]">
+        <Coords points="137,918 203,918 265,920 327,921 390,922 453,924 516,927 578,927 641,928 707,929 708,904 641,902 579,901 516,901 454,898 390,896 328,895 265,894 203,892 137,892 137,918"/>
+        <Baseline points="137,911 203,911 265,913 327,914 390,916 454,917 516,920 578,920 641,921 707,923"/>
+        <TextEquiv conf="0.746">
+          <Unicode>pita el máš acendrado españolismo, v se refleja la</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l017" index="2" custom="heights_v2:[19.9,7.1]">
+        <Coords points="1298,921 1234,918 1171,917 1107,916 1045,914 981,913 919,911 856,908 793,906 728,904 727,931 792,933 854,935 918,938 981,940 1044,941 1107,943 1171,944 1233,945 1298,948 1298,921"/>
+        <Baseline points="727,924 792,926 855,928 919,931 981,933 1045,934 1107,936 1171,937 1233,938 1298,941"/>
+        <TextEquiv conf="0.683">
+          <Unicode>sos y vivas a Franco) se cuidará de que no os falterel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l018" index="3" custom="heights_v2:[19.3,6.6]">
+        <Coords points="135,945 200,946 262,949 326,951 388,951 452,952 514,953 578,955 641,958 707,958 707,932 641,932 579,929 515,928 453,926 389,925 326,925 263,923 201,920 136,919 135,945"/>
+        <Baseline points="135,938 200,940 262,943 326,944 388,944 452,945 515,947 578,948 641,951 707,951"/>
+        <TextEquiv conf="0.508">
+          <Unicode>comprenston más amplia respecto a los problemas so-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l019" index="4" custom="heights_v2:[20.1,7.1]">
+        <Coords points="1298,948 1232,947 1170,945 1107,944 1045,942 981,941 919,940 857,937 794,935 729,934 728,961 794,962 856,964 918,967 981,968 1044,970 1107,971 1169,972 1232,974 1297,975 1298,948"/>
+        <Baseline points="729,954 794,955 856,957 919,960 981,961 1045,962 1107,964 1169,965 1232,967 1297,968"/>
+        <TextEquiv conf="0.915">
+          <Unicode>pan y la lumbre: el pan diario que todos necesitamos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l020" index="5" custom="heights_v2:[18.9,6.6]">
+        <Coords points="134,973 157,973 179,975 203,975 203,949 179,949 159,948 135,948 134,973"/>
+        <Baseline points="134,967 157,967 179,968 203,968"/>
+        <TextEquiv conf="0.853">
+          <Unicode>ciales,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l021" index="6" custom="heights_v2:[20.1,7.0]">
+        <Coords points="1297,976 1232,975 1170,972 1106,971 1044,969 980,968 918,966 854,965 791,965 726,964 726,991 791,992 853,992 917,994 979,995 1043,996 1105,998 1169,999 1232,1002 1297,1003 1297,976"/>
+        <Baseline points="726,984 791,985 853,985 917,987 979,988 1043,989 1106,991 1169,992 1232,995 1297,996"/>
+        <TextEquiv conf="0.668">
+          <Unicode>para poder subsistir, y la lumbre que da el calor de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l022" index="7" custom="heights_v2:[19.8,6.8]">
+        <Coords points="178,1002 238,1005 296,1006 354,1007 412,1007 469,1009 527,1010 585,1012 643,1015 704,1016 705,989 644,988 586,985 528,984 470,982 413,981 354,981 297,979 239,978 180,975 178,1002"/>
+        <Baseline points="179,995 238,998 296,999 354,1001 412,1001 469,1002 527,1004 585,1005 644,1008 704,1009"/>
+        <TextEquiv conf="0.984">
+          <Unicode>He aqui los parrafos sencillos y vibrantes, que</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l023" index="8" custom="heights_v2:[20.1,7.0]">
+        <Coords points="1297,1003 1231,1002 1168,1001 1106,1001 1042,999 980,996 918,995 854,993 792,991 726,989 726,1016 791,1018 853,1020 917,1022 979,1023 1042,1026 1106,1028 1168,1028 1230,1029 1296,1030 1297,1003"/>
+        <Baseline points="726,1009 791,1011 853,1013 917,1015 979,1016 1042,1019 1106,1021 1168,1021 1230,1022 1296,1023"/>
+        <TextEquiv conf="0.492">
+          <Unicode>camarada y el carine de hermano. Quiero que ten-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l024" index="9" custom="heights_v2:[19.7,6.8]">
+        <Coords points="574,1040 636,1042 703,1044 704,1018 637,1015 575,1014 511,1012 448,1011 385,1009 322,1008 258,1007 196,1004 133,1002 131,1029 195,1030 258,1033 322,1034 384,1036 448,1037 574,1040"/>
+        <Baseline points="132,1022 196,1023 258,1026 322,1028 384,1029 448,1030 510,1032 574,1033 636,1035 703,1038"/>
+        <TextEquiv conf="0.707">
+          <Unicode>hicieron vivir a un enorme anditorio inolvidables mo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l025" index="10" custom="heights_v2:[19.7,7.0]">
+        <Coords points="1296,1052 1296,1032 1229,1032 1167,1029 1105,1028 1042,1026 979,1024 916,1022 854,1021 791,1019 726,1018 726,1045 791,1046 853,1047 916,1049 978,1050 1042,1053 1104,1054 1166,1056 1229,1059 1295,1059 1296,1052"/>
+        <Baseline points="726,1038 791,1039 853,1040 916,1042 978,1043 1042,1046 1104,1047 1167,1049 1229,1052 1296,1052"/>
+        <TextEquiv conf="0.508">
+          <Unicode>áis mny presente que los comedores de Auxilio Šocial</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l026" index="11" custom="heights_v2:[19.1,6.3]">
+        <Coords points="181,1058 187,1058 195,1058 231,1059 242,1059 255,1060 383,1064 383,1038 352,1038 326,1037 298,1037 270,1036 243,1034 215,1034 188,1033 160,1033 131,1031 130,1057 181,1058"/>
+        <Baseline points="130,1050 160,1052 187,1052 215,1053 242,1053 269,1055 298,1056 325,1056 352,1057 383,1057"/>
+        <TextEquiv conf="0.431">
+          <Unicode>mentos de emotividad</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l027" index="12" custom="heights_v2:[19.4,7.0]">
+        <Coords points="1295,1062 1229,1061 1167,1058 1105,1056 1042,1055 979,1052 916,1051 854,1048 791,1047 726,1045 726,1071 791,1073 853,1074 916,1077 978,1079 1042,1081 1104,1083 1166,1084 1229,1087 1295,1088 1295,1062"/>
+        <Baseline points="726,1064 791,1066 853,1067 916,1070 978,1072 1042,1074 1104,1076 1167,1077 1229,1080 1295,1081"/>
+        <TextEquiv conf="0.551">
+          <Unicode>me šon lngares donde se os dě una limosna diaria:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l028" index="13" custom="heights_v2:[19.2,6.8]">
+        <Coords points="1295,1091 1230,1088 1167,1086 1104,1084 1040,1084 977,1082 915,1081 851,1079 789,1075 724,1072 723,1098 788,1101 850,1105 914,1107 976,1108 1040,1110 1102,1110 1166,1112 1229,1114 1294,1117 1295,1091"/>
+        <Baseline points="723,1091 788,1094 850,1099 914,1100 977,1101 1040,1103 1103,1103 1167,1106 1229,1107 1294,1110"/>
+        <TextEquiv conf="0.892">
+          <Unicode>Franco concede derechos. v España no da limosna a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l030" index="14" custom="heights_v2:[19.2,6.8]">
+        <Coords points="1294,1118 1228,1116 1166,1115 1103,1113 1039,1112 977,1109 915,1108 851,1106 789,1103 724,1101 723,1127 788,1129 850,1132 914,1134 976,1135 1039,1138 1103,1139 1165,1141 1227,1142 1294,1144 1294,1118"/>
+        <Baseline points="723,1120 788,1123 850,1125 914,1127 977,1128 1039,1131 1103,1133 1165,1134 1228,1135 1294,1137"/>
+        <TextEquiv conf="0.603">
+          <Unicode>sus hijos. En estos comedores se os tratara con el res-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l032" index="15" custom="heights_v2:[19.2,6.9]">
+        <Coords points="1294,1144 1229,1143 1167,1143 1104,1140 1041,1139 977,1137 914,1137 851,1136 789,1135 723,1133 723,1159 788,1161 850,1162 914,1164 976,1164 1040,1165 1102,1166 1167,1169 1229,1169 1293,1171 1294,1144"/>
+        <Baseline points="723,1152 788,1154 850,1155 914,1157 977,1157 1040,1158 1103,1159 1167,1162 1229,1162 1293,1164"/>
+        <TextEquiv conf="0.793">
+          <Unicode>peto y la dignidad que merecéis, porque aqui no debéis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l034" index="16" custom="heights_v2:[19.2,6.9]">
+        <Coords points="1293,1173 1228,1173 1166,1171 1103,1170 1041,1169 977,1166 915,1164 852,1163 790,1160 725,1159 724,1185 789,1186 852,1189 914,1190 976,1192 1040,1195 1103,1196 1165,1198 1228,1199 1292,1199 1293,1173"/>
+        <Baseline points="724,1178 790,1179 852,1182 914,1184 977,1185 1040,1188 1103,1189 1165,1191 1228,1192 1293,1192"/>
+        <TextEquiv conf="0.872">
+          <Unicode>favores; esta comida que se os sirve os la dará Espa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l036" index="17" custom="heights_v2:[19.1,6.9]">
+        <Coords points="723,1212 787,1215 849,1216 913,1217 975,1220 1039,1222 1101,1225 1165,1225 1227,1226 1292,1227 1292,1201 1228,1200 1166,1198 1101,1198 1040,1196 976,1194 914,1191 849,1190 787,1189 723,1186 723,1212"/>
+        <Baseline points="723,1205 787,1208 849,1209 913,1210 975,1213 1039,1215 1101,1218 1165,1218 1228,1219 1292,1220"/>
+        <TextEquiv conf="0.733">
+          <Unicode>ña, y ha sido conquistada con la sangre de los que ca-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l038" index="18" custom="heights_v2:[19.5,6.9]">
+        <Coords points="1292,1231 1227,1229 1164,1228 1102,1226 1039,1225 976,1222 913,1221 851,1219 789,1217 723,1215 723,1241 788,1243 850,1246 913,1247 975,1249 1039,1251 1101,1253 1164,1254 1226,1256 1291,1257 1292,1231"/>
+        <Baseline points="723,1235 788,1236 850,1239 913,1240 975,1242 1039,1245 1101,1246 1164,1247 1226,1249 1291,1250"/>
+        <TextEquiv conf="0.575">
+          <Unicode>veron para siempre a las ordenes de Franco en los cam-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l040" index="19" custom="heights_v2:[19.9,7.0]">
+        <Coords points="1291,1259 1225,1257 1163,1256 1101,1253 1038,1252 976,1250 913,1249 851,1247 789,1246 723,1246 723,1273 788,1273 850,1274 913,1276 975,1277 1037,1278 1100,1280 1162,1283 1225,1284 1291,1286 1291,1259"/>
+        <Baseline points="723,1266 788,1266 850,1267 913,1269 975,1270 1038,1271 1100,1273 1162,1276 1225,1277 1291,1279"/>
+        <TextEquiv conf="0.643">
+          <Unicode>pos de batálla por dejar a nuestra Patria, como heren-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l042" index="20" custom="heights_v2:[20.1,7.0]">
+        <Coords points="721,1298 785,1300 847,1303 911,1304 974,1305 1036,1307 1100,1308 1162,1310 1224,1311 1290,1314 1291,1287 1226,1284 1163,1282 1100,1281 1037,1280 974,1278 912,1277 848,1275 786,1273 722,1271 721,1298"/>
+        <Baseline points="722,1291 785,1293 848,1296 911,1297 974,1298 1036,1300 1100,1301 1162,1303 1225,1304 1290,1307"/>
+        <TextEquiv conf="0.737">
+          <Unicode>cia bendita que a todos nos corresponde por igual, la</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l044" index="21" custom="heights_v2:[19.9,7.1]">
+        <Coords points="721,1325 785,1328 847,1330 910,1332 972,1334 1036,1335 1098,1338 1161,1339 1223,1341 1289,1344 1290,1317 1224,1314 1161,1312 1099,1311 1037,1308 973,1307 910,1305 849,1303 786,1301 721,1298 721,1325"/>
+        <Baseline points="721,1318 785,1321 848,1322 910,1325 972,1327 1036,1328 1099,1331 1161,1332 1223,1334 1290,1337"/>
+        <TextEquiv conf="0.844">
+          <Unicode>Justicia Social de la Revolución Nacional Sindicatista</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l046" index="22" custom="heights_v2:[20.3,7.1]">
+        <Coords points="720,1355 785,1358 847,1358 910,1359 972,1361 1034,1362 1097,1365 1159,1366 1222,1368 1288,1368 1288,1340 1222,1340 1160,1339 1098,1338 1036,1335 973,1333 910,1332 848,1330 785,1330 721,1328 720,1345 720,1355"/>
+        <Baseline points="720,1348 785,1351 848,1351 910,1352 972,1354 1035,1355 1097,1358 1159,1359 1222,1361 1288,1361"/>
+        <TextEquiv conf="0.445">
+          <Unicode>que iniciara José Antonio y que hey tiene por Caudi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l048" index="23" custom="heights_v2:[20.1,7.0]">
+        <Coords points="720,1382 785,1385 847,1386 910,1388 972,1390 1035,1392 1097,1393 1159,1395 1222,1396 1287,1398 1287,1370 1222,1369 1160,1368 1098,1366 1035,1365 973,1363 911,1361 848,1359 786,1358 721,1355 720,1382"/>
+        <Baseline points="720,1375 785,1378 848,1379 910,1381 972,1383 1035,1385 1097,1386 1159,1388 1222,1389 1287,1391"/>
+        <TextEquiv conf="0.497">
+          <Unicode>iilo al glorioso Jefe del nuevo Estado español. (Aplau-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l050" index="24" custom="heights_v2:[18.5,6.6]">
+        <Coords points="719,1410 737,1410 755,1410 774,1411 792,1411 810,1411 829,1413 848,1414 866,1414 888,1415 890,1390 867,1389 848,1389 831,1388 812,1386 792,1386 774,1386 757,1385 737,1385 719,1385 719,1410"/>
+        <Baseline points="719,1403 737,1403 755,1403 774,1405 792,1405 811,1405 829,1406 848,1408 866,1408 889,1409"/>
+        <TextEquiv conf="0.667">
+          <Unicode>šos elamorosos).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l052" index="25" custom="heights_v2:[19.1,6.7]">
+        <Coords points="767,1441 826,1443 883,1445 941,1447 998,1448 1054,1448 1113,1450 1169,1451 1226,1453 1287,1454 1287,1428 1227,1427 1170,1425 1113,1424 1055,1422 998,1422 942,1421 884,1420 827,1417 767,1415 767,1441"/>
+        <Baseline points="767,1434 826,1436 883,1439 941,1440 998,1442 1055,1442 1113,1443 1169,1444 1226,1446 1287,1447"/>
+        <TextEquiv conf="0.464">
+          <Unicode>Para entrar en este comedor no necesitáis reco-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l054" index="26" custom="heights_v2:[19.4,6.9]">
+        <Coords points="717,1468 781,1470 843,1471 907,1473 969,1475 1032,1477 1096,1478 1158,1480 1220,1481 1287,1482 1287,1456 1221,1455 1158,1453 1096,1452 1032,1450 970,1449 908,1446 844,1445 781,1443 718,1442 717,1468"/>
+        <Baseline points="717,1461 781,1463 843,1464 907,1466 970,1468 1032,1470 1096,1471 1158,1473 1220,1474 1287,1476"/>
+        <TextEquiv conf="0.695">
+          <Unicode>mendaciones de nadie, como no las necesitáis para nin-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l056" index="27" custom="heights_v2:[19.8,6.9]">
+        <Coords points="717,1497 782,1499 845,1501 907,1502 969,1505 1032,1507 1094,1508 1156,1509 1219,1511 1285,1512 1286,1485 1219,1484 1157,1483 1095,1481 1032,1480 970,1478 908,1476 845,1474 783,1473 718,1470 717,1497"/>
+        <Baseline points="717,1490 782,1493 845,1494 907,1495 970,1498 1032,1500 1094,1501 1157,1502 1219,1504 1286,1505"/>
+        <TextEquiv conf="0.386">
+          <Unicode>gun otro asunto que querais resolver en el Auxilio So-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l058" index="28" custom="heights_v2:[19.1,6.9]">
+        <Coords points="716,1526 779,1528 842,1529 906,1531 968,1532 1030,1533 1094,1535 1156,1536 1219,1538 1285,1538 1286,1531 1286,1512 1219,1512 1157,1510 1095,1509 1031,1507 969,1506 906,1505 842,1503 780,1502 716,1500 716,1526"/>
+        <Baseline points="716,1520 780,1521 842,1522 906,1524 968,1525 1030,1527 1094,1528 1157,1529 1219,1531 1286,1531"/>
+        <TextEquiv conf="0.580">
+          <Unicode>cial, porque para nosotros todos los españoles son igua-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l060" index="29" custom="heights_v2:[19.3,6.9]">
+        <Coords points="715,1553 779,1556 842,1558 904,1559 967,1560 1030,1562 1093,1565 1155,1565 1217,1566 1284,1569 1285,1543 1218,1540 1156,1539 1093,1538 1031,1536 967,1534 905,1533 842,1531 780,1530 716,1527 715,1553"/>
+        <Baseline points="715,1546 780,1549 842,1551 904,1552 967,1554 1030,1555 1093,1558 1155,1558 1218,1559 1284,1562"/>
+        <TextEquiv conf="0.933">
+          <Unicode>les ante la Ley y sólo como a españoles los juzgamos,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l062" index="30" custom="heights_v2:[19.3,6.9]">
+        <Coords points="716,1580 781,1583 843,1584 906,1587 968,1589 1030,1590 1093,1592 1155,1594 1217,1596 1284,1597 1285,1571 1218,1570 1156,1568 1094,1565 1031,1564 969,1563 906,1561 844,1558 781,1557 717,1554 716,1580"/>
+        <Baseline points="716,1573 781,1576 843,1578 906,1580 968,1582 1030,1583 1093,1585 1155,1588 1218,1589 1284,1590"/>
+        <TextEquiv conf="0.282">
+          <Unicode>sin que pueda haber nada ni nadie que nos hagalcam-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l064" index="31" custom="heights_v2:[18.9,6.8]">
+        <Coords points="1284,1598 1218,1596 1156,1594 1093,1594 1031,1593 967,1591 905,1590 842,1589 780,1586 715,1584 714,1610 779,1611 842,1614 904,1616 967,1617 1030,1618 1093,1620 1155,1620 1217,1621 1284,1624 1284,1598"/>
+        <Baseline points="714,1603 780,1605 842,1607 904,1609 967,1610 1030,1612 1093,1613 1155,1613 1218,1614 1284,1617"/>
+        <TextEquiv conf="0.389">
+          <Unicode>biar nuestro concepto de la misión comün que todos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l066" index="32" custom="heights_v2:[19.2,6.9]">
+        <Coords points="713,1636 778,1638 840,1640 904,1643 967,1644 1029,1645 1093,1647 1155,1648 1218,1650 1283,1650 1284,1624 1218,1624 1156,1622 1093,1621 1029,1619 967,1618 905,1617 841,1614 779,1612 714,1610 713,1617 713,1636"/>
+        <Baseline points="713,1629 778,1631 841,1633 904,1636 967,1637 1029,1639 1093,1640 1155,1641 1218,1643 1283,1643"/>
+        <TextEquiv conf="0.669">
+          <Unicode>tenemos, en lo niversal. En el nuevo Estado que con-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l068" index="33" custom="heights_v2:[19.3,6.9]">
+        <Coords points="1283,1653 1218,1652 1155,1652 1093,1650 1030,1648 967,1646 905,1645 841,1642 778,1642 714,1639 713,1665 778,1668 840,1668 904,1671 967,1672 1029,1674 1093,1677 1155,1678 1217,1678 1283,1679 1283,1653"/>
+        <Baseline points="713,1658 778,1661 841,1661 904,1664 967,1665 1029,1667 1093,1670 1155,1671 1218,1671 1283,1673"/>
+        <TextEquiv conf="0.644">
+          <Unicode>cede derechos e impone obligaciones, nadie necesita re-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l070" index="34" custom="heights_v2:[19.2,6.9]">
+        <Coords points="712,1695 777,1696 839,1698 903,1699 965,1701 1027,1701 1091,1702 1154,1704 1216,1705 1282,1708 1283,1682 1217,1679 1154,1678 1092,1676 1028,1675 965,1675 903,1673 840,1672 777,1670 712,1669 712,1695"/>
+        <Baseline points="712,1688 777,1690 839,1691 903,1692 965,1694 1028,1694 1091,1695 1154,1697 1216,1698 1282,1701"/>
+        <TextEquiv conf="0.598">
+          <Unicode>comendaciones para exigir los primeros, ni puede ha-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l072" index="35" custom="heights_v2:[19.2,6.9]">
+        <Coords points="711,1722 775,1723 838,1726 901,1728 964,1729 1027,1730 1090,1732 1153,1733 1216,1736 1281,1738 1282,1711 1217,1710 1155,1707 1090,1706 1028,1704 964,1703 902,1702 838,1700 776,1697 712,1696 711,1722"/>
+        <Baseline points="711,1715 775,1717 838,1719 901,1721 964,1722 1028,1724 1090,1725 1154,1726 1216,1729 1281,1731"/>
+        <TextEquiv conf="0.858">
+          <Unicode>berlas con fuerza suficiente para eximirlo de cumplir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l074" index="36" custom="heights_v2:[19.4,7.0]">
+        <Coords points="710,1750 775,1752 838,1753 901,1755 964,1756 1027,1759 1090,1760 1154,1762 1216,1763 1281,1765 1281,1738 1217,1737 1154,1735 1090,1734 1028,1733 965,1730 902,1728 838,1727 776,1725 711,1724 710,1750"/>
+        <Baseline points="710,1743 775,1745 838,1746 901,1748 964,1749 1028,1752 1090,1753 1154,1755 1216,1756 1281,1758"/>
+        <TextEquiv conf="0.994">
+          <Unicode>con los deberes que ante la Patria tuviera. La con-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l076" index="37" custom="heights_v2:[19.3,6.9]">
+        <Coords points="1281,1767 1215,1765 1153,1764 1090,1762 1027,1761 965,1758 902,1757 838,1755 775,1755 711,1754 710,1780 775,1782 838,1782 901,1783 964,1784 1026,1787 1090,1789 1152,1790 1215,1791 1280,1793 1281,1767"/>
+        <Baseline points="710,1773 775,1775 838,1775 901,1776 964,1777 1026,1780 1090,1782 1152,1783 1215,1785 1280,1786"/>
+        <TextEquiv conf="0.552">
+          <Unicode>signa, sigue firme: Quien hace recomendaciones es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l078" index="38" custom="heights_v2:[20.0,7.0]">
+        <Coords points="1280,1794 1215,1793 1153,1791 1090,1790 1027,1789 964,1787 902,1784 838,1783 776,1782 711,1779 710,1806 775,1809 838,1810 901,1811 964,1814 1026,1816 1090,1817 1152,1819 1215,1820 1280,1821 1280,1794"/>
+        <Baseline points="710,1799 775,1802 838,1803 901,1804 964,1807 1026,1809 1090,1810 1152,1811 1215,1813 1280,1814"/>
+        <TextEquiv conf="0.723">
+          <Unicode>traidor a España! Tampóco necesitáis, para recibir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l080" index="39" custom="heights_v2:[20.7,7.2]">
+        <Coords points="711,1836 777,1838 839,1840 901,1841 964,1843 1026,1844 1088,1846 1151,1847 1213,1850 1279,1850 1279,1822 1213,1822 1152,1819 1089,1818 1027,1816 964,1815 902,1813 840,1812 777,1811 712,1808 711,1836"/>
+        <Baseline points="712,1828 777,1831 839,1833 901,1834 964,1836 1026,1837 1089,1838 1151,1840 1213,1843 1279,1843"/>
+        <TextEquiv conf="0.506">
+          <Unicode>alimentos. justificar vnestra actitud ni vuestro pensa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l082" index="40" custom="heights_v2:[21.4,7.2]">
+        <Coords points="707,1867 772,1867 835,1868 898,1870 961,1871 1023,1873 1087,1875 1149,1877 1200,1879 1278,1881 1279,1852 1212,1851 1151,1848 1088,1847 1024,1844 962,1843 899,1841 835,1840 773,1838 708,1838 707,1867"/>
+        <Baseline points="707,1860 773,1860 835,1861 899,1863 961,1864 1023,1865 1087,1868 1150,1870 1212,1872 1279,1874"/>
+        <TextEquiv conf="0.721">
+          <Unicode>miento durante los años de guerra: si habéis estado al</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="115,1850 694,1864 694,1555 708,1131 644,1099 181,1086 177,1116 129,1172 115,1850"/>
+      <TextLine id="r000-l029" index="0" custom="heights_v2:[19.5,6.8]">
+        <Coords points="386,1092 337,1092 287,1090 236,1089 181,1086 180,1112 235,1115 286,1117 337,1118 387,1118 438,1119 489,1121 538,1122 589,1124 643,1125 644,1099 590,1097 539,1096 491,1095 386,1092"/>
+        <Baseline points="180,1106 235,1108 286,1110 337,1111 387,1111 438,1113 489,1114 539,1116 590,1117 644,1118"/>
+        <TextEquiv conf="0.672">
+          <Unicode>Excelentisimo señor Ministro de España,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l031" index="1" custom="heights_v2:[19.7,7.2]">
+        <Coords points="708,1131 645,1130 588,1127 530,1124 471,1123 411,1123 353,1121 295,1120 237,1118 177,1116 175,1143 237,1145 295,1147 353,1148 411,1150 470,1150 528,1151 586,1154 645,1157 707,1158 708,1131"/>
+        <Baseline points="176,1135 237,1138 295,1140 353,1141 411,1142 471,1142 529,1144 587,1147 645,1150 707,1151"/>
+        <TextEquiv conf="0.910">
+          <Unicode>Excelentisimo señor Cónsfil General de España.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l033" index="2" custom="heights_v2:[19.9,7.3]">
+        <Coords points="176,1172 235,1174 293,1174 351,1175 409,1177 466,1178 524,1180 582,1181 641,1182 701,1184 702,1157 641,1155 583,1154 525,1152 467,1151 410,1149 352,1148 294,1147 235,1147 176,1145 176,1172"/>
+        <Baseline points="176,1165 235,1167 293,1167 352,1168 410,1169 466,1171 524,1172 583,1174 641,1175 702,1176"/>
+        <TextEquiv conf="0.701">
+          <Unicode>llustrísimos señores Presidente del Comité Nacio-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l035" index="3" custom="heights_v2:[20.1,7.1]">
+        <Coords points="129,1199 194,1201 256,1202 320,1203 383,1205 446,1206 509,1208 572,1209 635,1211 701,1213 702,1186 636,1183 573,1182 509,1181 447,1179 383,1178 321,1176 257,1175 195,1173 129,1172 129,1199"/>
+        <Baseline points="129,1192 194,1193 257,1195 320,1196 383,1198 446,1199 509,1201 573,1202 635,1203 702,1206"/>
+        <TextEquiv conf="0.879">
+          <Unicode>nalista Español. Presidentes de los Centros Regiona-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l037" index="4" custom="heights_v2:[19.6,7.0]">
+        <Coords points="128,1227 183,1229 237,1230 290,1230 344,1232 397,1233 451,1234 504,1236 558,1239 615,1242 616,1215 559,1212 506,1209 451,1208 397,1207 345,1205 291,1204 237,1204 183,1202 129,1201 128,1227"/>
+        <Baseline points="128,1220 183,1222 237,1223 291,1223 344,1225 397,1226 451,1228 505,1229 558,1232 615,1235"/>
+        <TextEquiv conf="0.508">
+          <Unicode>les y Sociedades Españolas de Beneficencia,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l039" index="5" custom="heights_v2:[19.6,7.1]">
+        <Coords points="173,1256 201,1257 228,1257 254,1259 280,1259 306,1260 333,1260 359,1262 385,1262 415,1263 416,1236 386,1235 359,1235 334,1233 306,1233 282,1232 254,1232 229,1231 201,1231 174,1229 173,1256"/>
+        <Baseline points="173,1249 201,1250 228,1250 254,1252 281,1252 306,1253 333,1253 359,1254 386,1254 415,1256"/>
+        <TextEquiv conf="0.922">
+          <Unicode>Camaradas españoles:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l041" index="6" custom="heights_v2:[19.5,6.9]">
+        <Coords points="187,1285 245,1287 302,1287 358,1288 415,1291 470,1293 527,1294 584,1295 641,1295 700,1297 701,1270 641,1269 584,1269 528,1268 471,1266 416,1265 360,1262 302,1260 245,1260 188,1259 187,1285"/>
+        <Baseline points="187,1279 245,1280 302,1280 359,1281 415,1284 471,1286 527,1287 584,1288 641,1288 700,1290"/>
+        <TextEquiv conf="0.831">
+          <Unicode>Poniendo en práctica la consigna básica del Mo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l043" index="7" custom="heights_v2:[19.6,6.9]">
+        <Coords points="127,1312 193,1314 255,1315 319,1315 381,1318 445,1319 507,1321 571,1322 633,1325 700,1328 701,1301 634,1299 572,1296 508,1294 446,1293 382,1292 320,1289 255,1289 193,1287 128,1286 127,1312"/>
+        <Baseline points="128,1305 193,1307 255,1308 319,1308 381,1311 445,1313 507,1314 571,1315 634,1318 700,1321"/>
+        <TextEquiv conf="0.644">
+          <Unicode>vimiento que establece la Patria, el Pan y la Justicia,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l045" index="8" custom="heights_v2:[20.0,7.0]">
+        <Coords points="128,1342 193,1342 255,1342 319,1342 381,1345 443,1346 507,1349 570,1351 632,1352 699,1354 699,1327 633,1325 570,1324 508,1322 445,1319 382,1318 320,1315 255,1315 193,1315 128,1315 128,1342"/>
+        <Baseline points="128,1335 193,1335 255,1335 319,1335 381,1338 444,1339 507,1342 570,1344 632,1345 699,1347"/>
+        <TextEquiv conf="0.595">
+          <Unicode>y haciéndose eco de los deseos reiteradamente expre-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l047" index="9" custom="heights_v2:[19.9,6.9]">
+        <Coords points="125,1369 190,1370 254,1372 316,1372 380,1375 442,1376 506,1376 568,1378 632,1379 699,1380 699,1354 633,1352 569,1351 506,1349 442,1349 380,1348 317,1345 254,1345 190,1344 126,1342 125,1369"/>
+        <Baseline points="125,1362 190,1364 254,1365 316,1365 380,1368 442,1369 506,1369 568,1371 632,1372 699,1374"/>
+        <TextEquiv conf="0.376">
+          <Unicode>sadow por el Caudillo Franco de que no hava un solo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l049" index="10" custom="heights_v2:[19.9,7.1]">
+        <Coords points="699,1393 699,1382 633,1380 568,1380 506,1379 443,1378 380,1376 317,1375 254,1373 191,1371 125,1371 125,1385 125,1398 190,1398 254,1400 316,1402 380,1403 442,1405 506,1406 568,1408 632,1408 698,1409 699,1393"/>
+        <Baseline points="125,1391 190,1391 254,1393 316,1395 380,1396 442,1398 506,1399 568,1400 632,1400 699,1402"/>
+        <TextEquiv conf="0.781">
+          <Unicode>español sin pan, ni un hogar sin lumbre, el Auxilio</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l051" index="11" custom="heights_v2:[19.8,7.0]">
+        <Coords points="124,1424 188,1426 252,1427 315,1430 378,1432 441,1433 504,1433 567,1434 631,1434 697,1436 698,1409 631,1408 567,1408 505,1406 441,1406 379,1405 315,1403 253,1400 189,1399 124,1398 124,1424"/>
+        <Baseline points="124,1417 189,1419 252,1420 315,1423 378,1425 441,1426 505,1426 567,1427 631,1427 697,1429"/>
+        <TextEquiv conf="0.445">
+          <Unicode>Social de Cuba, como Delegación de Falange Española</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l053" index="12" custom="heights_v2:[19.7,7.0]">
+        <Coords points="697,1439 631,1437 569,1436 505,1435 443,1433 379,1432 317,1430 253,1429 190,1428 125,1426 125,1453 190,1454 252,1456 316,1457 378,1458 442,1460 504,1461 568,1463 631,1464 697,1466 697,1439"/>
+        <Baseline points="125,1446 190,1447 252,1449 316,1450 378,1451 442,1453 505,1454 568,1456 631,1457 697,1459"/>
+        <TextEquiv conf="0.571">
+          <Unicode>Tradicionalista y de las J G N. S. inaugura hoy el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l055" index="13" custom="heights_v2:[19.8,7.1]">
+        <Coords points="697,1467 631,1466 567,1467 506,1464 441,1463 379,1461 315,1460 253,1459 189,1457 124,1456 123,1483 188,1484 252,1485 315,1487 378,1488 441,1490 504,1491 567,1494 631,1493 696,1494 697,1467"/>
+        <Baseline points="123,1476 189,1477 252,1478 315,1480 378,1481 441,1483 505,1484 567,1487 631,1485 696,1487"/>
+        <TextEquiv conf="0.521">
+          <Unicode>comedor numero dos de la cindati de La Habana, en el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l057" index="14" custom="heights_v2:[19.4,7.0]">
+        <Coords points="695,1497 631,1496 567,1494 505,1493 441,1493 379,1490 315,1489 252,1489 189,1487 124,1486 123,1512 188,1514 252,1515 315,1515 378,1517 441,1519 504,1519 567,1521 631,1522 695,1524 695,1497"/>
+        <Baseline points="123,1505 189,1507 252,1508 315,1508 378,1510 441,1512 505,1512 567,1514 631,1515 695,1517"/>
+        <TextEquiv conf="0.722">
+          <Unicode>que recibirán almuerzo y merienda diarios un millar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l059" index="15" custom="heights_v2:[19.2,6.8]">
+        <Coords points="122,1539 177,1540 231,1542 285,1543 339,1543 392,1545 446,1546 500,1548 554,1549 611,1550 611,1524 555,1523 501,1522 447,1520 393,1519 339,1517 285,1517 232,1516 178,1514 122,1513 122,1539"/>
+        <Baseline points="122,1532 177,1534 231,1535 285,1537 339,1537 393,1538 446,1539 500,1541 554,1542 611,1544"/>
+        <TextEquiv conf="0.600">
+          <Unicode>de españoles carentes de recursos. (Ovación).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l061" index="16" custom="heights_v2:[18.7,6.6]">
+        <Coords points="634,1553 578,1553 524,1552 467,1550 412,1549 356,1548 300,1546 244,1545 186,1545 186,1570 244,1570 299,1571 356,1573 411,1574 466,1576 523,1577 578,1579 633,1579 693,1580 694,1555 634,1553"/>
+        <Baseline points="186,1563 244,1563 299,1565 356,1566 411,1568 466,1569 523,1571 578,1572 634,1572 693,1573"/>
+        <TextEquiv conf="0.755">
+          <Unicode>Quiero dirigirme en este momento a todos los es-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l063" index="17" custom="heights_v2:[18.8,6.7]">
+        <Coords points="694,1584 628,1583 566,1582 504,1580 440,1579 377,1577 315,1576 251,1574 189,1573 124,1572 123,1597 188,1598 251,1600 315,1601 377,1603 439,1604 503,1606 565,1607 628,1608 694,1610 694,1584"/>
+        <Baseline points="123,1590 189,1592 251,1593 315,1595 377,1596 439,1597 503,1599 566,1600 628,1602 694,1603"/>
+        <TextEquiv conf="0.876">
+          <Unicode>pañoles que viven en esta bendita isla de Cuba que con</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l065" index="18" custom="heights_v2:[18.9,6.8]">
+        <Coords points="694,1610 628,1608 566,1608 502,1607 440,1605 376,1604 314,1603 250,1601 188,1600 122,1598 122,1624 187,1626 249,1627 313,1628 375,1630 439,1631 502,1633 566,1634 628,1634 694,1635 694,1610"/>
+        <Baseline points="122,1617 187,1619 249,1620 313,1622 376,1623 439,1624 502,1626 566,1627 628,1627 694,1629"/>
+        <TextEquiv conf="0.465">
+          <Unicode>carino fraterno los ha recibido siempre, y a la que ellos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l067" index="19" custom="heights_v2:[19.0,6.8]">
+        <Coords points="694,1638 628,1638 566,1635 502,1635 440,1634 376,1632 314,1631 250,1630 188,1628 122,1627 122,1652 187,1654 249,1655 313,1657 375,1658 439,1660 502,1661 565,1661 628,1664 694,1664 694,1638"/>
+        <Baseline points="122,1646 187,1647 249,1648 313,1650 376,1651 439,1653 502,1654 566,1654 628,1657 694,1657"/>
+        <TextEquiv conf="0.946">
+          <Unicode>han aprendido a amar con el amor sincero con que se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l069" index="20" custom="heights_v2:[19.1,6.7]">
+        <Coords points="120,1682 162,1682 200,1682 238,1684 276,1684 314,1685 353,1686 391,1686 429,1688 470,1689 471,1663 430,1662 392,1661 353,1661 315,1659 277,1658 238,1658 201,1656 162,1656 120,1656 120,1682"/>
+        <Baseline points="120,1675 162,1675 200,1675 238,1677 276,1677 315,1678 353,1680 391,1680 429,1681 471,1683"/>
+        <TextEquiv conf="0.621">
+          <Unicode>quieren las cosas claras y bellas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l071" index="21" custom="heights_v2:[18.6,6.7]">
+        <Coords points="694,1696 636,1694 579,1692 524,1691 466,1691 410,1689 354,1689 298,1688 241,1687 183,1685 183,1710 241,1712 297,1713 354,1715 409,1715 466,1716 523,1716 578,1718 635,1719 694,1722 694,1696"/>
+        <Baseline points="183,1704 241,1705 298,1707 354,1708 410,1708 466,1709 523,1709 578,1711 635,1712 694,1715"/>
+        <TextEquiv conf="0.961">
+          <Unicode>A vosotros, camaradas españoles que salisteis un</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l073" index="22" custom="heights_v2:[18.6,6.7]">
+        <Coords points="694,1726 629,1723 565,1721 502,1721 439,1718 375,1716 312,1716 248,1715 185,1712 119,1711 119,1736 184,1737 248,1740 312,1742 374,1742 438,1743 502,1746 564,1746 628,1749 694,1752 694,1726"/>
+        <Baseline points="119,1729 184,1731 248,1734 312,1735 374,1735 438,1736 502,1739 564,1739 628,1742 694,1745"/>
+        <TextEquiv conf="0.753">
+          <Unicode>d'a de vuestras aldeasten busca de un mejoramiento</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l075" index="23" custom="heights_v2:[19.1,6.9]">
+        <Coords points="117,1765 183,1766 246,1767 309,1769 372,1770 435,1773 499,1774 561,1776 625,1777 692,1779 692,1753 625,1751 562,1750 499,1748 436,1747 374,1744 309,1743 247,1741 183,1740 118,1739 117,1765"/>
+        <Baseline points="118,1758 183,1759 247,1760 309,1762 373,1763 435,1766 499,1768 561,1769 625,1770 692,1772"/>
+        <TextEquiv conf="0.520">
+          <Unicode>cconomico de vida y que hoy os encontráis en situa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l077" index="24" custom="heights_v2:[19.8,7.0]">
+        <Coords points="117,1793 183,1794 246,1796 309,1799 373,1800 435,1802 499,1803 561,1804 625,1806 692,1807 692,1780 626,1779 562,1777 499,1776 436,1775 373,1773 309,1772 248,1769 183,1768 118,1766 117,1793"/>
+        <Baseline points="118,1786 183,1787 247,1789 309,1792 373,1793 435,1794 499,1796 561,1797 625,1799 692,1800"/>
+        <TextEquiv conf="0.931">
+          <Unicode>ción dificil por escasez de trabajo, para deciros a to-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l079" index="25" custom="heights_v2:[20.4,7.2]">
+        <Coords points="116,1820 181,1822 245,1824 307,1826 371,1827 434,1829 497,1830 560,1831 624,1833 690,1833 690,1805 624,1805 560,1804 498,1802 434,1801 372,1800 308,1798 246,1797 182,1794 117,1793 116,1820"/>
+        <Baseline points="116,1813 181,1814 245,1817 308,1819 371,1820 434,1821 498,1823 560,1824 624,1826 690,1826"/>
+        <TextEquiv conf="0.985">
+          <Unicode>dos que, en adelante, no tengáis miedo a la materiali-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l081" index="26" custom="heights_v2:[20.9,7.2]">
+        <Coords points="288,1854 309,1854 334,1855 405,1857 436,1857 500,1858 546,1860 694,1864 694,1836 628,1835 565,1833 501,1830 437,1829 373,1829 310,1826 245,1826 182,1825 116,1822 115,1850 288,1854"/>
+        <Baseline points="115,1843 181,1846 245,1847 309,1847 373,1850 437,1850 500,1851 564,1854 628,1855 694,1857"/>
+        <TextEquiv conf="0.831">
+          <Unicode>dad de existir, porque Auxilio Social, en nombre de</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

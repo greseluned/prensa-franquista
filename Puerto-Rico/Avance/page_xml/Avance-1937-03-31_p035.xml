@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:49:50.682921+00:00</Created>
+    <LastChange>2026-09-16T07:49:50.682921+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1937-03-31_p035" imageWidth="1671" imageHeight="2377">
+    <TextRegion id="r003">
+      <Coords points="264,564 261,676 361,679 495,721 896,729 1024,690 1127,690 1127,578 264,564"/>
+      <TextLine id="r003-l001" index="0" custom="heights_v2:[84.1,27.5]">
+        <Coords points="261,676 361,679 456,682 551,684 645,684 740,687 835,690 930,690 1024,690 1127,690 1127,578 1024,578 930,578 835,578 743,576 648,573 551,573 459,570 364,567 264,564 261,676"/>
+        <Baseline points="262,648 362,651 456,654 551,657 646,657 740,660 835,662 930,662 1024,662 1127,662"/>
+        <TextEquiv conf="0.992">
+          <Unicode>MENDEZ &amp; COMPANIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l002" index="1" custom="heights_v2:[33.4,13.6]">
+        <Coords points="628,723 628,723 628,723 896,729 896,682 846,682 802,682 762,679 715,679 674,679 631,676 587,676 543,676 497,674 495,721 628,723"/>
+        <Baseline points="495,707 543,710 587,710 629,710 674,712 715,712 760,712 802,715 846,715 896,715"/>
+        <TextEquiv conf="0.927">
+          <Unicode>CASA FUNDADA EN 1912.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="1125,751 264,734 264,777 1124,794 1125,751"/>
+      <TextLine id="r004-l003" index="0" custom="heights_v2:[31.4,11.8]">
+        <Coords points="264,734 264,777 362,777 456,777 551,780 645,780 740,783 835,786 929,788 1024,791 1124,794 1125,751 264,734"/>
+        <Baseline points="264,765 362,765 456,765 551,768 646,768 740,771 835,774 930,777 1024,779 1124,782"/>
+        <TextEquiv conf="0.794">
+          <Unicode>SAN JUAN, PUERTO RICO Y CIUDAD TRUJILLO, R. D.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="266,846 264,903 337,905 406,962 1124,976 1126,919 960,916 896,857 266,846"/>
+      <TextLine id="r005-l004" index="0" custom="heights_v2:[42.0,14.8]">
+        <Coords points="264,903 337,905 406,905 475,905 545,908 612,911 681,911 751,914 821,914 896,914 896,857 821,857 751,857 684,854 612,854 547,851 520,850 423,849 406,849 337,849 266,846 264,903"/>
+        <Baseline points="264,888 337,891 406,891 476,891 546,893 612,896 682,896 751,899 821,899 896,899"/>
+        <TextEquiv conf="0.999">
+          <Unicode>COMISIONES, REPRESENTACIONES,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l005" index="1" custom="heights_v2:[41.1,15.3]">
+        <Coords points="981,973 1038,973 1124,976 1126,919 960,916 882,916 806,914 724,914 647,911 569,908 491,905 406,905 406,962 489,962 567,964 588,965 981,973"/>
+        <Baseline points="406,946 490,946 568,949 646,952 724,955 804,955 882,957 960,957 1038,957 1124,960"/>
+        <TextEquiv conf="0.992">
+          <Unicode>CONSIGNACIONES, BUQUES Y SEGUROS.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="910,1002 479,993 479,1044 528,1044 571,1111 824,1117 857,1052 910,1052 910,1002"/>
+      <TextLine id="r007-l006" index="0" custom="heights_v2:[36.5,14.1]">
+        <Coords points="623,996 576,996 554,995 479,993 479,1044 528,1044 576,1047 623,1047 671,1047 714,1047 762,1049 810,1052 857,1052 910,1052 910,1002 857,1002 810,1002 765,999 762,999 623,996"/>
+        <Baseline points="479,1030 529,1030 576,1033 623,1033 671,1033 715,1033 763,1035 810,1038 857,1038 910,1038"/>
+        <TextEquiv conf="1.000">
+          <Unicode>EN COMBINACION CON LA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l007" index="1" custom="heights_v2:[39.3,14.5]">
+        <Coords points="824,1117 824,1063 782,1063 749,1063 712,1063 682,1060 643,1060 613,1057 571,1057 571,1111 608,1111 623,1112 824,1117"/>
+        <Baseline points="571,1097 610,1097 643,1099 679,1099 712,1102 749,1102 782,1102 824,1102"/>
+        <TextEquiv conf="0.525">
+          <Unicode>RED “D" LINE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="276,1133 276,1223 337,1292 1040,1306 1113,1194 1114,1152 276,1133"/>
+      <TextLine id="r006-l008" index="0" custom="heights_v2:[30.6,11.4]">
+        <Coords points="276,1175 373,1178 464,1180 557,1183 648,1183 740,1186 832,1189 924,1189 1016,1191 1113,1194 1114,1152 875,1147 832,1147 741,1144 695,1143 635,1141 557,1141 466,1138 374,1136 276,1133 276,1175"/>
+        <Baseline points="276,1163 373,1166 465,1169 557,1172 648,1172 740,1174 832,1177 924,1177 1016,1180 1113,1183"/>
+        <TextEquiv conf="0.991">
+          <Unicode>VIAJE Y REMITA SU CARGA AL NORTE DE EUROPA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l009" index="1" custom="heights_v2:[31.2,12.0]">
+        <Coords points="276,1223 334,1223 390,1223 445,1223 501,1223 553,1223 610,1225 665,1225 720,1225 782,1228 783,1185 722,1182 665,1182 610,1182 555,1180 501,1179 445,1179 390,1179 334,1179 276,1179 276,1223"/>
+        <Baseline points="276,1211 334,1211 390,1211 445,1211 501,1211 554,1211 610,1213 665,1213 721,1213 782,1216"/>
+        <TextEquiv conf="0.976">
+          <Unicode>POR NUESTRA REPRESENTADA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l010" index="2" custom="heights_v2:[36.4,14.4]">
+        <Coords points="759,1300 804,1300 879,1300 957,1303 1040,1306 1042,1255 959,1252 881,1249 804,1249 726,1249 650,1247 575,1244 495,1244 419,1241 337,1241 337,1292 417,1292 495,1295 573,1295 648,1297 685,1299 759,1300"/>
+        <Baseline points="337,1277 417,1277 495,1280 573,1280 648,1283 726,1286 804,1286 879,1286 957,1289 1041,1291"/>
+        <TextEquiv conf="0.968">
+          <Unicode>International Merchants Marine Company</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="814,1330 259,1324 259,1368 812,1373 814,1330"/>
+      <TextLine id="r002-l011" index="0" custom="heights_v2:[31.2,12.4]">
+        <Coords points="259,1324 259,1368 323,1368 384,1368 445,1368 504,1368 565,1368 626,1368 685,1371 745,1371 812,1373 814,1330 259,1324"/>
+        <Baseline points="259,1355 323,1355 384,1355 445,1355 504,1355 565,1355 626,1355 685,1358 746,1358 813,1361"/>
+        <TextEquiv conf="0.941">
+          <Unicode>PARA EL MEDITERRÁNEO POR LA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="256,1509 250,1696 278,1762 818,1767 1090,1779 1116,1518 1003,1447 893,1395 486,1387 380,1436 256,1509"/>
+      <TextLine id="r001-l012" index="0" custom="heights_v2:[35.3,13.2]">
+        <Coords points="719,1392 705,1393 685,1391 619,1390 576,1390 532,1390 486,1387 483,1435 532,1438 576,1438 621,1438 664,1438 708,1441 751,1438 796,1441 840,1441 890,1444 893,1395 719,1392"/>
+        <Baseline points="484,1422 532,1425 576,1425 621,1425 665,1425 707,1428 751,1425 796,1428 841,1428 891,1431"/>
+        <TextEquiv conf="1.000">
+          <Unicode>American Export Lines,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l013" index="1" custom="heights_v2:[30.5,11.8]">
+        <Coords points="928,1445 860,1445 792,1442 724,1442 654,1442 589,1439 518,1439 451,1439 380,1436 378,1478 451,1481 518,1481 587,1481 654,1484 724,1484 790,1484 860,1487 926,1487 1002,1490 1003,1447 928,1445"/>
+        <Baseline points="379,1467 451,1470 518,1470 587,1470 654,1472 724,1472 790,1472 860,1475 927,1475 1002,1478"/>
+        <TextEquiv conf="0.984">
+          <Unicode>(TAMBIEN REPRESENTADA NUESTRA)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l014" index="2" custom="heights_v2:[32.4,12.9]">
+        <Coords points="1116,1518 1016,1518 922,1515 828,1512 732,1512 638,1509 543,1509 448,1509 353,1509 256,1509 256,1555 353,1555 448,1555 543,1555 637,1555 732,1558 826,1558 921,1560 1016,1563 1112,1563 1116,1518"/>
+        <Baseline points="256,1542 353,1542 448,1542 543,1542 637,1542 732,1545 827,1545 921,1547 1016,1550 1113,1550"/>
+        <TextEquiv conf="0.691">
+          <Unicode>AL CANADA, VIAJE Y HAGA SUS EMBARQUES POR LA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l015" index="3" custom="heights_v2:[37.4,15.2]">
+        <Coords points="397,1621 465,1624 528,1624 593,1627 656,1627 718,1629 781,1629 845,1632 910,1635 980,1635 980,1582 910,1582 848,1580 784,1577 718,1577 659,1574 593,1574 530,1571 465,1571 400,1569 397,1621"/>
+        <Baseline points="398,1606 465,1609 529,1609 593,1611 657,1611 718,1614 782,1614 846,1617 910,1620 980,1620"/>
+        <TextEquiv conf="0.995">
+          <Unicode>Canadian National Steamship Co.,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="4" custom="heights_v2:[32.3,12.6]">
+        <Coords points="250,1696 292,1696 328,1696 365,1696 401,1696 437,1696 473,1696 508,1696 546,1699 590,1699 590,1654 546,1654 512,1652 473,1651 437,1651 401,1651 365,1651 328,1651 292,1651 252,1651 250,1696"/>
+        <Baseline points="251,1684 292,1684 328,1684 365,1684 401,1684 437,1684 473,1684 509,1684 546,1687 590,1687"/>
+        <TextEquiv conf="0.847">
+          <Unicode>Y DE CHILE POR LA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l017" index="5" custom="heights_v2:[35.0,14.1]">
+        <Coords points="818,1767 907,1770 996,1773 1090,1779 1093,1730 998,1724 908,1721 819,1718 729,1718 640,1718 551,1718 462,1718 374,1716 279,1713 278,1762 818,1767"/>
+        <Baseline points="278,1748 373,1751 462,1753 551,1753 640,1753 729,1753 818,1753 907,1756 996,1759 1091,1765"/>
+        <TextEquiv conf="0.889">
+          <Unicode>Compañía Chilena de Navegación Interoceánica</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="1014,1803 248,1794 248,1837 1013,1846 1014,1803"/>
+      <TextLine id="r000-l018" index="0" custom="heights_v2:[31.3,11.5]">
+        <Coords points="248,1794 248,1837 337,1837 420,1837 504,1837 587,1837 670,1837 754,1840 837,1840 921,1843 1013,1846 1014,1803 248,1794"/>
+        <Baseline points="248,1826 337,1826 420,1826 504,1826 587,1826 671,1826 754,1829 838,1829 921,1831 1013,1834"/>
+        <TextEquiv conf="0.998">
+          <Unicode>AMBAS TAMBIEN REPRESENTADAS NUESTRAS.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:37:41.631082+00:00</Created>
+    <LastChange>2026-09-16T07:37:41.631082+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1938-01-15_p001" imageWidth="1732" imageHeight="2500">
+    <TextRegion id="r002">
+      <Coords points="389,651 1049,669 1049,437 399,420 389,651"/>
+      <TextLine id="r002-l004" index="0" custom="heights_v2:[204.3,27.2]">
+        <Coords points="1049,669 1049,437 967,437 907,434 826,433 755,433 690,430 609,430 549,427 478,423 399,420 389,651 1049,669"/>
+        <Baseline points="390,624 468,627 539,631 609,634 680,634 755,638 826,638 896,638 967,641 1049,641"/>
+        <TextEquiv conf="0.699">
+          <Unicode>QVANC</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="1217,440 1212,569 1240,614 1329,615 1329,565 1356,500 1359,447 1217,440"/>
+      <TextLine id="r006-l001" index="0" custom="heights_v2:[38.0,15.0]">
+        <Coords points="1215,493 1285,497 1356,500 1359,447 1288,444 1217,440 1215,493"/>
+        <Baseline points="1216,478 1286,482 1357,485"/>
+        <TextEquiv conf="0.811">
+          <Unicode>F E.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l002" index="1" custom="heights_v2:[41.6,15.8]">
+        <Coords points="1212,569 1325,569 1325,511 1214,511 1212,569"/>
+        <Baseline points="1212,553 1325,553"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l003" index="2" custom="heights_v2:[37.1,12.4]">
+        <Coords points="1329,615 1329,565 1240,565 1240,614 1329,615"/>
+        <Baseline points="1240,602 1329,602"/>
+        <TextEquiv conf="0.925">
+          <Unicode>A</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="1198,668 1393,671 1393,618 1198,614 1198,668"/>
+      <TextLine id="r005-l005" index="0" custom="heights_v2:[41.4,12.0]">
+        <Coords points="1393,671 1393,618 1339,618 1324,616 1198,614 1198,668 1247,668 1292,668 1323,670 1393,671"/>
+        <Baseline points="1198,656 1247,656 1293,656 1339,659 1393,659"/>
+        <TextEquiv conf="0.798">
+          <Unicode>J.O.N. S.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="198,686 322,690 322,652 200,648 198,686"/>
+      <TextLine id="r000-l006" index="0" custom="heights_v2:[28.7,9.6]">
+        <Coords points="322,690 322,652 259,652 200,648 198,686 322,690"/>
+        <Baseline points="198,677 259,680 322,680"/>
+        <TextEquiv conf="0.558">
+          <Unicode>Año II. —</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="322,690 442,697 446,659 322,652 322,690"/>
+      <TextLine id="r001-l007" index="0" custom="heights_v2:[28.2,9.9]">
+        <Coords points="327,690 382,690 442,697 446,659 322,652 322,690 327,690"/>
+        <Baseline points="322,680 383,680 443,687"/>
+        <TextEquiv conf="0.990">
+          <Unicode>Número 2</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="673,704 886,707 886,668 673,664 673,704"/>
+      <TextLine id="r003-l008" index="0" custom="heights_v2:[30.3,9.1]">
+        <Coords points="886,707 886,668 829,668 812,667 673,664 673,704 730,704 779,704 812,706 886,707"/>
+        <Baseline points="673,694 730,694 780,694 829,698 886,698"/>
+        <TextEquiv conf="0.971">
+          <Unicode>ENERO 15, 1938.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="1139,679 1137,714 1374,725 1377,689 1139,679"/>
+      <TextLine id="r004-l009" index="0" custom="heights_v2:[26.4,8.9]">
+        <Coords points="1137,714 1295,721 1321,721 1374,725 1377,689 1297,686 1276,686 1233,686 1189,682 1139,679 1137,714"/>
+        <Baseline points="1137,705 1187,709 1233,712 1276,712 1322,712 1375,716"/>
+        <TextEquiv conf="0.910">
+          <Unicode>Número Suelto 10 c.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

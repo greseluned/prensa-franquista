@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:27:01.703170+00:00</Created>
+    <LastChange>2026-09-16T07:27:01.703170+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1937-12-01_p028" imageWidth="1671" imageHeight="2439">
+    <TextRegion id="r002">
+      <Coords points="1448,637 1093,625 1093,728 1448,741 1448,637"/>
+      <TextLine id="r002-l001" index="0" custom="heights_v2:[76.1,27.3]">
+        <Coords points="1335,634 1291,633 1270,631 1214,629 1196,629 1186,628 1093,625 1093,728 1144,728 1185,732 1210,733 1243,733 1266,735 1327,737 1338,737 1347,737 1448,741 1448,637 1390,637 1353,634 1335,634"/>
+        <Baseline points="1093,701 1147,701 1196,705 1246,705 1291,709 1340,709 1390,714 1448,714"/>
+        <TextEquiv conf="0.992">
+          <Unicode>DADOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="580,1115 542,1151 545,1196 739,1183 736,1139 695,1107 580,1115"/>
+      <TextLine id="r001-l002" index="0" custom="heights_v2:[27.2,10.8]">
+        <Coords points="580,1115 582,1153 698,1145 695,1107 580,1115"/>
+        <Baseline points="582,1143 697,1134"/>
+        <TextEquiv conf="0.230">
+          <Unicode>Doutcos se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l003" index="1" custom="heights_v2:[32.6,11.8]">
+        <Coords points="545,1196 623,1191 669,1187 739,1183 736,1139 666,1143 608,1147 542,1151 545,1196"/>
+        <Baseline points="544,1184 610,1180 668,1175 738,1171"/>
+        <TextEquiv conf="0.998">
+          <Unicode>FUNDADO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="379,1635 374,1762 445,1823 487,1904 606,1952 1044,1969 1147,1916 1204,1856 1286,1791 1291,1664 379,1635"/>
+      <TextLine id="r000-l004" index="0" custom="heights_v2:[105.7,21.8]">
+        <Coords points="374,1762 483,1767 581,1767 680,1771 779,1775 879,1779 977,1779 1076,1783 1175,1787 1286,1791 1291,1664 898,1651 879,1651 823,1649 508,1639 483,1639 379,1635 374,1762"/>
+        <Baseline points="375,1741 483,1745 582,1745 681,1749 780,1753 879,1757 978,1757 1077,1761 1175,1765 1287,1769"/>
+        <TextEquiv conf="0.569">
+          <Unicode>PEDRO DUMECD</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="1" custom="heights_v2:[51.7,16.7]">
+        <Coords points="1204,1788 1114,1788 1034,1784 951,1780 869,1776 789,1768 706,1759 621,1755 536,1755 445,1755 445,1823 536,1823 618,1823 700,1827 782,1836 865,1844 948,1848 1030,1852 1114,1856 1204,1856 1204,1788"/>
+        <Baseline points="445,1807 536,1807 619,1807 701,1811 784,1819 866,1827 949,1831 1031,1835 1114,1840 1204,1840"/>
+        <TextEquiv conf="0.467">
+          <Unicode>insCnae</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="2" custom="heights_v2:[41.1,14.8]">
+        <Coords points="1147,1860 1064,1860 996,1856 924,1856 850,1856 782,1852 709,1852 637,1848 565,1848 487,1848 487,1904 565,1904 634,1904 709,1908 779,1908 850,1912 924,1912 993,1912 1064,1916 1147,1916 1147,1860"/>
+        <Baseline points="487,1889 565,1889 635,1889 709,1893 780,1893 850,1897 924,1897 994,1897 1064,1901 1147,1901"/>
+        <TextEquiv conf="0.175">
+          <Unicode>BNNO DE IZQUERDO. NC.. Dialibudores.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l007" index="3" custom="heights_v2:[37.8,13.6]">
+        <Coords points="824,1960 844,1960 862,1962 933,1965 939,1965 944,1965 1044,1969 1044,1917 986,1917 944,1913 895,1913 849,1909 800,1909 758,1905 708,1901 660,1901 606,1901 606,1952 660,1952 704,1952 754,1956 782,1959 824,1960"/>
+        <Baseline points="606,1939 660,1939 705,1939 755,1943 800,1947 846,1947 895,1951 940,1951 986,1955 1044,1955"/>
+        <TextEquiv conf="0.608">
+          <Unicode>JAN JUAN, ERONCO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

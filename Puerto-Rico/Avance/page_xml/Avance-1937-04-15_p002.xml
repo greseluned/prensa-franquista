@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:32:45.712915+00:00</Created>
+    <LastChange>2026-09-16T07:32:45.712915+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1937-04-15_p002" imageWidth="1671" imageHeight="2377">
+    <TextRegion id="r001">
+      <Coords points="1025,864 663,855 663,924 1025,933 1025,864"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[49.6,19.8]">
+        <Coords points="844,859 844,859 784,859 758,857 663,855 663,924 726,924 756,927 844,929 898,929 924,931 1025,933 1025,864 955,864 926,862 844,859"/>
+        <Baseline points="663,904 728,904 784,909 844,909 900,909 955,914 1025,914"/>
+        <TextEquiv conf="0.999">
+          <Unicode>CORTESIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="921,994 761,990 761,1044 917,1049 921,994"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[40.0,14.5]">
+        <Coords points="761,990 761,1044 839,1044 917,1049 921,994 761,990"/>
+        <Baseline points="761,1030 839,1030 918,1034"/>
+        <TextEquiv conf="0.996">
+          <Unicode>DE LA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="1228,1138 459,1119 459,1225 546,1225 636,1379 642,1460 1048,1460 1048,1343 1130,1239 1223,1244 1228,1138"/>
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[77.4,28.9]">
+        <Coords points="650,1124 631,1124 616,1123 459,1119 459,1225 546,1225 631,1230 714,1230 798,1230 880,1230 965,1235 1047,1235 1130,1239 1223,1244 1228,1138 650,1124"/>
+        <Baseline points="459,1197 547,1197 631,1201 714,1201 798,1201 881,1201 965,1206 1048,1206 1132,1210 1224,1215"/>
+        <TextEquiv conf="0.888">
+          <Unicode>Central Carmen Inc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="1" custom="heights_v2:[64.0,26.1]">
+        <Coords points="1048,1253 979,1253 923,1249 863,1244 798,1244 742,1239 668,1239 668,1329 735,1329 798,1334 856,1334 916,1339 979,1343 1048,1343 1048,1253"/>
+        <Baseline points="668,1303 737,1303 798,1308 858,1308 918,1313 979,1317 1048,1317"/>
+        <TextEquiv conf="0.964">
+          <Unicode>(VEGA ALTA)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="2" custom="heights_v2:[59.2,22.6]">
+        <Coords points="642,1460 705,1456 761,1456 816,1456 870,1456 927,1460 1048,1460 1048,1379 983,1379 928,1379 877,1374 816,1374 761,1374 705,1374 636,1379 642,1460"/>
+        <Baseline points="640,1438 705,1433 761,1433 816,1433 872,1433 928,1438 983,1438 1048,1438"/>
+        <TextEquiv conf="0.736">
+          <Unicode>SAN JUAN, P. R.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

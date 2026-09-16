@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:51:05.090141+00:00</Created>
+    <LastChange>2026-09-16T07:51:05.090141+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1938-08-01_p028" imageWidth="1671" imageHeight="2493">
+    <TextRegion id="r005">
+      <Coords points="1402,645 946,633 946,727 1402,739 1402,645"/>
+      <TextLine id="r005-l001" index="0" custom="heights_v2:[70.1,23.4]">
+        <Coords points="946,633 946,727 997,726 1024,729 1095,731 1096,731 1096,731 1402,739 1402,645 1345,645 1295,645 1246,645 1202,641 1147,641 1104,637 1048,637 1027,635 946,633"/>
+        <Baseline points="946,703 999,703 1048,707 1098,707 1147,711 1197,711 1246,715 1295,715 1345,715 1402,715"/>
+        <TextEquiv conf="0.997">
+          <Unicode>UNDADOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="466,897 450,1083 545,1092 561,906 466,897"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[160.0,26.8]">
+        <Coords points="450,1083 545,1092 561,906 466,897 450,1083"/>
+        <Baseline points="452,1057 547,1065"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="691,1142 487,1158 490,1209 696,1192 691,1142"/>
+      <TextLine id="r003-l003" index="0" custom="heights_v2:[38.7,12.5]">
+        <Coords points="490,1209 696,1192 691,1142 617,1150 557,1154 487,1158 490,1209"/>
+        <Baseline points="489,1197 559,1192 621,1188 695,1180"/>
+        <TextEquiv conf="0.999">
+          <Unicode>FUNDADO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="653,1472 542,1476 543,1521 654,1517 653,1472"/>
+      <TextLine id="r004-l004" index="0" custom="heights_v2:[33.3,12.3]">
+        <Coords points="542,1476 543,1521 654,1517 653,1472 542,1476"/>
+        <Baseline points="543,1509 654,1505"/>
+        <TextEquiv conf="0.231">
+          <Unicode>DT LA PRONT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="325,1643 325,1786 397,1786 397,1776 578,1768 829,1792 1250,1807 1250,1663 325,1643"/>
+      <TextLine id="r000-l005" index="0" custom="heights_v2:[113.2,30.7]">
+        <Coords points="325,1786 397,1786 397,1776 578,1768 829,1792 1250,1807 1250,1663 1139,1663 1041,1659 937,1659 839,1655 736,1655 638,1651 568,1648 325,1643 325,1786"/>
+        <Baseline points="325,1756 432,1756 535,1760 633,1764 736,1768 835,1768 937,1772 1036,1772 1139,1776 1250,1776"/>
+        <TextEquiv conf="0.901">
+          <Unicode>PEDR DUMECQ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="441,1924 517,1920 572,1967 995,1980 1110,1936 1174,1872 1180,1805 829,1792 578,1768 397,1776 400,1844 441,1924"/>
+      <TextLine id="r001-l006" index="0" custom="heights_v2:[49.9,18.1]">
+        <Coords points="1180,1805 943,1796 913,1796 829,1792 578,1768 397,1776 400,1844 490,1840 575,1835 655,1839 742,1852 826,1860 913,1864 995,1864 1080,1864 1174,1872 1180,1805"/>
+        <Baseline points="399,1826 489,1821 576,1817 658,1821 744,1834 826,1842 913,1846 995,1846 1081,1846 1176,1854"/>
+        <TextEquiv conf="0.334">
+          <Unicode>TnosCnae </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="1" custom="heights_v2:[40.1,16.1]">
+        <Coords points="517,1920 592,1924 666,1924 735,1924 810,1928 883,1928 953,1932 1028,1936 1110,1936 1110,1880 1028,1880 956,1876 886,1872 810,1872 738,1868 666,1868 592,1868 520,1864 438,1868 441,1924 517,1920"/>
+        <Baseline points="440,1908 518,1904 592,1908 666,1908 736,1908 810,1912 884,1912 954,1916 1028,1920 1110,1920"/>
+        <TextEquiv conf="0.511">
+          <Unicode>BNINO DE IZQUERDO. INC., Dislribudores.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="2" custom="heights_v2:[37.9,14.1]">
+        <Coords points="711,1971 714,1971 716,1971 995,1980 995,1927 942,1927 896,1927 855,1924 806,1923 761,1923 719,1919 670,1919 628,1915 572,1915 572,1967 624,1967 650,1969 711,1971"/>
+        <Baseline points="572,1953 625,1953 670,1957 715,1957 761,1961 806,1961 851,1961 896,1965 942,1965 995,1965"/>
+        <TextEquiv conf="0.445">
+          <Unicode>JAN JUAN, RUERJONCO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:49:51.216921+00:00</Created>
+    <LastChange>2026-09-16T07:49:51.216921+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1937-03-31_p036" imageWidth="1667" imageHeight="2377">
+    <TextRegion id="r002">
+      <Coords points="912,450 905,549 1310,573 1317,474 1239,370 967,364 912,450"/>
+      <TextLine id="r002-l001" index="0" custom="heights_v2:[83.2,25.2]">
+        <Coords points="967,364 967,473 1056,472 1143,479 1239,479 1239,370 1143,370 1101,367 967,364"/>
+        <Baseline points="967,447 1058,447 1143,453 1239,453"/>
+        <TextEquiv conf="0.701">
+          <Unicode>DANCI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l002" index="1" custom="heights_v2:[75.9,23.3]">
+        <Coords points="905,549 1209,567 1220,567 1310,573 1317,474 1226,468 1143,468 1076,462 997,456 912,450 905,549"/>
+        <Baseline points="907,526 991,532 1070,538 1143,544 1221,544 1312,550"/>
+        <TextEquiv conf="0.760">
+          <Unicode>BOLEGO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="936,749 923,975 1256,994 1263,885 1232,761 936,749"/>
+      <TextLine id="r003-l003" index="0" custom="heights_v2:[79.6,25.4]">
+        <Coords points="930,854 1034,860 1123,860 1226,866 1232,761 1082,755 1034,755 936,749 930,854"/>
+        <Baseline points="931,828 1034,834 1124,834 1227,840"/>
+        <TextEquiv conf="0.927">
+          <Unicode>VINO/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l004" index="1" custom="heights_v2:[82.4,26.4]">
+        <Coords points="1145,988 1165,988 1256,994 1263,885 1172,879 1088,879 1016,873 931,867 923,975 1145,988"/>
+        <Baseline points="925,949 1010,955 1088,961 1167,961 1257,967"/>
+        <TextEquiv conf="0.944">
+          <Unicode>CONAC</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="480,1355 478,1727 683,1727 683,1637 699,1452 667,1362 480,1355"/>
+      <TextLine id="r000-l005" index="0" custom="heights_v2:[59.2,21.6]">
+        <Coords points="479,1436 664,1442 667,1362 480,1355 479,1436"/>
+        <Baseline points="479,1415 665,1421"/>
+        <TextEquiv conf="0.936">
+          <Unicode>ANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="1" custom="heights_v2:[65.2,25.9]">
+        <Coords points="479,1531 585,1537 691,1543 699,1452 590,1446 481,1440 479,1483 479,1531"/>
+        <Baseline points="479,1505 586,1511 693,1517"/>
+        <TextEquiv conf="0.951">
+          <Unicode>DULCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l007" index="2" custom="heights_v2:[68.2,22.1]">
+        <Coords points="478,1727 580,1727 683,1727 683,1637 580,1637 478,1637 478,1727"/>
+        <Baseline points="478,1705 580,1705 683,1705"/>
+        <TextEquiv conf="0.966">
+          <Unicode>ECO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="717,1975 712,2053 1081,2071 1085,1993 717,1975"/>
+      <TextLine id="r001-l008" index="0" custom="heights_v2:[56.8,21.6]">
+        <Coords points="712,2053 835,2059 893,2059 978,2065 1081,2071 1085,1993 839,1981 810,1981 717,1975 712,2053"/>
+        <Baseline points="713,2031 810,2037 895,2037 979,2043 1082,2049"/>
+        <TextEquiv conf="0.872">
+          <Unicode>ISIO TRIGO, San Juan, P.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:35:17.333284+00:00</Created>
+    <LastChange>2026-09-16T07:35:17.333284+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1937-04-15_p045" imageWidth="1671" imageHeight="2385">
+    <TextRegion id="r002">
+      <Coords points="719,906 488,894 488,982 719,994 884,994 884,906 719,906"/>
+      <TextLine id="r002-l001" index="0" custom="heights_v2:[63.2,25.0]">
+        <Coords points="488,894 488,982 571,982 644,988 719,994 793,994 884,994 884,906 793,906 719,906 488,894"/>
+        <Baseline points="488,957 573,957 646,963 719,969 793,969 884,969"/>
+        <TextEquiv conf="0.968">
+          <Unicode>CORTESIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="599,1038 597,1103 768,1109 770,1044 599,1038"/>
+      <TextLine id="r003-l002" index="0" custom="heights_v2:[47.8,17.6]">
+        <Coords points="597,1103 768,1109 770,1044 599,1038 597,1103"/>
+        <Baseline points="598,1085 768,1091"/>
+        <TextEquiv conf="0.994">
+          <Unicode>DE LA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="811,1200 293,1188 293,1296 803,1308 1065,1326 1072,1218 811,1200"/>
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[80.6,27.3]">
+        <Coords points="293,1188 293,1296 384,1296 468,1296 555,1302 632,1302 676,1305 803,1308 1065,1326 1072,1218 975,1212 890,1206 811,1200 719,1200 680,1197 293,1188"/>
+        <Baseline points="293,1268 384,1268 469,1268 555,1274 634,1274 719,1280 805,1280 884,1287 969,1293 1067,1299"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Central San Vicente</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="456,1362 450,1451 883,1475 888,1387 456,1362"/>
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[64.7,24.1]">
+        <Coords points="450,1451 559,1457 620,1457 705,1463 785,1469 883,1475 888,1387 562,1368 543,1368 456,1362 450,1451"/>
+        <Baseline points="451,1427 543,1433 622,1433 707,1439 787,1445 884,1451"/>
+        <TextEquiv conf="0.981">
+          <Unicode>VEGA BAJA, P. R.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

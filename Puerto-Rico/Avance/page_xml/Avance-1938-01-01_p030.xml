@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:28:05.264666+00:00</Created>
+    <LastChange>2026-09-16T07:28:05.264666+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1938-01-01_p030" imageWidth="1671" imageHeight="2493">
+    <TextRegion id="r000">
+      <Coords points="326,244 321,285 582,321 584,280 326,244"/>
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[29.1,12.2]">
+        <Coords points="321,285 396,294 413,298 582,321 584,280 517,276 461,267 421,258 326,244 321,285"/>
+        <Baseline points="323,273 399,282 457,296 515,305 583,309"/>
+        <TextEquiv conf="0.556">
+          <Unicode>. . . . .. . ..</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="1371,674 1080,669 1080,764 1371,768 1371,674"/>
+      <TextLine id="r004-l002" index="0" custom="heights_v2:[69.9,24.6]">
+        <Coords points="1080,669 1080,764 1143,764 1194,764 1222,766 1371,768 1371,674 1304,674 1250,674 1225,672 1080,669"/>
+        <Baseline points="1080,739 1143,739 1196,739 1250,744 1304,744 1371,744"/>
+        <TextEquiv conf="0.533">
+          <Unicode>DA DOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="589,1186 476,1195 480,1245 592,1236 589,1186"/>
+      <TextLine id="r003-l003" index="0" custom="heights_v2:[37.2,12.7]">
+        <Coords points="476,1195 480,1245 592,1236 589,1186 476,1195"/>
+        <Baseline points="479,1232 591,1223"/>
+        <TextEquiv conf="0.998">
+          <Unicode>FUND</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="372,1681 372,1818 385,1818 385,1805 567,1805 905,1827 1237,1836 1237,1699 372,1681"/>
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[111.3,26.1]">
+        <Coords points="372,1818 385,1818 385,1805 567,1805 905,1827 1237,1836 1237,1699 1134,1699 1058,1695 1025,1695 945,1694 851,1694 767,1690 734,1689 589,1686 574,1686 563,1685 372,1681 372,1818"/>
+        <Baseline points="372,1792 479,1792 574,1797 668,1797 762,1801 851,1806 945,1806 1040,1806 1134,1810 1237,1810"/>
+        <TextEquiv conf="0.921">
+          <Unicode>EDR DUMECQ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="435,1956 555,1999 981,2008 1053,1965 1143,1965 1169,1899 1172,1832 905,1827 567,1805 385,1805 385,1872 435,1956"/>
+      <TextLine id="r002-l005" index="0" custom="heights_v2:[50.1,16.6]">
+        <Coords points="1172,1832 905,1827 823,1823 738,1818 683,1813 567,1805 385,1805 385,1872 479,1872 564,1872 648,1876 734,1885 819,1890 905,1894 990,1894 1075,1894 1169,1899 1172,1832"/>
+        <Baseline points="385,1855 479,1855 565,1855 650,1860 735,1869 820,1873 905,1877 990,1877 1075,1877 1170,1882"/>
+        <TextEquiv conf="0.457">
+          <Unicode>ino ConaoA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l006" index="1" custom="heights_v2:[41.3,15.9]">
+        <Coords points="1143,1965 1143,1908 1053,1908 979,1903 901,1903 824,1903 748,1903 675,1899 596,1899 520,1899 435,1899 435,1956 520,1956 596,1956 671,1956 748,1961 824,1961 901,1961 976,1961 1053,1965 1143,1965"/>
+        <Baseline points="435,1940 520,1940 596,1940 672,1940 748,1945 824,1945 901,1945 977,1945 1053,1949 1143,1949"/>
+        <TextEquiv conf="0.486">
+          <Unicode>BNNO DE IZQUERDO. NC.. vislibudores.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l007" index="2" custom="heights_v2:[37.9,13.6]">
+        <Coords points="981,2008 981,1956 919,1956 869,1956 816,1956 770,1952 717,1952 663,1952 614,1952 559,1947 555,1999 981,2008"/>
+        <Baseline points="556,1985 614,1990 663,1990 717,1990 766,1990 816,1994 869,1994 919,1994 981,1994"/>
+        <TextEquiv conf="0.317">
+          <Unicode>JAN JUAN IUERJONCO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

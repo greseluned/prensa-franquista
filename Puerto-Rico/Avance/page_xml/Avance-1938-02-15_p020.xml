@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:40:30.110166+00:00</Created>
+    <LastChange>2026-09-16T07:40:30.110166+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1938-02-15_p020" imageWidth="1679" imageHeight="2485">
+    <TextRegion id="r003">
+      <Coords points="1444,674 1131,665 1131,764 1444,773 1444,674"/>
+      <TextLine id="r003-l001" index="0" custom="heights_v2:[73.4,25.3]">
+        <Coords points="1292,670 1255,670 1237,668 1131,665 1131,764 1193,764 1235,767 1286,768 1313,768 1331,770 1444,773 1444,674 1375,674 1336,671 1292,670"/>
+        <Baseline points="1131,738 1195,738 1255,743 1315,743 1375,748 1444,748"/>
+        <TextEquiv conf="0.656">
+          <Unicode>DA DOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="675,1174 542,1184 546,1243 679,1234 675,1174"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[43.9,15.4]">
+        <Coords points="542,1184 546,1243 679,1234 675,1174 542,1184"/>
+        <Baseline points="545,1227 678,1218"/>
+        <TextEquiv conf="1.000">
+          <Unicode>FUNDA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="365,1667 365,1810 438,1810 438,1795 617,1795 866,1818 1211,1832 1211,1839 1286,1842 1292,1700 365,1667"/>
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[114.0,28.5]">
+        <Coords points="365,1810 438,1810 438,1795 617,1795 866,1818 1211,1832 1211,1839 1286,1842 1292,1700 894,1686 872,1686 820,1683 365,1667 365,1810"/>
+        <Baseline points="365,1781 471,1781 572,1786 674,1790 775,1795 872,1800 974,1800 1075,1804 1177,1809 1287,1814"/>
+        <TextEquiv conf="0.538">
+          <Unicode>PEDR DOMECQ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="484,1944 563,1948 609,1994 1043,2008 1139,1962 1208,1899 1211,1832 866,1818 617,1795 438,1795 438,1862 484,1944"/>
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[51.3,16.4]">
+        <Coords points="1211,1832 980,1822 946,1822 866,1818 617,1795 438,1795 438,1862 531,1862 613,1862 695,1867 778,1876 862,1885 946,1890 1028,1890 1111,1895 1208,1899 1211,1832"/>
+        <Baseline points="438,1846 531,1846 614,1846 697,1850 780,1860 863,1869 946,1874 1029,1874 1112,1878 1209,1883"/>
+        <TextEquiv conf="0.545">
+          <Unicode>ncC0nao </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="1" custom="heights_v2:[42.2,14.8]">
+        <Coords points="563,1948 632,1948 706,1948 775,1948 844,1948 918,1953 987,1953 1056,1958 1139,1962 1142,1905 1059,1901 990,1896 918,1896 847,1891 775,1891 706,1891 632,1891 563,1891 487,1887 484,1944 563,1948"/>
+        <Baseline points="485,1929 563,1934 632,1934 706,1934 775,1934 844,1934 918,1938 988,1938 1057,1943 1140,1947"/>
+        <TextEquiv conf="0.314">
+          <Unicode>BNNO DE IZQUERDO. NC.. Dil budores</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="2" custom="heights_v2:[39.6,14.0]">
+        <Coords points="753,1998 769,1998 780,1999 898,2003 926,2003 943,2004 1043,2008 1043,1954 978,1954 931,1949 877,1949 826,1949 774,1945 720,1945 673,1940 609,1940 609,1994 668,1994 701,1997 753,1998"/>
+        <Baseline points="609,1980 669,1980 720,1984 771,1984 826,1989 877,1989 928,1989 978,1994 1043,1994"/>
+        <TextEquiv conf="0.365">
+          <Unicode>JAN JUAN, UERTORICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

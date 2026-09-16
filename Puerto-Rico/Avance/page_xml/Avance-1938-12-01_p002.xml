@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:51:06.036140+00:00</Created>
+    <LastChange>2026-09-16T07:51:06.036140+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1938-12-01_p002" imageWidth="1671" imageHeight="2493">
+    <TextRegion id="r004">
+      <Coords points="743,392 742,442 930,449 932,398 743,392"/>
+      <TextLine id="r004-l001" index="0" custom="heights_v2:[36.0,14.7]">
+        <Coords points="742,442 930,449 932,398 743,392 742,442"/>
+        <Baseline points="742,428 931,434"/>
+        <TextEquiv conf="1.000">
+          <Unicode>AVANCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="560,549 453,548 453,668 551,668 828,687 836,568 560,549"/>
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[93.0,26.8]">
+        <Coords points="453,548 453,668 551,668 828,687 836,568 735,561 648,555 560,549 453,548"/>
+        <Baseline points="453,641 553,641 641,648 729,654 830,660"/>
+        <TextEquiv conf="0.400">
+          <Unicode>EU</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="723,697 635,697 635,758 723,758 723,697"/>
+      <TextLine id="r002-l004" index="0" custom="heights_v2:[45.5,15.6]">
+        <Coords points="635,697 635,758 723,758 723,697 635,697"/>
+        <Baseline points="635,742 723,742"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="1089,524 1065,778 1266,797 1290,543 1089,524"/>
+      <TextLine id="r005-l003" index="0" custom="heights_v2:[212.3,42.6]">
+        <Coords points="1065,778 1266,797 1290,543 1089,524 1065,778"/>
+        <Baseline points="1069,736 1270,755"/>
+        <TextEquiv conf="0.988">
+          <Unicode>T</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="519,938 514,1009 572,1070 648,1070 703,1022 708,951 519,938"/>
+      <TextLine id="r001-l005" index="0" custom="heights_v2:[49.3,22.1]">
+        <Coords points="514,1009 703,1022 708,951 519,938 514,1009"/>
+        <Baseline points="516,987 704,1000"/>
+        <TextEquiv conf="0.932">
+          <Unicode>SUCIEDAD</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="1" custom="heights_v2:[50.9,19.5]">
+        <Coords points="648,1070 648,999 572,999 572,1070 648,1070"/>
+        <Baseline points="572,1050 648,1050"/>
+        <TextEquiv conf="0.555">
+          <Unicode>Java</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="891,1673 660,1666 660,1753 886,1759 891,1673"/>
+      <TextLine id="r003-l007" index="0" custom="heights_v2:[69.3,17.0]">
+        <Coords points="660,1666 660,1753 773,1753 886,1759 891,1673 660,1666"/>
+        <Baseline points="660,1736 773,1736 887,1742"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

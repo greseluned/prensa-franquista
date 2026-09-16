@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T07:37:40.188022+00:00</Created>
+    <LastChange>2026-09-16T07:37:40.188022+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Avance-1937-12-15_p027" imageWidth="1667" imageHeight="2431">
+    <TextRegion id="r003">
+      <Coords points="800,415 599,410 599,450 800,456 800,415"/>
+      <TextLine id="r003-l001" index="0" custom="heights_v2:[31.2,9.4]">
+        <Coords points="599,410 599,450 634,450 651,452 800,456 800,415 762,415 730,415 700,415 670,413 653,411 599,410"/>
+        <Baseline points="599,441 634,441 667,444 700,446 730,446 762,446 800,446"/>
+        <TextEquiv conf="1.000">
+          <Unicode>AVANCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="827,958 564,947 564,994 620,1067 724,1075 726,1038 786,1002 824,1005 827,958"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[36.0,11.1]">
+        <Coords points="760,955 757,955 754,955 694,952 694,952 694,952 564,947 564,994 598,994 632,997 661,997 694,999 723,999 757,1002 786,1002 824,1005 827,958 760,955"/>
+        <Baseline points="564,983 599,983 632,985 662,985 694,988 724,988 757,991 787,991 825,994"/>
+        <TextEquiv conf="0.978">
+          <Unicode>CORTESIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l003" index="1" custom="heights_v2:[28.8,8.4]">
+        <Coords points="724,1075 726,1038 674,1036 624,1030 620,1067 724,1075"/>
+        <Baseline points="621,1059 672,1064 724,1067"/>
+        <TextEquiv conf="1.000">
+          <Unicode>DE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="1022,1114 359,1098 359,1140 452,1246 452,1288 928,1301 928,1260 1021,1156 1022,1114"/>
+      <TextLine id="r000-l004" index="0" custom="heights_v2:[32.0,9.8]">
+        <Coords points="911,1111 868,1111 799,1109 794,1108 580,1103 580,1103 580,1103 359,1098 359,1140 435,1140 509,1142 580,1145 653,1145 724,1148 797,1150 868,1153 942,1153 1021,1156 1022,1114 911,1111"/>
+        <Baseline points="359,1130 436,1130 509,1132 580,1135 653,1135 724,1138 798,1141 868,1143 942,1143 1021,1146"/>
+        <TextEquiv conf="0.965">
+          <Unicode>UNA FIRMA INDUSTRIAL QUE SIMPATIZA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="1" custom="heights_v2:[33.6,9.9]">
+        <Coords points="613,1221 653,1221 689,1224 724,1224 768,1224 768,1181 724,1181 689,1181 656,1178 613,1178 613,1221"/>
+        <Baseline points="613,1211 653,1211 689,1214 724,1214 768,1214"/>
+        <TextEquiv conf="0.999">
+          <Unicode>CON LA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="2" custom="heights_v2:[30.8,10.8]">
+        <Coords points="452,1288 509,1288 560,1287 612,1290 664,1293 715,1293 767,1296 803,1298 928,1301 928,1260 871,1260 821,1257 769,1254 718,1251 664,1251 614,1249 562,1246 509,1246 452,1246 452,1288"/>
+        <Baseline points="452,1277 509,1277 561,1277 613,1279 664,1282 716,1282 768,1285 819,1288 871,1290 928,1290"/>
+        <TextEquiv conf="0.999">
+          <Unicode>ORIENTACION Y FINALIDAD</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="724,1333 656,1333 656,1373 724,1373 724,1333"/>
+      <TextLine id="r004-l007" index="0" custom="heights_v2:[31.0,9.5]">
+        <Coords points="656,1333 656,1373 724,1373 724,1333 656,1333"/>
+        <Baseline points="656,1364 724,1364"/>
+        <TextEquiv conf="1.000">
+          <Unicode>DE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="1015,1412 397,1399 401,1493 1012,1507 1015,1412"/>
+      <TextLine id="r001-l008" index="0" custom="heights_v2:[71.5,23.0]">
+        <Coords points="397,1399 401,1493 470,1490 538,1493 604,1496 672,1496 737,1496 805,1498 870,1501 938,1504 1012,1507 1015,1412 397,1399"/>
+        <Baseline points="400,1470 471,1467 539,1470 604,1473 672,1473 738,1473 806,1475 871,1478 939,1481 1013,1484"/>
+        <TextEquiv conf="0.992">
+          <Unicode>VANCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

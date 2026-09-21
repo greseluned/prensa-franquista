@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:09:01.453685+00:00</Created>
+    <LastChange>2026-09-16T11:09:01.453685+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1938-12-20_p038" imageWidth="1313" imageHeight="1734">
+    <TextRegion id="r001">
+      <Coords points="1054,249 331,251 331,357 416,453 917,450 1054,355 1054,249" />
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[82.1,23.9]">
+        <Coords points="513,250 492,251 414,251 331,251 331,357 414,357 494,357 574,355 653,353 732,353 812,355 891,355 971,355 1054,355 1054,249 513,250" />
+        <Baseline points="331,333 414,333 494,333 573,331 653,329 732,329 812,331 891,331 971,331 1054,331" />
+        <TextEquiv conf="0.978">
+          <Unicode>CARGA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l002" index="1" custom="heights_v2:[33.4,10.4]">
+        <Coords points="917,450 916,406 856,408 803,408 748,410 693,410 638,410 583,411 529,410 474,410 416,410 416,453 917,450" />
+        <Baseline points="416,443 474,443 528,443 584,445 638,443 693,443 749,443 803,441 857,441 917,439" />
+        <TextEquiv conf="0.952">
+          <Unicode>NUESTRA ESPECIALIDAD</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="924,532 414,529 414,562 528,564 600,606 747,606 808,566 924,566 924,532" />
+      <TextLine id="r005-l003" index="0" custom="heights_v2:[24.5,8.9]">
+        <Coords points="414,529 414,562 472,562 528,564 584,564 640,566 696,566 752,566 808,566 864,566 924,566 924,532 864,532 808,532 752,532 696,532 640,532 585,531 528,531 489,529 414,529" />
+        <Baseline points="414,553 472,553 528,555 584,555 640,557 696,557 752,557 808,557 864,557 924,557" />
+        <TextEquiv conf="0.999">
+          <Unicode>UNIR PALABRAS Y HACER UNA FRASE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l004" index="1" custom="heights_v2:[20.9,8.0]">
+        <Coords points="626,606 649,606 673,606 696,606 720,606 747,606 747,578 720,578 696,578 673,578 649,578 626,578 600,578 600,606 626,606" />
+        <Baseline points="600,599 626,599 649,599 673,599 696,599 720,599 747,599" />
+        <TextEquiv conf="1.000">
+          <Unicode>ES FÁcil</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="381,692 382,921 485,921 515,894 964,891 961,691 381,692" />
+      <TextLine id="r002-l005" index="0" custom="heights_v2:[20.1,6.2]">
+        <Coords points="961,691 893,692 843,691 670,691 638,692 613,692 381,692 382,719 448,717 512,717 575,717 638,719 703,717 767,717 830,717 893,719 962,717 961,691" />
+        <Baseline points="382,712 448,711 512,711 575,711 638,712 703,711 767,711 830,711 893,712 962,711" />
+        <TextEquiv conf="0.860">
+          <Unicode>Lo difícil es crear esa frase de modo que al formularla</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l006" index="1" custom="heights_v2:[19.5,6.3]">
+        <Coords points="962,718 893,718 831,717 767,716 703,716 638,716 575,716 512,716 448,718 382,718 382,744 449,744 512,742 575,742 638,742 703,742 767,742 830,742 893,744 962,744 962,733 962,718" />
+        <Baseline points="382,738 448,738 512,736 575,736 638,736 703,736 767,736 830,736 893,738 962,738" />
+        <TextEquiv conf="0.991">
+          <Unicode>y lanzarla al vocabulario del uso común se generaliza.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l007" index="2" custom="heights_v2:[19.8,6.7]">
+        <Coords points="962,740 895,740 832,740 769,740 705,740 640,742 577,742 514,742 450,742 383,742 383,768 450,768 514,768 577,768 640,768 705,766 769,766 832,766 895,766 962,766 962,740" />
+        <Baseline points="383,761 450,761 514,761 577,761 640,761 705,759 769,759 832,759 895,759 962,759" />
+        <TextEquiv conf="0.972">
+          <Unicode>llevando a la mente del oyente en forma verídica y con sinceridad.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l008" index="3" custom="heights_v2:[20.0,6.8]">
+        <Coords points="385,793 452,793 515,793 579,793 642,793 705,792 769,793 832,792 895,793 962,792 961,765 895,767 832,765 768,767 706,765 641,767 579,767 515,767 452,767 385,767 385,793" />
+        <Baseline points="385,787 452,787 515,787 579,787 642,787 705,785 769,787 832,785 895,787 962,785" />
+        <TextEquiv conf="0.937">
+          <Unicode>victoria una idea gráfica de su significado, v</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l009" index="4" custom="heights_v2:[20.1,7.2]">
+        <Coords points="963,790 895,790 832,790 769,790 705,790 642,790 579,790 515,790 451,792 385,792 385,819 452,819 515,817 579,817 642,817 705,817 769,817 832,817 895,817 963,817 963,790" />
+        <Baseline points="385,812 452,812 515,810 579,810 642,810 705,810 769,810 832,810 895,810 963,810" />
+        <TextEquiv conf="0.954">
+          <Unicode>en cortos, claros y simbólicos trazos, todo un resumen de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l010" index="5" custom="heights_v2:[20.6,7.3]">
+        <Coords points="963,813 895,815 832,815 769,815 705,815 641,817 579,817 515,817 453,815 385,815 385,843 452,843 515,845 579,845 642,845 705,843 769,843 832,843 895,843 963,841 963,813" />
+        <Baseline points="385,835 452,835 515,837 579,837 642,837 705,835 769,835 832,835 895,835 963,834" />
+        <TextEquiv conf="0.999">
+          <Unicode>hechos en la historia de servicios de una LÍNEA NACIONAL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l011" index="6" custom="heights_v2:[20.0,7.1]">
+        <Coords points="963,843 963,839 895,841 832,841 768,843 705,843 642,843 579,843 515,843 452,843 385,843 385,870 452,870 515,870 579,870 642,870 705,870 769,870 832,868 895,868 964,866 963,843" />
+        <Baseline points="385,863 452,863 515,863 579,863 642,863 705,863 769,863 832,861 895,861 964,859" />
+        <TextEquiv conf="0.998">
+          <Unicode>VIERA y de su vinculación con el progreso y desarrollo.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l012" index="7" custom="heights_v2:[18.7,6.6]">
+        <Coords points="692,893 705,893 740,893 964,891 963,866 895,867 832,867 769,867 705,867 641,869 579,869 515,869 452,869 385,871 385,896 452,894 515,894 692,893" />
+        <Baseline points="385,890 452,888 515,888 579,888 642,888 705,886 769,886 832,886 895,886 964,884" />
+        <TextEquiv conf="0.955">
+          <Unicode>lló económico de nuestro comercio; de ahí que la línea</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l013" index="8" custom="heights_v2:[20.0,7.6]">
+        <Coords points="409,921 432,921 456,921 485,921 485,893 456,893 432,893 409,893 382,893 382,921 409,921" />
+        <Baseline points="382,913 409,913 432,913 456,913 485,913" />
+        <TextEquiv conf="1.000">
+          <Unicode>Bull se</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="950,1004 405,1006 405,1048 951,1046 950,1004" />
+      <TextLine id="r004-l014" index="0" custom="heights_v2:[32.1,10.0]">
+        <Coords points="405,1048 951,1046 950,1004 885,1006 826,1006 767,1006 707,1006 647,1006 588,1006 528,1006 468,1006 405,1006 405,1048" />
+        <Baseline points="405,1038 468,1038 528,1038 588,1038 647,1038 707,1038 767,1038 826,1038 886,1038 951,1036" />
+        <TextEquiv conf="0.999">
+          <Unicode>LA LÍNEA DEL COMERCIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="386,1121 385,1223 969,1220 967,1116 386,1121" />
+      <TextLine id="r003-l015" index="0" custom="heights_v2:[20.0,6.4]">
+        <Coords points="865,1117 835,1117 774,1117 771,1117 708,1119 644,1119 581,1119 386,1121 387,1147 454,1146 517,1146 580,1146 644,1146 709,1146 772,1144 836,1144 899,1142 967,1142 967,1116 865,1117" />
+        <Baseline points="387,1141 454,1139 517,1139 580,1139 644,1139 709,1139 772,1137 835,1137 899,1136 967,1136" />
+        <TextEquiv conf="0.974">
+          <Unicode>por sus pasados y presentes servicios en beneficio de España</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l016" index="1" custom="heights_v2:[20.1,6.4]">
+        <Coords points="968,1143 901,1143 837,1143 774,1143 709,1143 646,1143 582,1143 517,1144 454,1144 387,1144 387,1171 454,1171 517,1171 582,1169 646,1169 709,1169 774,1169 837,1169 901,1169 968,1169 968,1143" />
+        <Baseline points="387,1165 454,1165 517,1165 582,1163 646,1163 709,1163 774,1163 837,1163 901,1163 968,1163" />
+        <TextEquiv conf="0.925">
+          <Unicode>te. Por la atención que presta a las necesidades y requé-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l017" index="2" custom="heights_v2:[21.0,6.5]">
+        <Coords points="387,1198 454,1196 517,1196 580,1195 644,1195 709,1195 772,1195 835,1195 899,1195 967,1195 967,1167 899,1167 835,1167 772,1167 709,1167 644,1167 580,1167 517,1169 454,1169 386,1171 387,1198" />
+        <Baseline points="387,1192 454,1190 517,1190 580,1188 644,1188 709,1188 772,1188 835,1188 899,1188 967,1188" />
+        <TextEquiv conf="0.996">
+          <Unicode>rimientos individuales del embarcador y del consignatario</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l018" index="3" custom="heights_v2:[20.8,6.5]">
+        <Coords points="385,1223 452,1222 516,1222 580,1220 644,1222 677,1222 718,1221 772,1220 837,1220 901,1220 969,1220 969,1193 901,1193 837,1193 772,1193 708,1194 644,1194 581,1193 515,1194 452,1194 386,1196 385,1223" />
+        <Baseline points="385,1217 452,1215 515,1215 580,1213 644,1215 709,1215 772,1213 837,1213 901,1213 969,1213" />
+        <TextEquiv conf="0.886">
+          <Unicode>rio. Por las cortesías que extiende a sus favorecidos.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="1065,1318 298,1320 298,1402 409,1471 955,1465 1065,1400 1065,1318" />
+      <TextLine id="r000-l019" index="0" custom="heights_v2:[61.8,20.3]">
+        <Coords points="586,1319 554,1320 470,1320 385,1320 298,1320 298,1402 385,1402 470,1402 556,1402 638,1400 723,1400 808,1400 891,1400 976,1400 1065,1400 1065,1318 586,1319" />
+        <Baseline points="298,1382 385,1382 470,1382 555,1382 638,1380 723,1380 808,1380 891,1380 976,1380 1065,1380" />
+        <TextEquiv conf="0.917">
+          <Unicode>BULL LINES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l020" index="1" custom="heights_v2:[38.1,15.2]">
+        <Coords points="681,1468 711,1467 770,1465 830,1465 890,1465 955,1465 955,1412 890,1412 830,1412 770,1412 709,1414 650,1416 591,1416 533,1414 471,1416 408,1418 409,1471 472,1469 531,1467 591,1469 681,1468" />
+        <Baseline points="409,1456 472,1454 532,1452 591,1454 651,1454 711,1452 770,1450 830,1450 890,1450 955,1450" />
+        <TextEquiv conf="1.000">
+          <Unicode>LA LÍNEA DEL COMERCIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

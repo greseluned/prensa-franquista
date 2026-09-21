@@ -1,0 +1,633 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:12:29.024459+00:00</Created>
+    <LastChange>2026-09-16T11:12:29.024459+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1944-12-20_p018" imageWidth="1350" imageHeight="1779">
+    <TextRegion id="r000">
+      <Coords points="269,108 150,109 150,137 269,136 269,108" />
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[21.3,7.0]">
+        <Coords points="246,108 231,109 216,109 201,109 184,109 168,109 150,109 150,137 246,136 249,136 269,136 269,108 246,108" />
+        <Baseline points="150,130 168,130 184,130 201,130 216,130 233,130 249,129 269,129" />
+        <TextEquiv conf="0.998">
+          <Unicode>Página 16</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="579,107 577,138 765,138 764,107 579,107" />
+      <TextLine id="r004-l002" index="0" custom="heights_v2:[23.1,7.5]">
+        <Coords points="577,138 765,138 764,107 740,109 721,109 701,109 680,109 661,109 640,109 621,109 600,109 579,107 577,138" />
+        <Baseline points="578,130 600,132 621,132 640,132 661,132 680,132 701,132 721,132 741,132 765,130" />
+        <TextEquiv conf="0.998">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="1180,108 944,109 944,137 1181,135 1180,108" />
+      <TextLine id="r006-l001" index="0" custom="heights_v2:[20.9,6.6]">
+        <Coords points="944,137 1181,135 1180,108 1150,109 1125,109 1100,109 1074,109 1049,109 1021,111 999,109 971,109 944,109 944,137" />
+        <Baseline points="944,130 971,130 998,130 1023,132 1049,130 1074,130 1100,130 1125,130 1151,130 1181,129" />
+        <TextEquiv conf="1.000">
+          <Unicode>Diciembre 20 de 1944</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="425,264 354,265 355,306 425,304 499,350 831,344 906,303 978,303 978,263 906,263 863,221 469,222 425,264" />
+      <TextLine id="r003-l004" index="0" custom="heights_v2:[24.3,9.2]">
+        <Coords points="810,221 772,222 730,222 687,222 643,222 600,222 556,224 514,224 469,222 468,256 514,257 557,257 600,256 643,256 687,256 730,256 773,256 816,254 863,254 863,221 810,221" />
+        <Baseline points="468,247 514,248 557,248 600,247 643,247 687,247 730,247 773,247 816,245 863,245" />
+        <TextEquiv conf="0.999">
+          <Unicode>EL PUEBLO DE PUERTO RICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l005" index="1" custom="heights_v2:[29.8,10.7]">
+        <Coords points="354,265 355,306 425,304 495,304 563,304 632,304 700,304 769,304 837,304 906,303 978,303 978,263 906,263 836,264 769,264 700,264 632,264 563,264 495,264 425,264 354,265" />
+        <Baseline points="355,295 425,294 495,294 563,294 632,294 700,294 769,294 837,294 906,292 978,292" />
+        <TextEquiv conf="0.984">
+          <Unicode>DEPARTAMENTO DE HACIENDA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l006" index="2" custom="heights_v2:[28.3,9.2]">
+        <Coords points="762,346 776,344 794,344 811,344 831,344 831,307 811,307 794,307 776,307 757,308 740,308 740,346 752,346 762,346" />
+        <Baseline points="740,337 759,337 776,335 794,335 811,335 831,335" />
+        <TextEquiv conf="1.000">
+          <Unicode>ORERO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="3" custom="heights_v2:[26.5,9.3]">
+        <Coords points="740,346 740,312 711,312 684,312 658,312 632,312 606,312 579,312 551,313 527,313 498,314 499,350 527,349 553,349 579,347 606,347 632,347 658,347 660,347 740,346" />
+        <Baseline points="499,341 527,339 553,339 579,338 606,338 632,338 658,338 684,338 711,338 740,338" />
+        <TextEquiv conf="0.996">
+          <Unicode>OFICINA DEL TEA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="984,364 352,364 352,415 984,415 984,364" />
+      <TextLine id="r002-l008" index="0" custom="heights_v2:[39.5,12.0]">
+        <Coords points="910,364 840,365 772,365 703,365 633,364 632,364 424,364 423,364 352,364 352,415 424,415 493,414 562,414 632,415 632,415 910,415 984,415 984,364 910,364" />
+        <Baseline points="352,403 424,403 493,402 563,402 632,403 703,405 772,405 841,405 910,403 984,403" />
+        <TextEquiv conf="0.975">
+          <Unicode>AVISO IMPORTANTE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="201,444 211,1538 672,1538 661,760 663,654 677,644 678,576 782,576 818,553 1120,551 1137,482 1135,437 616,447 201,444" />
+      <TextLine id="r001-l009" index="0" custom="heights_v2:[33.8,11.4]">
+        <Coords points="202,489 306,491 410,492 513,492 617,492 719,489 823,489 926,489 1030,487 1137,482 1135,437 1028,441 925,444 823,444 765,444 616,447 513,447 410,447 307,446 201,444 202,489" />
+        <Baseline points="202,478 306,479 410,481 513,481 617,481 719,478 823,478 926,478 1030,475 1136,471" />
+        <TextEquiv conf="0.567">
+          <Unicode>A los comerciantes y otras personas que intro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="1" custom="heights_v2:[35.8,11.6]">
+        <Coords points="967,552 1017,551 1120,551 1120,503 1017,503 916,506 818,506 717,507 619,507 520,507 420,507 320,507 219,506 219,553 320,555 420,555 520,555 619,555 718,555 818,553 967,552" />
+        <Baseline points="219,542 320,543 420,543 520,543 619,543 718,543 818,542 917,542 1017,539 1120,539" />
+        <TextEquiv conf="0.886">
+          <Unicode>duzan artículos sujetos al pago de arribios</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l011" index="2" custom="heights_v2:[19.3,7.0]">
+        <Coords points="242,603 291,603 337,603 384,603 429,603 475,604 523,604 568,603 614,603 664,603 664,577 614,577 568,577 522,578 475,578 430,577 384,577 337,577 291,577 242,577 242,603" />
+        <Baseline points="242,596 291,596 337,596 384,596 430,596 475,597 522,597 568,596 614,596 664,596" />
+        <TextEquiv conf="0.999">
+          <Unicode>La Sección 39 de la Ley de Rentas In-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l013" index="3" custom="heights_v2:[19.3,6.8]">
+        <Coords points="204,629 256,628 306,628 357,628 407,628 457,629 509,629 558,628 608,628 662,628 662,601 608,601 558,601 508,603 457,603 408,601 357,601 306,601 256,601 203,603 204,629" />
+        <Baseline points="204,622 256,621 306,621 357,621 407,621 457,622 509,622 558,621 608,621 662,621" />
+        <TextEquiv conf="0.999">
+          <Unicode>ternas dispone que los arbitrios sobre ar-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l015" index="4" custom="heights_v2:[19.4,7.0]">
+        <Coords points="204,654 256,654 306,654 357,653 407,654 457,654 509,654 558,654 608,654 662,655 663,629 609,628 558,628 509,628 457,628 407,628 358,626 306,628 256,628 204,628 204,654" />
+        <Baseline points="204,647 256,647 306,647 357,646 407,647 457,647 509,647 558,647 608,647 662,648" />
+        <TextEquiv conf="0.627">
+          <Unicode>tículos tributables se pagarán “dentro de los días”</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l017" index="5" custom="heights_v2:[19.7,7.3]">
+        <Coords points="203,681 255,681 305,679 356,679 406,679 457,679 507,679 558,679 608,679 662,681 663,654 609,652 558,652 507,652 457,652 406,652 356,652 305,652 254,654 203,654 203,681" />
+        <Baseline points="203,673 255,673 305,672 356,672 406,672 457,672 507,672 558,672 608,672 662,673" />
+        <TextEquiv conf="0.988">
+          <Unicode>diez (10) días siguientes a la introducción</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l019" index="6" custom="heights_v2:[19.9,7.2]">
+        <Coords points="204,704 255,706 305,706 356,706 406,706 457,706 507,706 558,706 608,706 662,706 662,682 662,678 608,678 558,678 507,678 457,678 406,678 356,678 305,678 255,678 203,677 204,704" />
+        <Baseline points="203,697 255,698 305,698 356,698 406,698 457,698 507,698 558,698 608,698 662,698" />
+        <TextEquiv conf="0.695">
+          <Unicode>de los artículos o de haberlos poseído o tras-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l021" index="7" custom="heights_v2:[19.9,7.2]">
+        <Coords points="204,731 255,731 305,731 356,731 406,732 457,732 507,732 558,732 608,732 661,733 662,706 609,705 558,705 507,705 457,705 406,705 357,703 305,703 255,703 204,703 204,731" />
+        <Baseline points="204,723 255,723 305,723 356,723 406,725 457,725 507,725 558,725 608,725 662,726" />
+        <TextEquiv conf="0.999">
+          <Unicode>pasado o al tomar posesión de los mismos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l023" index="8" custom="heights_v2:[20.1,7.1]">
+        <Coords points="204,757 219,757 234,757 249,757 265,757 280,757 295,757 310,757 326,757 346,755 344,728 324,730 310,730 295,730 280,730 265,730 249,730 234,730 219,730 204,730 204,757" />
+        <Baseline points="204,750 219,750 234,750 249,750 265,750 280,750 295,750 310,750 326,750 345,748" />
+        <TextEquiv conf="0.591">
+          <Unicode>"por traspaso"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l026" index="9" custom="heights_v2:[19.7,7.3]">
+        <Coords points="612,760 567,760 521,760 475,760 430,759 384,758 338,758 292,758 245,758 245,785 292,785 338,785 384,785 429,786 475,787 521,787 567,787 612,787 661,787 661,760 612,760" />
+        <Baseline points="245,777 292,777 338,777 384,777 430,779 475,780 521,780 567,780 612,780 661,780" />
+        <TextEquiv conf="0.994">
+          <Unicode>Si en julio 1° de 1944 a un contribuyente</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l028" index="10" custom="heights_v2:[19.5,7.2]">
+        <Coords points="204,811 254,812 305,812 355,811 406,811 456,811 507,812 557,812 608,812 662,812 661,786 608,786 557,786 507,786 456,784 406,784 355,784 304,786 254,786 204,784 204,811" />
+        <Baseline points="204,804 254,805 305,805 355,804 406,804 456,804 507,805 557,805 608,805 662,805" />
+        <TextEquiv conf="0.994">
+          <Unicode>te le llega mercancía, que tributa por la mera</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l030" index="11" custom="heights_v2:[19.2,7.1]">
+        <Coords points="205,837 254,837 305,837 355,837 406,837 456,837 507,837 557,836 608,837 662,837 662,811 608,811 558,809 507,811 456,811 406,811 355,811 305,811 254,811 204,811 205,837" />
+        <Baseline points="205,830 254,830 305,830 355,830 406,830 456,830 507,830 557,829 608,830 662,830" />
+        <TextEquiv conf="1.000">
+          <Unicode>importación, consignada a él, deberá satís-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l032" index="12" custom="heights_v2:[19.4,7.2]">
+        <Coords points="205,861 255,861 305,861 356,861 406,862 457,862 507,862 558,862 608,863 662,862 662,852 662,836 608,837 559,836 507,835 457,835 406,835 357,834 305,834 255,834 205,834 205,861" />
+        <Baseline points="205,854 255,854 305,854 356,854 406,855 457,855 507,855 558,855 608,856 662,855" />
+        <TextEquiv conf="0.711">
+          <Unicode>facer los impuestos a los diez (10) dias si-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l034" index="13" custom="heights_v2:[19.6,7.3]">
+        <Coords points="205,890 255,889 305,887 356,887 406,887 457,887 507,889 558,890 608,890 662,890 662,863 608,863 558,863 508,862 458,860 406,860 356,860 305,860 254,862 205,863 205,890" />
+        <Baseline points="205,883 255,881 305,880 356,880 406,880 457,880 507,881 558,883 608,883 662,883" />
+        <TextEquiv conf="0.990">
+          <Unicode>guientes a su llegada, o sea, en julio 11, 1936.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l035" index="14" custom="heights_v2:[19.6,7.2]">
+        <Coords points="205,912 255,912 306,913 356,913 407,913 457,913 509,915 558,913 609,915 663,916 663,889 610,888 559,887 508,888 458,887 407,887 356,887 306,887 255,885 205,885 205,912" />
+        <Baseline points="205,905 255,905 306,906 356,906 407,906 457,906 509,908 558,906 610,908 663,909" />
+        <TextEquiv conf="1.000">
+          <Unicode>1944, sin tener en cuenta el hecho de que</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l037" index="15" custom="heights_v2:[19.5,7.1]">
+        <Coords points="206,938 256,938 308,938 357,938 409,938 458,938 510,940 560,940 611,940 664,941 663,914 612,913 560,913 510,913 459,912 409,912 357,912 308,912 256,912 205,912 206,938" />
+        <Baseline points="205,931 256,931 308,931 357,931 409,931 459,931 510,933 560,933 611,933 663,934" />
+        <TextEquiv conf="0.932">
+          <Unicode>para esta fecha no haya levantado o tomado</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l040" index="16" custom="heights_v2:[19.3,7.1]">
+        <Coords points="206,965 256,965 308,965 357,965 409,965 458,965 510,966 560,966 611,966 664,967 664,941 612,940 560,940 510,940 459,938 409,938 357,938 308,938 256,938 206,938 206,965" />
+        <Baseline points="206,957 256,957 308,957 357,957 409,957 459,957 510,959 560,959 611,959 664,960" />
+        <TextEquiv conf="1.000">
+          <Unicode>posesión de dicha mercancía, toda vez que</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l041" index="17" custom="heights_v2:[19.8,7.2]">
+        <Coords points="206,988 255,990 306,990 356,990 407,991 457,991 509,991 558,991 609,991 664,992 664,974 664,965 610,964 558,964 509,964 457,964 407,964 357,963 306,963 255,963 206,961 206,988" />
+        <Baseline points="206,981 255,982 306,982 356,982 407,984 457,984 509,984 558,984 610,984 664,985" />
+        <TextEquiv conf="0.999">
+          <Unicode>el arbitrio se impone por la mera introduc-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l044" index="18" custom="heights_v2:[20.1,7.2]">
+        <Coords points="206,1017 224,1017 242,1017 263,1017 263,990 242,990 224,990 206,990 206,1017" />
+        <Baseline points="206,1010 224,1010 242,1010 263,1010" />
+        <TextEquiv conf="1.000">
+          <Unicode>ción.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l046" index="19" custom="heights_v2:[19.3,7.2]">
+        <Coords points="249,1048 297,1049 342,1049 388,1051 434,1051 478,1051 524,1051 569,1052 615,1052 664,1053 664,1027 616,1025 569,1025 524,1024 478,1024 434,1024 388,1024 343,1023 297,1023 250,1021 249,1048" />
+        <Baseline points="249,1041 297,1042 342,1042 388,1043 434,1043 478,1043 524,1043 569,1045 615,1045 664,1046" />
+        <TextEquiv conf="0.999">
+          <Unicode>Hay casos tan especiales, sin embargo,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l048" index="20" custom="heights_v2:[18.8,7.3]">
+        <Coords points="207,1073 255,1073 306,1074 356,1074 407,1074 457,1076 509,1076 558,1074 610,1074 664,1074 664,1048 610,1048 558,1048 508,1049 457,1049 408,1048 356,1048 306,1048 255,1047 206,1047 207,1073" />
+        <Baseline points="207,1066 255,1066 306,1067 356,1067 407,1067 457,1068 509,1068 558,1067 610,1067 664,1067" />
+        <TextEquiv conf="0.998">
+          <Unicode>en que la determinación de los diez (10)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l050" index="21" custom="heights_v2:[19.4,7.4]">
+        <Coords points="207,1098 255,1099 306,1101 357,1101 407,1101 458,1101 510,1102 560,1102 611,1101 665,1101 665,1074 611,1074 559,1075 510,1075 459,1074 407,1074 357,1074 306,1074 255,1072 207,1071 207,1098" />
+        <Baseline points="207,1091 255,1092 306,1093 357,1093 407,1093 459,1093 510,1095 560,1095 611,1093 665,1093" />
+        <TextEquiv conf="0.847">
+          <Unicode>días varía. Si se trata de artículos que tri-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l052" index="22" custom="heights_v2:[19.0,7.3]">
+        <Coords points="207,1124 256,1124 308,1125 359,1125 409,1124 460,1124 511,1124 561,1124 612,1125 666,1125 666,1099 612,1099 562,1098 511,1098 460,1098 409,1098 358,1099 308,1099 257,1098 207,1098 207,1124" />
+        <Baseline points="207,1117 256,1117 308,1118 359,1118 409,1117 460,1117 511,1117 561,1117 612,1118 666,1118" />
+        <TextEquiv conf="0.985">
+          <Unicode>bután al ser poseídos, si no fuera tributable</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l054" index="23" custom="heights_v2:[19.7,7.3]">
+        <Coords points="207,1149 256,1149 308,1150 357,1149 409,1149 459,1150 510,1150 560,1150 611,1152 665,1152 665,1125 611,1125 560,1123 510,1123 459,1123 409,1122 357,1122 307,1123 257,1122 207,1122 207,1149" />
+        <Baseline points="207,1142 256,1142 308,1143 357,1142 409,1142 459,1143 510,1143 560,1143 611,1145 665,1145" />
+        <TextEquiv conf="1.000">
+          <Unicode>la introducción, la contribución se pagará</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l056" index="24" custom="heights_v2:[19.7,7.3]">
+        <Coords points="208,1175 258,1175 309,1175 359,1177 410,1177 460,1178 511,1178 561,1177 612,1178 666,1178 666,1151 612,1151 562,1150 511,1151 460,1151 411,1150 359,1150 310,1148 258,1148 207,1148 208,1175" />
+        <Baseline points="207,1168 258,1168 309,1168 359,1169 410,1169 460,1171 511,1171 561,1169 612,1171 666,1171" />
+        <TextEquiv conf="0.997">
+          <Unicode>dentro de los diez (10) días siguientes al</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l058" index="25" custom="heights_v2:[19.4,7.1]">
+        <Coords points="208,1200 258,1200 309,1202 359,1202 410,1202 460,1202 511,1202 561,1203 612,1203 666,1203 666,1176 612,1176 561,1176 512,1175 460,1175 410,1175 359,1175 309,1175 258,1174 208,1174 208,1200" />
+        <Baseline points="208,1193 258,1193 309,1194 359,1194 410,1194 460,1194 511,1194 561,1196 612,1196 666,1196" />
+        <TextEquiv conf="0.557">
+          <Unicode>acto de posesión. Si se trata de artículos que</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l060" index="26" custom="heights_v2:[19.5,7.1]">
+        <Coords points="208,1226 259,1225 309,1225 360,1225 410,1226 461,1228 511,1228 563,1228 612,1228 666,1228 666,1201 612,1201 563,1201 511,1201 461,1201 411,1200 361,1198 309,1198 259,1198 208,1200 208,1226" />
+        <Baseline points="208,1219 259,1218 309,1218 360,1218 410,1219 461,1221 511,1221 563,1221 612,1221 666,1221" />
+        <TextEquiv conf="0.996">
+          <Unicode>tributan al ser traspasados, si no fuera era</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l061" index="27" custom="heights_v2:[19.3,7.1]">
+        <Coords points="208,1251 258,1251 308,1251 359,1251 409,1253 460,1253 510,1253 561,1254 611,1254 665,1254 665,1228 611,1228 561,1228 510,1226 460,1226 409,1226 359,1225 308,1225 258,1225 208,1225 208,1251" />
+        <Baseline points="208,1244 258,1244 308,1244 359,1244 409,1246 460,1246 510,1246 561,1247 611,1247 665,1247" />
+        <TextEquiv conf="1.000">
+          <Unicode>butable la introducción, la contribución se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l064" index="28" custom="heights_v2:[19.5,7.1]">
+        <Coords points="208,1279 259,1279 310,1278 360,1278 411,1278 461,1279 513,1279 563,1279 614,1278 668,1278 668,1251 614,1251 562,1253 513,1253 461,1253 412,1251 360,1251 310,1251 259,1253 208,1253 208,1279" />
+        <Baseline points="208,1272 259,1272 310,1271 360,1271 412,1271 461,1272 513,1272 563,1272 614,1271 668,1271" />
+        <TextEquiv conf="0.803">
+          <Unicode>pagará dentro de los diez (10) días siguiente</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l066" index="29" custom="heights_v2:[19.6,7.0]">
+        <Coords points="209,1303 236,1303 263,1303 291,1303 317,1303 345,1303 373,1304 399,1304 426,1304 457,1305 458,1279 428,1277 399,1277 373,1277 346,1276 317,1276 291,1276 263,1276 236,1276 208,1276 209,1303" />
+        <Baseline points="209,1296 236,1296 263,1296 291,1296 317,1296 345,1296 373,1297 399,1297 427,1297 457,1298" />
+        <TextEquiv conf="0.999">
+          <Unicode>tes al acto de traspaso.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l068" index="30" custom="heights_v2:[19.5,7.2]">
+        <Coords points="252,1330 299,1332 345,1332 391,1332 436,1333 482,1335 528,1335 574,1335 619,1335 668,1335 668,1308 619,1308 574,1308 528,1308 482,1308 437,1307 391,1305 345,1305 299,1305 253,1304 252,1330" />
+        <Baseline points="252,1323 299,1325 345,1325 391,1325 436,1326 482,1327 528,1327 574,1327 619,1327 668,1327" />
+        <TextEquiv conf="1.000">
+          <Unicode>Con muy raras excepciones, todos los</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l070" index="31" custom="heights_v2:[19.3,7.2]">
+        <Coords points="209,1360 259,1360 309,1358 360,1357 410,1358 461,1358 511,1358 562,1358 612,1360 666,1361 667,1334 613,1333 563,1332 511,1332 461,1332 410,1332 361,1330 308,1332 259,1333 209,1333 209,1360" />
+        <Baseline points="209,1352 259,1352 309,1351 360,1350 410,1351 461,1351 511,1351 563,1351 612,1352 666,1354" />
+        <TextEquiv conf="0.913">
+          <Unicode>artículos tributan por su mera introducción.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l072" index="32" custom="heights_v2:[19.5,7.3]">
+        <Coords points="209,1385 262,1385 312,1385 362,1385 412,1385 463,1385 513,1385 563,1385 612,1385 666,1385 666,1358 612,1358 563,1358 513,1358 463,1358 412,1358 362,1358 312,1358 262,1358 209,1358 209,1374 209,1385" />
+        <Baseline points="209,1377 262,1377 312,1377 362,1377 412,1377 463,1377 513,1377 563,1377 612,1377 666,1377" />
+        <TextEquiv conf="0.997">
+          <Unicode>Un ejemplo de mercancía que no está grave.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l074" index="33" custom="heights_v2:[19.5,7.4]">
+        <Coords points="212,1411 265,1410 315,1410 364,1408 414,1408 464,1408 514,1408 564,1410 614,1410 668,1410 668,1383 614,1383 564,1383 515,1381 464,1381 414,1381 364,1381 314,1383 265,1383 211,1384 212,1411" />
+        <Baseline points="212,1404 265,1402 315,1402 364,1401 414,1401 464,1401 514,1401 564,1402 614,1402 668,1402" />
+        <TextEquiv conf="0.998">
+          <Unicode>da por su introducción pero que puede ser</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l075" index="34" custom="heights_v2:[19.7,7.4]">
+        <Coords points="211,1433 263,1433 313,1433 363,1435 413,1435 464,1435 514,1435 564,1435 614,1436 668,1437 668,1410 614,1409 564,1407 514,1407 464,1407 413,1407 363,1407 314,1406 263,1406 211,1406 211,1433" />
+        <Baseline points="211,1426 263,1426 313,1426 363,1427 413,1427 464,1427 514,1427 564,1427 614,1429 668,1430" />
+        <TextEquiv conf="0.959">
+          <Unicode>tarlo por el traspaso, por toma de posesión.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l077" index="35" custom="heights_v2:[19.8,7.2]">
+        <Coords points="211,1461 263,1459 313,1459 364,1459 414,1459 464,1461 515,1461 565,1461 615,1462 669,1462 669,1435 615,1435 566,1434 515,1434 464,1434 415,1432 364,1432 313,1432 263,1432 210,1434 211,1461" />
+        <Baseline points="211,1454 263,1452 313,1452 364,1452 414,1452 464,1454 515,1454 565,1454 615,1455 669,1455" />
+        <TextEquiv conf="0.999">
+          <Unicode>o por su uso, es cuando se introduce maqui-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l079" index="36" custom="heights_v2:[19.9,7.3]">
+        <Coords points="210,1484 262,1484 312,1484 363,1486 413,1486 464,1486 514,1486 565,1486 615,1487 669,1488 670,1461 616,1460 566,1459 514,1459 464,1459 413,1459 363,1459 312,1457 262,1457 210,1457 210,1484" />
+        <Baseline points="210,1477 262,1477 312,1477 363,1478 413,1478 464,1478 514,1478 565,1478 615,1480 669,1481" />
+        <TextEquiv conf="1.000">
+          <Unicode>naria industrial la cual está exenta a virtud</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l081" index="37" custom="heights_v2:[20.1,7.3]">
+        <Coords points="210,1511 262,1511 312,1511 363,1511 413,1511 464,1511 514,1512 565,1512 615,1512 669,1512 669,1485 615,1485 565,1485 514,1485 465,1483 413,1483 363,1483 312,1483 262,1483 210,1483 210,1511" />
+        <Baseline points="210,1503 262,1503 312,1503 363,1503 413,1503 464,1503 514,1505 565,1505 615,1505 669,1505" />
+        <TextEquiv conf="0.655">
+          <Unicode>de la Ley Núm. 77 aprobada en mayo 9, 1944,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l083" index="38" custom="heights_v2:[19.7,7.2]">
+        <Coords points="618,1538 672,1538 672,1511 618,1511 567,1511 517,1510 466,1510 416,1510 364,1510 315,1510 263,1511 211,1511 211,1538 263,1538 315,1537 364,1537 416,1537 466,1537 517,1537 567,1538 618,1538" />
+        <Baseline points="211,1531 263,1531 315,1530 364,1530 416,1530 466,1530 517,1530 567,1531 618,1531 672,1531" />
+        <TextEquiv conf="0.999">
+          <Unicode>siempre y cuando se dé cumplimiento a las normas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="678,576 685,1538 727,1537 790,1579 828,1579 861,1607 1122,1608 1126,1553 1140,1513 1143,1435 1134,572 678,576" />
+      <TextLine id="r005-l012" index="0" custom="heights_v2:[19.6,7.0]">
+        <Coords points="678,603 730,603 780,603 830,601 880,603 931,603 981,601 1031,600 1081,600 1135,599 1134,572 1080,573 1031,573 980,575 931,576 880,576 831,575 780,576 730,576 678,576 678,603" />
+        <Baseline points="678,596 730,596 780,596 830,594 880,596 931,596 981,594 1031,593 1081,593 1135,592" />
+        <TextEquiv conf="0.997">
+          <Unicode>disposiciones del Reglamento Núm. 52, pro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l014" index="1" custom="heights_v2:[19.4,6.9]">
+        <Coords points="678,629 731,630 780,628 830,628 880,628 931,628 981,626 1031,626 1081,628 1135,628 1135,621 1135,601 1081,601 1031,600 981,600 931,601 880,601 830,601 780,601 729,604 678,603 678,612 678,629" />
+        <Baseline points="678,622 730,624 780,621 830,621 880,621 931,621 981,619 1031,619 1081,621 1135,621" />
+        <TextEquiv conf="0.999">
+          <Unicode>mulgado por el Tesorero de Puerto Rico en</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l016" index="2" custom="heights_v2:[19.2,6.9]">
+        <Coords points="678,655 730,655 780,655 831,654 881,654 931,653 982,653 1032,653 1082,653 1135,653 1135,627 1082,627 1032,627 982,627 931,627 881,628 831,628 780,629 730,629 678,629 678,655" />
+        <Baseline points="678,648 730,648 780,648 831,647 881,647 931,646 982,646 1032,646 1082,646 1135,646" />
+        <TextEquiv conf="1.000">
+          <Unicode>22 de agosto de 1944. Si dicha maquinaria era</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l018" index="3" custom="heights_v2:[19.2,7.0]">
+        <Coords points="1135,650 1082,650 1032,650 982,651 932,653 881,653 831,653 781,654 731,656 678,657 679,683 732,682 782,680 831,679 881,679 933,679 983,678 1032,676 1082,676 1135,676 1135,650" />
+        <Baseline points="679,676 732,675 781,673 831,672 881,672 933,672 982,671 1032,669 1082,669 1135,669" />
+        <TextEquiv conf="1.000">
+          <Unicode>industrial se usara, traspasara o vendiera</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l020" index="4" custom="heights_v2:[19.5,7.1]">
+        <Coords points="678,693 679,710 732,707 782,705 833,704 883,704 933,704 984,704 1034,703 1083,703 1136,704 1135,677 1084,676 1034,676 983,677 933,677 883,677 833,677 781,679 731,680 678,683 678,693" />
+        <Baseline points="679,703 732,700 781,698 833,697 883,697 933,697 984,697 1034,696 1084,696 1136,697" />
+        <TextEquiv conf="0.958">
+          <Unicode>para fines no industriales, la misma estaría</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l022" index="5" custom="heights_v2:[19.8,7.2]">
+        <Coords points="679,733 730,732 780,732 831,730 881,730 933,729 982,729 1034,729 1084,729 1136,729 1136,702 1084,702 1034,702 982,702 933,702 881,704 831,704 780,705 730,705 679,706 679,733" />
+        <Baseline points="679,726 730,725 780,725 831,723 881,723 933,722 982,722 1034,722 1084,722 1136,722" />
+        <TextEquiv conf="0.996">
+          <Unicode>sujeta al pago de arribos, y los diez (10)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l024" index="6" custom="heights_v2:[19.6,7.0]">
+        <Coords points="679,757 729,758 780,757 832,757 881,755 933,755 984,755 1034,755 1085,754 1136,753 1136,726 1084,727 1033,729 984,729 933,729 881,729 831,730 780,730 728,731 679,730 679,757" />
+        <Baseline points="679,750 729,751 780,750 831,750 881,748 933,748 984,748 1034,748 1085,747 1136,746" />
+        <TextEquiv conf="0.949">
+          <Unicode>días que concede la Sección 39 de la Ley de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l025" index="7" custom="heights_v2:[19.4,7.0]">
+        <Coords points="679,783 730,783 781,782 831,782 883,782 933,782 984,782 1034,780 1085,779 1136,777 1136,751 1084,752 1033,754 983,755 933,755 883,755 831,755 781,755 730,757 679,757 679,783" />
+        <Baseline points="679,776 730,776 781,775 831,775 883,775 933,775 984,775 1034,773 1085,772 1136,770" />
+        <TextEquiv conf="0.979">
+          <Unicode>Rentas Internas se computarian dentro de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l027" index="8" custom="heights_v2:[19.5,6.9]">
+        <Coords points="679,808 729,808 780,808 832,808 881,806 933,806 984,806 1034,806 1085,805 1137,804 1136,777 1084,779 1033,780 984,780 933,780 881,780 831,781 780,781 729,781 679,781 679,808" />
+        <Baseline points="679,801 729,801 780,801 831,801 881,800 933,800 984,800 1034,800 1085,798 1137,797" />
+        <TextEquiv conf="0.987">
+          <Unicode>los diez (10) días siguientes al acto de tránsito</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l029" index="9" custom="heights_v2:[19.1,7.2]">
+        <Coords points="680,834 704,834 728,834 752,833 776,833 800,833 824,833 848,833 872,833 899,833 899,807 872,807 848,807 824,807 800,807 776,807 752,807 726,808 704,808 679,808 680,834" />
+        <Baseline points="679,827 704,827 727,827 752,826 776,826 800,826 824,826 848,826 872,826 899,826" />
+        <TextEquiv conf="1.000">
+          <Unicode>paso, venta o uso.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l031" index="10" custom="heights_v2:[18.9,7.1]">
+        <Coords points="1137,836 1090,836 1045,835 999,835 953,835 907,836 862,836 816,836 770,836 724,835 723,861 770,862 816,862 862,862 908,862 953,861 999,861 1045,861 1090,862 1137,862 1137,836" />
+        <Baseline points="723,854 770,855 816,855 862,855 908,855 953,854 999,854 1045,854 1090,855 1137,855" />
+        <TextEquiv conf="0.792">
+          <Unicode>Otro caso en que la introducción no hace</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l033" index="11" custom="heights_v2:[18.9,7.1]">
+        <Coords points="1137,862 1085,861 1035,861 985,861 934,861 884,861 834,861 783,861 732,862 680,864 681,890 733,888 783,887 834,887 884,887 934,887 985,887 1035,887 1085,887 1138,888 1137,862" />
+        <Baseline points="680,883 733,881 783,880 834,880 884,880 934,880 985,880 1035,880 1085,880 1137,881" />
+        <TextEquiv conf="0.799">
+          <Unicode>al artículo tributable es cuando la mercancía</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l036" index="12" custom="heights_v2:[19.3,7.1]">
+        <Coords points="680,915 732,913 782,913 833,912 883,912 933,912 984,912 1034,912 1084,912 1138,912 1138,892 1138,886 1084,886 1034,886 984,886 933,886 883,886 833,886 781,887 732,887 680,888 680,915" />
+        <Baseline points="680,908 732,906 781,906 833,905 883,905 933,905 984,905 1034,905 1084,905 1138,905" />
+        <TextEquiv conf="0.733">
+          <Unicode>cía viene consignada a persona determinada</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l038" index="13" custom="heights_v2:[19.4,7.1]">
+        <Coords points="680,940 732,940 783,938 833,937 884,937 934,938 985,938 1035,938 1086,937 1138,937 1138,910 1086,910 1035,912 985,912 934,912 885,910 833,910 782,912 731,913 680,913 680,940" />
+        <Baseline points="680,933 732,933 783,931 833,930 884,930 934,931 985,931 1035,931 1086,930 1138,930" />
+        <TextEquiv conf="0.788">
+          <Unicode>nada, sino que viene "a la orden". Los diez</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l039" index="14" custom="heights_v2:[19.2,7.2]">
+        <Coords points="1138,937 1086,937 1036,938 987,938 935,938 885,938 836,938 784,938 734,938 682,937 682,963 734,965 784,965 836,965 885,965 935,965 987,965 1037,965 1086,963 1138,963 1138,937" />
+        <Baseline points="682,956 734,957 784,957 836,957 885,957 935,957 987,957 1036,957 1086,956 1138,956" />
+        <TextEquiv conf="0.662">
+          <Unicode>días, por lo tanto, se computarán desde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l042" index="15" custom="heights_v2:[19.5,7.2]">
+        <Coords points="681,990 733,990 783,990 834,990 884,990 935,990 985,990 1036,990 1086,990 1139,990 1138,963 1086,963 1036,963 985,963 935,963 884,963 834,963 783,963 733,963 681,963 681,990" />
+        <Baseline points="681,982 733,982 783,982 834,982 884,982 935,982 985,982 1036,982 1086,982 1139,982" />
+        <TextEquiv conf="0.999">
+          <Unicode>el momento en que se toma posesión o se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l043" index="16" custom="heights_v2:[19.5,7.2]">
+        <Coords points="681,1016 713,1016 741,1015 772,1015 801,1015 830,1015 860,1015 890,1015 919,1015 952,1015 952,988 919,988 890,988 860,988 830,988 801,988 772,988 741,988 711,989 681,989 681,1016" />
+        <Baseline points="681,1009 712,1009 741,1007 772,1007 801,1007 830,1007 860,1007 890,1007 919,1007 952,1007" />
+        <TextEquiv conf="0.979">
+          <Unicode>levantan dichos artículos.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l045" index="17" custom="heights_v2:[18.9,7.2]">
+        <Coords points="1139,1016 1091,1018 1046,1018 1000,1018 955,1018 909,1018 863,1018 818,1018 772,1018 724,1016 723,1042 772,1044 818,1044 863,1044 909,1044 955,1044 1000,1044 1046,1044 1092,1044 1139,1042 1139,1016" />
+        <Baseline points="723,1035 772,1036 818,1036 863,1036 909,1036 955,1036 1000,1036 1046,1036 1092,1036 1139,1035" />
+        <TextEquiv conf="0.999">
+          <Unicode>Debe aclararse que en caso de remoción-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l047" index="18" custom="heights_v2:[19.0,7.1]">
+        <Coords points="681,1070 733,1070 784,1068 834,1068 885,1070 935,1070 987,1068 1036,1068 1088,1068 1139,1070 1139,1044 1088,1042 1036,1042 987,1042 935,1044 885,1044 835,1042 784,1042 732,1044 681,1044 681,1070" />
+        <Baseline points="681,1063 733,1063 784,1061 834,1061 885,1063 935,1063 987,1061 1036,1061 1088,1061 1139,1063" />
+        <TextEquiv conf="0.959">
+          <Unicode>nes parciales de mercancía consignada a un</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l049" index="19" custom="heights_v2:[19.3,7.2]">
+        <Coords points="682,1095 733,1095 784,1095 834,1095 886,1095 935,1094 987,1094 1036,1094 1088,1095 1140,1095 1139,1068 1088,1068 1037,1067 987,1067 935,1067 885,1068 834,1068 784,1068 733,1068 681,1068 682,1095" />
+        <Baseline points="681,1088 733,1088 784,1088 834,1088 885,1088 935,1086 987,1086 1036,1086 1088,1088 1140,1088" />
+        <TextEquiv conf="0.538">
+          <Unicode>contribuyente, y que tributa por la mera era in-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l051" index="20" custom="heights_v2:[19.5,7.3]">
+        <Coords points="682,1114 682,1123 734,1121 786,1121 835,1120 887,1121 937,1120 988,1120 1038,1120 1089,1120 1140,1120 1140,1093 1089,1093 1038,1093 988,1093 937,1093 886,1095 836,1093 785,1095 734,1095 682,1096 682,1114" />
+        <Baseline points="682,1115 734,1114 786,1114 836,1113 887,1114 937,1113 988,1113 1038,1113 1089,1113 1140,1113" />
+        <TextEquiv conf="0.999">
+          <Unicode>portación, el pago de los arbitrios es exigir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l053" index="21" custom="heights_v2:[19.7,7.2]">
+        <Coords points="682,1148 733,1148 784,1146 836,1146 885,1146 937,1146 988,1146 1038,1146 1089,1146 1140,1145 1140,1118 1089,1119 1038,1119 988,1119 937,1119 885,1119 836,1119 784,1119 732,1121 682,1121 682,1148" />
+        <Baseline points="682,1140 733,1140 784,1139 836,1139 885,1139 937,1139 988,1139 1038,1139 1089,1139 1140,1138" />
+        <TextEquiv conf="0.631">
+          <Unicode>ble a los diez (10) días de la fecha de intro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l055" index="22" custom="heights_v2:[19.8,7.1]">
+        <Coords points="682,1172 733,1172 784,1172 834,1171 885,1171 935,1171 987,1171 1036,1171 1088,1171 1140,1172 1140,1145 1088,1144 1036,1144 987,1144 935,1144 885,1144 834,1144 784,1145 733,1145 682,1145 682,1172" />
+        <Baseline points="682,1165 733,1165 784,1165 834,1164 885,1164 935,1164 987,1164 1036,1164 1088,1164 1140,1165" />
+        <TextEquiv conf="0.879">
+          <Unicode>ducción, sin importar el hecho de que se haya</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l057" index="23" custom="heights_v2:[19.2,7.0]">
+        <Coords points="682,1197 733,1197 784,1196 834,1196 885,1196 935,1197 987,1196 1036,1196 1088,1197 1141,1197 1140,1171 1088,1171 1037,1170 987,1170 935,1171 886,1170 834,1170 784,1170 732,1171 682,1171 682,1197" />
+        <Baseline points="682,1190 733,1190 784,1189 834,1189 885,1189 935,1190 987,1189 1036,1189 1088,1190 1141,1190" />
+        <TextEquiv conf="1.000">
+          <Unicode>tomado o no posesión, o levantado, el total</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l059" index="24" custom="heights_v2:[20.1,7.3]">
+        <Coords points="683,1224 725,1224 768,1224 809,1223 852,1223 894,1223 937,1223 978,1223 1021,1223 1067,1223 1067,1195 1021,1195 978,1195 937,1195 894,1195 852,1195 809,1195 767,1196 725,1196 682,1196 683,1224" />
+        <Baseline points="682,1217 725,1217 768,1217 809,1215 852,1215 894,1215 937,1215 978,1215 1021,1215 1067,1215" />
+        <TextEquiv conf="0.981">
+          <Unicode>o parte de la mercancía en cuestión.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l062" index="25" custom="heights_v2:[20.2,7.5]">
+        <Coords points="1141,1225 1093,1225 1048,1224 1002,1224 956,1224 910,1224 865,1223 819,1223 773,1224 726,1224 726,1252 773,1252 819,1250 864,1250 910,1252 956,1252 1002,1252 1047,1252 1093,1253 1141,1253 1141,1225" />
+        <Baseline points="726,1244 773,1244 819,1243 865,1243 910,1244 956,1244 1002,1244 1048,1244 1093,1246 1141,1246" />
+        <TextEquiv conf="1.000">
+          <Unicode>Una vez determinado el acto tributable</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l063" index="26" custom="heights_v2:[19.3,7.1]">
+        <Coords points="1141,1251 1088,1251 1038,1250 988,1250 938,1250 888,1250 838,1250 788,1250 738,1251 686,1250 686,1276 739,1278 788,1276 838,1276 888,1276 938,1276 988,1276 1038,1276 1088,1278 1142,1278 1141,1251" />
+        <Baseline points="686,1269 739,1271 788,1269 838,1269 888,1269 938,1269 988,1269 1038,1269 1088,1271 1141,1271" />
+        <TextEquiv conf="1.000">
+          <Unicode>—introducción, toma de posesión o traspa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l065" index="27" custom="heights_v2:[19.3,7.3]">
+        <Coords points="683,1301 736,1301 786,1301 836,1301 885,1301 937,1301 986,1301 1036,1303 1086,1303 1140,1304 1141,1278 1087,1276 1036,1276 987,1275 937,1275 885,1275 836,1275 786,1275 736,1275 683,1275 683,1299 683,1301" />
+        <Baseline points="683,1294 736,1294 786,1294 836,1294 885,1294 937,1294 987,1294 1036,1296 1086,1296 1140,1297" />
+        <TextEquiv conf="0.530">
+          <Unicode>80— los diez (10) días se computarán desde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l067" index="28" custom="heights_v2:[19.9,7.3]">
+        <Coords points="684,1329 737,1329 787,1328 837,1328 887,1328 937,1328 987,1328 1036,1328 1086,1328 1140,1329 1141,1302 1087,1301 1036,1301 987,1301 937,1301 887,1301 837,1301 787,1301 737,1302 684,1302 684,1329" />
+        <Baseline points="684,1322 737,1322 787,1320 837,1320 887,1320 937,1320 987,1320 1036,1320 1086,1320 1140,1322" />
+        <TextEquiv conf="0.919">
+          <Unicode>el momento en que se realiza dicho acto, síen-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l069" index="29" custom="heights_v2:[19.4,7.1]">
+        <Coords points="686,1354 739,1354 789,1354 838,1353 888,1354 938,1353 988,1354 1038,1354 1088,1354 1142,1354 1142,1327 1088,1327 1038,1327 988,1327 939,1326 888,1327 839,1326 788,1327 739,1327 686,1327 686,1354" />
+        <Baseline points="686,1347 739,1347 788,1347 838,1345 888,1347 938,1345 988,1347 1038,1347 1088,1347 1142,1347" />
+        <TextEquiv conf="0.977">
+          <Unicode>do inmaterial que la mercancía se vaya a la eren.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l071" index="30" custom="heights_v2:[19.1,7.4]">
+        <Coords points="684,1379 719,1381 752,1381 784,1381 818,1381 850,1381 883,1379 915,1379 948,1379 984,1379 984,1353 948,1353 915,1353 883,1353 849,1354 818,1354 784,1354 752,1354 719,1354 685,1353 684,1379" />
+        <Baseline points="684,1372 719,1373 752,1373 784,1373 818,1373 849,1373 883,1372 915,1372 948,1372 984,1372" />
+        <TextEquiv conf="0.581">
+          <Unicode>vandido en lotes parciales.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l073" index="31" custom="heights_v2:[19.4,7.7]">
+        <Coords points="727,1409 775,1409 820,1409 866,1409 912,1409 956,1409 1002,1410 1048,1410 1093,1410 1142,1409 1141,1381 1093,1383 1048,1383 1002,1383 957,1381 912,1381 866,1381 820,1381 775,1381 727,1381 727,1409" />
+        <Baseline points="727,1401 775,1401 820,1401 866,1401 912,1401 956,1401 1002,1402 1048,1402 1093,1402 1142,1401" />
+        <TextEquiv conf="0.997">
+          <Unicode>Se conseja a los comerciantes que pro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l076" index="32" custom="heights_v2:[19.6,7.6]">
+        <Coords points="1143,1408 1089,1408 1039,1408 989,1408 938,1408 888,1408 838,1408 787,1408 737,1408 684,1408 684,1435 737,1435 787,1435 838,1435 888,1435 938,1435 989,1435 1039,1435 1089,1435 1143,1435 1143,1408" />
+        <Baseline points="684,1427 737,1427 787,1427 838,1427 888,1427 938,1427 989,1427 1039,1427 1089,1427 1143,1427" />
+        <TextEquiv conf="0.523">
+          <Unicode>cedan diligentemente al pago de los impuestos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l078" index="33" custom="heights_v2:[19.4,7.4]">
+        <Coords points="684,1461 737,1461 787,1459 837,1459 887,1459 938,1461 988,1461 1038,1459 1088,1461 1142,1461 1142,1434 1088,1434 1038,1433 987,1434 938,1434 887,1433 837,1433 787,1433 737,1434 684,1434 684,1461" />
+        <Baseline points="684,1454 737,1454 787,1452 837,1452 887,1452 938,1454 988,1454 1038,1452 1088,1454 1142,1454" />
+        <TextEquiv conf="0.976">
+          <Unicode>tos, dentro de los diez (10) días siguientes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l080" index="34" custom="heights_v2:[19.3,7.3]">
+        <Coords points="685,1487 737,1487 787,1486 837,1484 887,1484 938,1484 988,1484 1038,1486 1088,1486 1141,1487 1142,1461 1088,1459 1038,1459 988,1458 938,1458 887,1458 837,1458 786,1459 737,1461 684,1461 684,1479 685,1487" />
+        <Baseline points="685,1480 737,1480 787,1478 837,1477 887,1477 938,1477 988,1477 1038,1478 1088,1478 1141,1480" />
+        <TextEquiv conf="0.974">
+          <Unicode>a la llegada a Puerto Rico de la mercancía,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l082" index="35" custom="heights_v2:[19.9,7.2]">
+        <Coords points="685,1512 737,1512 787,1511 837,1511 887,1512 937,1512 987,1512 1036,1512 1086,1512 1140,1513 1141,1486 1087,1485 1036,1485 987,1485 937,1485 887,1485 837,1483 787,1483 737,1485 685,1485 685,1512" />
+        <Baseline points="685,1505 737,1505 787,1503 837,1503 887,1505 937,1505 987,1505 1036,1505 1086,1505 1140,1506" />
+        <TextEquiv conf="0.997">
+          <Unicode>en evitación de recargos, intereses y pená</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l084" index="36" custom="heights_v2:[20.0,7.3]">
+        <Coords points="685,1538 707,1537 727,1537 747,1537 771,1536 769,1508 746,1510 727,1510 707,1510 685,1511 685,1538" />
+        <Baseline points="685,1531 707,1530 727,1530 747,1530 770,1528" />
+        <TextEquiv conf="1.000">
+          <Unicode>lidades.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l085" index="37" custom="heights_v2:[20.7,7.6]">
+        <Coords points="828,1579 865,1580 902,1580 938,1579 975,1579 1011,1579 1049,1580 1085,1580 1124,1582 1126,1553 1086,1552 1049,1552 1012,1551 975,1551 938,1551 901,1552 865,1552 829,1551 790,1551 790,1579 828,1579" />
+        <Baseline points="790,1571 829,1571 865,1573 902,1573 938,1571 975,1571 1012,1571 1049,1573 1085,1573 1124,1574" />
+        <TextEquiv conf="0.937">
+          <Unicode>(Fdo.) RAFAEL BUSCAGLIA,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l086" index="38" custom="heights_v2:[20.6,7.6]">
+        <Coords points="1123,1580 1091,1578 1062,1577 1034,1577 1005,1577 976,1578 949,1577 920,1577 891,1577 860,1578 861,1607 891,1605 920,1605 947,1605 977,1607 1005,1605 1034,1605 1061,1605 1090,1607 1122,1608 1123,1580" />
+        <Baseline points="860,1599 891,1598 920,1598 948,1598 977,1599 1005,1598 1034,1598 1061,1598 1090,1599 1122,1600" />
+        <TextEquiv conf="0.999">
+          <Unicode>Tesorero de Puerto Rico</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

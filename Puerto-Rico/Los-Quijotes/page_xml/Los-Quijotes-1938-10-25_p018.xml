@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:57:48.927229+00:00</Created>
+    <LastChange>2026-09-16T11:57:48.927229+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1938-10-25_p018" imageWidth="1380" imageHeight="1817">
+    <TextRegion id="r000">
+      <Coords points="324,88 134,95 136,128 326,122 324,88" />
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[24.8,8.6]">
+        <Coords points="134,95 136,128 184,125 229,125 231,125 326,122 324,88 273,91 231,91 134,95" />
+        <Baseline points="136,119 184,116 229,116 274,116 326,113" />
+        <TextEquiv conf="0.918">
+          <Unicode>Puerto Rico - 16</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="769,88 549,94 549,132 772,126 769,88" />
+      <TextLine id="r006-l003" index="0" custom="heights_v2:[28.7,9.8]">
+        <Coords points="549,132 772,126 769,88 721,91 681,91 637,94 597,94 549,94 549,132" />
+        <Baseline points="549,123 597,123 639,123 681,119 723,119 771,116" />
+        <TextEquiv conf="1.000">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="1181,90 988,93 988,120 1181,117 1181,90" />
+      <TextLine id="r007-l001" index="0" custom="heights_v2:[20.1,6.9]">
+        <Coords points="1054,92 1038,93 988,93 988,120 1055,119 1084,117 1130,117 1181,117 1181,90 1054,92" />
+        <Baseline points="988,113 1039,113 1084,110 1130,110 1181,110" />
+        <TextEquiv conf="0.979">
+          <Unicode>Octubre 25, 1938.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="952,853 371,856 371,1043 961,1039 952,853" />
+      <TextLine id="r004-l004" index="0" custom="heights_v2:[141.1,45.4]">
+        <Coords points="371,1043 961,1039 952,853 881,856 823,856 758,856 694,856 633,856 561,859 510,856 439,856 371,856 371,1043" />
+        <Baseline points="371,997 439,997 503,997 568,1000 633,997 694,997 758,997 823,997 887,997 958,994" />
+        <TextEquiv conf="0.257">
+          <Unicode>Mesdán hamdádi</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="999,1095 339,1099 339,1151 561,1151 693,1355 974,1342 1001,1147 999,1095" />
+      <TextLine id="r003-l005" index="0" custom="heights_v2:[37.3,14.7]">
+        <Coords points="339,1151 561,1151 633,1154 704,1151 778,1151 849,1151 920,1151 1001,1147 999,1095 918,1099 849,1099 778,1099 704,1099 631,1102 563,1099 487,1099 416,1099 339,1099 339,1151" />
+        <Baseline points="339,1136 416,1136 487,1136 562,1136 633,1139 704,1136 778,1136 849,1136 920,1136 1000,1133" />
+        <TextEquiv conf="0.497">
+          <Unicode>Soy lo mejor que se hace</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="1" custom="heights_v2:[126.4,31.5]">
+        <Coords points="871,1346 887,1345 902,1345 974,1342 962,1184 917,1187 887,1187 838,1191 810,1190 771,1190 722,1194 681,1197 693,1355 735,1351 771,1348 810,1348 833,1348 871,1346" />
+        <Baseline points="691,1323 733,1320 771,1317 810,1317 849,1317 887,1313 926,1313 971,1310" />
+        <TextEquiv conf="0.237">
+          <Unicode>á2</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="568,1231 400,1228 400,1307 568,1310 568,1231" />
+      <TextLine id="r005-l006" index="0" custom="heights_v2:[59.5,18.9]">
+        <Coords points="400,1228 400,1307 457,1307 484,1308 568,1310 568,1231 510,1231 485,1230 400,1228" />
+        <Baseline points="400,1288 458,1288 510,1291 568,1291" />
+        <TextEquiv conf="0.388">
+          <Unicode>Z. DO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="1122,1440 225,1443 226,1496 1124,1493 1122,1440" />
+      <TextLine id="r001-l008" index="0" custom="heights_v2:[38.0,14.5]">
+        <Coords points="225,1443 226,1496 329,1493 426,1493 526,1493 623,1493 723,1493 819,1493 850,1494 1124,1493 1122,1440 1015,1443 920,1443 851,1441 225,1443" />
+        <Baseline points="226,1481 329,1478 426,1478 526,1478 623,1478 723,1478 820,1478 920,1481 1017,1481 1123,1478" />
+        <TextEquiv conf="0.943">
+          <Unicode>UN PRODUCTO SERRALLÉS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="1072,1548 290,1548 291,1586 1071,1586 1072,1548" />
+      <TextLine id="r002-l009" index="0" custom="heights_v2:[26.6,10.8]">
+        <Coords points="290,1548 291,1586 381,1582 465,1582 552,1582 636,1582 723,1582 807,1582 894,1582 977,1582 1071,1586 1072,1548 290,1548" />
+        <Baseline points="290,1575 381,1572 465,1572 552,1572 636,1572 723,1572 807,1572 894,1572 978,1572 1071,1575" />
+        <TextEquiv conf="0.705">
+          <Unicode>"LOS QUIJOTES": BRINDAN SIEMPRE CON REN "DON Q".</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

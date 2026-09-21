@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:40:27.680045+00:00</Created>
+    <LastChange>2026-09-16T11:40:27.680045+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1945-08-25_p041" imageWidth="1315" imageHeight="1768">
+    <TextRegion id="r000">
+      <Coords points="355,1258 180,1262 201,1554 374,1549 355,1258" />
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[245.2,46.8]">
+        <Coords points="180,1262 201,1554 229,1552 256,1552 283,1552 374,1549 355,1258 322,1260 311,1260 290,1260 180,1262" />
+        <Baseline points="198,1507 229,1505 256,1505 285,1505 311,1505 338,1505 371,1503" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="1171,1442 1100,1442 1100,1524 1171,1524 1171,1442" />
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[60.7,21.6]">
+        <Coords points="1100,1442 1100,1524 1171,1524 1171,1442 1100,1442" />
+        <Baseline points="1100,1503 1171,1503" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

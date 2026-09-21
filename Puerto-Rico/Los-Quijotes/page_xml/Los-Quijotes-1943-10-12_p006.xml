@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T10:53:31.883366+00:00</Created>
+    <LastChange>2026-09-16T10:53:31.883366+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1943-10-12_p006" imageWidth="1361" imageHeight="1776">
+    <TextRegion id="r000">
+      <Coords points="243,107 146,108 146,137 245,135 243,107" />
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[20.9,7.7]">
+        <Coords points="146,137 245,135 243,107 216,108 194,108 171,108 146,108 146,137" />
+        <Baseline points="146,129 171,129 194,129 217,129 244,128" />
+        <TextEquiv conf="0.997">
+          <Unicode>Página 4</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="767,108 505,108 505,139 767,139 767,108" />
+      <TextLine id="r005-l003" index="0" custom="heights_v2:[23.1,7.7]">
+        <Coords points="735,108 706,108 677,108 648,108 622,108 593,108 564,108 535,108 505,108 505,139 535,139 564,139 593,139 622,139 648,139 677,139 706,139 735,139 767,139 767,108 735,108" />
+        <Baseline points="505,131 535,131 564,131 593,131 622,131 648,131 677,131 706,131 735,131 767,131" />
+        <TextEquiv conf="1.000">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="1155,109 961,109 961,136 1157,136 1155,109" />
+      <TextLine id="r007-l001" index="0" custom="heights_v2:[20.0,7.0]">
+        <Coords points="961,109 961,136 1033,136 1047,136 1047,136 1157,136 1155,109 1130,111 1110,111 1090,111 1069,111 1049,109 1033,109 961,109" />
+        <Baseline points="961,129 984,129 1006,129 1028,129 1047,129 1069,131 1090,131 1110,131 1132,131 1157,129" />
+        <TextEquiv conf="0.985">
+          <Unicode>Octubre 12, 1943</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="437,279 436,320 539,322 593,358 711,361 787,324 891,324 891,283 840,205 456,207 437,279" />
+      <TextLine id="r004-l004" index="0" custom="heights_v2:[25.1,11.2]">
+        <Coords points="506,206 500,207 456,207 456,243 502,243 543,241 586,241 627,241 668,241 711,241 753,243 794,243 841,241 840,205 793,207 753,207 724,205 506,206" />
+        <Baseline points="456,232 501,232 543,230 586,230 627,230 668,230 711,230 753,232 794,232 841,230" />
+        <TextEquiv conf="0.971">
+          <Unicode>EL PUEBLO DE PUERTO RICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l005" index="1" custom="heights_v2:[26.9,12.7]">
+        <Coords points="446,248 446,280 493,280 539,282 586,282 631,282 675,280 722,280 767,282 812,282 862,282 862,243 812,243 767,243 723,241 675,241 629,243 586,243 539,243 495,241 447,241 446,248" />
+        <Baseline points="446,268 494,268 539,269 586,269 631,269 675,268 722,268 767,269 812,269 862,269" />
+        <TextEquiv conf="0.955">
+          <Unicode>DEPARTAMENTO DE HACIENDA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l006" index="2" custom="heights_v2:[28.1,13.1]">
+        <Coords points="436,320 539,322 589,322 638,322 688,322 738,324 787,324 837,324 891,324 891,283 837,283 787,283 738,283 689,281 638,281 589,281 539,281 489,281 437,279 436,320" />
+        <Baseline points="437,307 489,309 539,309 589,309 638,309 688,309 738,311 787,311 837,311 891,311" />
+        <TextEquiv conf="0.894">
+          <Unicode>NEGOCIADO DEL IMPUESTO DE LA GESTION</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l007" index="3" custom="heights_v2:[24.5,11.1]">
+        <Coords points="713,326 686,324 663,324 641,322 618,322 593,322 593,358 618,358 639,358 663,360 684,360 711,361 713,326" />
+        <Baseline points="593,347 618,347 640,347 663,348 684,348 711,350" />
+        <TextEquiv conf="0.998">
+          <Unicode>VICTORIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="184,721 192,923 509,921 604,885 1123,880 1122,474 1021,368 287,371 190,476 184,721" />
+      <TextLine id="r001-l008" index="0" custom="heights_v2:[65.3,21.5]">
+        <Coords points="935,369 854,371 776,369 692,371 611,373 532,373 451,373 370,373 287,371 285,458 370,460 451,460 532,460 613,460 694,458 774,456 856,458 936,456 1023,454 1021,368 935,369" />
+        <Baseline points="286,437 370,438 451,438 532,438 613,438 693,437 774,435 855,437 936,435 1022,433" />
+        <TextEquiv conf="0.987">
+          <Unicode>AVISO IMPORTANTE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="1" custom="heights_v2:[25.3,10.2]">
+        <Coords points="1122,474 1015,476 913,474 810,474 708,474 603,476 501,476 399,474 296,474 190,476 191,511 296,510 399,510 501,511 604,511 708,510 810,510 912,510 1015,511 1122,510 1122,474" />
+        <Baseline points="190,501 296,499 399,499 501,501 604,501 708,499 810,499 913,499 1015,501 1122,499" />
+        <TextEquiv conf="0.779">
+          <Unicode>A TODOS LOS EMPLEADOS FEDERALES EN PUERTO RICO SUJETOS AL PA-RA-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="2" custom="heights_v2:[24.2,10.4]">
+        <Coords points="424,549 478,549 528,549 578,549 629,549 681,549 731,549 781,549 832,549 887,549 887,515 832,515 781,515 731,515 681,515 629,515 578,515 528,515 478,515 424,515 424,549" />
+        <Baseline points="424,539 478,539 528,539 578,539 629,539 681,539 731,539 781,539 832,539 887,539" />
+        <TextEquiv conf="0.844">
+          <Unicode>GO DEL IMPUESTO DE LA VICTORIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l011" index="3" custom="heights_v2:[21.6,8.8]">
+        <Coords points="259,600 356,600 451,600 546,600 641,600 735,600 830,600 925,598 1020,598 1119,598 1119,568 1020,568 925,568 830,569 735,569 641,569 546,569 451,569 356,569 259,569 259,600" />
+        <Baseline points="259,591 356,591 451,591 546,591 641,591 735,591 830,591 925,589 1020,589 1119,589" />
+        <TextEquiv conf="0.590">
+          <Unicode>De acuerdo con las disposiciones establecidas en el Artículo I de la Ley del Inmigración.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l012" index="4" custom="heights_v2:[21.7,9.0]">
+        <Coords points="189,638 295,638 397,636 499,638 602,640 706,638 808,638 911,638 1013,638 1121,638 1121,607 1013,607 911,607 808,607 706,607 601,609 500,607 397,605 294,607 189,607 189,638" />
+        <Baseline points="189,629 295,629 397,627 499,629 602,631 706,629 808,629 911,629 1013,629 1121,629" />
+        <TextEquiv conf="0.590">
+          <Unicode>puesto de la Victoria según fuera enmendada, todo individuo que recibe ingresos por</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l013" index="5" custom="heights_v2:[22.7,9.5]">
+        <Coords points="190,674 296,678 399,678 501,678 604,678 706,678 808,676 911,676 1013,676 1121,674 1121,642 1013,644 911,644 808,644 706,646 604,646 501,646 399,646 296,646 191,642 190,674" />
+        <Baseline points="190,665 296,668 399,668 501,668 604,668 706,668 808,666 911,666 1013,666 1121,665" />
+        <TextEquiv conf="0.614">
+          <Unicode>concepto de Sueldos, Salarios y Jornales del Gobierno de los Estados Unidos de Amé-rica</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l014" index="6" custom="heights_v2:[22.8,9.3]">
+        <Coords points="187,715 293,715 395,715 499,717 602,717 704,717 809,717 911,715 1013,715 1121,717 1121,685 1014,683 911,683 808,685 704,685 602,685 499,685 396,683 293,683 187,683 187,715" />
+        <Baseline points="187,706 293,706 395,706 499,708 602,708 704,708 808,708 911,706 1013,706 1121,708" />
+        <TextEquiv conf="0.647">
+          <Unicode>rica, o por cualquiera otros conceptos enumerados en el referido artículo I, viene</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l015" index="7" custom="heights_v2:[22.8,9.4]">
+        <Coords points="185,753 289,755 393,755 497,755 600,757 704,757 808,755 911,757 1015,757 1123,758 1123,746 1123,726 1015,725 911,725 809,723 704,725 600,725 498,723 393,723 289,723 184,721 185,753" />
+        <Baseline points="185,744 289,745 393,745 498,745 600,747 704,747 808,745 911,747 1015,747 1123,749" />
+        <TextEquiv conf="0.644">
+          <Unicode>obligado a cumplimentar una Declaración Individual de Ingresos, Forma V-3, y pagar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="8" custom="heights_v2:[23.1,9.0]">
+        <Coords points="187,794 253,794 318,794 384,794 449,794 516,794 580,794 646,794 711,796 781,796 781,764 711,764 647,762 580,762 516,762 449,762 384,762 318,762 253,762 185,762 187,794" />
+        <Baseline points="186,785 253,785 318,785 384,785 449,785 516,785 580,785 647,785 711,787 781,787" />
+        <TextEquiv conf="0.615">
+          <Unicode>al Tesorero de Puerto Rico el tributo correspondiente.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l017" index="9" custom="heights_v2:[20.6,8.4]">
+        <Coords points="260,844 357,844 453,844 548,844 643,845 737,847 832,845 927,845 1022,844 1121,842 1121,813 1022,815 927,817 832,817 736,818 643,817 548,815 453,815 357,815 260,815 260,844" />
+        <Baseline points="260,835 357,835 453,835 548,835 643,837 737,839 832,837 927,837 1022,835 1121,834" />
+        <TextEquiv conf="0.693">
+          <Unicode>El 15 de julio de 1943 fue fijado como fecha para la radicación de las declaraciones.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l018" index="10" custom="heights_v2:[21.2,8.8]">
+        <Coords points="190,882 296,882 399,882 501,884 604,885 1123,880 1122,850 1014,854 912,855 810,855 708,855 604,855 502,854 399,852 296,852 190,852 190,881 190,882" />
+        <Baseline points="190,873 296,873 399,873 501,875 604,877 708,877 810,877 913,877 1015,875 1123,871" />
+        <TextEquiv conf="0.719">
+          <Unicode>ciones individuales de ingresos y pago de la contribución respecto al período que tere-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l019" index="11" custom="heights_v2:[22.3,8.6]">
+        <Coords points="509,921 507,890 468,892 435,892 401,892 366,892 332,892 298,892 264,892 230,892 192,892 192,923 509,921" />
+        <Baseline points="192,914 230,914 264,914 298,914 332,914 366,914 401,914 435,914 469,914 508,913" />
+        <TextEquiv conf="0.818">
+          <Unicode>minó en 30 de junio de 1943.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="192,982 198,1452 607,1448 717,1411 1134,1416 1125,945 259,943 192,982" />
+      <TextLine id="r002-l020" index="0" custom="heights_v2:[21.6,8.7]">
+        <Coords points="259,943 259,973 357,973 453,973 548,973 643,975 738,975 834,975 929,975 1024,975 1125,975 1125,945 1024,945 929,945 834,945 738,945 643,945 584,944 259,943" />
+        <Baseline points="259,965 357,965 453,965 548,965 643,966 738,966 834,966 929,966 1024,966 1125,966" />
+        <TextEquiv conf="0.988">
+          <Unicode>A los contribuyentes (empleados federales) que ya radicaron declaraciones de-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l021" index="1" custom="heights_v2:[22.0,8.9]">
+        <Coords points="192,1013 298,1011 401,1013 503,1013 605,1011 708,1011 810,1013 912,1013 1015,1015 1123,1013 1122,982 1015,984 913,982 810,982 708,980 605,980 503,982 401,982 299,980 192,982 192,1013" />
+        <Baseline points="192,1004 298,1002 401,1004 503,1004 605,1002 708,1002 810,1004 913,1004 1015,1006 1123,1004" />
+        <TextEquiv conf="0.617">
+          <Unicode>jando consignada su dirección postal, pero que no efectuaron el pago de este impuesto.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l022" index="2" custom="heights_v2:[22.9,9.4]">
+        <Coords points="1126,1023 1021,1021 918,1019 816,1019 713,1019 609,1017 506,1019 405,1017 302,1017 196,1015 196,1048 302,1050 404,1050 507,1051 609,1050 713,1051 816,1051 918,1051 1020,1053 1127,1055 1126,1023" />
+        <Baseline points="196,1038 302,1040 404,1040 507,1042 609,1040 713,1042 816,1042 918,1042 1020,1044 1126,1045" />
+        <TextEquiv conf="0.933">
+          <Unicode>to, se les está enviando directamente por el Negociado del Impuesto de la Victoria las</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l023" index="3" custom="heights_v2:[22.7,9.0]">
+        <Coords points="193,1089 284,1089 374,1089 463,1089 551,1090 641,1090 731,1090 819,1090 909,1090 1002,1092 1003,1061 909,1059 819,1059 731,1059 641,1059 551,1059 464,1057 374,1057 284,1057 193,1057 193,1089" />
+        <Baseline points="193,1080 284,1080 374,1080 463,1080 551,1081 641,1081 731,1081 819,1081 909,1081 1002,1083" />
+        <TextEquiv conf="0.872">
+          <Unicode>notificaciones correspondientes para el pago de la contribución adeudada.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l024" index="4" custom="heights_v2:[22.6,9.1]">
+        <Coords points="260,1126 359,1126 454,1128 550,1128 645,1128 740,1130 835,1130 931,1130 1026,1130 1126,1128 1126,1097 1025,1098 931,1098 835,1098 740,1098 645,1097 550,1096 454,1096 360,1095 260,1095 260,1126" />
+        <Baseline points="260,1117 359,1117 454,1119 550,1119 645,1119 740,1121 835,1121 931,1121 1026,1121 1126,1119" />
+        <TextEquiv conf="0.906">
+          <Unicode>Aquellos contribuyentes que no rindieron las declaraciones de ingresos, ni efectivamente, ni efec-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l025" index="5" custom="heights_v2:[23.3,9.4]">
+        <Coords points="194,1164 298,1166 401,1166 503,1166 605,1168 709,1168 812,1170 914,1170 1017,1170 1125,1170 1125,1137 1017,1137 914,1137 812,1137 710,1135 605,1135 503,1134 401,1134 298,1134 194,1132 194,1164" />
+        <Baseline points="194,1155 298,1157 401,1157 503,1157 605,1159 710,1159 812,1160 914,1160 1017,1160 1125,1160" />
+        <TextEquiv conf="0.666">
+          <Unicode>tuaron el pago de la contribución en la fecha prescrita por ley, están sujetos a las</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l026" index="6" custom="heights_v2:[23.4,9.5]">
+        <Coords points="195,1208 300,1206 402,1204 505,1206 607,1206 711,1208 814,1208 916,1208 1019,1210 1126,1210 1126,1177 1019,1177 917,1175 814,1175 711,1175 608,1173 505,1173 403,1171 300,1173 194,1175 195,1208" />
+        <Baseline points="195,1198 300,1196 402,1195 505,1196 607,1196 711,1198 814,1198 916,1198 1019,1200 1126,1200" />
+        <TextEquiv conf="0.853">
+          <Unicode>penalidades que dispone la misma en dichos casos y el Departamento de Hacienda,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l027" index="7" custom="heights_v2:[22.6,9.2]">
+        <Coords points="195,1245 298,1243 400,1243 503,1245 605,1245 708,1247 810,1247 913,1249 1015,1249 1123,1250 1123,1219 1015,1217 913,1217 811,1215 708,1215 606,1213 503,1213 401,1212 298,1212 195,1213 195,1245" />
+        <Baseline points="195,1236 298,1234 401,1234 503,1236 605,1236 708,1238 810,1238 913,1240 1015,1240 1123,1241" />
+        <TextEquiv conf="0.892">
+          <Unicode>previa comprobación de sus ingresos, le notificará para el pago de la contribución.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l028" index="8" custom="heights_v2:[20.4,8.3]">
+        <Coords points="266,1293 363,1293 458,1294 553,1294 648,1294 744,1294 839,1296 934,1296 1029,1298 1128,1300 1128,1271 1030,1269 935,1268 839,1268 744,1266 648,1266 553,1266 458,1266 363,1264 266,1264 266,1293" />
+        <Baseline points="266,1284 363,1284 458,1286 553,1286 648,1286 744,1286 839,1288 934,1288 1029,1290 1128,1292" />
+        <TextEquiv conf="0.907">
+          <Unicode>Los contribuyentes que desean efectuar lo más rápidamente posible el pago</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l029" index="9" custom="heights_v2:[21.6,8.7]">
+        <Coords points="196,1331 300,1331 402,1331 507,1333 609,1333 713,1333 815,1334 920,1336 1022,1336 1130,1338 1130,1308 1023,1306 920,1306 816,1304 714,1302 609,1302 507,1302 403,1301 300,1301 196,1301 196,1331" />
+        <Baseline points="196,1322 300,1322 402,1322 507,1324 609,1324 713,1324 816,1326 920,1328 1022,1328 1130,1329" />
+        <TextEquiv conf="0.823">
+          <Unicode>de la contribución que tienen pendiente por el período que terminó en junio 30 de 1945.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l030" index="10" custom="heights_v2:[22.0,9.2]">
+        <Coords points="197,1369 304,1371 406,1371 510,1371 613,1371 715,1371 819,1373 921,1374 1024,1376 1132,1376 1132,1345 1024,1345 922,1343 820,1341 715,1340 613,1340 510,1340 406,1340 304,1340 198,1338 197,1369" />
+        <Baseline points="198,1360 304,1362 406,1362 510,1362 613,1362 715,1362 819,1363 922,1365 1024,1367 1132,1367" />
+        <TextEquiv conf="0.666">
+          <Unicode>1943, podrán hacerlo así visitando personalmente la Oficina del Negociado del Inmigración.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l031" index="11" custom="heights_v2:[22.4,9.4]">
+        <Coords points="1134,1416 1133,1384 1026,1384 924,1382 821,1381 717,1379 615,1377 512,1377 407,1379 305,1379 199,1381 200,1412 305,1411 408,1411 512,1409 614,1409 717,1411 1134,1416" />
+        <Baseline points="199,1403 305,1401 408,1401 512,1399 614,1399 717,1401 821,1403 923,1405 1026,1407 1133,1407" />
+        <TextEquiv conf="0.599">
+          <Unicode>puesto de la Victoria, en el Departamento de Hacienda, Edificio de la Intendencia (se- &gt; se)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l032" index="12" custom="heights_v2:[23.4,9.5]">
+        <Coords points="198,1452 244,1450 290,1450 334,1448 379,1448 420,1450 488,1449 514,1448 559,1448 607,1448 607,1416 559,1416 514,1416 468,1417 424,1417 380,1416 334,1416 288,1417 244,1417 198,1419 198,1452" />
+        <Baseline points="198,1442 244,1441 289,1441 334,1439 379,1439 424,1441 469,1441 514,1439 559,1439 607,1439" />
+        <TextEquiv conf="0.955">
+          <Unicode>gundo piso), San Juan, Puerto Rico.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="454,1525 201,1527 201,1595 455,1591 454,1525" />
+      <TextLine id="r003-l034" index="0" custom="heights_v2:[19.4,8.1]">
+        <Coords points="388,1526 367,1527 341,1527 313,1527 286,1527 259,1527 232,1527 201,1527 201,1555 232,1555 259,1555 286,1555 313,1555 341,1555 369,1555 395,1553 422,1553 454,1553 454,1525 388,1526" />
+        <Baseline points="201,1547 232,1547 259,1547 286,1547 313,1547 341,1547 368,1547 395,1545 422,1545 454,1545" />
+        <TextEquiv conf="0.627">
+          <Unicode>San Juan, Puerto Rico</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l036" index="1" custom="heights_v2:[21.2,8.5]">
+        <Coords points="201,1595 455,1591 453,1561 421,1563 395,1563 368,1563 340,1565 313,1565 286,1565 259,1565 232,1565 201,1565 201,1595" />
+        <Baseline points="201,1586 232,1586 259,1586 286,1586 313,1586 341,1586 368,1584 395,1584 422,1584 454,1583" />
+        <TextEquiv conf="0.633">
+          <Unicode>a 5 de octubre de 1943</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="713,1481 711,1522 751,1524 778,1560 1060,1561 1060,1530 1044,1485 713,1481" />
+      <TextLine id="r006-l033" index="0" custom="heights_v2:[29.5,11.1]">
+        <Coords points="711,1522 751,1524 787,1524 823,1524 859,1524 895,1524 930,1524 966,1525 1002,1525 1044,1525 1044,1485 1002,1485 966,1485 946,1484 877,1483 859,1483 823,1483 787,1483 751,1483 713,1481 711,1522" />
+        <Baseline points="711,1511 751,1513 787,1513 823,1513 859,1513 895,1513 931,1513 966,1514 1002,1514 1044,1514" />
+        <TextEquiv conf="0.976">
+          <Unicode>RAFAEL BÚSCAGLIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l035" index="1" custom="heights_v2:[21.9,9.4]">
+        <Coords points="1060,1561 1060,1530 1026,1530 995,1530 965,1530 934,1530 904,1530 873,1530 843,1530 813,1528 778,1528 778,1560 811,1560 816,1560 1060,1561" />
+        <Baseline points="778,1550 812,1550 843,1552 873,1552 904,1552 934,1552 965,1552 995,1552 1026,1552 1060,1552" />
+        <TextEquiv conf="0.991">
+          <Unicode>Tesorero de Puerto Rico</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

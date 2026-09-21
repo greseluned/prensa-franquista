@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T12:11:58.275679+00:00</Created>
+    <LastChange>2026-09-16T12:11:58.275679+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1945-10-30_p010" imageWidth="1338" imageHeight="1785">
+    <TextRegion id="r000">
+      <Coords points="247,103 139,107 141,137 247,133 247,103" />
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[22.7,8.1]">
+        <Coords points="192,105 192,105 192,105 139,107 141,137 169,135 194,135 218,133 247,133 247,103 192,105" />
+        <Baseline points="141,129 169,127 194,127 218,125 247,125" />
+        <TextEquiv conf="0.997">
+          <Unicode>Página 8</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r014">
+      <Coords points="756,103 575,105 575,138 758,136 756,103" />
+      <TextLine id="r014-l001" index="0" custom="heights_v2:[24.1,8.7]">
+        <Coords points="575,138 758,136 756,103 729,105 710,105 687,105 667,105 644,105 623,105 600,105 575,105 575,138" />
+        <Baseline points="575,129 600,129 623,129 644,129 667,129 687,129 710,129 731,129 758,127" />
+        <TextEquiv conf="0.999">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r021">
+      <Coords points="1179,105 999,107 1001,137 1179,135 1179,105" />
+      <TextLine id="r021-l002" index="0" custom="heights_v2:[22.5,8.0]">
+        <Coords points="999,107 1001,137 1025,135 1046,135 1067,135 1090,135 1111,135 1132,135 1153,135 1179,135 1179,105 999,107" />
+        <Baseline points="1001,129 1025,127 1046,127 1067,127 1090,127 1111,127 1132,127 1153,127 1179,127" />
+        <TextEquiv conf="1.000">
+          <Unicode>Octubre 30, 1945</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="972,315 292,317 292,449 972,447 972,315" />
+      <TextLine id="r008-l004" index="0" custom="heights_v2:[100.6,31.4]">
+        <Coords points="610,316 589,317 520,317 444,317 370,317 292,317 292,449 612,448 668,445 744,445 818,447 892,447 972,447 972,315 610,316" />
+        <Baseline points="292,418 370,418 444,418 520,418 594,418 668,414 744,414 818,416 892,416 972,416" />
+        <TextEquiv conf="0.983">
+          <Unicode>SEARS...</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="375,493 290,563 291,617 1046,617 1046,563 957,491 375,493" />
+      <TextLine id="r006-l005" index="0" custom="heights_v2:[37.2,14.2]">
+        <Coords points="375,493 376,544 442,542 507,542 570,542 634,542 697,542 761,542 824,542 889,542 957,542 957,491 375,493" />
+        <Baseline points="376,530 442,528 507,528 570,528 634,528 697,528 761,528 824,528 889,528 957,528" />
+        <TextEquiv conf="0.974">
+          <Unicode>resolvará vuestros problemas</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l006" index="1" custom="heights_v2:[38.5,14.6]">
+        <Coords points="291,617 376,615 460,615 543,615 627,615 708,615 792,617 1046,617 1046,563 959,563 875,563 792,563 709,562 627,562 543,562 460,562 376,562 290,563 291,617" />
+        <Baseline points="291,602 376,600 460,600 543,600 627,600 708,600 792,602 875,602 959,602 1046,602" />
+        <TextEquiv conf="0.997">
+          <Unicode>DE NAVIDADES Y REYES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="293,684 291,790 792,792 879,757 1052,757 1050,686 293,684" />
+      <TextLine id="r005-l007" index="0" custom="heights_v2:[22.1,7.9]">
+        <Coords points="963,686 879,688 796,688 712,688 629,688 545,686 461,686 378,686 293,684 292,714 378,716 461,716 545,716 629,718 712,718 796,718 879,718 963,716 1050,716 1050,686 963,686" />
+        <Baseline points="292,706 378,708 461,708 545,708 629,710 712,710 796,710 879,710 963,708 1050,708" />
+        <TextEquiv conf="0.940">
+          <Unicode>Ya se están distribuyendo las circulares y catálogos especiales</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l008" index="1" custom="heights_v2:[23.1,8.4]">
+        <Coords points="291,757 378,755 461,753 545,753 629,755 712,755 796,757 879,757 963,757 1052,757 1051,725 963,725 879,725 796,725 713,723 629,723 546,721 461,721 377,723 292,725 291,757" />
+        <Baseline points="291,748 378,746 461,744 545,744 629,746 712,746 796,748 879,748 963,748 1052,748" />
+        <TextEquiv conf="0.981">
+          <Unicode>para NAVIDADES, mucho más temprano que en años anteriores</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l009" index="2" custom="heights_v2:[21.8,7.8]">
+        <Coords points="291,790 347,790 403,790 458,790 512,790 540,791 590,791 623,790 664,792 792,792 792,762 733,762 678,762 624,761 567,762 513,761 458,761 403,761 347,761 291,761 291,790" />
+        <Baseline points="291,782 347,782 403,782 458,782 513,782 568,784 623,782 678,784 733,784 792,784" />
+        <TextEquiv conf="0.995">
+          <Unicode>para que los pedidos se reciban a tiempo.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="292,839 289,904 855,904 965,867 1052,867 1052,841 292,839" />
+      <TextLine id="r004-l010" index="0" custom="heights_v2:[19.6,7.3]">
+        <Coords points="1052,867 1052,841 965,841 954,840 292,839 292,866 380,866 463,866 547,866 630,866 714,866 798,866 881,866 965,867 1052,867" />
+        <Baseline points="292,858 380,858 463,858 547,858 630,858 714,858 798,858 881,858 965,860 1052,860" />
+        <TextEquiv conf="0.999">
+          <Unicode>Le sugerimos que visite una de nuestras oficinas hoy mismo o mañana.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l011" index="1" custom="heights_v2:[21.0,7.6]">
+        <Coords points="289,904 353,904 416,902 479,902 539,902 602,902 664,902 725,904 788,904 855,904 855,875 788,875 725,875 665,873 602,873 539,873 479,873 416,873 353,875 290,875 289,904" />
+        <Baseline points="289,896 353,896 416,894 479,894 539,894 602,894 665,894 725,896 788,896 855,896" />
+        <TextEquiv conf="0.912">
+          <Unicode>envíe su pedido directamente lo antes posible.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="1052,965 289,963 289,1026 346,1084 993,1081 1052,993 1052,965" />
+      <TextLine id="r003-l012" index="0" custom="heights_v2:[20.3,7.6]">
+        <Coords points="289,963 289,991 376,991 460,991 543,991 627,991 712,989 796,991 879,991 963,993 1052,993 1052,965 963,965 952,965 289,963" />
+        <Baseline points="289,984 376,984 460,984 543,984 627,984 712,982 796,984 879,984 963,986 1052,986" />
+        <TextEquiv conf="0.962">
+          <Unicode>El más variado surtido de juguetes y regalos de todas clases lo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l013" index="1" custom="heights_v2:[20.6,7.9]">
+        <Coords points="289,1026 336,1026 380,1026 423,1026 467,1026 513,1026 556,1026 600,1026 644,1024 693,1024 693,995 644,995 599,997 556,997 513,997 467,997 423,997 380,997 336,997 289,997 289,1026" />
+        <Baseline points="289,1018 336,1018 380,1018 423,1018 467,1018 513,1018 556,1018 600,1018 644,1016 693,1016" />
+        <TextEquiv conf="0.918">
+          <Unicode>encontrará en el catálogo SEARS.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l014" index="2" custom="heights_v2:[25.2,9.5]">
+        <Coords points="994,1046 918,1044 847,1044 775,1044 704,1044 632,1044 562,1044 490,1044 419,1046 344,1050 346,1084 420,1081 490,1079 562,1079 632,1079 704,1079 775,1079 847,1079 917,1079 993,1081 994,1046" />
+        <Baseline points="346,1075 420,1071 490,1069 562,1069 632,1069 704,1069 775,1069 847,1069 917,1069 993,1071" />
+        <TextEquiv conf="0.999">
+          <Unicode>CELEBRE EN FORMA ESTAS NAVIDADES DE PAZ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="366,1149 184,1155 184,1205 366,1199 366,1149" />
+      <TextLine id="r001-l016" index="0" custom="heights_v2:[37.5,12.5]">
+        <Coords points="324,1151 316,1151 304,1151 255,1153 249,1153 242,1153 223,1154 206,1155 184,1155 184,1205 224,1204 232,1203 246,1203 258,1203 275,1201 296,1201 306,1201 327,1201 340,1199 366,1199 366,1149 324,1151" />
+        <Baseline points="184,1193 209,1193 232,1191 253,1191 275,1189 296,1189 319,1189 340,1187 366,1187" />
+        <TextEquiv conf="0.473">
+          <Unicode>obelpo</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r011">
+      <Coords points="1158,1154 432,1148 433,1195 914,1193 1158,1201 1158,1154" />
+      <TextLine id="r011-l015" index="0" custom="heights_v2:[34.6,12.2]">
+        <Coords points="432,1148 433,1195 516,1193 573,1195 629,1194 676,1193 756,1193 836,1193 914,1193 1158,1201 1158,1154 1075,1154 1034,1153 432,1148" />
+        <Baseline points="433,1183 516,1181 596,1183 676,1181 756,1181 836,1181 915,1181 995,1187 1075,1189 1158,1189" />
+        <TextEquiv conf="0.998">
+          <Unicode>ANTONIO FRANCO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r013">
+      <Coords points="780,1222 570,1220 570,1251 780,1253 780,1222" />
+      <TextLine id="r013-l017" index="0" custom="heights_v2:[22.0,8.8]">
+        <Coords points="570,1220 570,1251 594,1251 617,1251 640,1251 662,1251 674,1252 780,1253 780,1222 754,1222 731,1222 708,1222 685,1222 675,1221 570,1220" />
+        <Baseline points="570,1242 594,1242 617,1242 640,1242 663,1242 685,1244 708,1244 731,1244 754,1244 780,1244" />
+        <TextEquiv conf="0.977">
+          <Unicode>Representante de</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="1059,1284 292,1282 292,1339 1057,1341 1059,1284" />
+      <TextLine id="r007-l018" index="0" custom="heights_v2:[43.3,13.4]">
+        <Coords points="292,1282 292,1339 380,1339 463,1339 549,1339 632,1339 716,1339 801,1339 885,1339 968,1339 1057,1341 1059,1284 292,1282" />
+        <Baseline points="292,1325 380,1325 463,1325 549,1325 632,1325 716,1325 801,1325 885,1325 968,1325 1058,1327" />
+        <TextEquiv conf="0.856">
+          <Unicode>SEARS, ROEBUCK Y CO.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r009">
+      <Coords points="524,1410 296,1410 296,1435 524,1435 524,1410" />
+      <TextLine id="r009-l022" index="0" custom="heights_v2:[18.3,7.0]">
+        <Coords points="496,1410 471,1410 446,1410 422,1410 372,1410 371,1410 347,1410 323,1410 296,1410 296,1435 323,1435 347,1435 373,1435 396,1433 422,1435 446,1435 471,1435 496,1435 524,1435 524,1410 496,1410" />
+        <Baseline points="296,1428 323,1428 347,1428 372,1428 397,1426 422,1428 446,1428 471,1428 496,1428 524,1428" />
+        <TextEquiv conf="0.998">
+          <Unicode>Luna esq. San Justo</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r012">
+      <Coords points="551,1411 530,1411 530,1437 551,1437 551,1411" />
+      <TextLine id="r012-l023" index="0" custom="heights_v2:[18.7,7.5]">
+        <Coords points="530,1411 530,1437 551,1437 551,1411 530,1411" />
+        <Baseline points="530,1430 551,1430" />
+        <TextEquiv conf="0.277">
+          <Unicode>n</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r015">
+      <Coords points="602,1407 602,1436 723,1436 723,1407 602,1407" />
+      <TextLine id="r015-l021" index="0" custom="heights_v2:[20.6,7.9]">
+        <Coords points="602,1436 629,1436 651,1436 674,1436 697,1436 723,1436 723,1407 697,1407 674,1407 651,1407 629,1407 602,1407 602,1436" />
+        <Baseline points="602,1428 629,1428 651,1428 674,1428 697,1428 723,1428" />
+        <TextEquiv conf="0.999">
+          <Unicode>Marina 46</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r018">
+      <Coords points="723,1407 723,1438 748,1438 748,1406 723,1407" />
+      <TextLine id="r018-l019" index="0" custom="heights_v2:[22.4,9.6]">
+        <Coords points="723,1438 748,1438 748,1406 723,1407 723,1438" />
+        <Baseline points="723,1428 748,1428" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r019">
+      <Coords points="1056,1409 798,1407 798,1436 1056,1438 1056,1409" />
+      <TextLine id="r019-l020" index="0" custom="heights_v2:[20.9,7.8]">
+        <Coords points="798,1407 798,1436 828,1436 856,1436 885,1436 911,1436 939,1436 957,1437 1056,1438 1056,1409 1024,1409 995,1409 968,1409 958,1408 798,1407" />
+        <Baseline points="798,1428 828,1428 856,1428 885,1428 911,1428 940,1428 968,1430 995,1430 1024,1430 1056,1430" />
+        <TextEquiv conf="0.998">
+          <Unicode>Mendez Vigo esq. Luna</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r010">
+      <Coords points="480,1470 334,1472 334,1500 480,1498 480,1470" />
+      <TextLine id="r010-l025" index="0" custom="heights_v2:[21.0,7.6]">
+        <Coords points="392,1471 382,1472 361,1472 334,1472 334,1500 393,1499 406,1498 429,1498 452,1498 480,1498 480,1470 392,1471" />
+        <Baseline points="334,1493 361,1493 384,1493 406,1491 429,1491 452,1491 480,1491" />
+        <TextEquiv conf="1.000">
+          <Unicode>SAN JUAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r017">
+      <Coords points="710,1468 617,1468 617,1499 710,1499 710,1468" />
+      <TextLine id="r017-l024" index="0" custom="heights_v2:[22.5,8.3]">
+        <Coords points="678,1468 649,1468 617,1468 617,1499 649,1499 678,1499 710,1499 710,1468 678,1468" />
+        <Baseline points="617,1491 649,1491 678,1491 710,1491" />
+        <TextEquiv conf="1.000">
+          <Unicode>PONCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r020">
+      <Coords points="1005,1471 851,1471 851,1501 1005,1501 1005,1471" />
+      <TextLine id="r020-l026" index="0" custom="heights_v2:[21.9,8.1]">
+        <Coords points="976,1471 876,1471 876,1471 851,1471 851,1501 878,1501 902,1499 927,1499 951,1499 976,1501 1005,1501 1005,1471 976,1471" />
+        <Baseline points="851,1493 877,1493 902,1491 927,1491 951,1491 976,1493 1005,1493" />
+        <TextEquiv conf="1.000">
+          <Unicode>MAYAGUEZ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="287,1517 254,1544 254,1569 327,1613 425,1611 454,1590 481,1588 479,1566 433,1542 385,1542 349,1517 287,1517" />
+      <TextLine id="r002-l027" index="0" custom="heights_v2:[19.0,6.8]">
+        <Coords points="317,1517 287,1517 287,1543 317,1543 349,1543 349,1517 317,1517" />
+        <Baseline points="287,1536 317,1536 349,1536" />
+        <TextEquiv conf="0.347">
+          <Unicode>utile</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l028" index="1" custom="heights_v2:[18.5,6.5]">
+        <Coords points="254,1569 279,1569 300,1569 321,1569 344,1569 365,1567 385,1567 406,1567 433,1567 433,1542 406,1542 385,1542 365,1542 342,1544 321,1544 300,1544 279,1544 254,1544 254,1569" />
+        <Baseline points="254,1563 279,1563 300,1563 321,1563 344,1563 365,1561 385,1561 406,1561 433,1561" />
+        <TextEquiv conf="0.131">
+          <Unicode>okuktvcuis adíí ua lnu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l030" index="2" custom="heights_v2:[16.0,6.2]">
+        <Coords points="481,1588 479,1566 453,1568 431,1568 408,1568 385,1568 363,1568 340,1568 317,1568 291,1568 291,1590 317,1590 340,1590 363,1590 385,1590 408,1590 431,1590 454,1590 481,1588" />
+        <Baseline points="291,1584 317,1584 340,1584 363,1584 385,1584 408,1584 431,1584 454,1584 480,1582" />
+        <TextEquiv conf="0.137">
+          <Unicode>Sónkntá vatalovu, bsdó</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l032" index="3" custom="heights_v2:[15.8,6.6]">
+        <Coords points="376,1612 391,1611 425,1611 425,1589 391,1589 360,1591 327,1591 327,1613 376,1612" />
+        <Baseline points="327,1606 361,1606 391,1605 425,1605" />
+        <TextEquiv conf="0.144">
+          <Unicode>Vokto ve su</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r016">
+      <Coords points="644,1608 617,1608 617,1632 729,1630 735,1596 727,1569 695,1569 644,1608" />
+      <TextLine id="r016-l029" index="0" custom="heights_v2:[13.2,4.8]">
+        <Coords points="695,1569 695,1587 727,1587 727,1569 695,1569" />
+        <Baseline points="695,1582 727,1582" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r016-l031" index="1" custom="heights_v2:[10.9,4.7]">
+        <Coords points="735,1596 680,1594 680,1609 733,1611 735,1596" />
+        <Baseline points="680,1605 733,1606" />
+        <TextEquiv conf="0.258">
+          <Unicode>O</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r016-l033" index="2" custom="heights_v2:[17.6,6.4]">
+        <Coords points="617,1608 617,1632 655,1631 672,1630 699,1630 729,1630 729,1606 699,1606 672,1606 644,1608 617,1608" />
+        <Baseline points="617,1625 646,1625 672,1624 699,1624 729,1624" />
+        <TextEquiv conf="0.132">
+          <Unicode>seoětat nndsne</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

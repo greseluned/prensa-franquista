@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:54:15.507248+00:00</Created>
+    <LastChange>2026-09-16T11:54:15.507248+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1945-06-25_p038" imageWidth="1326" imageHeight="1783">
+    <TextRegion id="r000">
+      <Coords points="254,125 133,132 135,158 256,150 254,125" />
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[19.0,6.3]">
+        <Coords points="133,132 135,158 156,156 159,156 256,150 254,125 231,126 211,128 192,129 174,131 158,131 133,132" />
+        <Baseline points="134,151 156,150 175,150 194,148 213,147 232,145 256,144" />
+        <TextEquiv conf="1.000">
+          <Unicode>Página 34</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r010">
+      <Coords points="757,104 574,111 576,142 761,134 757,104" />
+      <TextLine id="r010-l002" index="0" custom="heights_v2:[22.7,7.4]">
+        <Coords points="574,111 576,142 598,140 613,140 761,134 757,104 734,107 716,107 695,108 677,108 658,108 636,110 618,110 613,110 574,111" />
+        <Baseline points="576,134 598,133 618,133 637,133 658,131 677,131 697,131 716,129 737,129 760,126" />
+        <TextEquiv conf="0.999">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r014">
+      <Coords points="1177,90 997,98 997,121 1179,113 1177,90" />
+      <TextLine id="r014-l001" index="0" custom="heights_v2:[17.6,6.0]">
+        <Coords points="997,121 1179,113 1177,90 1154,91 1134,93 1117,93 1095,95 1077,94 1057,96 1037,98 1019,98 997,98 997,121" />
+        <Baseline points="997,115 1019,115 1038,115 1059,114 1077,112 1096,112 1117,110 1136,110 1155,109 1178,107" />
+        <TextEquiv conf="1.000">
+          <Unicode>Junio 25 de 1945</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="1056,204 299,231 300,311 1059,284 1056,204" />
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[64.1,16.1]">
+        <Coords points="300,311 1059,284 1056,204 969,207 886,210 800,217 719,220 635,223 551,226 469,228 385,229 299,231 300,311" />
+        <Baseline points="300,295 387,293 470,292 554,290 637,287 721,284 805,281 888,274 972,271 1059,268" />
+        <TextEquiv conf="0.995">
+          <Unicode>HOTEL NORMANDIE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="999,299 354,324 355,353 1001,328 999,299" />
+      <TextLine id="r003-l005" index="0" custom="heights_v2:[21.6,7.6]">
+        <Coords points="354,324 355,353 429,350 500,347 571,344 631,342 1001,328 999,299 925,303 854,307 784,308 712,311 642,313 630,313 354,324" />
+        <Baseline points="355,345 429,342 500,339 571,336 642,334 713,333 784,330 855,328 926,325 1000,320" />
+        <TextEquiv conf="0.999">
+          <Unicode>(El renderviento favorito de nuestro mundo distinguido)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r012">
+      <Coords points="753,406 691,517 691,617 1081,609 1078,509 949,392 753,406" />
+      <TextLine id="r012-l006" index="0" custom="heights_v2:[89.4,17.4]">
+        <Coords points="835,400 818,401 797,403 776,405 753,406 760,513 784,511 804,510 826,508 847,506 867,505 890,503 910,502 930,500 956,499 949,392 835,400" />
+        <Baseline points="759,495 782,494 803,492 825,491 846,489 866,487 888,486 909,484 929,483 954,481" />
+        <TextEquiv conf="0.680">
+          <Unicode>Hotel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l007" index="1" custom="heights_v2:[85.9,14.7]">
+        <Coords points="691,617 886,613 907,613 925,613 1081,609 1078,509 1032,510 989,512 950,512 907,512 861,514 819,515 776,517 737,517 691,517 691,617" />
+        <Baseline points="691,603 737,603 779,603 822,601 865,599 907,598 950,598 992,598 1035,596 1081,595" />
+        <TextEquiv conf="0.867">
+          <Unicode>ormandie</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="425,653 418,684 476,697 535,697 535,665 478,665 425,653" />
+      <TextLine id="r008-l008" index="0" custom="heights_v2:[24.8,7.7]">
+        <Coords points="418,684 476,697 535,697 535,665 512,665 493,666 478,665 464,662 446,657 425,653 418,684" />
+        <Baseline points="420,677 440,682 459,686 476,689 495,691 513,689 535,689" />
+        <TextEquiv conf="0.798">
+          <Unicode>VORMANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="1007,763 392,782 393,809 1008,790 1007,763" />
+      <TextLine id="r006-l009" index="0" custom="heights_v2:[19.1,7.2]">
+        <Coords points="597,776 529,779 462,781 392,782 393,809 1008,790 1007,763 936,767 868,770 801,771 733,773 665,774 598,776 597,776" />
+        <Baseline points="393,801 462,800 530,798 598,795 666,794 734,792 801,790 869,789 937,786 1008,782" />
+        <TextEquiv conf="0.755">
+          <Unicode>Lujosos salones para banqueres, bailes, recepciones</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r009">
+      <Coords points="867,806 530,817 532,845 868,834 867,806" />
+      <TextLine id="r009-l010" index="0" custom="heights_v2:[20.6,7.5]">
+        <Coords points="530,817 532,845 571,842 608,840 644,839 680,839 718,837 754,837 790,836 820,836 868,834 867,806 826,808 819,808 530,817" />
+        <Baseline points="532,838 571,835 607,833 644,831 680,831 718,830 754,830 790,828 827,828 868,827" />
+        <TextEquiv conf="0.892">
+          <Unicode>y otras actividades sociales.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r011">
+      <Coords points="760,853 686,854 686,882 760,881 760,853" />
+      <TextLine id="r011-l011" index="0" custom="heights_v2:[21.3,6.8]">
+        <Coords points="722,853 710,854 686,854 686,882 722,882 734,881 760,881 760,853 722,853" />
+        <Baseline points="686,876 711,876 734,874 760,874" />
+        <TextEquiv conf="0.743">
+          <Unicode>*</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="986,896 418,913 418,958 988,941 986,896" />
+      <TextLine id="r007-l012" index="0" custom="heights_v2:[33.5,11.6]">
+        <Coords points="418,958 988,941 986,896 920,899 857,900 795,904 733,905 670,907 608,908 545,910 481,913 418,913 418,958" />
+        <Baseline points="418,947 483,947 546,943 609,942 670,940 734,939 797,937 858,934 921,932 988,929" />
+        <TextEquiv conf="0.579">
+          <Unicode>VISITE EL "VICTORIA ROOM"</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r013">
+      <Coords points="764,957 738,958 740,988 766,987 764,957" />
+      <TextLine id="r013-l013" index="0" custom="heights_v2:[23.1,7.2]">
+        <Coords points="738,958 740,988 766,987 764,957 738,958" />
+        <Baseline points="740,981 765,980" />
+        <TextEquiv conf="0.973">
+          <Unicode>*</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="479,1018 389,1057 390,1087 469,1123 429,1234 431,1279 1011,1260 1010,1215 1033,1042 936,1006 479,1018" />
+      <TextLine id="r005-l014" index="0" custom="heights_v2:[21.2,7.7]">
+        <Coords points="663,1013 631,1015 581,1017 536,1017 479,1018 480,1047 532,1046 582,1046 633,1044 683,1041 732,1041 783,1039 833,1038 884,1036 937,1035 936,1006 883,1007 832,1009 782,1011 731,1012 708,1012 663,1013" />
+        <Baseline points="480,1040 532,1038 582,1038 633,1036 683,1033 732,1033 782,1032 833,1030 883,1029 937,1027" />
+        <TextEquiv conf="0.999">
+          <Unicode>Habitaciones cómodas y ventiladas</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l015" index="1" custom="heights_v2:[21.8,8.0]">
+        <Coords points="390,1087 462,1085 533,1084 604,1082 675,1081 747,1079 817,1076 888,1074 959,1073 1029,1071 1033,1042 959,1043 888,1045 817,1046 745,1049 675,1051 604,1053 533,1054 462,1056 389,1057 390,1087" />
+        <Baseline points="390,1079 462,1077 533,1076 604,1074 675,1073 746,1071 817,1068 888,1066 959,1065 1030,1063" />
+        <TextEquiv conf="0.568">
+          <Unicode>Nada hay comparable en las Antillas a este gran hotel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l016" index="2" custom="heights_v2:[21.6,7.8]">
+        <Coords points="524,1122 578,1120 631,1118 685,1117 739,1115 792,1114 846,1112 899,1111 956,1111 956,1081 899,1081 845,1083 791,1084 738,1086 684,1087 630,1089 577,1091 523,1092 468,1094 469,1123 524,1122" />
+        <Baseline points="469,1115 524,1114 577,1112 631,1111 685,1109 738,1107 792,1106 846,1104 899,1103 956,1103" />
+        <TextEquiv conf="0.974">
+          <Unicode>Saturación de belleza su espíritu visitando el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l017" index="3" custom="heights_v2:[26.4,10.1]">
+        <Coords points="567,1174 602,1171 635,1170 668,1168 699,1166 732,1166 766,1166 796,1165 830,1166 866,1166 866,1130 830,1130 798,1128 764,1130 732,1130 699,1130 666,1132 633,1133 600,1135 564,1138 567,1174" />
+        <Baseline points="566,1164 601,1161 634,1160 667,1158 699,1156 732,1156 765,1156 797,1155 830,1156 866,1156" />
+        <TextEquiv conf="1.000">
+          <Unicode>SALON DE ORO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l018" index="4" custom="heights_v2:[26.5,9.3]">
+        <Coords points="652,1218 674,1216 693,1216 714,1216 732,1215 752,1215 775,1213 773,1177 749,1179 732,1179 711,1180 693,1180 674,1180 650,1182 652,1218" />
+        <Baseline points="652,1208 674,1207 693,1207 713,1207 732,1205 751,1205 775,1204" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l019" index="5" custom="heights_v2:[34.1,10.7]">
+        <Coords points="431,1279 497,1276 560,1274 623,1273 907,1263 944,1262 1011,1260 1010,1215 943,1217 879,1220 814,1223 752,1225 687,1226 624,1228 559,1230 496,1231 429,1234 431,1279" />
+        <Baseline points="431,1268 497,1265 560,1264 625,1262 688,1260 753,1259 816,1257 880,1254 943,1251 1011,1249" />
+        <TextEquiv conf="0.999">
+          <Unicode>EL HOTEL NORMANDIE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="1078,1291 364,1314 371,1421 423,1455 1084,1435 1078,1291" />
+      <TextLine id="r004-l020" index="0" custom="heights_v2:[22.0,8.5]">
+        <Coords points="831,1299 760,1302 722,1302 602,1306 602,1306 602,1306 364,1314 366,1345 445,1342 524,1338 603,1337 682,1334 761,1332 839,1329 918,1327 997,1324 1079,1321 1078,1291 996,1294 917,1297 843,1298 831,1299" />
+        <Baseline points="365,1336 445,1333 524,1330 603,1328 682,1325 760,1324 839,1320 918,1319 997,1316 1079,1313" />
+        <TextEquiv conf="0.774">
+          <Unicode>Ubicado dentro y fuera de San Juan, capital de Puerto Rico.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l021" index="1" custom="heights_v2:[23.1,8.9]">
+        <Coords points="368,1380 448,1378 527,1377 606,1375 685,1372 764,1369 843,1366 922,1364 1001,1361 1081,1356 1080,1324 999,1329 920,1332 842,1334 763,1337 684,1340 605,1343 526,1345 448,1346 367,1348 368,1369 368,1380" />
+        <Baseline points="368,1371 448,1369 527,1368 606,1366 685,1363 764,1360 842,1357 921,1355 1000,1352 1080,1347" />
+        <TextEquiv conf="0.665">
+          <Unicode>Es uno de los hoteles que más comodidades, más atenciones.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l022" index="2" custom="heights_v2:[23.4,8.7]">
+        <Coords points="1081,1363 999,1366 921,1368 843,1371 765,1373 685,1376 608,1377 529,1381 450,1384 369,1389 371,1421 452,1416 530,1413 609,1410 687,1408 765,1405 844,1403 921,1400 1001,1399 1082,1395 1081,1363" />
+        <Baseline points="371,1412 451,1407 530,1404 609,1401 686,1399 765,1396 844,1395 921,1391 1000,1390 1082,1387" />
+        <TextEquiv conf="0.997">
+          <Unicode>y mejores servicios le ofrece a la sociedad de Puerto Rico.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l023" index="3" custom="heights_v2:[24.0,8.8]">
+        <Coords points="1083,1402 1006,1404 934,1404 861,1405 787,1410 716,1412 643,1415 571,1416 497,1419 422,1423 423,1455 499,1452 571,1449 644,1448 716,1444 789,1443 862,1438 934,1436 1007,1436 1084,1435 1083,1402" />
+        <Baseline points="423,1447 499,1443 571,1440 644,1439 716,1436 789,1434 861,1429 934,1428 1006,1428 1084,1426" />
+        <TextEquiv conf="0.969">
+          <Unicode>Restorante, Cantinas, Piscinas, Bailes, Recreos, etc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="1114,1468 352,1492 354,1561 524,1557 571,1612 894,1598 942,1541 1114,1538 1114,1468" />
+      <TextLine id="r002-l024" index="0" custom="heights_v2:[57.5,12.1]">
+        <Coords points="543,1486 521,1487 438,1490 352,1492 354,1561 524,1557 608,1552 691,1549 775,1547 859,1545 942,1541 1025,1538 1114,1538 1114,1468 543,1486" />
+        <Baseline points="353,1549 440,1548 524,1544 607,1540 691,1537 775,1535 858,1533 942,1529 1025,1526 1114,1526" />
+        <TextEquiv conf="0.998">
+          <Unicode>HOTEL NORMANDIE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l025" index="1" custom="heights_v2:[27.5,9.5]">
+        <Coords points="612,1611 644,1608 679,1608 680,1608 713,1606 749,1604 750,1604 894,1598 891,1561 851,1564 818,1566 783,1567 749,1567 712,1569 677,1571 644,1571 606,1574 570,1575 571,1612 612,1611" />
+        <Baseline points="571,1603 609,1601 644,1598 678,1598 713,1597 749,1595 784,1595 819,1593 853,1592 893,1589" />
+        <TextEquiv conf="0.990">
+          <Unicode>A SUS ORDENES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

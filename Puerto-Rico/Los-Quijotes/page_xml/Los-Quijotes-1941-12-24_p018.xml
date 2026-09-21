@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:28:18.080142+00:00</Created>
+    <LastChange>2026-09-16T11:28:18.080142+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1941-12-24_p018" imageWidth="1330" imageHeight="1752">
+    <TextRegion id="r000">
+      <Coords points="121,126 119,154 235,154 235,126 121,126" />
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[20.3,7.2]">
+        <Coords points="119,154 235,154 235,126 200,126 183,128 168,128 154,128 137,128 121,126 119,154" />
+        <Baseline points="120,147 137,148 154,148 168,148 185,148 200,147 216,147 235,147" />
+        <TextEquiv conf="0.996">
+          <Unicode>Página 16</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r014">
+      <Coords points="808,126 569,128 569,157 808,156 808,126" />
+      <TextLine id="r014-l003" index="0" custom="heights_v2:[21.7,7.9]">
+        <Coords points="746,127 726,128 701,128 675,128 649,128 624,128 598,128 569,128 569,157 746,156 753,156 779,156 808,156 808,126 746,127" />
+        <Baseline points="569,149 598,149 624,149 649,149 675,149 701,149 727,149 753,148 779,148 808,148" />
+        <TextEquiv conf="1.000">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r017">
+      <Coords points="1159,125 955,127 955,154 1161,153 1159,125" />
+      <TextLine id="r017-l001" index="0" custom="heights_v2:[20.2,7.2]">
+        <Coords points="955,154 1161,153 1159,125 1133,127 1113,127 1091,127 1068,127 1046,127 1024,127 1001,127 980,127 955,127 955,154" />
+        <Baseline points="955,147 980,147 1001,147 1024,147 1046,147 1068,147 1091,147 1113,147 1134,147 1160,145" />
+        <TextEquiv conf="0.999">
+          <Unicode>Diciembre 24, 1941</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="793,230 266,228 266,281 443,282 493,336 808,339 809,304 793,282 793,230" />
+      <TextLine id="r004-l004" index="0" custom="heights_v2:[40.6,11.7]">
+        <Coords points="634,229 616,230 558,230 500,230 443,230 400,229 266,228 266,281 326,281 384,281 443,282 500,282 558,282 617,282 674,281 732,282 793,282 793,230 732,230 725,230 634,229" />
+        <Baseline points="266,269 326,269 385,269 443,270 500,270 558,270 617,270 674,269 732,270 793,270" />
+        <TextEquiv conf="0.865">
+          <Unicode>PROTEJA SUS BIENES.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l005" index="1" custom="heights_v2:[25.1,9.8]">
+        <Coords points="809,304 771,302 736,302 703,301 667,301 633,301 599,301 564,301 530,301 493,301 493,336 530,336 564,336 599,336 633,336 667,336 702,336 736,337 770,337 808,339 809,304" />
+        <Baseline points="493,326 530,326 564,326 599,326 633,326 667,326 702,326 736,327 770,327 808,329" />
+        <TextEquiv conf="0.994">
+          <Unicode>ASEGURANDOSE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r015">
+      <Coords points="674,356 652,356 652,387 674,387 674,356" />
+      <TextLine id="r015-l006" index="0" custom="heights_v2:[22.2,9.6]">
+        <Coords points="652,356 652,387 674,387 674,356 652,356" />
+        <Baseline points="652,378 674,378" />
+        <TextEquiv conf="1.000">
+          <Unicode>n</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="1022,410 262,411 264,462 349,459 399,535 671,533 746,586 931,586 929,558 1022,461 1022,410" />
+      <TextLine id="r002-l007" index="0" custom="heights_v2:[36.9,13.7]">
+        <Coords points="735,411 683,411 642,411 262,411 264,462 349,459 433,459 516,459 600,461 684,462 768,461 850,459 935,461 1022,461 1022,410 735,411" />
+        <Baseline points="264,448 349,446 433,446 516,446 601,447 683,448 768,447 851,446 935,447 1022,447" />
+        <TextEquiv conf="0.542">
+          <Unicode>San Miguel &amp; Compañía, Inc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l008" index="1" custom="heights_v2:[40.4,14.1]">
+        <Coords points="671,533 726,535 780,535 834,535 891,535 891,480 834,480 780,480 726,480 672,479 617,480 564,480 510,480 455,480 399,480 399,535 671,533" />
+        <Baseline points="399,520 455,520 510,520 564,520 618,520 671,519 726,520 780,520 834,520 891,520" />
+        <TextEquiv conf="0.876">
+          <Unicode>SEGUROS Y FIANZAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l009" index="2" custom="heights_v2:[20.8,7.6]">
+        <Coords points="770,586 788,586 788,586 931,586 929,558 906,559 887,559 868,559 848,559 827,559 808,559 789,558 768,558 746,558 746,586 770,586" />
+        <Baseline points="746,579 768,579 788,579 808,580 827,580 848,580 868,580 887,580 908,580 931,579" />
+        <TextEquiv conf="0.999">
+          <Unicode>Teléfono 1510</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="557,558 370,558 370,589 473,587 511,606 511,635 791,634 791,605 573,605 557,589 557,558" />
+      <TextLine id="r008-l010" index="0" custom="heights_v2:[22.2,8.3]">
+        <Coords points="534,558 452,558 451,558 432,558 412,558 391,558 370,558 370,589 473,587 493,587 513,587 534,589 557,589 557,558 534,558" />
+        <Baseline points="370,580 391,580 412,580 432,580 452,580 473,579 493,579 514,579 534,580 557,580" />
+        <TextEquiv conf="0.918">
+          <Unicode>P.O. Box 782</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r008-l011" index="1" custom="heights_v2:[21.4,7.7]">
+        <Coords points="511,635 548,635 573,634 605,634 635,634 666,634 696,634 727,634 757,634 791,634 791,605 757,605 727,605 696,605 666,605 635,605 605,605 573,605 542,606 511,606 511,635" />
+        <Baseline points="511,628 543,628 573,626 605,626 635,626 666,626 696,626 727,626 757,626 791,626" />
+        <TextEquiv conf="0.965">
+          <Unicode>San Juan, Puerto Rico</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r011">
+      <Coords points="462,742 460,790 833,791 834,743 462,742" />
+      <TextLine id="r011-l012" index="0" custom="heights_v2:[36.7,11.4]">
+        <Coords points="460,790 684,791 708,790 749,790 789,790 833,791 834,743 683,743 666,743 626,743 586,743 545,743 504,743 462,742 460,790" />
+        <Baseline points="461,779 504,780 545,780 586,780 626,780 667,780 708,779 749,779 789,779 833,780" />
+        <TextEquiv conf="0.999">
+          <Unicode>Colmado Suárez</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="1033,815 266,816 266,846 438,846 534,885 776,882 860,845 1033,845 1033,815" />
+      <TextLine id="r003-l013" index="0" custom="heights_v2:[22.2,8.0]">
+        <Coords points="839,815 775,816 692,816 606,816 572,816 459,816 437,816 353,816 266,816 266,846 438,846 522,845 606,846 692,846 776,846 860,845 944,845 1033,845 1033,815 839,815" />
+        <Baseline points="266,838 353,838 437,838 522,837 606,838 692,838 776,838 860,837 944,837 1033,837" />
+        <TextEquiv conf="0.742">
+          <Unicode>El Colmado "SUAREZ" es el establecimiento que tosta, muela</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l014" index="1" custom="heights_v2:[21.8,7.4]">
+        <Coords points="738,883 746,882 776,882 776,853 746,853 719,855 694,855 667,855 641,855 615,855 588,855 562,855 533,856 534,885 562,884 588,884 615,884 641,884 655,884 738,883" />
+        <Baseline points="534,878 562,876 588,876 615,876 641,876 667,876 694,876 720,876 746,875 776,875" />
+        <TextEquiv conf="0.970">
+          <Unicode>y distribuye el café</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r013">
+      <Coords points="769,902 544,901 545,934 769,936 769,902" />
+      <TextLine id="r013-l015" index="0" custom="heights_v2:[24.5,9.1]">
+        <Coords points="544,901 545,934 571,933 595,933 620,933 644,933 668,933 693,934 717,934 738,936 769,936 769,902 742,902 739,902 544,901" />
+        <Baseline points="545,925 571,924 595,924 620,924 644,924 668,924 693,925 717,925 742,927 769,927" />
+        <TextEquiv conf="0.516">
+          <Unicode>CAFE SUAREZ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r009">
+      <Coords points="889,969 420,968 420,997 889,999 889,969" />
+      <TextLine id="r009-l016" index="0" custom="heights_v2:[21.2,8.1]">
+        <Coords points="420,968 420,997 472,997 476,997 889,999 889,969 834,969 783,969 730,971 679,971 628,969 576,971 524,971 476,968 420,968" />
+        <Baseline points="420,989 473,989 524,992 576,992 628,990 679,992 731,992 783,990 834,990 889,990" />
+        <TextEquiv conf="0.912">
+          <Unicode>Para regalos prácticos, cómprelos en el</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="487,1090 273,1092 273,1122 488,1121 487,1090" />
+      <TextLine id="r005-l018" index="0" custom="heights_v2:[22.3,8.1]">
+        <Coords points="273,1122 488,1121 487,1090 459,1092 437,1092 414,1092 391,1092 368,1092 345,1092 322,1092 299,1092 273,1092 273,1122" />
+        <Baseline points="273,1114 299,1114 322,1114 345,1114 368,1114 391,1114 414,1114 437,1114 461,1114 488,1113" />
+        <TextEquiv conf="0.999">
+          <Unicode>Salvador Brau 69</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r012">
+      <Coords points="846,1019 463,1019 465,1069 508,1068 573,1124 762,1125 800,1068 845,1069 846,1019" />
+      <TextLine id="r012-l017" index="0" custom="heights_v2:[37.7,12.3]">
+        <Coords points="632,1019 632,1019 629,1019 463,1019 465,1069 508,1068 550,1068 592,1069 634,1069 675,1068 717,1068 758,1068 800,1068 845,1069 846,1019 632,1019" />
+        <Baseline points="465,1057 508,1056 550,1056 592,1057 633,1057 675,1056 717,1056 758,1056 800,1056 845,1057" />
+        <TextEquiv conf="0.758">
+          <Unicode>Colmado "Suárez"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l019" index="1" custom="heights_v2:[24.2,9.5]">
+        <Coords points="762,1125 762,1091 739,1091 719,1091 700,1090 678,1090 658,1090 637,1090 617,1090 596,1090 573,1090 573,1124 596,1124 617,1124 637,1124 658,1124 678,1124 698,1124 713,1125 762,1125" />
+        <Baseline points="573,1114 596,1114 617,1114 637,1114 658,1114 678,1114 698,1114 719,1115 739,1115 762,1115" />
+        <TextEquiv conf="1.000">
+          <Unicode>Teléfono 1300</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r016">
+      <Coords points="1035,1092 851,1092 851,1124 1035,1124 1035,1092" />
+      <TextLine id="r016-l020" index="0" custom="heights_v2:[23.2,8.3]">
+        <Coords points="1012,1092 992,1092 973,1092 952,1092 932,1092 913,1092 893,1092 872,1092 851,1092 851,1124 872,1124 893,1124 913,1124 932,1124 952,1124 973,1124 992,1124 1012,1124 1035,1124 1035,1092 1012,1092" />
+        <Baseline points="851,1115 872,1115 893,1115 913,1115 932,1115 952,1115 973,1115 992,1115 1012,1115 1035,1115" />
+        <TextEquiv conf="0.954">
+          <Unicode>San Juan, P. R.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="986,1236 359,1236 360,1279 431,1278 496,1323 535,1324 834,1324 914,1279 986,1279 986,1236" />
+      <TextLine id="r006-l021" index="0" custom="heights_v2:[33.1,9.9]">
+        <Coords points="359,1236 360,1279 431,1278 500,1278 569,1277 639,1279 707,1279 776,1279 845,1279 914,1279 986,1279 986,1236 359,1236" />
+        <Baseline points="360,1269 431,1268 500,1268 569,1268 639,1269 707,1269 776,1269 845,1269 914,1269 986,1269" />
+        <TextEquiv conf="0.894">
+          <Unicode>A. VICENTE &amp; Co., S. en C.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l022" index="1" custom="heights_v2:[17.8,6.1]">
+        <Coords points="535,1324 572,1324 609,1324 645,1324 684,1324 720,1323 757,1323 793,1324 834,1324 834,1300 793,1300 757,1299 720,1299 683,1300 645,1300 609,1300 572,1300 535,1300 497,1299 496,1323 535,1324" />
+        <Baseline points="496,1317 535,1318 572,1318 609,1318 645,1318 683,1318 720,1317 757,1317 793,1318 834,1318" />
+        <TextEquiv conf="0.999">
+          <Unicode>SAN JUAN, PUERTO RICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="370,1360 370,1384 971,1386 971,1342 687,1342 637,1361 587,1343 424,1340 370,1360" />
+      <TextLine id="r007-l023" index="0" custom="heights_v2:[17.2,6.2]">
+        <Coords points="567,1343 549,1343 531,1343 514,1343 496,1343 478,1343 462,1342 443,1341 424,1340 422,1363 443,1365 460,1365 478,1366 496,1366 514,1366 531,1366 549,1366 567,1366 587,1366 587,1343 567,1343" />
+        <Baseline points="423,1357 443,1359 461,1359 478,1360 496,1360 514,1360 531,1360 549,1360 567,1360 587,1360" />
+        <TextEquiv conf="0.999">
+          <Unicode>Distrito de Ponce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l024" index="1" custom="heights_v2:[17.1,6.1]">
+        <Coords points="971,1342 937,1342 905,1343 875,1343 844,1343 812,1343 781,1343 750,1343 719,1343 687,1342 686,1365 719,1366 750,1366 781,1366 812,1366 844,1366 875,1366 907,1366 937,1365 971,1365 971,1342" />
+        <Baseline points="686,1359 719,1360 750,1360 781,1360 812,1360 844,1360 875,1360 906,1360 937,1359 971,1359" />
+        <TextEquiv conf="0.951">
+          <Unicode>Distritos Mayagüez y Aguadilla</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l025" index="2" custom="heights_v2:[17.8,6.5]">
+        <Coords points="370,1384 437,1384 504,1384 521,1385 670,1385 702,1384 769,1384 819,1385 849,1385 902,1384 971,1386 971,1361 903,1360 835,1361 769,1360 702,1360 637,1361 571,1361 504,1360 437,1360 370,1360 370,1384" />
+        <Baseline points="370,1378 437,1378 504,1378 571,1379 637,1379 702,1378 769,1378 836,1379 902,1378 971,1379" />
+        <TextEquiv conf="0.955">
+          <Unicode>Rivera, Collazo &amp; Co., S. en C. José González Clemente &amp; Co.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="378,1451 175,1449 177,1614 193,1634 489,1634 493,1565 457,1564 421,1542 401,1494 401,1470 378,1451" />
+      <TextLine id="r001-l028" index="0" custom="heights_v2:[18.1,6.5]">
+        <Coords points="175,1449 175,1474 200,1474 221,1474 243,1474 265,1474 287,1475 308,1475 330,1475 352,1475 378,1475 378,1451 352,1451 330,1451 308,1451 287,1451 276,1450 175,1449" />
+        <Baseline points="175,1467 200,1467 221,1467 243,1467 265,1467 287,1469 308,1469 330,1469 352,1469 378,1469" />
+        <TextEquiv conf="0.667">
+          <Unicode>LARRÓ DAIRTE FEED</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l030" index="1" custom="heights_v2:[18.0,6.7]">
+        <Coords points="401,1470 375,1470 352,1470 330,1470 308,1468 285,1468 262,1468 240,1468 217,1468 193,1468 193,1493 217,1493 240,1493 262,1493 285,1493 307,1493 330,1494 352,1494 375,1494 401,1494 401,1470" />
+        <Baseline points="193,1486 217,1486 240,1486 262,1486 285,1486 307,1486 330,1488 352,1488 375,1488 401,1488" />
+        <TextEquiv conf="0.999">
+          <Unicode>(Para vacas lecheras)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l032" index="2" custom="heights_v2:[18.6,7.3]">
+        <Coords points="176,1522 200,1522 221,1521 243,1521 265,1521 287,1521 308,1521 330,1521 352,1521 376,1521 376,1495 352,1495 330,1495 308,1495 287,1495 265,1495 243,1495 221,1495 199,1496 176,1496 176,1522" />
+        <Baseline points="176,1515 200,1515 221,1514 243,1514 265,1514 287,1514 308,1514 330,1514 352,1514 376,1514" />
+        <TextEquiv conf="1.000">
+          <Unicode>LARRO DOG FOOD</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l034" index="3" custom="heights_v2:[17.3,7.2]">
+        <Coords points="196,1541 215,1541 232,1541 247,1540 264,1540 280,1540 296,1540 312,1541 332,1541 332,1517 312,1517 298,1515 280,1515 264,1515 247,1515 230,1517 215,1517 196,1517 196,1541" />
+        <Baseline points="196,1534 215,1534 231,1534 247,1533 264,1533 280,1533 296,1533 312,1534 332,1534" />
+        <TextEquiv conf="0.998">
+          <Unicode>(Para Perros)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l038" index="4" custom="heights_v2:[18.7,7.0]">
+        <Coords points="176,1568 204,1568 231,1567 258,1567 284,1567 311,1567 338,1568 364,1568 391,1568 421,1568 421,1542 391,1542 364,1542 338,1542 312,1541 284,1541 258,1541 231,1541 203,1542 176,1542 176,1568" />
+        <Baseline points="176,1561 204,1561 231,1560 258,1560 284,1560 311,1560 338,1561 364,1561 391,1561 421,1561" />
+        <TextEquiv conf="0.998">
+          <Unicode>LARRÓ CHICK BUILDER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l041" index="5" custom="heights_v2:[17.6,6.8]">
+        <Coords points="493,1565 457,1564 424,1564 391,1564 359,1564 326,1564 294,1563 261,1563 228,1563 194,1564 195,1588 228,1587 261,1587 293,1587 326,1588 359,1588 391,1588 424,1588 456,1588 491,1590 493,1565" />
+        <Baseline points="194,1582 228,1580 261,1580 293,1580 326,1582 359,1582 391,1582 424,1582 457,1582 492,1583" />
+        <TextEquiv conf="0.998">
+          <Unicode>(Polvo para Pollitos y Pollonas)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l044" index="6" custom="heights_v2:[17.8,6.8]">
+        <Coords points="200,1614 220,1613 240,1613 261,1613 281,1613 302,1613 322,1613 342,1613 367,1613 367,1588 342,1588 322,1588 302,1588 281,1588 261,1588 240,1588 220,1588 199,1590 177,1590 177,1614 200,1614" />
+        <Baseline points="177,1607 200,1607 220,1606 240,1606 261,1606 281,1606 302,1606 322,1606 342,1606 367,1606" />
+        <TextEquiv conf="0.992">
+          <Unicode>LARRÓ EGG MASH</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l045" index="7" custom="heights_v2:[16.5,6.5]">
+        <Coords points="227,1634 260,1634 292,1634 325,1634 356,1633 389,1634 421,1634 454,1634 489,1634 489,1611 454,1611 421,1611 389,1611 357,1610 324,1611 292,1611 260,1611 227,1611 193,1611 193,1634 227,1634" />
+        <Baseline points="193,1628 227,1628 260,1628 292,1628 325,1628 356,1626 389,1628 421,1628 454,1628 489,1628" />
+        <TextEquiv conf="0.997">
+          <Unicode>(Polvo para Polonas y Gallinas)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r010">
+      <Coords points="923,1411 423,1408 423,1432 501,1497 503,1615 520,1634 1137,1636 1137,1612 1106,1544 1109,1473 1053,1452 977,1452 923,1411" />
+      <TextLine id="r010-l026" index="0" custom="heights_v2:[17.3,6.6]">
+        <Coords points="423,1408 423,1432 480,1432 534,1432 590,1432 644,1432 700,1433 754,1433 810,1433 864,1435 923,1435 923,1411 864,1411 848,1410 423,1408" />
+        <Baseline points="423,1425 480,1425 534,1425 590,1425 644,1425 700,1427 754,1427 810,1427 864,1428 923,1428" />
+        <TextEquiv conf="0.378">
+          <Unicode>Vendemos toda clase de slimientos para ganado y aves</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l027" index="1" custom="heights_v2:[18.3,6.8]">
+        <Coords points="500,1474 529,1474 556,1474 583,1474 608,1474 636,1475 663,1475 689,1475 716,1474 746,1474 746,1449 716,1449 688,1450 663,1450 636,1450 610,1449 583,1449 556,1449 529,1449 500,1449 500,1474" />
+        <Baseline points="500,1467 529,1467 556,1467 583,1467 609,1467 636,1469 663,1469 689,1469 716,1467 746,1467" />
+        <TextEquiv conf="0.998">
+          <Unicode>LARRÓ BROILER FEED</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l029" index="2" custom="heights_v2:[17.7,6.7]">
+        <Coords points="1026,1452 1001,1452 977,1452 952,1452 928,1452 905,1451 879,1451 855,1451 827,1451 827,1475 855,1475 879,1475 903,1475 928,1477 952,1477 977,1477 1001,1477 1026,1477 1053,1477 1053,1452 1026,1452" />
+        <Baseline points="827,1469 855,1469 879,1469 904,1469 928,1470 952,1470 977,1470 1001,1470 1026,1470 1053,1470" />
+        <TextEquiv conf="0.999">
+          <Unicode>LARRACHICKGRAINES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l031" index="3" custom="heights_v2:[17.4,6.9]">
+        <Coords points="1109,1473 1041,1473 976,1472 910,1472 845,1472 780,1472 715,1472 650,1470 584,1470 516,1470 516,1495 584,1495 649,1495 715,1496 780,1496 845,1496 910,1496 975,1496 1041,1497 1108,1497 1109,1473" />
+        <Baseline points="516,1488 584,1488 649,1488 715,1489 780,1489 845,1489 910,1489 976,1489 1041,1490 1108,1490" />
+        <TextEquiv conf="0.980">
+          <Unicode>(Preparar Aves para la matanza) (Granos- Pollitos y Pollonas)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l033" index="4" custom="heights_v2:[19.3,7.6]">
+        <Coords points="502,1524 568,1523 632,1523 697,1523 761,1524 826,1525 890,1525 955,1524 1019,1524 1087,1523 1087,1496 1019,1497 955,1497 890,1498 826,1498 761,1497 697,1496 632,1496 568,1496 501,1497 502,1524" />
+        <Baseline points="501,1516 568,1515 632,1515 697,1515 761,1516 826,1518 890,1518 955,1516 1019,1516 1087,1515" />
+        <TextEquiv conf="0.997">
+          <Unicode>LARRO TURKEY BREEDER MASH. LARRO SCRATCH GRAINES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l035" index="5" custom="heights_v2:[18.4,7.5]">
+        <Coords points="520,1543 542,1543 562,1543 583,1543 601,1543 622,1544 643,1544 662,1544 682,1544 705,1546 706,1520 683,1518 662,1518 643,1518 622,1518 603,1517 583,1517 562,1517 542,1517 520,1517 520,1543" />
+        <Baseline points="520,1535 542,1535 562,1535 583,1535 602,1535 622,1537 643,1537 662,1537 682,1537 705,1538" />
+        <TextEquiv conf="1.000">
+          <Unicode>(Para Crear Pavos)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l036" index="6" custom="heights_v2:[17.2,7.1]">
+        <Coords points="1106,1519 1075,1519 1046,1519 1018,1519 989,1519 961,1518 932,1518 904,1518 875,1518 843,1519 844,1544 875,1542 904,1542 932,1542 960,1542 989,1544 1018,1544 1046,1544 1075,1544 1106,1544 1106,1519" />
+        <Baseline points="844,1537 875,1535 904,1535 932,1535 961,1535 989,1537 1018,1537 1046,1537 1075,1537 1106,1537" />
+        <TextEquiv conf="0.934">
+          <Unicode>Granos-Pollonas y Gallinas</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l037" index="7" custom="heights_v2:[17.0,6.7]">
+        <Coords points="784,1546 826,1545 826,1521 783,1522 784,1546" />
+        <Baseline points="784,1539 826,1538" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l039" index="8" custom="heights_v2:[19.6,7.8]">
+        <Coords points="502,1569 530,1569 557,1569 584,1569 611,1570 640,1570 667,1569 694,1569 721,1569 752,1570 754,1543 722,1542 694,1542 667,1542 639,1543 611,1543 585,1542 557,1542 530,1542 502,1542 502,1569" />
+        <Baseline points="502,1561 530,1561 557,1561 584,1561 611,1562 640,1562 667,1561 694,1561 721,1561 753,1562" />
+        <TextEquiv conf="0.999">
+          <Unicode>LARRÓ CALF BUILDER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l040" index="9" custom="heights_v2:[19.6,7.6]">
+        <Coords points="784,1570 820,1569 855,1570 889,1569 922,1569 958,1570 992,1570 1026,1571 1060,1571 1098,1571 1098,1544 1060,1544 1026,1544 993,1543 958,1543 923,1542 889,1542 854,1543 821,1542 783,1543 784,1570" />
+        <Baseline points="784,1562 821,1561 855,1562 889,1561 923,1561 958,1562 992,1562 1026,1564 1060,1564 1098,1564" />
+        <TextEquiv conf="0.997">
+          <Unicode>LARRRO TURKEY BUILDER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l042" index="10" custom="heights_v2:[18.5,7.3]">
+        <Coords points="515,1590 580,1589 643,1589 706,1589 769,1590 833,1590 895,1590 959,1592 1022,1592 1088,1593 1089,1567 1022,1566 959,1566 896,1564 833,1564 769,1564 707,1563 643,1563 580,1563 515,1564 515,1590" />
+        <Baseline points="515,1583 580,1582 643,1582 707,1582 769,1583 833,1583 895,1583 959,1584 1022,1584 1088,1586" />
+        <TextEquiv conf="0.975">
+          <Unicode>(Para Desarrollar Becerreros) (Para Desarrollar Pavitos)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l043" index="11" custom="heights_v2:[19.4,7.7]">
+        <Coords points="571,1615 637,1615 702,1615 769,1615 834,1616 901,1616 966,1618 1033,1618 1102,1618 1102,1591 1033,1591 966,1591 901,1589 834,1589 769,1588 702,1588 637,1588 571,1588 503,1588 503,1615 571,1615" />
+        <Baseline points="503,1607 571,1607 637,1607 702,1607 769,1607 834,1609 901,1609 966,1610 1033,1610 1102,1610" />
+        <TextEquiv conf="0.999">
+          <Unicode>LARRÓ PIG Y HOG BUILDER LARRÓ TURQUESA FINISHER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l046" index="12" custom="heights_v2:[17.1,6.5]">
+        <Coords points="1137,1636 1137,1612 1066,1613 999,1613 931,1612 863,1611 795,1611 727,1611 659,1611 591,1611 520,1611 520,1634 591,1634 659,1634 727,1634 795,1634 863,1634 905,1635 1137,1636" />
+        <Baseline points="520,1628 591,1628 659,1628 727,1628 795,1628 863,1628 931,1629 999,1630 1067,1630 1137,1629" />
+        <TextEquiv conf="0.998">
+          <Unicode>(Puerquitos y Cerdos) (Para Completar Crianza de Pavos)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

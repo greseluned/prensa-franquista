@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T10:52:26.563485+00:00</Created>
+    <LastChange>2026-09-16T10:52:26.563485+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1943-10-12_p001" imageWidth="1599" imageHeight="1837">
+    <TextRegion id="r000">
+      <Coords points="460,158 385,212 406,310 464,313 498,289 639,264 652,246 652,217 600,164 460,158" />
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[21.1,8.0]">
+        <Coords points="530,161 507,161 460,158 459,187 507,190 548,190 599,193 600,164 530,161" />
+        <Baseline points="459,179 507,182 549,182 599,185" />
+        <TextEquiv conf="0.999">
+          <Unicode>EL LIBRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l002" index="1" custom="heights_v2:[19.9,8.0]">
+        <Coords points="628,193 589,190 549,190 514,187 475,184 431,184 431,212 473,212 512,215 549,218 587,218 632,221 634,198 628,193" />
+        <Baseline points="431,204 473,204 512,207 549,210 588,210 633,213" />
+        <TextEquiv conf="0.660">
+          <Unicode>MIGUEL SUCH,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l003" index="2" custom="heights_v2:[20.9,7.8]">
+        <Coords points="391,240 422,237 454,240 486,240 518,243 548,243 582,246 613,246 652,246 652,217 613,217 582,217 550,214 518,214 489,212 454,211 425,209 385,212 391,240" />
+        <Baseline points="389,232 423,230 454,232 487,232 518,235 549,235 582,238 613,238 652,238" />
+        <TextEquiv conf="0.829">
+          <Unicode>"SUA VIDA Y SU OBRA"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="3" custom="heights_v2:[18.2,9.2]">
+        <Coords points="637,237 603,239 605,267 639,264 637,237" />
+        <Baseline points="605,258 638,255" />
+        <TextEquiv conf="0.510">
+          <Unicode>☞</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="4" custom="heights_v2:[19.7,6.9]">
+        <Coords points="562,278 566,252 513,244 467,243 424,241 422,267 467,270 508,270 560,278 562,278" />
+        <Baseline points="423,260 467,263 509,263 563,272" />
+        <TextEquiv conf="1.000">
+          <Unicode>Original de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l007" index="5" custom="heights_v2:[17.7,6.2]">
+        <Coords points="401,289 448,289 498,289 498,265 448,265 398,265 398,272 401,289" />
+        <Baseline points="400,283 448,283 498,283" />
+        <TextEquiv conf="1.000">
+          <Unicode>Director</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="6" custom="heights_v2:[16.9,4.9]">
+        <Coords points="464,313 466,291 407,288 406,310 464,313" />
+        <Baseline points="406,305 465,308" />
+        <TextEquiv conf="0.522">
+          <Unicode>Cerda</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="1058,111 932,108 932,326 1047,329 1058,111" />
+      <TextLine id="r001-l006" index="0" custom="heights_v2:[169.3,48.9]">
+        <Coords points="932,108 932,326 989,326 1047,329 1058,111 932,108" />
+        <Baseline points="932,277 991,277 1050,280" />
+        <TextEquiv conf="0.353">
+          <Unicode>F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="1328,339 1323,407 1362,409 1367,342 1328,339" />
+      <TextLine id="r002-l009" index="0" custom="heights_v2:[50.3,17.6]">
+        <Coords points="1323,407 1362,409 1367,342 1328,339 1323,407" />
+        <Baseline points="1324,389 1363,392" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

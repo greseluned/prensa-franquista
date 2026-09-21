@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T10:44:52.812781+00:00</Created>
+    <LastChange>2026-09-16T10:44:52.812781+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1945-04-12_p001" imageWidth="1392" imageHeight="1622">
+    <TextRegion id="r000">
+      <Coords points="199,413 156,413 156,475 199,475 199,413" />
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[48.8,13.2]">
+        <Coords points="156,413 156,475 199,475 199,413 156,413" />
+        <Baseline points="156,462 199,462" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="464,432 443,432 443,477 464,477 464,432" />
+      <TextLine id="r001-l002" index="0" custom="heights_v2:[33.5,11.9]">
+        <Coords points="443,432 443,477 464,477 464,432 443,432" />
+        <Baseline points="443,465 464,465" />
+        <TextEquiv conf="0.194">
+          <Unicode>O</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="557,504 541,530 543,562 576,560 620,569 760,549 781,521 815,515 809,484 746,497 697,483 557,504" />
+      <TextLine id="r002-l003" index="0" custom="heights_v2:[19.3,6.2]">
+        <Coords points="650,490 634,493 616,496 597,499 580,501 557,504 561,529 581,526 601,524 620,521 638,518 657,515 678,512 700,508 697,483 650,490" />
+        <Baseline points="560,523 581,520 600,518 619,515 637,512 656,509 677,505 700,502" />
+        <TextEquiv conf="0.652">
+          <Unicode>VROPRIEDAD DE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l004" index="1" custom="heights_v2:[23.6,8.1]">
+        <Coords points="543,562 576,560 605,553 635,547 664,542 693,538 723,533 753,528 781,521 815,515 809,484 746,497 718,501 688,506 659,511 630,516 598,523 569,529 541,530 543,562" />
+        <Baseline points="542,554 574,552 603,546 634,539 663,534 692,530 722,525 751,520 780,513 814,507" />
+        <TextEquiv conf="0.462">
+          <Unicode>UNIVERSIDAD DE PUERTO RIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l005" index="2" custom="heights_v2:[16.8,6.3]">
+        <Coords points="729,553 737,552 760,549 757,526 734,529 714,532 695,535 676,539 657,542 637,545 618,546 620,569 729,553" />
+        <Baseline points="619,563 640,562 659,558 679,555 698,552 717,549 736,546 759,542" />
+        <TextEquiv conf="0.701">
+          <Unicode> PIEDRAS P. R.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

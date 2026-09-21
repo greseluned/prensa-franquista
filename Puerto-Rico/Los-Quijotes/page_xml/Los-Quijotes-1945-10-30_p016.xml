@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T12:13:10.354327+00:00</Created>
+    <LastChange>2026-09-16T12:13:10.354327+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1945-10-30_p016" imageWidth="1344" imageHeight="1799">
+    <TextRegion id="r000">
+      <Coords points="273,134 159,134 159,165 273,165 273,134" />
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[22.9,7.8]">
+        <Coords points="247,134 226,134 204,134 183,134 159,134 159,165 183,165 204,165 226,165 247,165 273,165 273,134 247,134" />
+        <Baseline points="159,157 183,157 204,157 226,157 247,157 273,157" />
+        <TextEquiv conf="0.999">
+          <Unicode>Página 14</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r010">
+      <Coords points="780,132 601,134 601,165 780,163 780,132" />
+      <TextLine id="r010-l003" index="0" custom="heights_v2:[23.5,8.1]">
+        <Coords points="753,132 735,134 718,134 699,134 680,134 661,134 642,134 623,134 601,134 601,165 753,164 756,163 780,163 780,132 753,132" />
+        <Baseline points="601,157 623,157 642,157 661,157 680,157 699,157 718,157 737,157 756,155 780,155" />
+        <TextEquiv conf="0.999">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r011">
+      <Coords points="1203,134 1031,134 1031,163 1203,163 1203,134" />
+      <TextLine id="r011-l001" index="0" custom="heights_v2:[21.2,7.1]">
+        <Coords points="1179,134 1157,136 1138,136 1119,134 1096,134 1076,134 1055,134 1031,134 1031,163 1055,163 1076,163 1096,163 1117,163 1117,163 1179,163 1203,163 1203,134 1179,134" />
+        <Baseline points="1031,155 1055,155 1076,155 1096,155 1117,155 1138,157 1159,157 1179,155 1203,155" />
+        <TextEquiv conf="0.999">
+          <Unicode>Octubre 30, 1945</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="329,340 328,389 409,391 532,465 841,469 955,391 1037,393 1038,343 329,340" />
+      <TextLine id="r007-l004" index="0" custom="heights_v2:[36.9,12.7]">
+        <Coords points="328,389 409,391 487,389 565,391 642,389 721,389 799,391 877,391 955,391 1037,393 1038,343 585,341 564,341 531,341 459,340 408,341 329,340 328,389" />
+        <Baseline points="328,376 409,378 487,376 565,378 642,376 722,376 799,378 877,378 955,378 1038,380" />
+        <TextEquiv conf="0.822">
+          <Unicode>Autoridad de las fuentes fluviales</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l005" index="1" custom="heights_v2:[36.8,14.5]">
+        <Coords points="841,469 841,417 803,417 772,416 736,416 705,414 668,414 635,414 601,414 568,414 532,414 532,465 568,465 601,465 635,465 668,465 702,465 736,467 769,467 793,468 841,469" />
+        <Baseline points="532,451 568,451 601,451 635,451 668,451 703,451 736,452 770,452 803,454 841,454" />
+        <TextEquiv conf="1.000">
+          <Unicode>de Puerto Rico</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="379,599 300,637 304,746 653,746 729,708 1067,708 1065,603 910,603 853,507 518,506 456,601 379,599" />
+      <TextLine id="r004-l006" index="0" custom="heights_v2:[52.2,17.6]">
+        <Coords points="518,506 518,575 559,575 594,574 630,574 666,574 702,574 739,575 774,575 812,577 853,577 853,507 812,507 807,507 518,506" />
+        <Baseline points="518,558 558,558 594,556 630,556 666,556 703,556 739,558 775,558 812,559 853,559" />
+        <TextEquiv conf="0.996">
+          <Unicode>AVISO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l007" index="1" custom="heights_v2:[22.5,8.5]">
+        <Coords points="986,603 910,603 834,601 758,601 684,601 608,601 532,601 456,601 379,599 378,630 456,632 532,632 608,632 684,632 758,632 834,632 910,634 986,634 1065,634 1065,603 986,603" />
+        <Baseline points="378,622 456,623 532,623 608,623 684,623 758,623 834,623 910,625 986,625 1065,625" />
+        <TextEquiv conf="0.486">
+          <Unicode>El público, rodo, sin distinción alguna, está directamente</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l008" index="2" custom="heights_v2:[22.9,8.8]">
+        <Coords points="301,668 387,668 471,670 556,670 641,670 725,670 810,670 894,670 979,670 1066,670 1066,638 979,638 894,638 810,638 725,638 641,638 556,638 471,638 387,637 300,637 301,668" />
+        <Baseline points="301,660 387,660 471,661 556,661 641,661 725,661 810,661 894,661 979,661 1066,661" />
+        <TextEquiv conf="0.994">
+          <Unicode>interesado en que el servicio de electricidad funcione sin entorno.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l009" index="3" custom="heights_v2:[22.6,8.6]">
+        <Coords points="812,708 896,708 979,708 1067,708 1067,677 979,677 896,677 812,677 729,677 644,677 561,677 477,675 394,675 306,678 308,710 394,706 476,706 561,708 644,708 729,708 812,708" />
+        <Baseline points="307,701 394,698 477,698 561,699 644,699 729,699 812,699 896,699 979,699 1067,699" />
+        <TextEquiv conf="0.994">
+          <Unicode>pecimiento y está disponible en el momento mismo en que se produce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l010" index="4" custom="heights_v2:[23.2,8.5]">
+        <Coords points="345,746 383,746 421,746 459,746 497,746 535,746 573,746 611,746 653,746 653,714 611,714 573,714 535,714 497,714 459,714 421,714 383,714 345,714 304,714 304,746 345,746" />
+        <Baseline points="304,737 345,737 383,737 421,737 459,737 497,737 535,737 573,737 611,737 653,737" />
+        <TextEquiv conf="0.752">
+          <Unicode>necesito, de día o de noche.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="268,864 252,864 252,870 268,870 268,864" />
+      <TextLine id="r003-l014" index="0" custom="heights_v2:[4.6,1.4]">
+        <Coords points="252,864 252,870 268,870 268,864 252,864" />
+        <Baseline points="252,869 268,869" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="306,799 307,1059 401,1059 477,1019 1069,1021 1067,767 376,763 306,799" />
+      <TextLine id="r005-l011" index="0" custom="heights_v2:[22.3,8.5]">
+        <Coords points="690,765 683,765 608,765 576,764 376,763 376,794 456,794 532,794 608,796 684,796 760,794 836,796 911,796 988,798 1067,798 1067,767 988,767 965,766 690,765" />
+        <Baseline points="376,786 456,786 532,786 608,787 684,787 760,786 836,787 912,787 988,789 1067,789" />
+        <TextEquiv conf="0.993">
+          <Unicode>Una causa frecuente de interrupción del servicio de elec-trico.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l012" index="1" custom="heights_v2:[23.0,8.9]">
+        <Coords points="306,831 392,833 476,831 561,833 644,833 729,834 813,833 896,834 981,834 1068,834 1067,802 981,802 896,802 814,801 728,802 645,801 561,801 477,799 391,801 306,799 306,831" />
+        <Baseline points="306,822 392,824 477,822 561,824 644,824 729,825 813,824 896,825 981,825 1067,825" />
+        <TextEquiv conf="0.638">
+          <Unicode>trididad, especialmente en el área metropolitana, es la rotura de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l013" index="2" custom="heights_v2:[22.8,8.7]">
+        <Coords points="306,870 390,870 475,869 559,869 644,869 727,870 812,870 896,870 981,872 1068,872 1068,841 981,841 897,839 812,839 727,839 645,837 559,837 475,837 390,839 306,839 306,870" />
+        <Baseline points="306,862 390,862 475,860 559,860 644,860 727,862 812,862 896,862 981,863 1068,863" />
+        <TextEquiv conf="0.624">
+          <Unicode>las líneas de distribución en las calles, ocasionada por el lanzador de bombas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l015" index="3" custom="heights_v2:[22.7,8.0]">
+        <Coords points="307,908 392,908 477,908 561,908 644,908 729,908 813,908 896,908 981,908 1068,908 1068,877 981,877 896,877 813,877 729,877 644,877 561,877 477,877 392,877 306,877 307,908" />
+        <Baseline points="307,900 392,900 477,900 561,900 644,900 729,900 813,900 896,900 981,900 1068,900" />
+        <TextEquiv conf="0.539">
+          <Unicode>miento de alambres y trozos de metal sobre las lineas asi como</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l016" index="4" custom="heights_v2:[21.8,7.6]">
+        <Coords points="307,945 390,943 475,943 559,943 644,943 727,943 812,943 896,943 981,945 1068,945 1068,916 981,916 897,914 812,914 727,914 644,914 559,914 475,914 390,914 307,916 307,945" />
+        <Baseline points="307,938 390,936 475,936 559,936 644,936 727,936 812,936 896,936 981,938 1068,938" />
+        <TextEquiv conf="0.991">
+          <Unicode>el cruce de las mismas con los hilos de chiringas y volantines.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l017" index="5" custom="heights_v2:[21.5,8.0]">
+        <Coords points="307,982 390,982 475,982 559,982 642,984 727,982 811,982 894,984 979,985 1067,984 1067,954 979,956 895,954 812,952 727,952 642,954 560,952 475,952 390,952 307,952 307,982" />
+        <Baseline points="307,974 390,974 475,974 559,974 642,976 727,974 812,974 894,976 979,977 1067,976" />
+        <TextEquiv conf="0.923">
+          <Unicode>veas estas roturas resultan en casos trágicos, pues pueden cau-era</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l018" index="6" custom="heights_v2:[21.6,7.6]">
+        <Coords points="307,1021 392,1021 477,1019 561,1019 575,1020 1069,1021 1069,992 981,992 896,992 813,992 729,992 644,992 562,990 477,990 392,992 307,992 307,1021" />
+        <Baseline points="307,1014 392,1014 477,1012 561,1012 644,1014 729,1014 813,1014 896,1014 981,1014 1069,1014" />
+        <TextEquiv conf="0.578">
+          <Unicode>Sara la muerte de los viajantes que hagan contacto con las líneas</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l019" index="7" custom="heights_v2:[24.3,7.7]">
+        <Coords points="332,1059 354,1059 375,1059 401,1059 401,1027 375,1027 354,1027 332,1027 307,1027 307,1059 332,1059" />
+        <Baseline points="307,1052 332,1052 354,1052 375,1052 401,1052" />
+        <TextEquiv conf="0.950">
+          <Unicode>caídas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="190,1210 207,1341 268,1341 288,1319 287,1230 272,1145 277,1084 223,1077 199,1104 190,1210" />
+      <TextLine id="r001-l020" index="0" custom="heights_v2:[1.9,0.7]">
+        <Coords points="223,1077 223,1080 247,1080 223,1077" />
+        <Baseline points="223,1079 239,1079" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l022" index="1" custom="heights_v2:[14.4,5.8]">
+        <Coords points="277,1084 248,1085 221,1085 221,1106 249,1106 275,1104 277,1084" />
+        <Baseline points="221,1100 249,1100 276,1098" />
+        <TextEquiv conf="0.272">
+          <Unicode>vódiri</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l023" index="2" custom="heights_v2:[18.7,6.8]">
+        <Coords points="199,1129 235,1129 271,1129 271,1104 235,1104 199,1104 199,1129" />
+        <Baseline points="199,1122 235,1122 271,1122" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l025" index="3" custom="heights_v2:[17.7,6.6]">
+        <Coords points="200,1150 233,1150 268,1150 268,1125 233,1125 200,1125 200,1150" />
+        <Baseline points="200,1143 233,1143 268,1143" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l026" index="4" custom="heights_v2:[18.5,6.8]">
+        <Coords points="244,1147 221,1147 195,1147 195,1172 221,1172 246,1172 273,1171 272,1145 244,1147" />
+        <Baseline points="195,1165 221,1165 245,1165 273,1164" />
+        <TextEquiv conf="0.216">
+          <Unicode>inum siltr</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l028" index="5" custom="heights_v2:[19.7,6.7]">
+        <Coords points="193,1167 193,1193 221,1193 246,1193 275,1191 273,1165 244,1167 221,1167 193,1167 193,1167" />
+        <Baseline points="193,1186 221,1186 245,1186 275,1184" />
+        <TextEquiv conf="0.196">
+          <Unicode>Maokasvto</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l029" index="6" custom="heights_v2:[19.8,6.9]">
+        <Coords points="200,1216 226,1216 249,1216 276,1216 276,1189 249,1189 226,1189 200,1189 200,1216" />
+        <Baseline points="200,1209 226,1209 249,1209 276,1209" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l031" index="7" custom="heights_v2:[19.3,6.6]">
+        <Coords points="193,1236 214,1236 237,1236 259,1236 285,1234 284,1215 283,1208 258,1210 237,1210 214,1210 190,1210 193,1236" />
+        <Baseline points="192,1229 214,1229 237,1229 259,1229 285,1228" />
+        <TextEquiv conf="0.239">
+          <Unicode>ro nuním</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l033" index="8" custom="heights_v2:[20.3,7.0]">
+        <Coords points="196,1257 218,1257 240,1257 261,1257 287,1257 287,1230 261,1230 240,1230 218,1230 193,1230 193,1236 196,1257" />
+        <Baseline points="195,1250 218,1250 240,1250 261,1250 287,1250" />
+        <TextEquiv conf="0.614">
+          <Unicode>un</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l034" index="9" custom="heights_v2:[18.9,6.6]">
+        <Coords points="287,1250 259,1250 233,1250 205,1250 205,1276 233,1276 259,1276 288,1276 287,1250" />
+        <Baseline points="205,1269 233,1269 259,1269 287,1269" />
+        <TextEquiv conf="0.387">
+          <Unicode>ocne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l036" index="10" custom="heights_v2:[20.1,7.1]">
+        <Coords points="287,1271 257,1271 231,1271 202,1271 202,1299 231,1299 257,1299 288,1299 287,1271" />
+        <Baseline points="202,1292 231,1292 257,1292 288,1292" />
+        <TextEquiv conf="0.172">
+          <Unicode>akukava</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l037" index="11" custom="heights_v2:[18.4,7.0]">
+        <Coords points="204,1319 231,1319 257,1319 288,1319 288,1294 257,1294 231,1294 202,1294 202,1302 204,1319" />
+        <Baseline points="203,1312 231,1312 257,1312 288,1312" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l039" index="12" custom="heights_v2:[21.6,7.8]">
+        <Coords points="237,1341 268,1341 268,1311 237,1311 207,1311 207,1341 237,1341" />
+        <Baseline points="207,1333 237,1333 268,1333" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="309,1116 307,1446 697,1446 817,1409 1074,1410 1071,1080 382,1077 309,1116" />
+      <TextLine id="r006-l021" index="0" custom="heights_v2:[23.0,8.7]">
+        <Coords points="819,1079 763,1080 688,1079 611,1079 579,1078 382,1077 382,1109 459,1109 535,1109 611,1110 687,1110 763,1112 839,1110 915,1110 991,1112 1071,1112 1071,1080 991,1080 969,1080 819,1079" />
+        <Baseline points="382,1100 459,1100 535,1100 611,1102 687,1102 763,1103 839,1102 915,1102 991,1103 1071,1103" />
+        <TextEquiv conf="0.994">
+          <Unicode>Es, pues, en nuestro interés de evitar lamentables accidentes.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l024" index="1" custom="heights_v2:[22.3,9.1]">
+        <Coords points="1071,1117 985,1116 900,1116 817,1116 732,1116 647,1116 565,1114 480,1114 395,1114 309,1116 309,1147 395,1145 480,1145 564,1145 647,1147 732,1147 817,1147 900,1147 984,1147 1071,1149 1071,1117" />
+        <Baseline points="309,1138 395,1136 480,1136 565,1136 647,1138 732,1138 817,1138 900,1138 984,1138 1071,1140" />
+        <TextEquiv conf="0.997">
+          <Unicode>tes que causen pérdidas de vida y de propiedad y que afecten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l027" index="2" custom="heights_v2:[23.0,8.9]">
+        <Coords points="308,1183 394,1183 478,1183 563,1183 647,1183 730,1183 815,1185 899,1185 984,1186 1072,1186 1071,1155 984,1155 900,1153 815,1153 731,1151 647,1151 563,1151 478,1151 394,1151 308,1151 308,1183" />
+        <Baseline points="308,1174 394,1174 478,1174 563,1174 647,1174 730,1174 815,1176 900,1176 984,1178 1072,1178" />
+        <TextEquiv conf="0.992">
+          <Unicode>la buena calidad del servicio de electricidad que nos esfuerzamos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l030" index="3" custom="heights_v2:[23.4,8.8]">
+        <Coords points="1072,1192 987,1189 902,1187 817,1187 732,1189 650,1187 565,1187 480,1187 395,1189 309,1189 309,1221 396,1221 480,1219 565,1219 649,1219 732,1221 817,1219 901,1219 986,1221 1072,1224 1072,1192" />
+        <Baseline points="309,1212 395,1212 480,1210 565,1210 649,1210 732,1212 817,1210 901,1210 986,1212 1072,1215" />
+        <TextEquiv conf="0.614">
+          <Unicode>en ofrecer al público, que nos dirigimos a rodos los habitantes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l032" index="4" custom="heights_v2:[23.3,8.9]">
+        <Coords points="1072,1230 988,1228 904,1227 818,1227 734,1227 650,1225 565,1225 480,1225 395,1225 309,1227 309,1259 395,1257 480,1257 565,1257 649,1257 734,1259 818,1259 903,1259 987,1261 1072,1262 1072,1230" />
+        <Baseline points="309,1250 395,1248 480,1248 565,1248 649,1248 734,1250 818,1250 903,1250 988,1252 1072,1253" />
+        <TextEquiv conf="0.769">
+          <Unicode>de Puerto Rico y especialmente a los padres de niños pequeños,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l035" index="5" custom="heights_v2:[23.5,8.7]">
+        <Coords points="1072,1268 988,1266 903,1266 819,1265 734,1263 650,1261 565,1261 480,1261 395,1263 309,1263 309,1295 396,1295 480,1293 565,1293 649,1293 734,1295 818,1297 903,1298 987,1298 1073,1300 1072,1268" />
+        <Baseline points="309,1286 395,1286 480,1285 565,1285 649,1285 734,1286 818,1288 903,1290 988,1290 1073,1291" />
+        <TextEquiv conf="0.977">
+          <Unicode>solicitando de cada uno que se convierta en un guardián del buen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l038" index="6" custom="heights_v2:[23.2,8.8]">
+        <Coords points="1073,1305 989,1305 905,1303 821,1301 736,1301 651,1301 566,1301 482,1299 397,1301 310,1299 309,1331 397,1333 482,1331 566,1333 651,1333 736,1333 820,1333 905,1335 989,1337 1073,1337 1073,1305" />
+        <Baseline points="309,1323 397,1324 482,1323 566,1324 651,1324 736,1324 820,1324 905,1326 989,1328 1073,1328" />
+        <TextEquiv conf="0.870">
+          <Unicode>funcionamiento de las líneas eléctricas evitando que alguien las cortase</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l040" index="7" custom="heights_v2:[23.9,9.0]">
+        <Coords points="1073,1342 988,1340 903,1340 818,1340 734,1338 650,1337 565,1337 480,1337 395,1338 310,1337 309,1370 396,1371 480,1370 565,1370 649,1370 734,1371 818,1373 903,1373 987,1373 1074,1375 1073,1342" />
+        <Baseline points="309,1361 395,1362 480,1361 565,1361 649,1361 734,1362 818,1364 903,1364 988,1364 1074,1366" />
+        <TextEquiv conf="0.881">
+          <Unicode>cruce lanzando alambres y otros objetos sobre las mismas, y si</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l041" index="8" custom="heights_v2:[23.4,8.2]">
+        <Coords points="307,1407 394,1407 478,1407 563,1407 647,1407 732,1409 817,1409 1074,1410 1074,1379 986,1379 901,1379 817,1377 732,1377 648,1375 563,1375 478,1375 394,1375 308,1375 307,1407" />
+        <Baseline points="308,1399 394,1399 478,1399 563,1399 647,1399 732,1400 817,1400 901,1402 986,1402 1074,1402" />
+        <TextEquiv conf="0.827">
+          <Unicode>se verá a alguien haciendo, que se avise a nuestra oficina o al</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l042" index="9" custom="heights_v2:[23.3,7.6]">
+        <Coords points="307,1446 357,1446 396,1446 439,1444 480,1442 523,1442 566,1442 608,1444 651,1444 697,1446 698,1415 652,1413 608,1413 567,1412 523,1412 480,1412 438,1413 394,1415 352,1415 307,1415 307,1446" />
+        <Baseline points="307,1438 352,1438 395,1438 439,1437 480,1435 523,1435 566,1435 608,1437 651,1437 698,1438" />
+        <TextEquiv conf="0.884">
+          <Unicode>Cuartel de Policía más cercano.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="235,1453 199,1486 199,1509 207,1555 223,1571 239,1666 302,1662 306,1613 266,1507 269,1453 235,1453" />
+      <TextLine id="r002-l043" index="0" custom="heights_v2:[8.1,3.6]">
+        <Coords points="269,1453 235,1453 235,1464 269,1464 269,1453" />
+        <Baseline points="235,1461 269,1461" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l044" index="1" custom="heights_v2:[4.9,2.0]">
+        <Coords points="245,1484 266,1484 266,1477 245,1477 245,1484" />
+        <Baseline points="245,1481 266,1481" />
+        <TextEquiv conf="0.089">
+          <Unicode>V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l046" index="2" custom="heights_v2:[16.4,6.8]">
+        <Coords points="199,1509 232,1509 266,1507 265,1484 231,1486 199,1486 199,1509" />
+        <Baseline points="199,1502 231,1502 266,1500" />
+        <TextEquiv conf="0.185">
+          <Unicode>out</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l047" index="3" custom="heights_v2:[19.0,7.9]">
+        <Coords points="204,1533 221,1533 221,1506 204,1506 204,1533" />
+        <Baseline points="204,1525 221,1525" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l049" index="4" custom="heights_v2:[18.5,7.5]">
+        <Coords points="228,1555 228,1529 207,1529 207,1555 228,1555" />
+        <Baseline points="207,1547 228,1547" />
+        <TextEquiv conf="0.554">
+          <Unicode>z</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l050" index="5" custom="heights_v2:[13.3,5.4]">
+        <Coords points="283,1553 254,1553 223,1553 223,1571 254,1571 285,1571 285,1558 283,1553" />
+        <Baseline points="223,1566 254,1566 285,1566" />
+        <TextEquiv conf="0.268">
+          <Unicode>Isérol</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l051" index="6" custom="heights_v2:[12.9,5.2]">
+        <Coords points="291,1574 257,1574 257,1592 295,1592 295,1585 291,1574" />
+        <Baseline points="257,1587 295,1587" />
+        <TextEquiv conf="0.183">
+          <Unicode>rst</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l053" index="7" custom="heights_v2:[16.6,6.2]">
+        <Coords points="306,1613 283,1613 283,1636 304,1636 306,1613" />
+        <Baseline points="283,1630 305,1630" />
+        <TextEquiv conf="0.543">
+          <Unicode>o</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l054" index="8" custom="heights_v2:[20.5,6.3]">
+        <Coords points="301,1635 268,1637 237,1639 239,1666 270,1664 302,1662 301,1635" />
+        <Baseline points="238,1659 269,1658 302,1656" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="422,1598 421,1607 449,1608 449,1599 422,1598" />
+      <TextLine id="r008-l052" index="0" custom="heights_v2:[6.3,2.5]">
+        <Coords points="421,1607 449,1608 449,1599 422,1598 421,1607" />
+        <Baseline points="421,1604 449,1606" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r009">
+      <Coords points="1075,1465 523,1462 523,1495 587,1495 676,1536 889,1538 920,1538 1010,1497 1074,1499 1075,1465" />
+      <TextLine id="r009-l045" index="0" custom="heights_v2:[24.8,8.7]">
+        <Coords points="523,1462 523,1495 587,1495 647,1495 708,1495 768,1495 829,1495 889,1497 950,1497 1010,1497 1074,1499 1075,1465 523,1462" />
+        <Baseline points="523,1487 587,1487 647,1487 708,1487 768,1487 829,1487 889,1488 950,1488 1010,1488 1074,1490" />
+        <TextEquiv conf="0.614">
+          <Unicode>AUTORIDAD DE LAS FUENTES FLUVIALES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r009-l048" index="1" custom="heights_v2:[26.1,9.7]">
+        <Coords points="920,1538 920,1502 889,1502 865,1500 837,1500 811,1499 784,1499 758,1499 730,1499 704,1499 674,1500 676,1536 704,1534 730,1534 758,1534 784,1534 809,1534 837,1536 863,1536 889,1538 920,1538" />
+        <Baseline points="675,1526 704,1525 730,1525 758,1525 784,1525 810,1525 837,1526 863,1526 889,1528 920,1528" />
+        <TextEquiv conf="0.999">
+          <Unicode>DE PUERTO RICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

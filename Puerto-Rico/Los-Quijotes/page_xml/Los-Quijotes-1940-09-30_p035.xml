@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T12:27:14.557311+00:00</Created>
+    <LastChange>2026-09-16T12:27:14.557311+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1940-09-30_p035" imageWidth="1356" imageHeight="1787">
+    <TextRegion id="r000">
+      <Coords points="965,231 343,229 343,309 416,309 477,344 845,344 893,312 965,312 965,231" />
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[62.6,17.9]">
+        <Coords points="343,229 343,309 416,309 484,309 552,309 620,309 688,309 756,309 824,309 893,312 965,312 965,231 893,231 884,231 343,229" />
+        <Baseline points="343,291 416,291 484,291 552,291 620,291 688,291 756,291 825,291 893,294 965,294" />
+        <TextEquiv conf="0.998">
+          <Unicode>BULL LINES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l002" index="1" custom="heights_v2:[25.1,10.2]">
+        <Coords points="847,308 802,306 761,306 721,306 681,306 641,306 601,306 561,306 521,306 476,308 477,344 521,341 561,341 601,341 641,341 681,341 721,341 761,341 800,341 845,344 847,308" />
+        <Baseline points="477,334 521,331 561,331 601,331 641,331 681,331 721,331 761,331 801,331 846,334" />
+        <TextEquiv conf="0.998">
+          <Unicode>LA LÍNEA DEL COMERCIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="865,1211 864,1226 914,1228 914,1213 865,1211" />
+      <TextLine id="r003-l003" index="0" custom="heights_v2:[11.0,4.1]">
+        <Coords points="864,1226 914,1228 914,1213 865,1211 864,1226" />
+        <Baseline points="864,1222 914,1224" />
+        <TextEquiv conf="0.821">
+          <Unicode>T</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="547,1374 505,1374 505,1409 855,1409 855,1374 810,1374 771,1333 592,1333 547,1374" />
+      <TextLine id="r002-l004" index="0" custom="heights_v2:[29.3,10.0]">
+        <Coords points="736,1336 709,1336 681,1336 651,1336 623,1336 592,1333 589,1372 623,1375 651,1375 681,1375 709,1375 738,1375 774,1372 771,1333 736,1336" />
+        <Baseline points="590,1362 623,1365 651,1365 681,1365 709,1365 738,1365 773,1362" />
+        <TextEquiv conf="0.999">
+          <Unicode>CARGA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l005" index="1" custom="heights_v2:[26.3,9.3]">
+        <Coords points="505,1374 505,1409 547,1409 585,1409 623,1409 660,1409 698,1409 735,1409 773,1409 810,1409 855,1409 855,1374 810,1374 773,1374 735,1374 698,1374 660,1374 623,1374 585,1374 547,1374 505,1374" />
+        <Baseline points="505,1400 547,1400 585,1400 623,1400 660,1400 698,1400 735,1400 773,1400 810,1400 855,1400" />
+        <TextEquiv conf="0.999">
+          <Unicode>NUESTRA ESPECIALIDAD</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="486,1513 426,1515 428,1550 935,1550 935,1515 874,1515 797,1423 568,1423 519,1469 486,1513" />
+      <TextLine id="r001-l006" index="0" custom="heights_v2:[26.2,9.3]">
+        <Coords points="568,1423 568,1459 599,1459 627,1459 655,1459 684,1459 709,1459 737,1459 766,1461 799,1459 797,1423 764,1426 740,1423 725,1423 568,1423" />
+        <Baseline points="568,1449 599,1449 627,1449 655,1449 684,1449 709,1449 738,1449 766,1452 799,1449" />
+        <TextEquiv conf="0.997">
+          <Unicode>EMBARQUE Vía</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="1" custom="heights_v2:[29.8,10.8]">
+        <Coords points="837,1471 799,1471 763,1471 731,1471 695,1471 660,1471 629,1469 592,1469 557,1469 519,1469 519,1509 557,1509 592,1509 626,1509 660,1512 695,1512 731,1512 763,1512 799,1512 839,1512 839,1473 837,1471" />
+        <Baseline points="519,1499 557,1499 592,1499 627,1499 660,1501 695,1501 731,1501 763,1501 799,1501 839,1501" />
+        <TextEquiv conf="1.000">
+          <Unicode>BULL LINES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="2" custom="heights_v2:[25.9,8.8]">
+        <Coords points="426,1515 428,1550 486,1547 543,1547 596,1547 653,1550 935,1550 935,1515 874,1515 817,1515 763,1515 707,1515 653,1515 598,1513 543,1513 486,1513 426,1515" />
+        <Baseline points="428,1541 486,1539 543,1539 597,1539 653,1541 707,1541 763,1541 817,1541 874,1541 935,1541" />
+        <TextEquiv conf="0.219">
+          <Unicode>(ATENCION! CORTESIA! [SERVICIO!</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

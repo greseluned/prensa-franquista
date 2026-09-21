@@ -1,0 +1,510 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:01:19.791936+00:00</Created>
+    <LastChange>2026-09-16T11:01:19.791936+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1943-10-12_p032" imageWidth="1311" imageHeight="1729">
+    <TextRegion id="r000">
+      <Coords points="246,86 130,88 130,114 246,112 246,86" />
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[19.5,6.6]">
+        <Coords points="198,87 186,88 168,88 151,88 130,88 130,114 199,113 206,112 224,112 246,112 246,86 198,87" />
+        <Baseline points="130,107 151,107 168,107 188,107 206,106 224,106 246,106" />
+        <TextEquiv conf="0.961">
+          <Unicode>Página 30</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="498,85 496,115 766,113 766,83 498,85" />
+      <TextLine id="r005-l003" index="0" custom="heights_v2:[22.4,7.5]">
+        <Coords points="496,115 696,114 704,113 733,113 766,113 766,83 696,84 674,85 646,85 616,85 587,85 556,86 528,86 498,85 496,115" />
+        <Baseline points="496,107 528,109 558,109 587,107 616,107 646,107 675,107 704,106 733,106 766,106" />
+        <TextEquiv conf="0.999">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="961,85 960,111 1154,109 1153,83 961,85" />
+      <TextLine id="r007-l001" index="0" custom="heights_v2:[19.6,6.2]">
+        <Coords points="960,111 1154,109 1153,83 1129,85 1108,86 1088,86 1067,86 1047,86 1026,86 1005,86 984,86 961,85 960,111" />
+        <Baseline points="960,104 984,106 1005,106 1026,106 1047,106 1067,106 1088,106 1109,106 1130,104 1154,103" />
+        <TextEquiv conf="0.692">
+          <Unicode>Octubre 12, 1942</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="174,347 176,641 437,643 505,616 602,619 600,324 554,322 488,227 286,226 213,322 174,347" />
+      <TextLine id="r001-l009" index="0" custom="heights_v2:[70.9,19.4]">
+        <Coords points="286,226 286,316 310,316 331,316 353,318 376,318 397,318 419,318 440,318 462,318 488,318 488,227 462,227 440,227 419,227 397,227 376,227 353,227 340,226 286,226" />
+        <Baseline points="286,297 310,297 332,297 353,298 376,298 397,298 419,298 440,298 462,298 488,298" />
+        <TextEquiv conf="0.996">
+          <Unicode>AVISO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l012" index="1" custom="heights_v2:[17.8,7.1]">
+        <Coords points="554,322 511,322 470,321 426,321 385,321 343,321 300,321 258,321 213,322 213,347 258,346 300,346 343,346 385,346 426,346 469,346 511,347 553,347 599,349 600,324 554,322" />
+        <Baseline points="213,340 258,338 300,338 343,338 385,338 426,338 470,338 511,340 553,340 599,341" />
+        <TextEquiv conf="0.995">
+          <Unicode>Se notifica a todos los interesados en</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l014" index="2" custom="heights_v2:[18.6,7.5]">
+        <Coords points="174,373 222,374 268,373 316,373 362,373 408,373 456,373 502,373 549,373 599,373 599,347 549,347 502,347 456,347 408,347 362,347 316,347 268,347 222,348 174,347 174,373" />
+        <Baseline points="174,365 222,367 268,365 316,365 362,365 408,365 456,365 502,365 549,365 599,365" />
+        <TextEquiv conf="0.982">
+          <Unicode>obtener permisos para guiar vehículos pe-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="3" custom="heights_v2:[18.8,7.6]">
+        <Coords points="174,401 224,403 270,401 316,401 362,400 410,400 456,400 502,400 549,400 599,400 599,373 549,373 502,373 456,373 410,373 362,373 315,375 270,375 223,376 175,375 174,401" />
+        <Baseline points="174,394 224,395 270,394 316,394 362,392 410,392 456,392 502,392 549,392 599,392" />
+        <TextEquiv conf="0.975">
+          <Unicode>sados de motor de servicio público, o sea</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l018" index="4" custom="heights_v2:[18.8,7.4]">
+        <Coords points="600,403 551,400 504,400 458,400 410,400 363,402 318,402 270,402 224,402 174,402 174,428 224,428 270,428 318,428 364,428 410,426 458,426 504,426 550,426 600,429 601,425 600,403" />
+        <Baseline points="174,420 224,420 270,420 318,420 364,420 410,419 458,419 504,419 550,419 601,422" />
+        <TextEquiv conf="1.000">
+          <Unicode>camiones, a quienes se les concediera un</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l020" index="5" custom="heights_v2:[19.0,7.6]">
+        <Coords points="601,428 550,428 504,428 458,428 410,428 364,428 318,428 270,428 224,428 174,428 174,455 224,455 270,455 318,455 364,455 410,455 458,455 504,455 550,455 601,455 601,448 601,428" />
+        <Baseline points="174,447 224,447 270,447 318,447 364,447 410,447 458,447 504,447 550,447 601,447" />
+        <TextEquiv conf="0.998">
+          <Unicode>termino para proveerse de tales permisos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l022" index="6" custom="heights_v2:[18.6,7.8]">
+        <Coords points="177,483 227,483 273,482 319,480 365,480 411,480 458,482 504,482 550,482 601,482 601,455 550,455 504,455 458,455 412,454 365,454 319,454 272,455 226,457 177,457 177,483" />
+        <Baseline points="177,476 227,476 273,474 319,473 365,473 411,473 458,474 504,474 550,474 601,474" />
+        <TextEquiv conf="0.931">
+          <Unicode>que expirará el día 30 de septiembre, el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l024" index="7" custom="heights_v2:[19.2,8.1]">
+        <Coords points="177,509 227,509 273,509 319,508 365,508 411,508 458,508 504,508 550,509 601,509 601,482 550,482 505,480 458,480 411,480 365,480 319,480 272,482 227,482 177,482 177,509" />
+        <Baseline points="177,501 227,501 273,501 319,499 365,499 411,499 458,499 504,499 550,501 601,501" />
+        <TextEquiv conf="0.726">
+          <Unicode>que la Comisión de Servicio Público ha</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l026" index="8" custom="heights_v2:[18.8,8.2]">
+        <Coords points="601,507 551,509 505,509 459,509 413,509 366,507 319,507 272,509 227,509 177,509 177,536 227,536 273,536 319,534 365,534 413,536 459,536 505,536 552,536 601,535 601,507" />
+        <Baseline points="177,528 227,528 273,528 319,526 365,526 413,528 459,528 505,528 552,528 601,526" />
+        <TextEquiv conf="0.716">
+          <Unicode>prorrogado hasta el día 31 de octubre de 1945.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l028" index="9" custom="heights_v2:[19.1,8.1]">
+        <Coords points="176,561 225,561 271,561 318,561 364,561 411,561 458,561 504,561 550,561 601,561 601,534 550,534 504,534 458,534 411,534 364,534 318,534 271,534 225,534 176,534 176,561" />
+        <Baseline points="176,553 225,553 271,553 318,553 364,553 411,553 458,553 504,553 550,553 601,553" />
+        <TextEquiv conf="0.999">
+          <Unicode>1943 el plazo a tal efecto, para la cual era.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l030" index="10" custom="heights_v2:[19.0,8.1]">
+        <Coords points="176,587 225,588 271,588 318,589 364,589 411,589 458,589 504,589 550,589 601,589 601,562 550,562 504,562 458,562 411,562 364,562 318,562 272,561 225,561 176,559 176,587" />
+        <Baseline points="176,578 225,580 271,580 318,581 364,581 411,581 458,581 504,581 550,581 601,581" />
+        <TextEquiv conf="0.967">
+          <Unicode>cha todo chauffeur que se dedique al ma-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l032" index="11" custom="heights_v2:[18.4,7.6]">
+        <Coords points="602,619 602,593 552,591 506,590 459,590 411,590 365,590 319,590 271,590 225,590 176,588 176,614 225,616 271,616 319,616 365,616 411,616 459,616 505,616 602,619" />
+        <Baseline points="176,607 225,608 271,608 319,608 365,608 411,608 459,608 505,608 552,610 602,611" />
+        <TextEquiv conf="0.997">
+          <Unicode>nejo de dichos vehículos deberá poseer el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l034" index="12" custom="heights_v2:[18.2,7.7]">
+        <Coords points="437,643 437,617 406,617 377,617 349,617 321,617 292,617 264,617 236,617 207,617 177,615 176,641 437,643" />
+        <Baseline points="176,634 207,635 236,635 264,635 292,635 321,635 349,635 377,635 406,635 437,635" />
+        <TextEquiv conf="1.000">
+          <Unicode>permiso correspondiente.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="216,663 217,743 250,744 280,790 332,791 376,813 434,815 493,815 510,791 502,694 459,665 216,663" />
+      <TextLine id="r003-l037" index="0" custom="heights_v2:[18.2,7.5]">
+        <Coords points="216,689 243,690 270,690 297,690 324,689 349,689 376,689 402,689 429,690 459,690 459,665 429,665 426,664 312,664 296,665 270,665 243,665 216,663 216,689" />
+        <Baseline points="216,681 243,683 270,683 297,683 324,681 349,681 376,681 403,681 429,683 459,683" />
+        <TextEquiv conf="0.992">
+          <Unicode>San Juan, Puerto Rico,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l039" index="1" custom="heights_v2:[18.3,7.9]">
+        <Coords points="467,693 437,693 406,691 376,691 344,691 315,691 283,691 254,690 221,688 220,715 253,716 283,718 315,718 344,718 376,718 405,718 437,719 466,719 501,721 502,694 467,693" />
+        <Baseline points="221,707 253,708 283,710 315,710 344,710 376,710 406,710 437,711 467,711 501,713" />
+        <TextEquiv conf="0.997">
+          <Unicode>a 27 de septiembre de 1943.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l040" index="2" custom="heights_v2:[17.5,7.6]">
+        <Coords points="250,744 280,744 310,744 340,744 371,744 401,744 431,746 460,746 495,747 496,722 461,720 431,720 402,719 371,719 340,719 310,719 280,719 250,719 218,718 217,743 250,744" />
+        <Baseline points="218,735 250,736 280,736 310,736 340,736 371,736 401,736 431,738 461,738 495,739" />
+        <TextEquiv conf="0.988">
+          <Unicode>Por orden de la Comisión.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l043" index="3" custom="heights_v2:[18.4,7.2]">
+        <Coords points="332,791 358,791 382,791 407,790 432,790 456,790 482,791 510,791 508,766 482,766 457,764 432,764 407,764 381,766 358,766 332,766 307,766 281,764 280,790 332,791" />
+        <Baseline points="280,783 307,784 332,784 358,784 382,784 407,783 432,783 456,783 482,784 509,784" />
+        <TextEquiv conf="0.999">
+          <Unicode>LUIS FREYRE DIAZ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l044" index="4" custom="heights_v2:[16.9,6.6]">
+        <Coords points="453,815 471,815 493,815 493,791 471,791 453,791 434,791 417,790 397,790 376,790 376,813 397,813 415,813 434,815 453,815" />
+        <Baseline points="376,807 397,807 416,807 434,808 453,808 471,808 493,808" />
+        <TextEquiv conf="0.997">
+          <Unicode>Secretario.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="681,315 686,749 736,749 774,788 853,788 890,815 1091,814 1091,790 1132,749 1136,634 1130,287 1099,190 1099,162 712,165 719,287 681,315" />
+      <TextLine id="r006-l004" index="0" custom="heights_v2:[20.1,8.6]">
+        <Coords points="1099,162 931,163 925,163 922,163 712,165 714,193 758,192 799,190 842,190 884,190 926,192 969,190 1011,190 1053,190 1099,190 1099,162" />
+        <Baseline points="713,185 757,183 799,182 842,182 884,182 926,183 969,182 1011,182 1053,182 1099,182" />
+        <TextEquiv conf="0.999">
+          <Unicode>EN LA COMISIÓN DE SERVICIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l006" index="1" custom="heights_v2:[21.2,9.3]">
+        <Coords points="742,220 780,220 815,220 851,220 887,220 921,220 957,220 993,220 1029,218 1067,218 1067,187 1029,187 992,189 957,189 921,189 887,189 851,189 815,189 780,189 742,189 742,220" />
+        <Baseline points="742,210 780,210 815,210 851,210 887,210 921,210 957,210 993,210 1029,209 1067,209" />
+        <TextEquiv conf="0.999">
+          <Unicode>PÚBLICO DE PUERTO RICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l008" index="2" custom="heights_v2:[37.5,11.9]">
+        <Coords points="786,279 814,279 841,279 868,279 893,279 920,279 947,279 972,279 999,279 1029,279 1029,229 999,229 972,229 947,229 920,229 893,229 868,229 841,229 814,229 786,229 786,279" />
+        <Baseline points="786,267 814,267 841,267 868,267 893,267 920,267 947,267 972,267 999,267 1029,267" />
+        <TextEquiv conf="0.999">
+          <Unicode>AVISO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l010" index="3" custom="heights_v2:[18.1,7.7]">
+        <Coords points="1081,287 1036,287 991,287 947,287 900,287 856,287 811,287 766,287 719,287 719,313 766,313 811,313 856,313 900,313 947,313 991,313 1036,313 1081,313 1130,313 1130,287 1081,287" />
+        <Baseline points="719,306 766,306 811,306 856,306 900,306 947,306 991,306 1036,306 1081,306 1130,306" />
+        <TextEquiv conf="0.778">
+          <Unicode>Por la presente se hace saber que la Co-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l011" index="4" custom="heights_v2:[18.8,8.2]">
+        <Coords points="682,342 734,342 783,341 832,339 881,339 930,339 979,339 1029,339 1078,339 1131,339 1131,312 1078,312 1029,312 979,312 930,312 881,312 832,312 782,314 733,315 681,315 682,342" />
+        <Baseline points="682,334 733,334 783,332 832,331 881,331 930,331 979,331 1029,331 1078,331 1131,331" />
+        <TextEquiv conf="0.993">
+          <Unicode>misión de Servicio Público ha acordado era</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l013" index="5" custom="heights_v2:[18.4,7.8]">
+        <Coords points="682,366 733,366 783,366 832,366 881,366 931,366 979,364 1029,364 1078,364 1131,363 1131,336 1077,338 1029,338 979,338 930,339 881,339 832,339 783,339 733,339 682,339 682,366" />
+        <Baseline points="682,358 733,358 783,358 832,358 881,358 930,358 979,356 1029,356 1078,356 1131,355" />
+        <TextEquiv conf="0.951">
+          <Unicode>tender hasta Marzo 31 de 1944, todos los per-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l015" index="6" custom="heights_v2:[19.0,8.0]">
+        <Coords points="682,393 732,393 781,393 830,393 880,393 930,391 979,391 1029,391 1078,390 1132,390 1132,371 1131,363 1078,363 1028,364 979,364 930,364 879,366 830,366 781,366 732,366 682,366 682,393" />
+        <Baseline points="682,385 732,385 781,385 830,385 880,385 930,383 979,383 1029,383 1078,382 1132,382" />
+        <TextEquiv conf="1.000">
+          <Unicode>misiones concedidas a guaguas independientes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l017" index="7" custom="heights_v2:[18.6,7.9]">
+        <Coords points="1132,390 1080,388 1030,388 980,390 931,391 883,391 833,391 784,391 735,391 682,393 683,419 735,418 784,418 833,418 883,418 932,418 981,416 1030,415 1079,415 1131,416 1132,394 1132,390" />
+        <Baseline points="683,411 735,410 784,410 833,410 883,410 932,410 981,408 1030,407 1079,407 1132,408" />
+        <TextEquiv conf="0.998">
+          <Unicode>que trafican en la ruta de la Autoridad de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l019" index="8" custom="heights_v2:[18.6,7.9]">
+        <Coords points="683,442 735,442 784,442 833,442 883,442 932,442 981,442 1030,442 1079,442 1132,442 1132,415 1079,415 1030,415 981,415 932,415 883,415 833,415 784,415 735,415 683,415 683,442" />
+        <Baseline points="683,434 735,434 784,434 833,434 883,434 932,434 981,434 1030,434 1079,434 1132,434" />
+        <TextEquiv conf="1.000">
+          <Unicode>Transporte, y que estaban para expirar el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l021" index="9" custom="heights_v2:[18.6,7.9]">
+        <Coords points="686,469 736,469 786,469 835,469 884,469 932,469 981,469 1030,469 1079,469 1132,469 1132,442 1079,442 1030,442 981,442 932,442 884,442 835,442 786,442 736,442 686,442 686,469" />
+        <Baseline points="686,461 736,461 786,461 835,461 884,461 932,461 981,461 1030,461 1079,461 1132,461" />
+        <TextEquiv conf="0.768">
+          <Unicode>próximo 30 de septiembre de los corrientes.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l023" index="10" custom="heights_v2:[18.7,7.8]">
+        <Coords points="686,495 737,495 786,494 835,494 884,492 933,492 982,492 1032,492 1081,492 1133,492 1133,466 1081,466 1032,466 982,466 933,466 884,466 834,467 786,467 736,469 686,469 686,495" />
+        <Baseline points="686,488 736,488 786,486 835,486 884,485 933,485 982,485 1032,485 1081,485 1133,485" />
+        <TextEquiv conf="0.989">
+          <Unicode>La Comisión se reserva el derecho de can-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l025" index="11" custom="heights_v2:[19.0,7.9]">
+        <Coords points="686,519 736,519 786,519 835,519 884,519 933,519 983,519 1032,518 1081,518 1133,518 1133,491 1081,491 1032,491 982,492 933,492 884,492 835,492 786,492 736,492 686,492 686,519" />
+        <Baseline points="686,511 736,511 786,511 835,511 884,511 933,511 982,511 1032,510 1081,510 1133,510" />
+        <TextEquiv conf="0.886">
+          <Unicode>celar por justa causa cualquier permiso condenado</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l027" index="12" custom="heights_v2:[18.5,7.6]">
+        <Coords points="687,544 738,544 787,544 836,544 886,544 933,544 982,544 1032,544 1081,543 1133,543 1133,517 1081,517 1031,518 982,518 933,518 886,518 836,518 787,518 738,518 687,518 687,544" />
+        <Baseline points="687,537 738,537 787,537 836,537 886,537 933,537 982,537 1032,537 1081,535 1133,535" />
+        <TextEquiv conf="0.987">
+          <Unicode>cedido en dicha ruta antes de expirar el nuevo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l029" index="13" custom="heights_v2:[19.1,7.6]">
+        <Coords points="686,573 738,571 787,571 836,571 886,571 935,571 984,571 1033,570 1082,570 1135,570 1135,543 1082,543 1033,543 983,544 935,544 886,544 836,544 787,544 738,544 685,546 686,573" />
+        <Baseline points="686,565 738,564 787,564 836,564 886,564 935,564 984,564 1033,562 1082,562 1135,562" />
+        <TextEquiv conf="0.999">
+          <Unicode>vo plazo por el cual se han concedido los</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l031" index="14" custom="heights_v2:[19.3,7.4]">
+        <Coords points="686,598 710,598 731,598 751,596 777,596 777,570 751,570 729,571 710,571 686,571 686,598" />
+        <Baseline points="686,590 710,590 731,590 751,589 777,589" />
+        <TextEquiv conf="0.999">
+          <Unicode>mismas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l033" index="15" custom="heights_v2:[18.3,7.9]">
+        <Coords points="1135,608 1086,609 1042,609 997,609 953,609 906,609 862,609 817,609 772,609 725,608 724,634 772,636 817,636 862,636 906,636 953,636 997,636 1042,636 1087,636 1136,634 1135,608" />
+        <Baseline points="725,626 772,628 817,628 862,628 906,628 953,628 997,628 1042,628 1087,628 1136,626" />
+        <TextEquiv conf="0.918">
+          <Unicode>Los interesados deberán pasar por la ofi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l035" index="16" custom="heights_v2:[18.1,7.8]">
+        <Coords points="686,661 738,661 787,661 836,661 886,661 935,661 984,661 1033,661 1082,661 1135,661 1135,635 1082,635 1033,635 984,635 935,635 886,635 836,635 787,635 738,635 686,635 686,661" />
+        <Baseline points="686,653 738,653 787,653 836,653 886,653 935,653 984,653 1033,653 1082,653 1135,653" />
+        <TextEquiv conf="0.818">
+          <Unicode>cina de la Comisión a proveerse de los nuevos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l036" index="17" custom="heights_v2:[17.9,7.7]">
+        <Coords points="1135,678 1135,659 1082,659 1033,659 983,660 935,660 886,660 837,659 787,660 737,662 687,662 687,688 738,688 787,686 836,685 886,686 935,686 984,686 1033,685 1082,685 1134,685 1135,678" />
+        <Baseline points="687,680 738,680 787,678 836,677 886,678 935,678 984,678 1033,677 1082,677 1135,677" />
+        <TextEquiv conf="0.819">
+          <Unicode>permisos, y a llenar los requisitos en cuanto</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l038" index="18" custom="heights_v2:[17.6,7.7]">
+        <Coords points="685,708 735,710 782,711 832,713 880,713 927,711 977,711 1024,711 1072,711 1124,713 1125,688 1072,686 1024,686 977,686 927,686 879,688 832,688 783,686 736,685 685,683 685,708" />
+        <Baseline points="685,701 735,702 783,704 832,705 880,705 927,704 977,704 1024,704 1072,704 1124,705" />
+        <TextEquiv conf="0.993">
+          <Unicode>al seguro que debe cubrir tales vehículos.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l041" index="19" custom="heights_v2:[18.9,7.9]">
+        <Coords points="736,749 785,750 835,752 884,750 932,750 981,750 1030,750 1080,750 1132,749 1131,722 1079,724 1030,724 981,724 932,724 884,724 834,725 786,724 737,722 686,722 686,749 736,749" />
+        <Baseline points="686,741 736,741 786,742 835,744 884,742 932,742 981,742 1030,742 1079,742 1132,741" />
+        <TextEquiv conf="0.985">
+          <Unicode>San Juan, P. R., a 17 de septiembre de 1943.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l042" index="20" custom="heights_v2:[20.3,8.0]">
+        <Coords points="853,788 878,786 905,786 930,786 956,786 981,786 1011,786 1011,758 981,758 956,758 930,758 905,758 878,758 852,759 827,759 802,759 774,759 774,788 853,788" />
+        <Baseline points="774,780 802,780 827,780 853,780 878,778 905,778 930,778 956,778 981,778 1011,778" />
+        <TextEquiv conf="0.999">
+          <Unicode>GABINO FIGUEROA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l045" index="21" custom="heights_v2:[17.0,7.1]">
+        <Coords points="1063,814 1066,814 1091,814 1091,790 1066,790 1042,791 1023,791 1000,791 979,791 957,791 936,791 914,791 890,791 890,815 1063,814" />
+        <Baseline points="890,808 914,808 936,808 957,808 979,808 1000,808 1023,808 1044,808 1066,807 1091,807" />
+        <TextEquiv conf="0.993">
+          <Unicode>Secretario Interino</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="577,171 189,171 189,199 221,222 546,222 577,199 577,171" />
+      <TextLine id="r002-l005" index="0" custom="heights_v2:[19.5,8.2]">
+        <Coords points="531,171 489,171 234,171 233,171 189,171 189,199 234,199 276,197 319,197 361,197 404,197 445,197 489,199 531,199 577,199 577,171 531,171" />
+        <Baseline points="189,191 234,191 276,189 319,189 361,189 404,189 446,189 489,191 531,191 577,191" />
+        <TextEquiv conf="0.998">
+          <Unicode>EN LA COMISIÓN DE SERVICIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l007" index="1" custom="heights_v2:[19.4,9.1]">
+        <Coords points="258,222 294,222 329,222 329,222 435,222 471,222 507,222 546,222 546,194 507,194 471,194 435,194 399,195 365,195 330,194 294,194 258,194 221,194 221,222 258,222" />
+        <Baseline points="221,213 258,213 294,213 329,213 365,215 400,215 435,213 471,213 507,213 546,213" />
+        <TextEquiv conf="0.982">
+          <Unicode>PÚBLICO DE PUERTO RICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="279,1067 282,1423 303,1473 303,1500 459,1502 492,1524 562,1524 617,1557 657,1557 725,1579 886,1578 927,1558 969,1560 1005,1503 1005,1476 1021,1426 1019,1074 987,1023 986,966 923,909 379,904 318,963 318,1020 279,1067" />
+      <TextLine id="r004-l046" index="0" custom="heights_v2:[24.5,10.6]">
+        <Coords points="741,907 739,907 680,907 620,907 561,906 561,906 501,906 472,905 379,904 379,939 441,939 501,941 560,941 620,942 680,942 739,942 799,942 859,944 923,944 923,909 859,909 828,908 741,907" />
+        <Baseline points="379,929 441,929 501,930 561,930 620,932 680,932 739,932 799,932 859,933 923,933" />
+        <TextEquiv conf="1.000">
+          <Unicode>FONDO DEL SEGURO DEL ESTADO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l047" index="1" custom="heights_v2:[17.6,9.2]">
+        <Coords points="555,965 578,965 599,965 620,965 641,965 663,965 684,965 705,966 726,966 751,966 751,940 726,940 705,940 686,938 663,938 641,938 620,938 599,938 578,938 555,938 555,965" />
+        <Baseline points="555,956 578,956 599,956 620,956 641,956 663,956 684,956 705,957 726,957 751,957" />
+        <TextEquiv conf="0.973">
+          <Unicode>SAN JUAN, P. R.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l048" index="2" custom="heights_v2:[43.7,13.4]">
+        <Coords points="986,966 909,967 836,967 763,966 689,966 614,966 541,966 468,963 394,963 318,963 318,1020 394,1020 466,1020 541,1023 614,1023 689,1023 762,1023 836,1024 910,1024 987,1023 986,966" />
+        <Baseline points="318,1006 394,1006 467,1006 541,1009 614,1009 689,1009 762,1009 836,1011 909,1011 987,1009" />
+        <TextEquiv conf="0.868">
+          <Unicode>CONSECUENCIAS DE LOS ACCIDENTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l049" index="3" custom="heights_v2:[40.4,13.1]">
+        <Coords points="519,1067 550,1067 578,1067 607,1067 635,1067 663,1067 692,1067 720,1066 748,1066 780,1066 780,1012 748,1012 720,1012 690,1014 663,1014 635,1014 607,1014 578,1014 550,1014 519,1014 519,1067" />
+        <Baseline points="519,1054 550,1054 578,1054 607,1054 635,1054 663,1054 692,1054 720,1053 748,1053 780,1053" />
+        <TextEquiv conf="0.998">
+          <Unicode>DEL TRABAJO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l050" index="4" custom="heights_v2:[24.3,9.8]">
+        <Coords points="279,1101 362,1101 444,1101 526,1103 607,1104 689,1104 771,1104 851,1106 933,1107 1018,1109 1019,1074 934,1073 852,1071 771,1070 689,1070 607,1070 527,1068 445,1067 362,1067 279,1067 279,1101" />
+        <Baseline points="279,1091 362,1091 444,1091 526,1093 607,1094 689,1094 771,1094 851,1096 933,1097 1018,1099" />
+        <TextEquiv conf="0.938">
+          <Unicode>CAMPANA PRO ERA PREVENCION DE ACCIDENTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l051" index="5" custom="heights_v2:[16.7,7.1]">
+        <Coords points="325,1137 400,1137 471,1137 544,1136 616,1137 687,1139 760,1139 832,1140 903,1142 979,1143 980,1119 904,1118 832,1116 761,1115 687,1115 616,1113 545,1112 471,1113 400,1113 325,1113 325,1137" />
+        <Baseline points="325,1130 400,1130 471,1130 544,1129 616,1130 687,1132 760,1132 832,1133 903,1135 979,1136" />
+        <TextEquiv conf="0.996">
+          <Unicode>Sufrimientos físicos y morales del lesionado y sus familiares.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l052" index="6" custom="heights_v2:[15.8,6.8]">
+        <Coords points="1019,1138 942,1138 865,1138 789,1137 711,1137 634,1135 558,1134 480,1135 403,1135 324,1135 324,1158 403,1158 480,1158 557,1156 633,1158 711,1159 789,1159 865,1161 942,1161 1019,1161 1019,1138" />
+        <Baseline points="324,1151 403,1151 480,1151 558,1149 634,1151 711,1152 789,1152 865,1154 942,1154 1019,1154" />
+        <TextEquiv conf="0.978">
+          <Unicode>Perjuicio a la buena labor de directores, capataces y empleados.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l053" index="7" custom="heights_v2:[16.9,7.5]">
+        <Coords points="437,1181 486,1181 532,1182 580,1182 626,1182 674,1182 720,1182 768,1182 814,1184 865,1184 865,1159 814,1159 768,1158 720,1158 674,1158 626,1158 580,1158 532,1158 487,1156 437,1156 437,1181" />
+        <Baseline points="437,1173 486,1173 532,1175 580,1175 626,1175 674,1175 720,1175 768,1175 814,1176 865,1176" />
+        <TextEquiv conf="0.999">
+          <Unicode>Intarrupciones y demoras en el trabajo.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l054" index="8" custom="heights_v2:[16.8,7.1]">
+        <Coords points="361,1210 428,1212 492,1212 556,1212 620,1212 684,1212 748,1213 812,1213 876,1215 944,1216 944,1192 877,1191 813,1189 748,1189 685,1188 620,1188 556,1188 492,1188 428,1188 361,1186 361,1210" />
+        <Baseline points="361,1203 428,1205 492,1205 556,1205 620,1205 684,1205 748,1206 813,1206 877,1208 944,1209" />
+        <TextEquiv conf="0.978">
+          <Unicode>Aumento en los gastos de mantenimiento y producción.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l055" index="9" custom="heights_v2:[16.5,7.2]">
+        <Coords points="1020,1236 1019,1213 934,1215 853,1213 773,1210 690,1210 609,1209 528,1209 446,1209 364,1209 280,1209 280,1233 364,1233 446,1233 528,1233 608,1233 690,1234 772,1234 853,1237 935,1239 1020,1237 1020,1236" />
+        <Baseline points="280,1225 364,1225 446,1225 528,1225 608,1225 690,1227 772,1227 853,1230 935,1231 1020,1230" />
+        <TextEquiv conf="0.999">
+          <Unicode>Desperdicio de materiales y desperfectos a harramientas y maquinarias.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l056" index="10" custom="heights_v2:[16.5,7.2]">
+        <Coords points="337,1255 408,1256 477,1256 546,1256 614,1256 683,1256 751,1258 820,1259 888,1259 960,1261 960,1237 889,1236 820,1236 752,1234 683,1233 614,1233 546,1233 477,1233 408,1233 337,1231 337,1255" />
+        <Baseline points="337,1248 408,1249 477,1249 546,1249 614,1249 683,1249 751,1251 820,1252 889,1252 960,1254" />
+        <TextEquiv conf="0.997">
+          <Unicode>Retrasos por la sustitución del empleado lesionado por otro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l057" index="11" custom="heights_v2:[17.2,7.3]">
+        <Coords points="550,1279 574,1279 596,1279 619,1279 641,1279 662,1279 684,1279 707,1279 729,1279 754,1279 754,1255 729,1255 707,1255 684,1255 662,1255 641,1255 619,1255 596,1255 574,1255 550,1255 550,1279" />
+        <Baseline points="550,1272 574,1272 596,1272 619,1272 641,1272 662,1272 684,1272 707,1272 729,1272 754,1272" />
+        <TextEquiv conf="0.999">
+          <Unicode>manos competente.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l058" index="12" custom="heights_v2:[18.4,8.0]">
+        <Coords points="315,1310 391,1310 465,1310 540,1310 614,1311 689,1311 763,1311 838,1313 912,1313 990,1314 990,1288 913,1286 838,1286 764,1285 689,1285 614,1285 540,1283 465,1283 391,1283 315,1283 315,1310" />
+        <Baseline points="315,1302 391,1302 465,1302 540,1302 614,1303 689,1303 763,1303 838,1304 912,1304 990,1306" />
+        <TextEquiv conf="0.999">
+          <Unicode>Gastos en compensaciones, dietas, hospitalización y tratamiento.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l059" index="13" custom="heights_v2:[18.6,8.3]">
+        <Coords points="1020,1320 937,1317 856,1317 774,1317 693,1317 612,1316 531,1316 449,1316 368,1316 284,1317 285,1344 368,1343 449,1343 531,1343 611,1343 693,1344 774,1344 856,1344 936,1344 1021,1347 1020,1320" />
+        <Baseline points="285,1336 368,1334 449,1334 531,1334 611,1334 693,1336 774,1336 856,1336 936,1336 1021,1339" />
+        <TextEquiv conf="0.995">
+          <Unicode>DESDE JULIO DE 1935 A JUNIO DE 1943 OCURRIERON 444,887</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l060" index="14" custom="heights_v2:[18.1,8.4]">
+        <Coords points="1021,1345 936,1345 855,1343 774,1342 692,1342 611,1342 530,1340 449,1340 366,1342 283,1343 283,1370 367,1368 449,1367 529,1367 611,1368 692,1368 774,1368 854,1370 936,1371 1021,1371 1021,1345" />
+        <Baseline points="283,1361 367,1360 449,1358 529,1358 611,1360 692,1360 774,1360 854,1361 936,1363 1021,1363" />
+        <TextEquiv conf="0.997">
+          <Unicode>ACCIDENTES DEL TRABAJO EN PUERTO RICO CON UN COSTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l061" index="15" custom="heights_v2:[18.0,8.3]">
+        <Coords points="493,1390 531,1390 567,1390 601,1390 637,1390 671,1390 707,1390 741,1390 777,1390 815,1390 815,1364 777,1364 741,1364 707,1364 671,1364 637,1364 601,1364 567,1364 531,1364 493,1364 493,1390" />
+        <Baseline points="493,1382 531,1382 567,1382 601,1382 637,1382 671,1382 707,1382 741,1382 777,1382 815,1382" />
+        <TextEquiv conf="0.992">
+          <Unicode>DIRECTO DE $11,350,650.84.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l062" index="16" custom="heights_v2:[18.5,8.2]">
+        <Coords points="1021,1399 936,1399 855,1398 774,1398 692,1395 609,1396 529,1396 447,1396 365,1396 282,1396 282,1423 365,1423 447,1423 529,1423 610,1423 691,1422 774,1425 854,1425 936,1426 1021,1426 1021,1399" />
+        <Baseline points="282,1415 365,1415 447,1415 529,1415 610,1415 692,1413 774,1416 854,1416 936,1418 1021,1418" />
+        <TextEquiv conf="0.999">
+          <Unicode>LA COOPERACION DE PATRONOS Y OBREROS ES INDISPENSABLE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l063" index="17" custom="heights_v2:[17.9,7.8]">
+        <Coords points="316,1444 393,1444 468,1445 543,1445 617,1444 692,1445 766,1446 841,1446 915,1448 993,1448 993,1422 915,1422 841,1421 766,1421 692,1419 618,1418 542,1419 468,1419 394,1418 316,1418 316,1444" />
+        <Baseline points="316,1436 394,1436 468,1437 543,1437 617,1436 692,1437 766,1439 841,1439 915,1440 993,1440" />
+        <TextEquiv conf="0.997">
+          <Unicode>BLE para reducir y evitar este crecido número</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l064" index="18" custom="heights_v2:[18.5,8.3]">
+        <Coords points="546,1468 570,1468 592,1468 614,1468 637,1468 657,1468 680,1468 702,1468 725,1468 750,1468 750,1441 725,1441 702,1441 680,1441 657,1441 637,1441 614,1441 592,1441 570,1441 546,1441 546,1468" />
+        <Baseline points="546,1460 570,1460 592,1460 614,1460 637,1460 657,1460 680,1460 702,1460 725,1460 750,1460" />
+        <TextEquiv conf="1.000">
+          <Unicode>DE ACCIDENTES.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l065" index="19" custom="heights_v2:[19.3,7.9]">
+        <Coords points="303,1500 382,1500 459,1502 537,1502 614,1502 692,1502 769,1502 847,1500 924,1502 1005,1503 1005,1476 925,1475 847,1473 769,1475 692,1475 614,1475 537,1475 459,1475 382,1473 303,1473 303,1500" />
+        <Baseline points="303,1492 382,1492 459,1494 537,1494 614,1494 692,1494 769,1494 847,1492 924,1494 1005,1495" />
+        <TextEquiv conf="0.999">
+          <Unicode>EVITANDO LOS ACCIDENTES PROTEGERÁ A SUS OBREROS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l066" index="20" custom="heights_v2:[18.5,7.9]">
+        <Coords points="528,1524 562,1524 596,1524 631,1524 663,1524 698,1524 732,1524 766,1524 804,1524 804,1498 766,1498 732,1498 698,1498 663,1498 631,1498 596,1498 562,1498 528,1498 492,1498 492,1524 528,1524" />
+        <Baseline points="492,1516 528,1516 562,1516 596,1516 631,1516 663,1516 698,1516 732,1516 766,1516 804,1516" />
+        <TextEquiv conf="0.999">
+          <Unicode>Y REDUCIRA SUS COSTOS.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l067" index="21" custom="heights_v2:[20.2,7.8]">
+        <Coords points="657,1557 696,1557 735,1557 774,1557 811,1557 850,1557 888,1557 927,1558 969,1560 970,1532 928,1530 889,1529 850,1529 811,1529 774,1529 735,1529 696,1529 657,1529 617,1529 617,1557 657,1557" />
+        <Baseline points="617,1549 657,1549 696,1549 735,1549 774,1549 811,1549 850,1549 889,1549 927,1550 969,1552" />
+        <TextEquiv conf="0.996">
+          <Unicode>GUILLERMO ATILES MOREU</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l068" index="22" custom="heights_v2:[16.9,6.6]">
+        <Coords points="785,1579 796,1578 813,1578 830,1578 847,1578 865,1578 886,1578 886,1554 865,1554 847,1554 830,1554 813,1554 796,1554 777,1556 762,1556 744,1556 725,1556 725,1579 785,1579" />
+        <Baseline points="725,1573 744,1573 762,1573 778,1573 796,1571 813,1571 830,1571 847,1571 865,1571 886,1571" />
+        <TextEquiv conf="0.998">
+          <Unicode>Administrador.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

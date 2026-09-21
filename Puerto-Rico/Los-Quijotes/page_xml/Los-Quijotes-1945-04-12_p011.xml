@@ -1,0 +1,983 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T10:46:40.249620+00:00</Created>
+    <LastChange>2026-09-16T10:46:40.249620+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1945-04-12_p011" imageWidth="1311" imageHeight="1760">
+    <TextRegion id="r001">
+      <Coords points="347,120 173,119 173,142 347,144 347,120" />
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[17.8,6.1]">
+        <Coords points="173,119 173,142 194,142 213,142 218,143 347,144 347,120 324,120 305,120 287,120 268,120 250,120 231,120 219,119 173,119" />
+        <Baseline points="173,136 194,136 213,136 231,138 250,138 268,138 287,138 305,138 324,138 347,138" />
+        <TextEquiv conf="1.000">
+          <Unicode>Abril 12 de 1945</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r010">
+      <Coords points="783,123 607,123 607,149 783,149 783,123" />
+      <TextLine id="r010-l002" index="0" custom="heights_v2:[19.5,6.5]">
+        <Coords points="761,123 741,123 722,123 703,123 685,123 666,123 647,123 627,123 607,123 607,149 627,149 647,149 666,149 685,149 703,149 722,149 741,149 761,149 783,149 783,123 761,123" />
+        <Baseline points="607,143 627,143 647,143 666,143 685,143 703,143 722,143 741,143 761,143 783,143" />
+        <TextEquiv conf="0.999">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r020">
+      <Coords points="1202,129 1102,131 1102,155 1204,153 1202,129" />
+      <TextLine id="r020-l003" index="0" custom="heights_v2:[18.5,5.9]">
+        <Coords points="1102,155 1204,153 1202,129 1180,131 1162,131 1142,131 1123,131 1102,131 1102,155" />
+        <Baseline points="1102,149 1123,149 1142,149 1162,149 1181,149 1203,148" />
+        <TextEquiv conf="0.986">
+          <Unicode>Página 7</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="174,279 171,952 507,962 507,265 188,258 174,279" />
+      <TextLine id="r000-l008" index="0" custom="heights_v2:[15.9,5.8]">
+        <Coords points="507,265 469,265 433,265 400,263 364,263 330,262 295,262 261,260 225,260 188,258 187,280 225,282 260,282 295,283 329,283 364,285 399,285 433,287 469,287 507,287 507,265" />
+        <Baseline points="188,274 225,276 260,276 295,278 329,278 364,279 400,279 433,281 469,281 507,281" />
+        <TextEquiv conf="0.999">
+          <Unicode>Orlando E. Inserni, alférez de la</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l010" index="1" custom="heights_v2:[16.0,5.7]">
+        <Coords points="174,301 212,303 249,303 286,303 321,303 358,303 395,304 430,304 467,306 507,306 507,284 467,284 431,282 395,282 359,281 321,281 286,281 249,281 212,281 174,279 174,301" />
+        <Baseline points="174,295 212,297 249,297 286,297 321,297 358,297 395,298 430,298 467,300 507,300" />
+        <TextEquiv conf="0.997">
+          <Unicode>Marina de Guerra de los Estados Unidos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l012" index="2" custom="heights_v2:[16.0,5.8]">
+        <Coords points="174,324 210,324 247,325 284,325 321,325 356,325 393,325 430,325 467,327 507,327 507,305 467,305 431,303 393,303 356,303 321,303 284,303 247,303 211,302 174,302 174,324" />
+        <Baseline points="174,318 210,318 247,319 284,319 321,319 356,319 393,319 430,319 467,321 507,321" />
+        <TextEquiv conf="0.981">
+          <Unicode>dos, quien reside en la calle Estado</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l014" index="3" custom="heights_v2:[15.7,5.7]">
+        <Coords points="174,344 210,344 247,346 284,346 321,346 356,347 393,347 430,349 467,349 507,351 507,346 507,329 468,328 430,328 394,326 356,326 322,324 284,324 247,324 211,323 174,323 174,344" />
+        <Baseline points="174,339 210,339 247,340 284,340 321,340 356,342 393,342 430,343 467,343 507,345" />
+        <TextEquiv conf="0.990">
+          <Unicode>No. 2. Santurce, ha regresado de una</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l017" index="4" custom="heights_v2:[16.2,5.6]">
+        <Coords points="174,367 209,367 245,367 282,367 319,367 356,367 393,368 430,370 467,370 507,371 507,367 507,350 468,348 430,348 394,346 357,345 319,345 282,345 245,345 209,345 174,345 174,367" />
+        <Baseline points="174,361 209,361 245,361 282,361 319,361 356,361 393,363 430,364 467,364 507,366" />
+        <TextEquiv conf="0.999">
+          <Unicode>recorrido de combate con el Grupo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l019" index="5" custom="heights_v2:[16.2,5.7]">
+        <Coords points="174,386 210,388 247,388 284,388 321,388 356,388 393,389 430,389 467,391 507,392 507,388 507,370 468,369 431,367 393,367 357,366 321,366 284,366 247,366 210,366 174,364 174,386" />
+        <Baseline points="174,380 210,382 247,382 284,382 321,382 356,382 393,383 430,383 467,385 507,387" />
+        <TextEquiv conf="0.980">
+          <Unicode>Aéreo No. 11 de la Marina, que opera</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l021" index="6" custom="heights_v2:[16.2,5.7]">
+        <Coords points="173,408 210,408 247,410 284,410 321,410 356,412 393,412 430,412 467,413 507,413 507,391 467,391 431,390 393,390 356,390 322,388 284,388 247,388 211,387 174,387 173,408" />
+        <Baseline points="173,403 210,403 247,404 284,404 321,404 356,406 393,406 430,406 467,408 507,408" />
+        <TextEquiv conf="0.999">
+          <Unicode>ra desde un gran portaavión en el mar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l023" index="7" custom="heights_v2:[17.0,5.9]">
+        <Coords points="173,430 199,430 225,431 254,431 254,408 225,408 200,407 173,407 173,430" />
+        <Baseline points="173,424 199,424 225,425 254,425" />
+        <TextEquiv conf="0.993">
+          <Unicode>Pacífico.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l025" index="8" custom="heights_v2:[15.6,5.4]">
+        <Coords points="507,438 469,438 433,438 400,437 364,437 329,437 296,435 260,435 225,434 188,432 187,453 224,455 260,456 295,456 329,458 364,458 399,458 433,459 469,459 507,459 507,438" />
+        <Baseline points="188,448 225,449 260,451 295,451 329,452 364,452 400,452 433,454 469,454 507,454" />
+        <TextEquiv conf="0.999">
+          <Unicode>Formando parte de un escuadrón</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l027" index="9" custom="heights_v2:[15.0,5.4]">
+        <Coords points="173,474 212,476 248,476 286,477 321,477 358,479 395,479 430,479 467,480 507,480 507,460 467,460 431,458 395,458 358,458 322,457 286,457 249,455 212,455 174,454 173,470 173,474" />
+        <Baseline points="173,469 212,470 249,470 286,472 321,472 358,473 395,473 430,473 467,475 507,475" />
+        <TextEquiv conf="0.998">
+          <Unicode>de torpederos del Grupo Aéreo, sim-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l029" index="10" custom="heights_v2:[15.3,5.7]">
+        <Coords points="507,480 467,480 430,480 395,480 358,479 321,479 286,477 249,476 212,476 173,476 173,497 212,497 248,497 285,498 321,500 358,500 395,501 430,501 467,501 507,501 507,480" />
+        <Baseline points="173,491 212,491 249,491 286,493 321,494 358,494 395,496 430,496 467,496 507,496" />
+        <TextEquiv conf="0.997">
+          <Unicode>vió como oficial ayudante de artillería</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l031" index="11" custom="heights_v2:[16.0,5.7]">
+        <Coords points="507,502 467,502 431,501 395,501 358,501 322,499 286,499 249,499 212,497 173,497 173,519 212,519 249,521 286,521 321,521 358,522 395,522 430,522 467,524 507,524 507,502" />
+        <Baseline points="173,513 212,513 249,515 286,515 321,515 358,517 395,517 430,517 467,518 507,518" />
+        <TextEquiv conf="0.890">
+          <Unicode>ria del destacamento inspeccionando</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l033" index="12" custom="heights_v2:[15.7,5.6]">
+        <Coords points="507,522 467,522 430,522 395,522 358,522 322,520 286,520 249,520 212,519 173,519 173,540 212,540 249,541 286,541 321,541 358,543 395,543 430,543 467,543 507,543 507,522" />
+        <Baseline points="173,534 212,534 249,536 286,536 321,536 358,538 395,538 430,538 467,538 507,538" />
+        <TextEquiv conf="0.995">
+          <Unicode>el mantenimiento y reparación de todo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l035" index="13" custom="heights_v2:[16.2,5.7]">
+        <Coords points="507,542 467,542 430,542 395,542 359,541 321,541 286,541 249,541 213,539 173,539 173,561 212,561 249,562 286,562 321,562 358,562 395,564 430,564 467,564 507,564 507,542" />
+        <Baseline points="173,555 212,555 249,557 286,557 321,557 358,557 395,558 430,558 467,558 507,558" />
+        <TextEquiv conf="0.978">
+          <Unicode>dos los articulos de artilleria utili-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l037" index="14" custom="heights_v2:[16.5,5.8]">
+        <Coords points="173,583 212,583 247,585 284,585 319,585 356,585 392,587 428,587 464,587 504,587 504,564 464,564 428,564 392,564 357,563 319,563 284,563 247,563 213,561 173,561 173,583" />
+        <Baseline points="173,578 212,578 247,579 284,579 319,579 356,579 392,581 428,581 464,581 504,581" />
+        <TextEquiv conf="0.875">
+          <Unicode>zados por los torpederos "Avenger"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l040" index="15" custom="heights_v2:[16.5,5.9]">
+        <Coords points="173,604 194,604 213,604 231,604 250,606 270,606 287,606 306,606 329,608 330,585 308,584 287,584 270,584 250,584 232,582 213,582 194,582 173,582 173,604" />
+        <Baseline points="173,598 194,598 213,598 231,598 250,600 270,600 287,600 306,600 329,602" />
+        <TextEquiv conf="0.991">
+          <Unicode>de su escuadrón.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l042" index="16" custom="heights_v2:[15.8,5.8]">
+        <Coords points="187,628 224,630 260,632 294,633 329,633 363,635 398,635 432,636 467,636 505,638 506,616 468,615 432,615 399,613 363,613 330,612 294,612 261,610 225,608 188,607 187,628" />
+        <Baseline points="188,623 225,624 260,626 294,627 329,627 363,629 398,629 432,631 467,631 505,632" />
+        <TextEquiv conf="0.892">
+          <Unicode>Durante su recorrido, su escuadrón</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l044" index="17" custom="heights_v2:[15.3,5.7]">
+        <Coords points="507,638 468,636 430,636 395,635 358,633 321,633 286,631 249,631 212,630 173,631 174,652 212,651 249,652 285,652 321,654 358,654 394,656 430,657 467,657 507,659 507,656 507,638" />
+        <Baseline points="173,647 212,645 249,647 286,647 321,648 358,648 395,650 430,651 467,651 507,653" />
+        <TextEquiv conf="0.912">
+          <Unicode>propinó fuertes golpes aéreos contra</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l046" index="18" custom="heights_v2:[15.7,5.9]">
+        <Coords points="507,658 468,657 431,655 395,653 358,653 322,652 286,652 249,652 212,652 174,650 173,672 212,673 249,673 286,673 321,673 358,675 394,675 430,677 467,678 507,680 507,677 507,658" />
+        <Baseline points="173,666 212,667 249,667 286,667 321,667 358,669 395,669 430,671 467,672 507,674" />
+        <TextEquiv conf="0.476">
+          <Unicode>las Filipinas, Nanséi Shoto. Formosa,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l048" index="19" custom="heights_v2:[16.3,6.3]">
+        <Coords points="507,677 467,677 430,677 395,677 359,675 321,675 286,674 249,674 213,672 173,672 173,695 212,695 249,696 285,696 321,698 358,698 395,699 430,699 467,699 507,699 507,677" />
+        <Baseline points="173,688 212,688 249,690 286,690 321,692 358,692 395,693 430,693 467,693 507,693" />
+        <TextEquiv conf="0.960">
+          <Unicode>Indochina y la costa sur de la Chía</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l050" index="20" custom="heights_v2:[16.1,6.0]">
+        <Coords points="507,710 506,698 466,700 431,698 395,698 359,696 322,695 286,695 249,693 212,693 173,693 173,715 212,715 248,715 286,717 321,717 358,718 395,720 430,720 467,722 507,720 507,710" />
+        <Baseline points="173,709 212,709 249,709 286,711 321,711 358,712 395,714 430,714 467,716 507,714" />
+        <TextEquiv conf="0.849">
+          <Unicode>na. También participó en la historia.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l052" index="21" custom="heights_v2:[16.4,6.0]">
+        <Coords points="507,720 467,720 431,719 395,719 359,717 322,715 286,715 249,715 213,714 173,714 173,736 212,736 249,738 286,738 321,738 358,739 395,741 430,741 467,742 507,742 507,720" />
+        <Baseline points="173,730 212,730 249,732 286,732 321,732 358,733 395,735 430,735 467,736 507,736" />
+        <TextEquiv conf="1.000">
+          <Unicode>ca batalla por el golfo de Leyte. En</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l054" index="22" custom="heights_v2:[16.3,5.9]">
+        <Coords points="507,741 467,741 431,740 395,739 358,739 322,738 286,738 249,738 213,736 173,736 173,758 212,758 249,760 286,760 321,760 358,762 395,762 430,762 467,763 507,763 507,741" />
+        <Baseline points="173,753 212,753 249,754 286,754 321,754 358,756 395,756 430,756 467,757 507,757" />
+        <TextEquiv conf="0.992">
+          <Unicode>total, su escuadrón hundió un cruze</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l056" index="23" custom="heights_v2:[16.1,5.9]">
+        <Coords points="507,762 467,762 430,762 395,761 358,761 321,761 286,761 249,759 212,759 174,757 173,779 212,781 248,781 286,783 321,783 358,783 394,783 430,784 467,784 507,784 507,762" />
+        <Baseline points="173,773 212,775 249,775 286,777 321,777 358,777 395,777 430,778 467,778 507,778" />
+        <TextEquiv conf="0.820">
+          <Unicode>ro ligero, un destructor de 51.400 toneladas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l058" index="24" custom="heights_v2:[16.1,5.8]">
+        <Coords points="172,799 210,800 247,800 284,802 321,803 356,805 393,805 430,807 467,807 507,807 507,785 467,785 430,785 394,783 356,783 322,781 285,780 248,778 210,778 172,777 172,783 172,799" />
+        <Baseline points="172,793 210,794 247,794 284,796 321,797 356,799 393,799 430,801 467,801 507,801" />
+        <TextEquiv conf="0.991">
+          <Unicode>necladas de barcos mercantes. Averió</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l061" index="25" custom="heights_v2:[16.2,5.8]">
+        <Coords points="172,819 210,821 247,823 284,822 321,824 356,826 393,826 430,827 467,827 507,829 507,828 507,807 468,805 430,805 394,804 356,804 322,802 285,801 247,801 211,799 172,797 172,806 172,819" />
+        <Baseline points="172,814 210,815 247,817 284,817 321,818 356,820 393,820 430,822 467,822 507,823" />
+        <TextEquiv conf="0.998">
+          <Unicode>otras 103.900 toneladas de barcos y</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l063" index="26" custom="heights_v2:[15.9,5.7]">
+        <Coords points="172,842 209,843 245,843 282,845 319,845 356,847 393,848 430,848 467,850 507,850 507,828 467,828 431,826 393,826 357,825 320,823 282,823 246,822 209,822 172,820 172,842" />
+        <Baseline points="172,836 209,838 245,838 282,839 319,839 356,841 393,842 430,842 467,844 507,844" />
+        <TextEquiv conf="0.822">
+          <Unicode>derribó varios aviones en el aire, des-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l066" index="27" custom="heights_v2:[16.5,6.0]">
+        <Coords points="172,863 197,864 223,864 249,866 274,866 298,866 324,868 350,868 375,868 404,868 404,845 375,845 350,845 324,845 299,844 274,844 249,844 224,842 197,842 172,840 172,863" />
+        <Baseline points="172,857 197,858 223,858 249,860 274,860 298,860 324,862 350,862 375,862 404,862" />
+        <TextEquiv conf="0.993">
+          <Unicode>truyendo otros en tierra.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l069" index="28" custom="heights_v2:[16.4,5.9]">
+        <Coords points="507,876 469,874 434,873 399,871 363,871 329,871 294,869 259,868 224,866 186,866 186,888 223,888 258,890 293,892 329,893 363,893 398,893 433,895 468,896 507,898 507,897 507,876" />
+        <Baseline points="186,883 223,883 258,884 294,886 329,887 363,887 398,887 433,889 469,891 507,892" />
+        <TextEquiv conf="0.508">
+          <Unicode>Hijo de nuestro particular amiga.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l072" index="29" custom="heights_v2:[16.2,5.6]">
+        <Coords points="507,895 468,897 432,895 396,892 358,892 322,890 284,890 248,889 210,889 172,889 172,911 210,911 247,911 284,912 321,912 358,914 394,914 431,917 469,919 507,917 507,895" />
+        <Baseline points="172,905 210,905 247,905 284,907 321,907 358,908 395,908 432,911 469,913 507,911" />
+        <TextEquiv conf="0.838">
+          <Unicode>digno y culto vecino y pundonoroso</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l074" index="30" custom="heights_v2:[16.4,5.6]">
+        <Coords points="507,916 469,916 432,916 395,914 358,914 322,913 284,913 248,911 210,911 172,911 172,933 210,933 247,933 284,935 321,935 358,936 394,936 432,938 469,938 507,938 507,916" />
+        <Baseline points="172,927 210,927 247,927 284,929 321,929 358,931 395,931 432,932 469,932 507,932" />
+        <TextEquiv conf="0.980">
+          <Unicode>caballero don Francisco Inserni y de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l077" index="31" custom="heights_v2:[16.7,5.7]">
+        <Coords points="451,960 467,960 507,962 507,940 468,938 430,938 393,938 357,936 322,935 284,935 248,933 211,932 172,930 171,952 451,960" />
+        <Baseline points="172,947 210,948 247,950 284,952 321,952 356,953 393,955 430,955 467,955 507,956" />
+        <TextEquiv conf="0.941">
+          <Unicode>doña Adela Martínez de Inserni, de</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r011">
+      <Coords points="685,319 648,320 650,359 687,357 685,319" />
+      <TextLine id="r011-l016" index="0" custom="heights_v2:[31.1,7.3]">
+        <Coords points="648,320 650,359 687,357 685,319 648,320" />
+        <Baseline points="650,351 687,350" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r009">
+      <Coords points="522,838 521,962 741,963 777,938 853,940 856,841 816,840 787,802 589,799 560,840 522,838" />
+      <TextLine id="r009-l059" index="0" custom="heights_v2:[14.4,5.2]">
+        <Coords points="687,801 676,801 672,801 589,799 589,819 613,819 634,819 654,819 676,820 698,820 719,820 740,820 760,820 786,822 787,802 687,801" />
+        <Baseline points="589,814 613,814 634,814 655,814 676,815 698,815 719,815 740,815 761,815 786,817" />
+        <TextEquiv conf="0.969">
+          <Unicode>ORLANDO E. INSERNI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r009-l064" index="1" custom="heights_v2:[15.5,5.6]">
+        <Coords points="522,859 560,861 597,861 634,861 669,861 706,861 743,861 778,861 815,861 855,862 856,841 816,840 778,840 743,840 706,840 669,840 634,840 597,840 560,840 522,838 522,859" />
+        <Baseline points="522,854 560,855 597,855 634,855 669,855 706,855 743,855 778,855 815,855 855,857" />
+        <TextEquiv conf="0.996">
+          <Unicode>San Juan, este oficial naval, de 24 años.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r009-l068" index="2" custom="heights_v2:[16.0,5.9]">
+        <Coords points="522,885 558,885 595,885 632,887 669,887 704,887 741,887 778,887 815,888 855,888 855,867 815,867 779,865 741,865 704,865 669,865 632,865 596,863 558,863 522,863 522,885" />
+        <Baseline points="522,879 558,879 595,879 632,881 669,881 704,881 741,881 778,881 815,883 855,883" />
+        <TextEquiv conf="0.992">
+          <Unicode>años, asistía anteriormente a la Academia</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r009-l071" index="3" custom="heights_v2:[16.4,6.0]">
+        <Coords points="522,911 560,911 597,911 632,911 669,913 704,913 741,913 777,914 813,914 853,916 854,893 814,892 777,892 742,890 704,890 669,890 633,889 597,889 560,889 522,889 522,911" />
+        <Baseline points="522,905 560,905 597,905 632,905 669,907 704,907 741,907 777,908 814,908 854,910" />
+        <TextEquiv conf="0.999">
+          <Unicode>demia del Perpetuo Socorro de San</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r009-l075" index="4" custom="heights_v2:[16.5,5.8]">
+        <Coords points="522,936 558,936 595,936 632,936 667,936 704,938 741,938 777,938 813,938 853,940 854,917 814,916 777,916 741,916 704,916 668,914 632,914 595,914 558,914 522,914 522,936" />
+        <Baseline points="522,931 558,931 595,931 632,931 667,931 704,932 741,932 777,932 814,932 854,934" />
+        <TextEquiv conf="0.992">
+          <Unicode>Juan. Obtuvo el rango de oficial núm.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r009-l078" index="5" custom="heights_v2:[16.5,5.5]">
+        <Coords points="521,962 547,962 550,962 741,963 741,941 714,941 690,941 666,941 642,941 619,941 595,941 571,941 548,940 522,940 521,962" />
+        <Baseline points="522,956 547,956 571,958 595,958 619,958 642,958 666,958 690,958 714,958 741,958" />
+        <TextEquiv conf="1.000">
+          <Unicode>val en marzo de 1944.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r012">
+      <Coords points="866,967 1162,970 1203,949 1205,355 1202,228 1189,185 879,179 868,266 873,882 866,967" />
+      <TextLine id="r012-l004" index="0" custom="heights_v2:[18.7,6.3]">
+        <Coords points="1112,184 1083,184 1049,184 1017,182 982,182 949,180 915,180 879,179 877,204 915,205 948,205 982,207 1015,207 1049,209 1083,209 1116,208 1150,210 1189,210 1189,185 1150,185 1122,184 1112,184" />
+        <Baseline points="878,197 915,199 948,199 982,201 1016,201 1049,202 1083,202 1117,202 1150,204 1189,204" />
+        <TextEquiv conf="0.519">
+          <Unicode>Más Acerca de la Lotería</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l006" index="1" custom="heights_v2:[16.1,6.0]">
+        <Coords points="1163,228 1128,228 1095,226 1059,226 1024,225 990,225 955,225 919,225 883,225 883,247 919,247 955,247 990,247 1023,247 1059,248 1094,248 1128,250 1163,250 1202,250 1202,228 1163,228" />
+        <Baseline points="883,241 919,241 955,241 990,241 1024,241 1059,242 1094,242 1128,244 1163,244 1202,244" />
+        <TextEquiv conf="0.999">
+          <Unicode>Los billetes del sorteo extraordinario.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l007" index="2" custom="heights_v2:[15.7,5.8]">
+        <Coords points="868,266 907,267 943,267 980,267 1015,267 1053,269 1089,269 1125,271 1162,271 1202,271 1202,249 1162,249 1125,249 1090,247 1053,247 1016,246 980,246 943,246 907,246 870,244 868,266" />
+        <Baseline points="869,260 907,262 943,262 980,262 1016,262 1053,263 1089,263 1125,265 1162,265 1202,265" />
+        <TextEquiv conf="0.951">
+          <Unicode>anario que ha de celebrarse el día 3</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l009" index="3" custom="heights_v2:[16.3,5.9]">
+        <Coords points="868,287 907,288 943,288 980,288 1015,288 1053,290 1089,290 1125,290 1162,291 1202,291 1202,269 1162,269 1126,268 1089,268 1053,268 1016,266 980,266 943,266 907,266 869,265 868,283 868,287" />
+        <Baseline points="868,281 907,282 943,282 980,282 1016,282 1053,284 1089,284 1125,284 1162,286 1202,286" />
+        <TextEquiv conf="0.506">
+          <Unicode>de julio próximo, están divididos en</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l011" index="4" custom="heights_v2:[16.0,5.9]">
+        <Coords points="1203,291 1163,291 1127,289 1089,289 1053,287 1017,287 980,287 943,287 907,287 869,286 868,301 868,308 907,309 943,309 980,309 1017,309 1052,309 1089,311 1126,311 1163,312 1203,312 1203,291 1203,291" />
+        <Baseline points="868,302 907,303 943,303 980,303 1017,303 1053,303 1089,305 1126,305 1163,306 1203,306" />
+        <TextEquiv conf="0.650">
+          <Unicode>centésimas y cada centésima, vale</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l013" index="5" custom="heights_v2:[16.2,5.9]">
+        <Coords points="1204,311 1164,309 1126,309 1091,309 1055,308 1017,308 982,308 945,308 909,306 870,306 870,328 908,328 945,330 982,330 1017,330 1054,330 1091,332 1126,332 1163,332 1203,333 1204,313 1204,311" />
+        <Baseline points="870,323 908,323 945,324 982,324 1017,324 1054,324 1091,326 1126,326 1163,326 1203,327" />
+        <TextEquiv conf="0.623">
+          <Unicode>20 centavos: los billetes de los sor-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l015" index="6" custom="heights_v2:[16.1,6.0]">
+        <Coords points="870,351 908,351 945,353 982,353 1017,353 1054,353 1091,354 1126,354 1163,354 1203,356 1204,334 1164,332 1126,332 1091,332 1055,331 1017,331 982,331 945,331 909,329 870,329 870,351" />
+        <Baseline points="870,345 908,345 945,347 982,347 1017,347 1054,347 1091,348 1126,348 1163,348 1203,350" />
+        <TextEquiv conf="0.994">
+          <Unicode>teos ordinarios están divididos en</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l018" index="7" custom="heights_v2:[15.9,5.8]">
+        <Coords points="1205,355 1165,355 1129,353 1091,353 1055,352 1019,352 982,352 945,352 909,350 870,350 870,372 908,372 945,373 982,373 1019,373 1054,373 1091,375 1128,375 1165,376 1205,376 1205,355" />
+        <Baseline points="870,366 908,366 945,367 982,367 1019,367 1054,367 1091,369 1128,369 1165,371 1205,371" />
+        <TextEquiv conf="0.554">
+          <Unicode>trigesimos y cada trigésimo vale veinte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l020" index="8" custom="heights_v2:[16.0,5.8]">
+        <Coords points="870,392 908,392 945,392 982,392 1017,394 1054,394 1091,396 1126,396 1163,396 1203,397 1204,376 1164,374 1126,374 1091,374 1055,372 1017,372 983,371 945,371 908,371 870,371 870,392" />
+        <Baseline points="870,387 908,387 945,387 982,387 1017,388 1054,388 1091,390 1126,390 1163,390 1203,392" />
+        <TextEquiv conf="0.973">
+          <Unicode>te centavos. Pues bien: los veinte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l022" index="9" custom="heights_v2:[16.3,5.8]">
+        <Coords points="870,413 908,413 945,413 982,415 1017,415 1054,415 1091,417 1126,417 1163,418 1203,418 1203,396 1163,396 1127,395 1091,395 1055,393 1017,393 982,393 946,391 908,391 870,391 870,413" />
+        <Baseline points="870,408 908,408 945,408 982,409 1017,409 1054,409 1091,411 1126,411 1163,412 1203,412" />
+        <TextEquiv conf="0.880">
+          <Unicode>centavos del sorteo extraordinario</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l024" index="10" custom="heights_v2:[16.0,5.7]">
+        <Coords points="870,436 908,436 945,437 982,437 1017,437 1054,437 1091,437 1126,439 1163,439 1203,439 1203,417 1163,417 1126,417 1092,416 1054,416 1017,416 982,416 945,416 909,414 870,414 870,436" />
+        <Baseline points="870,430 908,430 945,432 982,432 1017,432 1054,432 1091,432 1126,433 1163,433 1203,433" />
+        <TextEquiv conf="0.852">
+          <Unicode>tienen opción a mil dólares del pre-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l026" index="11" custom="heights_v2:[16.3,5.7]">
+        <Coords points="870,455 908,455 945,457 982,457 1017,458 1054,458 1091,460 1126,460 1163,460 1203,461 1204,439 1164,438 1126,438 1091,438 1055,436 1017,436 983,435 945,435 909,433 870,433 870,455" />
+        <Baseline points="870,449 908,449 945,451 982,451 1017,452 1054,452 1091,454 1126,454 1163,454 1203,456" />
+        <TextEquiv conf="0.722">
+          <Unicode>mió mayor; los trigésimos del sorteo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l028" index="12" custom="heights_v2:[16.2,5.8]">
+        <Coords points="870,476 908,478 945,478 982,479 1017,479 1054,479 1091,481 1126,481 1163,481 1203,481 1203,459 1163,459 1126,459 1091,459 1055,457 1017,457 982,457 946,456 908,456 870,454 870,474 870,476" />
+        <Baseline points="870,470 908,472 945,472 982,473 1017,473 1054,473 1091,475 1126,475 1163,475 1203,475" />
+        <TextEquiv conf="1.000">
+          <Unicode>ordinario costando también 20 cent</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l030" index="13" custom="heights_v2:[16.1,5.7]">
+        <Coords points="870,498 908,498 945,498 980,500 1017,500 1053,502 1089,502 1125,502 1162,502 1202,502 1202,480 1162,480 1125,480 1089,480 1053,480 1018,478 980,478 946,476 908,476 870,476 870,491 870,498" />
+        <Baseline points="870,493 908,493 945,493 980,494 1017,494 1053,496 1089,496 1125,496 1162,496 1202,496" />
+        <TextEquiv conf="0.999">
+          <Unicode>tavos, solo tienen derecho en el pre-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l032" index="14" custom="heights_v2:[16.5,5.8]">
+        <Coords points="870,521 908,521 945,521 982,521 1017,521 1054,522 1091,524 1126,524 1163,524 1203,526 1204,503 1164,502 1126,502 1091,502 1055,500 1018,499 982,499 945,499 908,499 870,499 870,521" />
+        <Baseline points="870,515 908,515 945,515 982,515 1017,515 1054,517 1091,518 1126,518 1163,518 1203,520" />
+        <TextEquiv conf="0.971">
+          <Unicode>mio mayor a seis cientos dólares.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l034" index="15" custom="heights_v2:[16.1,5.8]">
+        <Coords points="871,543 910,543 947,543 982,543 1019,543 1054,543 1091,543 1126,545 1163,545 1203,545 1203,523 1163,523 1126,523 1092,521 1054,521 1019,521 982,521 947,521 910,521 871,521 871,543" />
+        <Baseline points="871,538 910,538 947,538 982,538 1019,538 1054,538 1091,538 1126,539 1163,539 1203,539" />
+        <TextEquiv conf="0.979">
+          <Unicode>Por qué costando lo mismo una cen-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l036" index="16" custom="heights_v2:[15.9,5.7]">
+        <Coords points="871,562 910,564 945,564 982,564 1017,564 1054,564 1089,566 1126,566 1162,566 1202,566 1202,544 1162,544 1126,544 1089,544 1055,542 1017,542 982,542 945,542 910,542 872,541 871,562" />
+        <Baseline points="871,557 910,558 945,558 982,558 1017,558 1054,558 1089,560 1126,560 1162,560 1202,560" />
+        <TextEquiv conf="0.994">
+          <Unicode>tésima del billete del sorteo extraor-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l038" index="17" custom="heights_v2:[16.3,5.8]">
+        <Coords points="871,583 910,585 947,585 982,585 1019,585 1054,587 1091,587 1126,588 1163,590 1203,590 1203,568 1163,568 1127,566 1092,565 1054,565 1020,563 982,563 947,563 910,563 872,561 871,583" />
+        <Baseline points="871,578 910,579 947,579 982,579 1019,579 1054,581 1091,581 1126,582 1163,584 1203,584" />
+        <TextEquiv conf="0.993">
+          <Unicode>dinario tiene derecho a sacarse en el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l039" index="18" custom="heights_v2:[15.9,5.7]">
+        <Coords points="871,604 910,606 947,606 982,606 1019,606 1054,607 1091,607 1126,607 1163,609 1203,609 1203,587 1163,587 1127,586 1091,586 1054,586 1020,584 982,584 947,584 910,584 872,583 871,604" />
+        <Baseline points="871,598 910,600 947,600 982,600 1019,600 1054,602 1091,602 1126,602 1163,603 1203,603" />
+        <TextEquiv conf="0.580">
+          <Unicode>premio mayor mil dólares y en caminos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l041" index="19" custom="heights_v2:[15.9,5.7]">
+        <Coords points="871,625 910,627 947,627 982,627 1019,627 1054,628 1091,628 1126,628 1163,630 1203,630 1203,608 1163,608 1127,607 1091,607 1054,607 1020,605 982,605 947,605 910,605 872,603 871,625" />
+        <Baseline points="871,619 910,621 947,621 982,621 1019,621 1054,623 1091,623 1126,623 1163,624 1203,624" />
+        <TextEquiv conf="0.999">
+          <Unicode>bio esos mismos 20 centavos del tri-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l043" index="20" custom="heights_v2:[16.5,5.8]">
+        <Coords points="871,648 910,648 947,649 982,649 1019,649 1054,649 1091,651 1126,651 1163,651 1203,651 1203,629 1163,629 1126,629 1091,629 1055,627 1019,627 982,627 947,627 910,625 871,625 871,648" />
+        <Baseline points="871,642 910,642 947,643 982,643 1019,643 1054,643 1091,645 1126,645 1163,645 1203,645" />
+        <TextEquiv conf="0.993">
+          <Unicode>gésimo del billete del sorteo ordenado</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l045" index="21" custom="heights_v2:[16.1,5.8]">
+        <Coords points="871,668 910,668 947,670 982,670 1019,670 1054,670 1091,672 1126,672 1163,672 1203,672 1203,650 1163,650 1126,650 1091,650 1055,648 1019,648 982,648 947,648 910,647 871,647 871,668" />
+        <Baseline points="871,663 910,663 947,664 982,664 1019,664 1054,664 1091,666 1126,666 1163,666 1203,666" />
+        <TextEquiv conf="0.918">
+          <Unicode>rio no tiene derecho más que a seis días.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l047" index="22" custom="heights_v2:[16.4,5.8]">
+        <Coords points="873,689 911,689 947,691 984,691 1019,691 1056,693 1091,693 1128,693 1163,693 1203,694 1204,672 1164,670 1128,670 1091,670 1056,670 1020,669 984,669 947,669 912,667 873,667 873,689" />
+        <Baseline points="873,684 911,684 947,685 984,685 1019,685 1056,687 1091,687 1128,687 1163,687 1203,688" />
+        <TextEquiv conf="0.644">
+          <Unicode>ciento dólares? »Por qué esa diferencia</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l049" index="23" custom="heights_v2:[16.3,5.7]">
+        <Coords points="1204,693 1165,693 1129,691 1093,691 1056,691 1021,690 984,690 948,690 911,690 874,688 873,710 911,712 948,712 984,712 1020,712 1056,713 1093,713 1128,713 1165,715 1204,715 1204,693" />
+        <Baseline points="873,704 911,706 948,706 984,706 1020,706 1056,708 1093,708 1128,708 1165,709 1204,709" />
+        <TextEquiv conf="0.582">
+          <Unicode>rencia? „Valen menos los 20 centavos“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l051" index="24" custom="heights_v2:[16.1,5.5]">
+        <Coords points="872,731 910,731 947,732 982,732 1019,734 1054,734 1091,736 1126,736 1163,736 1203,736 1203,714 1163,714 1126,714 1091,714 1055,712 1019,712 983,711 947,711 910,709 871,709 872,731" />
+        <Baseline points="872,725 910,725 947,727 982,727 1019,728 1054,728 1091,730 1126,730 1163,730 1203,730" />
+        <TextEquiv conf="0.871">
+          <Unicode>vós invertidos en el sorteo ordinario</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l053" index="25" custom="heights_v2:[16.1,5.5]">
+        <Coords points="1204,738 1164,736 1126,736 1092,735 1054,735 1020,733 982,733 947,733 910,733 872,733 872,755 910,755 947,755 982,755 1019,755 1054,756 1091,756 1126,758 1163,758 1203,760 1204,740 1204,738" />
+        <Baseline points="872,749 910,749 947,749 982,749 1019,749 1054,751 1091,751 1126,753 1163,753 1203,754" />
+        <TextEquiv conf="1.000">
+          <Unicode>que los 20 centavos empleados en el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l055" index="26" custom="heights_v2:[16.0,5.5]">
+        <Coords points="1204,759 1164,757 1126,757 1091,757 1054,757 1020,756 982,756 947,756 910,756 872,754 872,756 872,776 910,777 947,777 982,777 1019,777 1054,779 1091,779 1126,779 1163,779 1203,780 1204,762 1204,759" />
+        <Baseline points="872,770 910,772 947,772 982,772 1019,772 1054,773 1091,773 1126,773 1163,773 1203,775" />
+        <TextEquiv conf="0.663">
+          <Unicode>sorteo extraordinario? Qué anomalia</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l057" index="27" custom="heights_v2:[15.5,5.1]">
+        <Coords points="873,796 899,796 921,796 947,796 947,776 921,776 899,776 873,776 873,796" />
+        <Baseline points="873,791 899,791 921,791 947,791" />
+        <TextEquiv conf="1.000">
+          <Unicode>es esa?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l060" index="28" custom="heights_v2:[15.3,5.3]">
+        <Coords points="884,819 921,819 956,819 991,819 1025,820 1060,820 1096,822 1130,822 1165,822 1203,822 1203,801 1165,801 1130,801 1096,801 1061,800 1025,800 992,798 956,798 921,798 884,798 884,819" />
+        <Baseline points="884,814 921,814 956,814 992,814 1025,815 1061,815 1096,817 1130,817 1165,817 1203,817" />
+        <TextEquiv conf="0.535">
+          <Unicode>"No acusa eso que exponemos allí"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l062" index="29" custom="heights_v2:[15.5,5.4]">
+        <Coords points="1204,824 1164,822 1126,824 1092,822 1054,822 1020,820 982,820 947,820 910,819 872,817 873,838 910,840 947,841 982,841 1019,841 1054,843 1091,843 1127,845 1163,843 1203,845 1204,831 1204,824" />
+        <Baseline points="872,833 910,834 947,836 982,836 1019,836 1054,838 1091,838 1126,839 1163,838 1203,839" />
+        <TextEquiv conf="0.990">
+          <Unicode>la incapacidad manifiesta del señor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l065" index="30" custom="heights_v2:[15.9,5.5]">
+        <Coords points="1204,843 1165,843 1129,841 1093,841 1056,841 1020,841 984,839 948,839 911,839 873,839 873,861 911,861 948,861 983,861 1020,862 1056,862 1093,862 1128,862 1165,864 1204,864 1204,843" />
+        <Baseline points="873,855 911,855 948,855 984,855 1020,857 1056,857 1093,857 1128,857 1165,858 1204,858" />
+        <TextEquiv conf="0.998">
+          <Unicode>que maneja la Dirección de la</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l067" index="31" custom="heights_v2:[16.0,5.8]">
+        <Coords points="1204,863 1164,862 1128,862 1091,862 1056,862 1019,862 984,860 947,860 911,860 873,860 873,882 911,882 947,882 983,882 1019,883 1056,883 1091,883 1128,883 1163,883 1203,885 1204,874 1204,863" />
+        <Baseline points="873,876 911,876 947,876 984,876 1019,878 1056,878 1091,878 1128,878 1163,878 1203,879" />
+        <TextEquiv conf="0.754">
+          <Unicode>hoy infortunada Loterfa de Puerto Rico</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l070" index="32" custom="heights_v2:[16.2,5.8]">
+        <Coords points="1204,884 1165,884 1128,884 1093,884 1057,882 1020,882 984,881 948,881 911,881 874,879 873,901 911,903 948,903 983,903 1020,904 1056,904 1093,906 1128,906 1165,906 1204,906 1204,884" />
+        <Baseline points="873,895 911,897 948,897 984,897 1020,899 1056,899 1093,900 1128,900 1165,900 1204,900" />
+        <TextEquiv conf="0.810">
+          <Unicode>Rico? »Se quiere una prueba más evi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l073" index="33" custom="heights_v2:[16.3,5.7]">
+        <Coords points="871,925 910,925 946,923 982,925 1019,925 1054,927 1091,927 1126,928 1163,928 1203,928 1203,906 1163,906 1126,906 1092,905 1054,905 1020,903 982,903 947,902 909,903 871,903 871,925" />
+        <Baseline points="871,919 910,919 947,918 982,919 1019,919 1054,921 1091,921 1126,923 1163,923 1203,923" />
+        <TextEquiv conf="1.000">
+          <Unicode>diente de la estrechez mental del hombre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l076" index="34" custom="heights_v2:[16.3,5.4]">
+        <Coords points="1203,927 1163,927 1126,927 1091,927 1055,926 1017,926 983,924 945,924 908,924 870,924 870,946 908,946 945,946 982,946 1017,947 1054,947 1091,949 1126,949 1163,949 1203,949 1203,927" />
+        <Baseline points="870,940 908,940 945,940 982,940 1017,942 1054,942 1091,943 1126,943 1163,943 1203,943" />
+        <TextEquiv conf="1.000">
+          <Unicode>bamboleante administrador del menú</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l079" index="35" custom="heights_v2:[16.9,5.8]">
+        <Coords points="1162,970 1161,947 1126,949 1094,949 1062,949 1031,947 998,947 966,947 934,947 903,946 868,944 866,967 1162,970" />
+        <Baseline points="867,961 902,963 934,964 966,964 998,964 1030,964 1062,966 1094,966 1126,966 1162,964" />
+        <TextEquiv conf="0.998">
+          <Unicode>cionado negocio gubernamental?</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="739,178 297,175 297,219 740,222 739,178" />
+      <TextLine id="r004-l005" index="0" custom="heights_v2:[33.4,10.6]">
+        <Coords points="517,177 493,177 444,177 396,177 363,176 297,175 297,219 348,219 362,220 519,221 542,221 590,221 610,221 740,222 739,178 686,180 640,178 612,178 517,177" />
+        <Baseline points="297,209 348,209 396,210 444,210 493,210 542,210 590,210 639,212 687,213 740,212" />
+        <TextEquiv conf="0.995">
+          <Unicode>Héroe puertorriqueño</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="704,1025 316,1020 316,1053 704,1058 704,1025" />
+      <TextLine id="r005-l082" index="0" custom="heights_v2:[24.5,8.3]">
+        <Coords points="447,1022 403,1022 383,1021 316,1020 316,1053 361,1053 382,1054 445,1054 446,1054 446,1054 704,1058 704,1025 658,1025 616,1025 574,1023 531,1023 488,1023 447,1022 447,1022" />
+        <Baseline points="316,1045 361,1045 403,1046 446,1046 488,1048 531,1048 573,1048 616,1049 658,1049 704,1049" />
+        <TextEquiv conf="0.998">
+          <Unicode>SONETO EN COLABORACIÓN</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r017">
+      <Coords points="939,991 899,1022 899,1046 961,1046 980,1073 1093,1075 1141,1053 1175,1053 1175,1028 1136,994 939,991" />
+      <TextLine id="r017-l080" index="0" custom="heights_v2:[21.5,7.0]">
+        <Coords points="1040,993 1025,993 1004,993 984,993 970,991 939,991 939,1019 962,1019 984,1021 1004,1021 1025,1021 1047,1021 1069,1023 1089,1023 1110,1023 1136,1023 1136,994 1110,994 1089,994 1069,994 1052,993 1040,993" />
+        <Baseline points="939,1012 963,1012 984,1014 1004,1014 1025,1014 1048,1014 1069,1016 1089,1016 1110,1016 1136,1016" />
+        <TextEquiv conf="0.996">
+          <Unicode>VISTO Y OYIDO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r017-l081" index="1" custom="heights_v2:[18.1,6.6]">
+        <Coords points="899,1046 961,1046 992,1048 1020,1048 1051,1050 1081,1050 1110,1051 1141,1053 1175,1053 1175,1028 1141,1028 1111,1027 1082,1025 1051,1025 1021,1023 992,1023 962,1022 931,1022 899,1022 899,1046" />
+        <Baseline points="899,1040 931,1040 961,1040 992,1041 1020,1041 1051,1043 1081,1043 1110,1045 1141,1046 1175,1046" />
+        <TextEquiv conf="0.996">
+          <Unicode>En la Calle del Estado,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r017-l083" index="2" custom="heights_v2:[17.0,6.1]">
+        <Coords points="1093,1075 1093,1052 1067,1052 1046,1052 1025,1052 1006,1050 980,1050 980,1073 1004,1073 1010,1074 1093,1075" />
+        <Baseline points="980,1067 1004,1067 1025,1069 1046,1069 1067,1069 1093,1069" />
+        <TextEquiv conf="0.999">
+          <Unicode>Santurce</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="286,1104 284,1147 408,1148 440,1127 744,1132 746,1089 323,1082 286,1104" />
+      <TextLine id="r003-l084" index="0" custom="heights_v2:[15.2,5.8]">
+        <Coords points="746,1089 696,1089 658,1087 641,1087 603,1087 575,1086 535,1086 510,1086 492,1085 429,1084 417,1084 371,1084 323,1082 322,1103 371,1105 417,1105 464,1105 510,1106 557,1106 603,1108 650,1108 696,1110 745,1110 746,1089" />
+        <Baseline points="323,1098 371,1099 417,1099 464,1099 510,1101 557,1101 603,1102 650,1102 696,1104 745,1104" />
+        <TextEquiv conf="0.997">
+          <Unicode>Un curioso soneto cuyos catorce versos están</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l086" index="1" custom="heights_v2:[15.6,5.8]">
+        <Coords points="541,1129 590,1129 640,1129 690,1131 744,1132 745,1111 690,1109 641,1108 590,1108 539,1108 490,1106 440,1106 388,1106 339,1104 286,1104 286,1126 338,1126 388,1127 440,1127 489,1127 537,1129 541,1129" />
+        <Baseline points="286,1120 339,1120 388,1122 440,1122 489,1122 539,1123 590,1123 640,1123 690,1125 745,1126" />
+        <TextEquiv conf="0.993">
+          <Unicode>tomados de catorce sonetos de distintos autores es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l088" index="2" custom="heights_v2:[16.7,5.9]">
+        <Coords points="284,1147 306,1147 326,1147 344,1147 356,1148 408,1148 408,1126 383,1126 364,1126 346,1124 326,1124 306,1124 285,1124 284,1147" />
+        <Baseline points="284,1141 306,1141 326,1141 345,1141 364,1142 383,1142 408,1142" />
+        <TextEquiv conf="1.000">
+          <Unicode>el siguiente:</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="323,1167 323,1254 635,1257 627,1172 323,1167" />
+      <TextLine id="r007-l091" index="0" custom="heights_v2:[15.3,5.6]">
+        <Coords points="323,1188 358,1188 392,1190 425,1190 457,1191 491,1191 524,1191 557,1193 590,1193 627,1193 627,1172 590,1172 557,1172 525,1171 491,1170 457,1170 426,1169 425,1169 392,1169 376,1168 323,1167 323,1188" />
+        <Baseline points="323,1183 358,1183 392,1184 425,1184 457,1186 491,1186 525,1186 557,1187 590,1187 627,1187" />
+        <TextEquiv conf="0.936">
+          <Unicode>Cándida luna, que con luz serena</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l093" index="1" custom="heights_v2:[15.5,5.4]">
+        <Coords points="323,1209 356,1210 388,1210 420,1210 452,1210 485,1210 516,1210 548,1212 581,1214 618,1214 618,1193 581,1193 550,1191 517,1190 485,1190 452,1190 420,1190 388,1190 356,1190 323,1188 323,1209" />
+        <Baseline points="323,1203 356,1205 388,1205 420,1205 452,1205 485,1205 517,1205 549,1207 581,1208 618,1208" />
+        <TextEquiv conf="0.694">
+          <Unicode>del espacio los ámbitos dominan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l095" index="2" custom="heights_v2:[15.9,5.6]">
+        <Coords points="323,1233 355,1231 385,1231 417,1231 448,1233 478,1233 510,1233 541,1235 571,1235 607,1235 607,1213 571,1213 541,1213 511,1212 478,1212 448,1212 418,1210 385,1210 355,1210 323,1211 323,1233" />
+        <Baseline points="323,1227 355,1226 385,1226 417,1226 448,1227 478,1227 510,1227 541,1229 571,1229 607,1229" />
+        <TextEquiv conf="0.663">
+          <Unicode>y el horizonte lóbrego ilumina</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l097" index="3" custom="heights_v2:[15.6,5.7]">
+        <Coords points="323,1254 359,1254 393,1254 427,1254 461,1254 496,1254 530,1256 563,1256 586,1257 635,1257 633,1236 597,1236 564,1234 530,1234 497,1233 461,1233 427,1233 393,1233 359,1233 323,1233 323,1254" />
+        <Baseline points="323,1248 359,1248 393,1248 427,1248 461,1248 496,1248 530,1250 563,1250 597,1252 635,1252" />
+        <TextEquiv conf="0.798">
+          <Unicode>de pompa, majestad y gloria llena,</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="323,1261 324,1349 661,1352 666,1329 666,1286 616,1265 323,1261" />
+      <TextLine id="r008-l100" index="0" custom="heights_v2:[15.9,5.6]">
+        <Coords points="323,1283 356,1283 388,1283 420,1283 452,1283 484,1283 517,1284 548,1284 581,1286 616,1286 616,1265 581,1265 571,1264 323,1261 323,1283" />
+        <Baseline points="323,1277 356,1277 388,1277 420,1277 452,1277 485,1277 517,1279 549,1279 581,1280 616,1280" />
+        <TextEquiv conf="0.652">
+          <Unicode>gsientes acaso la amorosa era</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r008-l102" index="1" custom="heights_v2:[16.6,5.6]">
+        <Coords points="323,1305 363,1305 400,1304 438,1304 475,1305 512,1305 550,1305 587,1307 624,1308 666,1308 666,1286 624,1286 588,1285 551,1283 512,1283 475,1283 439,1282 400,1282 362,1283 323,1283 323,1305" />
+        <Baseline points="323,1300 363,1300 400,1298 438,1298 475,1300 512,1300 550,1300 587,1301 624,1303 666,1303" />
+        <TextEquiv conf="0.935">
+          <Unicode>y a la mansa piedad, dulce te inclinas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r008-l104" index="2" custom="heights_v2:[16.4,5.7]">
+        <Coords points="324,1328 363,1326 400,1326 438,1326 475,1326 512,1326 550,1328 587,1328 624,1329 666,1329 666,1307 624,1307 588,1306 550,1306 513,1304 475,1304 438,1304 400,1304 363,1304 323,1306 324,1328" />
+        <Baseline points="324,1322 363,1321 400,1321 438,1321 475,1321 512,1321 550,1322 587,1322 624,1324 666,1324" />
+        <TextEquiv conf="0.783">
+          <Unicode>y en busca de un amado te encaminas</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r008-l106" index="3" custom="heights_v2:[16.6,5.9]">
+        <Coords points="324,1349 363,1347 400,1347 436,1347 473,1347 510,1349 547,1350 584,1350 610,1352 661,1352 661,1330 621,1330 585,1328 547,1328 511,1326 474,1325 436,1325 400,1325 363,1325 324,1326 324,1349" />
+        <Baseline points="324,1343 363,1341 400,1341 436,1341 473,1341 510,1343 547,1345 584,1345 621,1346 661,1346" />
+        <TextEquiv conf="0.982">
+          <Unicode>que a eterna desventura te condena?</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r014">
+      <Coords points="870,1109 874,1343 1178,1348 1205,1326 1207,1093 887,1088 870,1109" />
+      <TextLine id="r014-l085" index="0" custom="heights_v2:[15.8,5.7]">
+        <Coords points="1207,1093 1168,1093 1133,1093 1100,1091 1064,1091 1046,1090 994,1090 960,1090 943,1089 887,1088 887,1110 924,1110 960,1111 995,1111 1028,1111 1064,1113 1099,1113 1133,1114 1168,1114 1206,1114 1207,1093" />
+        <Baseline points="887,1104 924,1104 960,1106 995,1106 1029,1106 1064,1107 1099,1107 1133,1109 1168,1109 1207,1109" />
+        <TextEquiv conf="0.997">
+          <Unicode>Escena: el frente de una casa de madera</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l087" index="1" custom="heights_v2:[15.8,5.7]">
+        <Coords points="870,1130 908,1130 945,1132 982,1132 1019,1134 1056,1134 1093,1135 1130,1135 1167,1135 1206,1135 1206,1114 1167,1114 1130,1114 1093,1114 1056,1112 1019,1112 983,1111 945,1111 909,1109 870,1109 870,1130" />
+        <Baseline points="870,1125 908,1125 945,1126 982,1126 1019,1128 1056,1128 1093,1130 1130,1130 1167,1130 1206,1130" />
+        <TextEquiv conf="1.000">
+          <Unicode>la calle del Estado de Santurce. Perdó</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l089" index="2" custom="heights_v2:[16.1,5.8]">
+        <Coords points="871,1151 908,1151 945,1151 982,1153 1019,1153 1056,1155 1092,1155 1130,1156 1166,1156 1206,1158 1206,1136 1167,1134 1130,1134 1093,1133 1056,1133 1020,1131 982,1131 946,1130 908,1130 870,1130 871,1151" />
+        <Baseline points="870,1146 908,1146 945,1146 982,1147 1019,1147 1056,1149 1093,1149 1130,1150 1167,1150 1206,1152" />
+        <TextEquiv conf="0.996">
+          <Unicode>sonajes: una dama que forcejea con</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l090" index="3" custom="heights_v2:[16.7,6.0]">
+        <Coords points="871,1174 908,1176 945,1176 982,1176 1019,1176 1054,1176 1091,1176 1128,1176 1165,1177 1205,1177 1205,1155 1165,1155 1129,1153 1091,1153 1054,1153 1019,1153 982,1153 945,1153 908,1153 871,1151 871,1174" />
+        <Baseline points="871,1168 908,1170 945,1170 982,1170 1019,1170 1054,1170 1091,1170 1128,1170 1165,1171 1205,1171" />
+        <TextEquiv conf="0.999">
+          <Unicode>la reja de hierro que condena la en-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l092" index="4" custom="heights_v2:[16.6,6.1]">
+        <Coords points="871,1195 908,1197 945,1197 982,1197 1019,1197 1054,1198 1091,1198 1128,1198 1165,1198 1205,1198 1205,1176 1165,1176 1128,1176 1091,1176 1054,1176 1020,1174 982,1174 945,1174 908,1174 871,1172 871,1195" />
+        <Baseline points="871,1189 908,1191 945,1191 982,1191 1019,1191 1054,1192 1091,1192 1128,1192 1165,1192 1205,1192" />
+        <TextEquiv conf="0.994">
+          <Unicode>trada del centro de la casa en cuentes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l094" index="5" custom="heights_v2:[16.8,5.9]">
+        <Coords points="872,1216 908,1216 945,1216 982,1216 1019,1217 1054,1217 1091,1219 1128,1219 1165,1221 1205,1221 1205,1198 1165,1198 1129,1196 1091,1196 1055,1195 1019,1195 983,1193 945,1193 908,1193 871,1193 872,1216" />
+        <Baseline points="872,1210 908,1210 945,1210 982,1210 1019,1211 1054,1211 1091,1213 1128,1213 1165,1215 1205,1215" />
+        <TextEquiv conf="0.907">
+          <Unicode>ción. Al sentir el forcejeo, sale el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l096" index="6" custom="heights_v2:[16.7,5.9]">
+        <Coords points="872,1237 908,1238 942,1238 977,1238 1011,1238 1046,1240 1080,1240 1115,1241 1149,1241 1187,1241 1187,1219 1149,1219 1115,1219 1081,1217 1046,1217 1012,1216 977,1216 942,1216 908,1216 872,1214 872,1218 872,1237" />
+        <Baseline points="872,1231 908,1232 942,1232 977,1232 1011,1232 1046,1234 1080,1234 1115,1236 1149,1236 1187,1236" />
+        <TextEquiv conf="0.997">
+          <Unicode>propietario e interroga a la dama:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l098" index="7" custom="heights_v2:[16.5,5.7]">
+        <Coords points="891,1259 921,1259 950,1260 979,1259 1007,1259 1035,1260 1064,1260 1093,1262 1122,1262 1154,1262 1154,1240 1122,1240 1093,1240 1065,1238 1035,1238 1009,1237 979,1237 949,1238 922,1237 891,1237 891,1259" />
+        <Baseline points="891,1253 921,1253 950,1255 979,1253 1008,1253 1035,1255 1064,1255 1093,1256 1122,1256 1154,1256" />
+        <TextEquiv conf="0.944">
+          <Unicode>—¿Qué se le ofrece, señora?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l099" index="8" custom="heights_v2:[16.0,5.6]">
+        <Coords points="889,1280 923,1281 953,1281 984,1281 1014,1280 1045,1281 1075,1281 1105,1283 1136,1284 1171,1284 1171,1263 1136,1263 1106,1261 1076,1260 1045,1260 1015,1258 983,1260 953,1260 923,1260 890,1258 889,1280" />
+        <Baseline points="889,1274 923,1276 953,1276 984,1276 1014,1274 1045,1276 1075,1276 1106,1277 1136,1279 1171,1279" />
+        <TextEquiv conf="0.999">
+          <Unicode>—Aquí hay perro.—pregunta.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l101" index="9" custom="heights_v2:[15.7,5.4]">
+        <Coords points="890,1300 927,1302 961,1302 995,1303 1029,1303 1064,1303 1098,1305 1131,1305 1165,1305 1203,1305 1203,1284 1165,1284 1131,1284 1098,1284 1065,1282 1029,1282 995,1282 962,1281 927,1281 891,1279 890,1300" />
+        <Baseline points="891,1295 927,1296 961,1296 995,1298 1029,1298 1064,1298 1098,1300 1131,1300 1165,1300 1203,1300" />
+        <TextEquiv conf="0.993">
+          <Unicode>—No, señora. En dónde hay un</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l103" index="10" custom="heights_v2:[16.0,5.2]">
+        <Coords points="1205,1305 1165,1305 1130,1305 1093,1305 1057,1305 1020,1305 986,1303 948,1303 913,1303 875,1301 874,1323 913,1324 948,1324 985,1324 1020,1326 1057,1326 1093,1326 1130,1326 1165,1326 1205,1326 1205,1305" />
+        <Baseline points="874,1317 913,1319 948,1319 985,1319 1020,1321 1057,1321 1093,1321 1130,1321 1165,1321 1205,1321" />
+        <TextEquiv conf="0.485">
+          <Unicode>perro es ahí al lado!— y señaló ha-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r014-l105" index="11" custom="heights_v2:[16.1,4.9]">
+        <Coords points="975,1345 975,1345 975,1345 1125,1347 1141,1346 1178,1348 1178,1327 1142,1325 1106,1327 1075,1327 1042,1325 1009,1325 976,1324 943,1324 910,1324 875,1322 874,1343 975,1345" />
+        <Baseline points="874,1338 910,1340 943,1340 976,1340 1009,1341 1041,1341 1075,1343 1107,1343 1141,1341 1178,1343" />
+        <TextEquiv conf="1.000">
+          <Unicode>cia el sur de la mencionada calle.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="323,1353 323,1491 640,1496 650,1454 707,1403 708,1382 662,1380 634,1359 323,1353" />
+      <TextLine id="r006-l107" index="0" custom="heights_v2:[16.1,5.5]">
+        <Coords points="323,1374 359,1374 393,1376 427,1376 460,1376 494,1377 528,1377 562,1379 595,1379 634,1381 634,1359 400,1354 393,1354 388,1354 323,1353 323,1374" />
+        <Baseline points="323,1369 359,1369 393,1370 427,1370 461,1370 494,1372 528,1372 562,1374 595,1374 634,1375" />
+        <TextEquiv conf="1.000">
+          <Unicode>Parece que me escuchas y parece</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l109" index="1" custom="heights_v2:[15.9,5.3]">
+        <Coords points="708,1382 662,1380 619,1380 578,1378 537,1377 494,1377 452,1377 411,1375 369,1375 324,1375 324,1396 369,1396 411,1396 452,1398 494,1398 536,1398 577,1400 619,1401 661,1401 707,1403 708,1382" />
+        <Baseline points="324,1391 369,1391 411,1391 452,1393 494,1393 536,1393 578,1394 619,1396 661,1396 708,1398" />
+        <TextEquiv conf="0.983">
+          <Unicode>que en gloria y paz y amor y venturanzá.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l110" index="2" custom="heights_v2:[16.8,5.7]">
+        <Coords points="323,1418 353,1419 382,1419 410,1419 440,1421 467,1421 495,1421 525,1423 554,1423 586,1423 586,1400 554,1400 525,1400 497,1398 467,1398 440,1398 412,1397 382,1397 353,1397 323,1395 323,1412 323,1418" />
+        <Baseline points="323,1412 353,1414 382,1414 411,1414 440,1415 467,1415 496,1415 525,1417 554,1417 586,1417" />
+        <TextEquiv conf="0.868">
+          <Unicode>tibia, modesta, luna, era</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l112" index="3" custom="heights_v2:[16.7,5.8]">
+        <Coords points="323,1445 359,1447 394,1447 430,1448 465,1448 500,1450 536,1452 571,1452 606,1453 646,1455 647,1432 607,1431 572,1429 536,1429 501,1427 466,1426 430,1426 395,1424 359,1424 323,1423 323,1445" />
+        <Baseline points="323,1439 359,1441 395,1441 430,1442 465,1442 501,1444 536,1446 571,1446 607,1447 647,1449" />
+        <TextEquiv conf="0.997">
+          <Unicode>tu faz en dulce lumbre resplandece,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l114" index="4" custom="heights_v2:[16.3,5.8]">
+        <Coords points="323,1471 359,1471 395,1471 432,1471 467,1471 502,1471 539,1472 574,1474 610,1474 645,1475 650,1454 610,1452 574,1452 540,1450 503,1449 467,1449 432,1449 395,1449 359,1449 323,1449 323,1471" />
+        <Baseline points="323,1465 359,1465 395,1465 432,1465 467,1465 502,1465 539,1467 574,1468 610,1468 647,1470" />
+        <TextEquiv conf="0.998">
+          <Unicode>y entre el vago temor y la esperanza</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l116" index="5" custom="heights_v2:[15.8,5.7]">
+        <Coords points="323,1491 359,1491 378,1492 428,1493 428,1493 464,1493 497,1493 532,1493 566,1495 582,1495 640,1496 640,1475 602,1475 567,1473 533,1472 497,1472 464,1472 428,1472 395,1472 360,1470 323,1470 323,1491" />
+        <Baseline points="323,1486 359,1486 395,1487 428,1487 464,1487 497,1487 533,1487 566,1489 602,1491 640,1491" />
+        <TextEquiv conf="0.863">
+          <Unicode>constante dura sin mudanza alguna.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r018">
+      <Coords points="1138,1367 940,1365 940,1398 1138,1400 1138,1367" />
+      <TextLine id="r018-l108" index="0" custom="heights_v2:[26.1,6.9]">
+        <Coords points="940,1365 940,1398 964,1398 985,1398 1006,1398 1027,1398 1049,1398 1070,1398 1091,1398 1109,1399 1138,1400 1138,1367 1112,1367 1109,1366 940,1365" />
+        <Baseline points="940,1391 964,1391 985,1391 1006,1391 1027,1391 1049,1391 1070,1391 1091,1391 1112,1393 1138,1393" />
+        <TextEquiv conf="0.999">
+          <Unicode>CURIOSEDAD</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r016">
+      <Coords points="870,1434 869,1477 891,1479 1006,1480 1054,1459 1205,1463 1203,1419 905,1416 870,1434" />
+      <TextLine id="r016-l111" index="0" custom="heights_v2:[15.7,5.6]">
+        <Coords points="1055,1417 1037,1417 1004,1417 972,1417 950,1416 905,1416 905,1437 940,1437 972,1438 1004,1438 1037,1438 1070,1438 1102,1440 1134,1440 1167,1440 1203,1440 1203,1419 1167,1419 1134,1419 1102,1419 1075,1417 1055,1417" />
+        <Baseline points="905,1431 940,1431 972,1433 1004,1433 1037,1433 1070,1433 1102,1434 1134,1434 1167,1434 1203,1434" />
+        <TextEquiv conf="0.995">
+          <Unicode>El amor inspira las grandes amores.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r016-l113" index="1" custom="heights_v2:[16.1,5.7]">
+        <Coords points="870,1456 908,1458 945,1458 982,1459 1019,1459 1054,1459 1205,1463 1204,1441 1165,1441 1128,1441 1092,1439 1055,1438 1019,1438 982,1438 946,1436 908,1436 870,1434 870,1456" />
+        <Baseline points="870,1451 908,1452 945,1452 982,1454 1019,1454 1054,1454 1091,1455 1128,1457 1165,1457 1205,1457" />
+        <TextEquiv conf="0.987">
+          <Unicode>biciones y nos priva de los medios</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r016-l115" index="2" custom="heights_v2:[16.1,5.9]">
+        <Coords points="891,1479 910,1479 927,1479 947,1479 964,1479 983,1479 1006,1480 1007,1458 985,1457 964,1457 947,1457 927,1457 910,1457 891,1457 871,1455 869,1477 891,1479" />
+        <Baseline points="870,1471 891,1473 910,1473 927,1473 947,1473 964,1473 984,1473 1006,1475" />
+        <TextEquiv conf="0.994">
+          <Unicode>de realizarlas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r019">
+      <Coords points="1067,1483 1006,1483 1006,1502 1067,1502 1067,1483" />
+      <TextLine id="r019-l117" index="0" custom="heights_v2:[14.1,5.2]">
+        <Coords points="1037,1483 1006,1483 1006,1502 1037,1502 1067,1502 1067,1483 1037,1483" />
+        <Baseline points="1006,1497 1037,1497 1067,1497" />
+        <TextEquiv conf="0.998">
+          <Unicode>XXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="284,1533 284,1618 690,1623 744,1604 743,1518 321,1512 284,1533" />
+      <TextLine id="r002-l119" index="0" custom="heights_v2:[15.6,5.4]">
+        <Coords points="532,1515 509,1515 490,1515 427,1514 416,1514 407,1513 321,1512 321,1533 369,1533 416,1535 462,1535 509,1536 553,1536 600,1538 647,1539 693,1539 743,1539 743,1518 693,1518 647,1518 601,1517 571,1516 532,1515" />
+        <Baseline points="321,1528 369,1528 416,1529 462,1529 509,1531 554,1531 600,1532 647,1534 693,1534 743,1534" />
+        <TextEquiv conf="0.983">
+          <Unicode>Los versos son, por orden, de estos autores:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l121" index="1" custom="heights_v2:[15.7,5.4]">
+        <Coords points="284,1554 337,1554 387,1554 438,1555 488,1555 537,1555 589,1557 638,1559 688,1560 743,1562 743,1543 743,1541 689,1539 639,1538 589,1536 538,1534 488,1534 438,1534 387,1533 337,1533 284,1533 284,1554" />
+        <Baseline points="284,1548 337,1548 387,1548 438,1550 488,1550 538,1550 589,1552 639,1553 688,1555 743,1556" />
+        <TextEquiv conf="0.932">
+          <Unicode>Herrera, Quintana, Saturnino Martínez, Cadalso,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l123" index="2" custom="heights_v2:[15.9,5.5]">
+        <Coords points="284,1575 337,1575 387,1576 438,1575 488,1576 537,1576 589,1578 639,1581 688,1581 743,1583 743,1561 689,1560 639,1560 590,1557 538,1555 488,1555 439,1553 386,1555 337,1553 284,1553 284,1575" />
+        <Baseline points="284,1569 337,1569 387,1571 438,1569 488,1571 538,1571 589,1572 639,1576 688,1576 743,1577" />
+        <TextEquiv conf="0.966">
+          <Unicode>Ramón Palma, Meléndez, Manuel Arjona, Lope de Vega.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l125" index="3" custom="heights_v2:[16.3,5.7]">
+        <Coords points="284,1596 337,1597 387,1597 438,1597 488,1599 539,1599 589,1601 640,1602 690,1602 744,1604 744,1582 690,1580 640,1580 589,1579 540,1577 488,1577 439,1575 387,1575 337,1575 284,1574 284,1590 284,1596" />
+        <Baseline points="284,1590 337,1592 387,1592 438,1592 488,1593 539,1593 589,1595 640,1597 690,1597 744,1598" />
+        <TextEquiv conf="0.856">
+          <Unicode>Vega, Francisco de la Torre, Espronceda, Zorrilla,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l127" index="4" custom="heights_v2:[16.3,5.7]">
+        <Coords points="284,1618 331,1618 375,1618 420,1618 464,1620 509,1620 553,1620 597,1622 642,1622 690,1623 691,1601 642,1599 597,1599 554,1598 509,1598 464,1598 421,1596 375,1596 331,1596 284,1596 284,1618" />
+        <Baseline points="284,1613 331,1613 375,1613 420,1613 464,1614 509,1614 554,1614 597,1616 642,1616 690,1617" />
+        <TextEquiv conf="0.583">
+          <Unicode>Llorens Torres, Martínez de la Rosa y Luzán.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r013">
+      <Coords points="866,1522 868,1564 1121,1568 1163,1547 1203,1547 1203,1504 886,1501 866,1522" />
+      <TextLine id="r013-l118" index="0" custom="heights_v2:[15.1,5.4]">
+        <Coords points="1203,1504 1165,1504 1130,1504 1110,1503 1045,1503 1027,1503 992,1503 958,1503 933,1502 886,1501 886,1522 922,1522 958,1523 992,1523 1027,1523 1061,1523 1096,1523 1130,1525 1165,1525 1203,1525 1203,1504" />
+        <Baseline points="886,1516 923,1516 958,1518 992,1518 1027,1518 1061,1518 1096,1518 1130,1520 1165,1520 1203,1520" />
+        <TextEquiv conf="0.999">
+          <Unicode>Hay personas para quienes la idea</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r013-l120" index="1" custom="heights_v2:[15.6,5.4]">
+        <Coords points="867,1543 905,1543 942,1544 979,1544 1015,1544 1053,1546 1089,1546 1126,1546 1163,1547 1203,1547 1203,1526 1163,1526 1127,1525 1089,1525 1053,1525 1016,1523 979,1523 942,1523 906,1522 866,1522 867,1543" />
+        <Baseline points="867,1537 905,1537 942,1539 979,1539 1016,1539 1053,1540 1089,1540 1126,1540 1163,1542 1203,1542" />
+        <TextEquiv conf="0.999">
+          <Unicode>de la muerte se confunde siempre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r013-l122" index="2" custom="heights_v2:[16.3,5.5]">
+        <Coords points="953,1565 953,1565 980,1565 993,1566 1037,1567 1062,1567 1089,1567 1121,1568 1122,1547 1090,1545 1062,1545 1035,1545 1008,1545 981,1543 953,1543 926,1543 899,1543 869,1542 868,1564 953,1565" />
+        <Baseline points="868,1558 899,1560 926,1560 953,1560 980,1560 1008,1561 1035,1561 1062,1561 1089,1561 1122,1563" />
+        <TextEquiv conf="0.997">
+          <Unicode>con la idea de la herencia.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r015">
+      <Coords points="870,1606 870,1649 963,1650 1009,1675 1065,1675 1091,1631 1205,1631 1205,1589 1098,1589 1070,1567 1006,1567 960,1586 887,1586 870,1606" />
+      <TextLine id="r015-l124" index="0" custom="heights_v2:[15.4,4.9]">
+        <Coords points="1006,1567 1006,1587 1037,1587 1069,1585 1068,1567 1006,1567" />
+        <Baseline points="1006,1582 1037,1582 1069,1580" />
+        <TextEquiv conf="0.956">
+          <Unicode>XXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r015-l126" index="1" custom="heights_v2:[15.7,5.3]">
+        <Coords points="1205,1589 1167,1589 1131,1589 1098,1589 1063,1587 1029,1587 993,1587 960,1586 887,1586 887,1607 924,1607 959,1607 993,1608 1029,1608 1062,1608 1098,1610 1131,1610 1167,1610 1205,1610 1205,1589" />
+        <Baseline points="887,1601 924,1601 960,1601 993,1603 1029,1603 1062,1603 1098,1605 1131,1605 1167,1605 1205,1605" />
+        <TextEquiv conf="1.000">
+          <Unicode>Un hombre enamorado tiene con</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r015-l128" index="2" custom="heights_v2:[16.0,5.5]">
+        <Coords points="870,1628 908,1628 945,1629 982,1629 1019,1629 1054,1631 1091,1631 1128,1631 1165,1631 1205,1631 1205,1609 1165,1609 1128,1609 1091,1609 1054,1609 1020,1608 982,1608 945,1608 909,1606 870,1606 870,1628" />
+        <Baseline points="870,1622 908,1622 945,1624 982,1624 1019,1624 1054,1625 1091,1625 1128,1625 1165,1625 1205,1625" />
+        <TextEquiv conf="0.965">
+          <Unicode>frecuencia aire de era. Una mujer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r015-l129" index="3" custom="heights_v2:[16.2,5.5]">
+        <Coords points="870,1649 890,1649 895,1649 963,1650 981,1650 1000,1652 1017,1652 1040,1652 1040,1630 1017,1630 1000,1630 983,1629 963,1628 945,1628 927,1628 908,1628 892,1627 870,1627 870,1649" />
+        <Baseline points="870,1643 891,1643 908,1645 927,1645 945,1645 963,1645 982,1645 1000,1646 1017,1646 1040,1646" />
+        <TextEquiv conf="1.000">
+          <Unicode>enamorada, jamás.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r015-l130" index="4" custom="heights_v2:[17.1,6.2]">
+        <Coords points="1037,1675 1065,1675 1065,1652 1037,1652 1009,1652 1009,1675 1037,1675" />
+        <Baseline points="1009,1669 1037,1669 1065,1669" />
+        <TextEquiv conf="0.670">
+          <Unicode>XXI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T12:13:26.377435+00:00</Created>
+    <LastChange>2026-09-16T12:13:26.377435+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1945-10-30_p018" imageWidth="1356" imageHeight="1797">
+    <TextRegion id="r000">
+      <Coords points="283,104 163,109 165,141 285,136 283,104" />
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[24.3,7.6]">
+        <Coords points="163,109 165,141 196,138 223,138 224,138 285,136 283,104 249,107 224,107 163,109" />
+        <Baseline points="165,133 196,131 223,131 250,131 284,129" />
+        <TextEquiv conf="0.975">
+          <Unicode>Página 16</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="749,106 571,106 571,139 749,139 749,106" />
+      <TextLine id="r005-l002" index="0" custom="heights_v2:[24.9,8.1]">
+        <Coords points="715,106 688,106 659,106 631,106 602,106 571,106 571,139 602,139 631,139 659,139 688,139 715,139 749,139 749,106 715,106" />
+        <Baseline points="571,131 602,131 631,131 659,131 688,131 715,131 749,131" />
+        <TextEquiv conf="0.999">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="1182,104 999,106 999,136 1182,134 1182,104" />
+      <TextLine id="r007-l001" index="0" custom="heights_v2:[22.8,7.9]">
+        <Coords points="1036,105 1029,106 999,106 999,136 1037,136 1060,134 1089,134 1119,134 1148,134 1182,134 1182,104 1036,105" />
+        <Baseline points="999,129 1031,129 1060,126 1089,126 1119,126 1148,126 1182,126" />
+        <TextEquiv conf="1.000">
+          <Unicode>Octubre 30, 1945</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="436,366 363,366 363,414 992,416 992,368 918,368 875,319 474,317 436,366" />
+      <TextLine id="r004-l004" index="0" custom="heights_v2:[28.5,9.3]">
+        <Coords points="474,317 474,354 521,354 564,354 608,354 652,357 695,357 740,357 783,357 825,357 875,357 875,319 825,319 783,319 740,319 695,319 652,319 626,317 474,317" />
+        <Baseline points="474,345 521,345 564,345 609,345 652,347 695,347 740,347 783,347 825,347 875,347" />
+        <TextEquiv conf="0.994">
+          <Unicode>EL PUEBLO DE PUERTO RICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l005" index="1" custom="heights_v2:[35.7,12.5]">
+        <Coords points="363,366 363,414 435,414 444,414 992,416 992,368 918,368 848,368 780,368 710,368 643,368 573,368 505,368 436,366 363,366" />
+        <Baseline points="363,401 435,401 505,404 573,404 643,404 710,404 780,404 848,404 918,404 992,404" />
+        <TextEquiv conf="0.938">
+          <Unicode>DEPARTAMENTO DE HACIENDA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="351,471 349,527 424,529 467,593 889,593 930,529 1006,527 1005,471 351,471" />
+      <TextLine id="r003-l006" index="0" custom="heights_v2:[43.5,13.0]">
+        <Coords points="349,527 424,529 496,529 568,529 640,529 713,532 785,532 857,532 930,529 1006,527 1005,471 928,473 856,475 785,475 713,475 642,473 568,473 496,473 424,473 351,471 349,527" />
+        <Baseline points="350,514 424,516 496,516 568,516 641,516 713,519 785,519 857,519 929,516 1006,514" />
+        <TextEquiv conf="0.987">
+          <Unicode>NEGOCIADO DEL IMPUESTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="1" custom="heights_v2:[42.2,12.9]">
+        <Coords points="516,593 562,593 609,593 654,593 699,593 747,593 792,593 837,593 889,593 889,537 837,537 792,537 747,537 699,537 654,537 609,537 562,537 516,537 467,537 467,593 516,593" />
+        <Baseline points="467,580 516,580 562,580 609,580 654,580 699,580 747,580 792,580 837,580 889,580" />
+        <TextEquiv conf="0.976">
+          <Unicode>DE LA VICTORIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="383,663 300,697 302,1077 485,1077 557,1040 1067,1038 1064,661 383,663" />
+      <TextLine id="r001-l008" index="0" custom="heights_v2:[27.0,9.3]">
+        <Coords points="1064,661 983,663 925,661 383,663 384,699 463,697 536,695 611,697 686,697 760,697 834,697 909,697 984,699 1064,697 1064,661" />
+        <Baseline points="383,690 462,688 537,686 611,688 686,688 760,688 834,688 909,688 983,690 1064,688" />
+        <TextEquiv conf="0.953">
+          <Unicode>EL IMPUESTO DE LA VICTORIA FUE DEROGADO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="1" custom="heights_v2:[26.7,9.1]">
+        <Coords points="300,733 388,733 471,733 557,735 641,735 724,735 810,735 893,735 977,735 1064,735 1064,700 977,700 893,700 810,700 724,700 641,700 557,700 472,697 388,697 300,697 300,733" />
+        <Baseline points="300,724 388,724 471,724 557,726 641,726 724,726 810,726 893,726 977,726 1064,726" />
+        <TextEquiv conf="0.967">
+          <Unicode>PARA TENER EFECTO DESDE MAYO 16 DE 1945; PERO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="2" custom="heights_v2:[26.6,9.4]">
+        <Coords points="300,774 388,774 472,774 557,772 640,772 724,774 810,774 893,774 977,776 1065,774 1064,738 976,740 894,738 810,738 724,738 641,736 557,736 471,738 388,738 300,738 300,774" />
+        <Baseline points="300,765 388,765 471,765 557,762 641,762 724,765 810,765 893,765 977,767 1065,765" />
+        <TextEquiv conf="0.619">
+          <Unicode>AL DEROGARSE DICHAS CONTRIBUCION SE DISPUSO QUE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l011" index="3" custom="heights_v2:[26.0,9.1]">
+        <Coords points="301,812 388,812 471,812 557,812 641,810 724,810 810,812 893,812 977,812 1065,812 1065,777 977,777 893,777 810,777 725,775 641,775 556,777 471,777 388,777 300,777 301,812" />
+        <Baseline points="301,803 388,803 471,803 557,803 641,801 724,801 810,803 893,803 977,803 1065,803" />
+        <TextEquiv conf="0.961">
+          <Unicode>TODOS AQUELLOS INGRESOS DEVENGADOS, RECIBIDOS O RECIADOS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l012" index="4" custom="heights_v2:[25.6,8.8]">
+        <Coords points="301,848 388,848 472,848 557,846 641,848 724,848 810,848 893,848 977,848 1065,846 1065,811 976,813 893,813 810,813 724,813 641,813 558,811 471,813 388,813 301,813 301,848" />
+        <Baseline points="301,839 388,839 471,839 557,837 641,839 724,839 810,839 893,839 977,839 1065,837" />
+        <TextEquiv conf="0.980">
+          <Unicode>ACREDITADOS O DISPUESTOS PARA BENEFICIO DE UN IN-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l013" index="5" custom="heights_v2:[26.1,9.2]">
+        <Coords points="301,886 388,886 471,884 555,884 638,884 724,886 807,884 891,886 974,886 1065,886 1065,851 974,851 891,851 808,849 723,851 639,849 555,849 471,849 387,851 301,851 301,886" />
+        <Baseline points="301,877 388,877 471,875 555,875 638,875 724,877 807,875 891,877 974,877 1065,877" />
+        <TextEquiv conf="0.624">
+          <Unicode>DIVIDUO, Quedaban sus sujetos al pago del tributo y</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l014" index="6" custom="heights_v2:[26.5,9.2]">
+        <Coords points="301,925 388,925 472,925 557,923 641,925 724,925 810,925 893,925 977,925 1066,923 1066,887 976,889 893,889 810,889 724,889 641,889 558,887 471,889 388,889 301,889 301,925" />
+        <Baseline points="301,916 388,916 471,916 557,913 641,916 724,916 810,916 893,916 977,916 1066,913" />
+        <TextEquiv conf="0.987">
+          <Unicode>EN TAL SENTIDO EL TESORERO DE PUERTO RICO VENIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l015" index="7" custom="heights_v2:[26.3,9.2]">
+        <Coords points="1066,923 976,925 893,925 810,925 726,928 641,925 557,925 474,925 390,925 302,925 302,961 390,961 474,961 557,961 640,961 726,963 810,961 893,961 977,961 1066,959 1066,923" />
+        <Baseline points="302,952 390,952 474,952 557,952 641,952 726,954 810,952 893,952 977,952 1066,950" />
+        <TextEquiv conf="0.959">
+          <Unicode>OBLIGADO A EXIGIR LA LIQUIDACION DE LAS CONTRI-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="8" custom="heights_v2:[26.4,9.3]">
+        <Coords points="302,997 390,999 474,999 557,999 641,999 724,999 807,999 891,999 975,999 1065,997 1064,961 974,964 891,964 807,964 724,964 641,964 557,964 474,964 390,964 303,961 302,997" />
+        <Baseline points="302,988 390,990 474,990 557,990 641,990 724,990 807,990 891,990 974,990 1065,988" />
+        <TextEquiv conf="0.999">
+          <Unicode>BUCIONES QUE RESULTARAN PENDIENTES DE LIQUIDAD</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l017" index="9" custom="heights_v2:[27.2,9.1]">
+        <Coords points="302,1040 388,1040 471,1040 557,1040 758,1039 810,1038 893,1038 977,1038 1067,1038 1066,1001 977,1001 893,1001 810,1001 723,1003 641,1003 557,1003 471,1003 388,1003 302,1003 302,1040" />
+        <Baseline points="302,1031 388,1031 471,1031 557,1031 641,1031 724,1031 810,1028 893,1028 977,1028 1067,1028" />
+        <TextEquiv conf="0.907">
+          <Unicode>CIÓN EN CUALQUIER CASO INDIVIDUAL O DE AGENTE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l018" index="10" custom="heights_v2:[30.0,9.9]">
+        <Coords points="422,1077 451,1077 485,1077 485,1037 451,1037 422,1037 390,1039 363,1039 336,1037 302,1037 302,1077 333,1077 333,1077 422,1077" />
+        <Baseline points="302,1067 334,1067 363,1069 392,1069 422,1067 451,1067 485,1067" />
+        <TextEquiv conf="0.999">
+          <Unicode>RETNEDOR.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="304,1159 307,1499 713,1499 713,1462 810,1349 1065,1347 1067,1126 388,1124 304,1159" />
+      <TextLine id="r002-l019" index="0" custom="heights_v2:[26.4,8.6]">
+        <Coords points="1067,1126 988,1126 978,1126 388,1124 388,1159 467,1159 541,1157 615,1157 690,1159 765,1159 839,1159 913,1159 988,1161 1066,1161 1067,1126" />
+        <Baseline points="388,1150 467,1150 541,1148 616,1148 690,1150 765,1150 839,1150 913,1150 988,1152 1067,1152" />
+        <TextEquiv conf="0.994">
+          <Unicode>LAS PERSONAS QUE ASI NO HABIAN CUMPLIDO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l020" index="1" custom="heights_v2:[27.3,9.4]">
+        <Coords points="305,1196 392,1196 476,1196 559,1196 643,1196 726,1196 810,1198 893,1198 977,1198 1065,1196 1064,1159 976,1161 893,1161 810,1161 727,1159 643,1159 559,1159 476,1159 392,1159 304,1159 305,1196" />
+        <Baseline points="305,1186 392,1186 476,1186 559,1186 643,1186 726,1186 810,1189 893,1189 977,1189 1065,1186" />
+        <TextEquiv conf="0.796">
+          <Unicode>CON LAS DISPOSICIONES DE LA LEY Y LA REGLAMENTACION</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l021" index="2" custom="heights_v2:[27.6,9.5]">
+        <Coords points="305,1232 390,1234 474,1234 557,1234 641,1234 724,1234 807,1234 891,1234 974,1236 1065,1236 1065,1199 974,1199 892,1197 807,1197 724,1197 641,1197 557,1197 474,1197 390,1197 305,1195 305,1232" />
+        <Baseline points="305,1222 390,1225 474,1225 557,1225 641,1225 724,1225 807,1225 891,1225 974,1227 1065,1227" />
+        <TextEquiv conf="0.996">
+          <Unicode>CIÓN QUE EL TESORERO DE PUERTO RICO PROMULGARA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l022" index="3" custom="heights_v2:[27.2,9.7]">
+        <Coords points="305,1273 393,1275 476,1273 559,1270 643,1270 726,1273 810,1273 893,1273 977,1273 1065,1273 1066,1236 977,1236 893,1236 810,1236 726,1236 644,1234 559,1234 475,1236 392,1238 305,1236 305,1238 305,1273" />
+        <Baseline points="305,1263 392,1265 476,1263 559,1261 643,1261 726,1263 810,1263 893,1263 977,1263 1065,1263" />
+        <TextEquiv conf="0.807">
+          <Unicode>A ESTE EFECTO, DEBERAN HACERLO CUANTO ANTES PARA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l023" index="4" custom="heights_v2:[26.5,9.7]">
+        <Coords points="306,1311 390,1311 474,1311 557,1309 641,1309 724,1309 807,1309 891,1309 974,1311 1062,1311 1062,1275 974,1275 892,1273 807,1273 724,1273 641,1273 557,1273 473,1275 390,1275 305,1275 306,1311" />
+        <Baseline points="306,1301 390,1301 474,1301 557,1299 641,1299 724,1299 807,1299 891,1299 974,1301 1062,1301" />
+        <TextEquiv conf="0.855">
+          <Unicode>EVITAR EL PAGO DE MAYORES INTERESES Y PENALIZADO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l024" index="5" custom="heights_v2:[27.1,9.8]">
+        <Coords points="306,1349 393,1349 476,1347 559,1347 643,1347 726,1349 810,1349 893,1347 977,1347 1065,1347 1065,1310 977,1310 893,1310 809,1313 726,1313 644,1310 559,1310 476,1310 392,1313 306,1313 306,1349" />
+        <Baseline points="306,1340 392,1340 476,1337 559,1337 643,1337 726,1340 810,1340 893,1337 977,1337 1065,1337" />
+        <TextEquiv conf="0.904">
+          <Unicode>DES ADMINISTRATIVAS POR INFRACCION A LAS DISPO-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l025" index="6" custom="heights_v2:[26.6,9.5]">
+        <Coords points="307,1385 343,1385 374,1385 408,1385 440,1385 474,1385 505,1385 539,1385 571,1385 609,1385 609,1349 571,1349 539,1349 505,1349 474,1349 440,1349 408,1349 374,1349 343,1349 307,1349 307,1385" />
+        <Baseline points="307,1376 343,1376 374,1376 408,1376 440,1376 474,1376 505,1376 539,1376 571,1376 609,1376" />
+        <TextEquiv conf="1.000">
+          <Unicode>SICIONES DE LA LEY.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l026" index="7" custom="heights_v2:[26.7,10.4]">
+        <Coords points="307,1458 347,1458 386,1458 423,1458 462,1461 501,1461 539,1461 577,1461 616,1461 661,1461 661,1424 616,1424 577,1424 539,1424 501,1424 462,1424 426,1421 386,1421 347,1421 307,1421 307,1458" />
+        <Baseline points="307,1448 347,1448 386,1448 424,1448 462,1450 501,1450 539,1450 577,1450 616,1450 661,1450" />
+        <TextEquiv conf="0.986">
+          <Unicode>SAN JUAN, PUERTO RICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l027" index="8" custom="heights_v2:[26.4,10.1]">
+        <Coords points="307,1499 354,1496 399,1496 442,1496 487,1496 530,1499 713,1499 713,1462 663,1462 618,1462 575,1462 530,1462 489,1460 442,1460 399,1460 354,1460 307,1462 307,1499" />
+        <Baseline points="307,1489 354,1486 399,1486 442,1486 487,1486 530,1489 575,1489 618,1489 663,1489 713,1489" />
+        <TextEquiv conf="0.998">
+          <Unicode>A 28 DE SETEMBRE DE 1945.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="778,1589 677,1589 677,1612 778,1612 778,1589" />
+      <TextLine id="r006-l028" index="0" custom="heights_v2:[17.2,6.6]">
+        <Coords points="742,1589 710,1589 677,1589 677,1612 710,1612 742,1612 778,1612 778,1589 742,1589" />
+        <Baseline points="677,1606 710,1606 742,1606 778,1606" />
+        <TextEquiv conf="0.297">
+          <Unicode>hacia</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

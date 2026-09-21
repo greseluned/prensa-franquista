@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T10:47:40.751584+00:00</Created>
+    <LastChange>2026-09-16T10:47:40.751584+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1945-04-12_p016" imageWidth="1311" imageHeight="1752">
+    <TextRegion id="r000">
+      <Coords points="131,86 130,111 244,112 244,87 131,86" />
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[18.6,6.3]">
+        <Coords points="130,111 244,112 244,87 218,87 197,87 175,87 154,87 131,86 130,111" />
+        <Baseline points="130,104 154,106 175,106 197,106 218,106 244,106" />
+        <TextEquiv conf="0.999">
+          <Unicode>Página 12</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="557,88 555,118 740,123 740,92 557,88" />
+      <TextLine id="r008-l002" index="0" custom="heights_v2:[23.1,7.1]">
+        <Coords points="555,118 616,119 617,119 618,119 678,121 696,121 704,122 740,123 740,92 716,92 706,92 678,91 677,91 656,91 637,91 620,89 619,89 597,89 578,89 557,88 555,118" />
+        <Baseline points="555,111 578,112 597,112 618,112 637,114 656,114 677,114 696,114 716,116 740,116" />
+        <TextEquiv conf="1.000">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r009">
+      <Coords points="984,97 981,124 1160,127 1160,101 984,97" />
+      <TextLine id="r009-l003" index="0" custom="heights_v2:[19.8,6.7]">
+        <Coords points="981,124 1160,127 1160,101 1138,101 1118,101 1099,101 1080,101 1062,99 1041,99 1022,99 1003,99 984,97 981,124" />
+        <Baseline points="982,117 1003,119 1022,119 1041,119 1061,119 1080,120 1099,120 1118,120 1138,120 1160,120" />
+        <TextEquiv conf="0.999">
+          <Unicode>Abril 12 de 1945</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="268,270 266,318 359,348 438,451 857,458 940,356 1025,329 1025,280 947,202 351,193 268,270" />
+      <TextLine id="r003-l004" index="0" custom="heights_v2:[61.0,15.5]">
+        <Coords points="878,202 813,201 746,201 682,199 615,199 550,197 483,197 420,194 351,193 349,269 416,271 483,274 548,274 615,275 680,275 746,277 812,277 878,279 947,279 947,202 878,202" />
+        <Baseline points="350,254 417,255 483,258 549,258 615,260 680,260 746,262 812,262 878,263 947,263" />
+        <TextEquiv conf="1.000">
+          <Unicode>ZOMBIE CLUB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l005" index="1" custom="heights_v2:[17.1,7.0]">
+        <Coords points="1025,280 938,281 856,280 772,278 689,277 605,275 522,273 438,272 355,272 268,270 268,294 355,296 438,296 521,297 605,299 688,301 772,302 855,304 939,305 1025,304 1025,280" />
+        <Baseline points="268,287 355,289 438,289 521,290 605,292 688,294 772,295 855,297 939,298 1025,297" />
+        <TextEquiv conf="0.673">
+          <Unicode>El "ZOMBIE CLUB" es uno de los establecimientos de distracción y es-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l006" index="2" custom="heights_v2:[16.8,6.9]">
+        <Coords points="266,318 353,318 436,320 520,321 603,325 687,325 770,326 854,328 937,328 1025,329 1025,306 937,304 854,304 771,303 687,301 603,301 521,298 437,296 353,295 267,295 266,318" />
+        <Baseline points="267,311 353,311 436,313 520,314 603,318 687,318 770,319 854,321 937,321 1025,323" />
+        <TextEquiv conf="1.000">
+          <Unicode>parcimiento mejor situado de San Juan, puesto que está ubicado en la plaza.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="3" custom="heights_v2:[17.7,7.7]">
+        <Coords points="941,330 873,329 809,329 745,329 681,327 618,326 554,324 489,324 426,322 359,322 359,348 425,348 489,349 553,349 618,351 680,353 745,354 809,354 873,354 940,356 941,330" />
+        <Baseline points="359,340 425,340 489,342 554,342 618,343 680,345 745,347 809,347 873,347 940,348" />
+        <TextEquiv conf="0.936">
+          <Unicode>Avenida Ponce de León, parada 12, centro de Miramar.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l008" index="4" custom="heights_v2:[27.1,10.7]">
+        <Coords points="579,396 599,396 619,397 639,397 656,397 675,397 695,399 717,399 717,361 695,361 678,360 656,360 639,360 619,360 602,358 579,358 579,396" />
+        <Baseline points="579,385 600,385 619,387 639,387 656,387 676,387 695,388 717,388" />
+        <TextEquiv conf="0.990">
+          <Unicode>VISITE EL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l009" index="5" custom="heights_v2:[41.0,13.4]">
+        <Coords points="647,455 669,455 686,455 752,456 760,456 767,456 857,458 857,403 807,403 762,402 716,402 671,400 624,400 578,400 533,400 489,397 438,397 438,451 485,451 500,452 647,455" />
+        <Baseline points="438,438 486,438 533,441 578,441 624,441 669,441 716,443 761,443 807,444 857,444" />
+        <TextEquiv conf="0.999">
+          <Unicode>ZOMBIE CLUB</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="334,577 332,631 957,647 960,593 334,577" />
+      <TextLine id="r004-l010" index="0" custom="heights_v2:[42.6,11.6]">
+        <Coords points="332,631 708,641 748,641 816,641 885,644 957,647 960,593 708,586 679,586 610,586 543,583 473,582 404,580 334,577 332,631" />
+        <Baseline points="332,619 403,623 472,624 541,626 610,629 679,629 748,629 817,629 886,632 958,635" />
+        <TextEquiv conf="0.994">
+          <Unicode>GONZALEZ PADIN CO. INC.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="341,713 260,775 260,809 412,814 477,755 542,755 584,817 687,818 743,760 808,761 855,823 1024,823 1024,787 875,671 420,665 341,713" />
+      <TextLine id="r002-l011" index="0" custom="heights_v2:[28.6,11.6]">
+        <Coords points="761,669 722,669 692,668 648,668 623,668 573,668 524,666 515,666 420,665 420,705 473,705 523,706 573,708 623,708 672,708 722,710 772,710 821,710 874,711 875,671 761,669" />
+        <Baseline points="420,693 473,693 523,695 573,696 623,696 672,696 722,698 772,698 822,698 874,700" />
+        <TextEquiv conf="0.973">
+          <Unicode>TODO UN PISO LLENO DE MEUBLES.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l012" index="1" custom="heights_v2:[27.2,10.2]">
+        <Coords points="542,755 609,756 675,758 743,760 808,761 876,763 946,764 947,727 947,727 877,725 809,724 744,722 676,721 610,719 543,717 477,717 410,716 341,713 340,750 409,753 477,755 542,755" />
+        <Baseline points="340,740 409,743 477,745 542,745 610,746 676,748 743,749 809,751 876,753 947,754" />
+        <TextEquiv conf="0.612">
+          <Unicode>VEA EL GRAN SURTIDO ACABADO DE RECIBIR.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l013" index="2" custom="heights_v2:[25.4,8.1]">
+        <Coords points="260,809 280,809 292,810 310,810 317,810 321,811 412,814 412,780 390,780 372,780 355,779 335,779 320,777 298,777 283,775 260,775 260,809" />
+        <Baseline points="260,801 281,801 298,802 318,802 335,804 353,804 372,805 390,805 412,805" />
+        <TextEquiv conf="0.984">
+          <Unicode>SAN JUAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l015" index="3" custom="heights_v2:[28.2,7.9]">
+        <Coords points="687,818 687,782 664,782 645,782 626,782 609,781 584,781 584,817 606,817 611,817 687,818" />
+        <Baseline points="584,809 607,809 626,810 645,810 664,810 687,810" />
+        <TextEquiv conf="1.000">
+          <Unicode>PONCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l016" index="4" custom="heights_v2:[26.3,9.6]">
+        <Coords points="876,823 894,823 911,823 928,823 929,823 1001,823 1024,823 1024,787 1001,787 981,789 966,789 948,789 931,787 911,787 894,787 876,787 855,787 855,823 876,823" />
+        <Baseline points="855,814 876,814 894,814 911,814 929,814 948,815 966,815 984,815 1001,814 1024,814" />
+        <TextEquiv conf="0.908">
+          <Unicode>MAYAGUEZ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="547,777 496,777 496,817 547,817 547,777" />
+      <TextLine id="r006-l014" index="0" custom="heights_v2:[30.0,10.0]">
+        <Coords points="496,777 496,817 547,817 547,777 496,777" />
+        <Baseline points="496,807 547,807" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="590,1146 554,1205 554,1233 1014,1239 1014,1212 991,1154 1020,1106 1018,939 566,930 558,1095 590,1146" />
+      <TextLine id="r007-l017" index="0" custom="heights_v2:[33.2,8.6]">
+        <Coords points="943,938 915,938 866,936 815,936 766,934 717,933 666,933 617,931 566,930 565,971 616,973 666,975 715,975 765,976 815,978 865,978 915,979 964,979 1017,981 1018,939 943,938" />
+        <Baseline points="565,963 616,964 666,966 716,966 765,968 815,969 865,969 915,971 964,971 1017,972" />
+        <TextEquiv conf="0.999">
+          <Unicode>TWO DICE CLUB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l018" index="1" custom="heights_v2:[14.8,5.8]">
+        <Coords points="607,999 650,999 690,999 730,1001 770,1001 812,1002 852,1002 892,1002 932,1004 977,1004 977,983 932,983 893,982 852,982 812,982 771,980 730,980 691,978 650,978 607,978 607,999" />
+        <Baseline points="607,993 650,993 690,993 730,995 770,995 812,996 852,996 892,996 932,998 977,998" />
+        <TextEquiv conf="0.990">
+          <Unicode>UN SITIO BUENO PARA LA GENTE BIEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l019" index="2" custom="heights_v2:[15.1,6.1]">
+        <Coords points="643,1015 677,1017 709,1017 741,1017 773,1019 805,1019 837,1019 870,1020 901,1020 937,1022 938,1001 902,999 870,999 838,997 805,997 773,997 742,996 709,996 677,996 644,994 643,1015" />
+        <Baseline points="643,1009 677,1011 709,1011 741,1011 773,1012 805,1012 838,1012 870,1014 902,1014 937,1016" />
+        <TextEquiv conf="0.997">
+          <Unicode>(Tiempo es el que hace al hombre)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l020" index="3" custom="heights_v2:[17.7,7.2]">
+        <Coords points="1019,1025 966,1025 917,1024 867,1022 817,1020 768,1019 718,1017 667,1017 618,1017 565,1016 565,1041 618,1042 667,1042 717,1042 767,1044 816,1045 866,1047 916,1049 966,1050 1020,1050 1019,1025" />
+        <Baseline points="565,1033 618,1035 667,1035 717,1035 767,1037 817,1038 866,1040 916,1041 966,1043 1020,1043" />
+        <TextEquiv conf="0.999">
+          <Unicode>EL ELEGANTE Y Distinguido Establecimiento</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l021" index="4" custom="heights_v2:[18.7,7.6]">
+        <Coords points="586,1067 634,1067 680,1068 727,1070 773,1071 820,1071 866,1073 913,1073 959,1073 1009,1075 1010,1048 960,1047 913,1047 866,1047 821,1045 773,1045 728,1044 681,1042 634,1040 586,1040 586,1067" />
+        <Baseline points="586,1059 634,1059 680,1061 727,1062 773,1064 820,1064 866,1065 913,1065 960,1065 1009,1067" />
+        <TextEquiv conf="0.798">
+          <Unicode>"Dos mejor lugar para el mejor pueblo"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l022" index="5" custom="heights_v2:[18.0,7.2]">
+        <Coords points="1020,1081 966,1079 915,1078 865,1076 815,1073 764,1071 712,1071 663,1071 612,1070 560,1070 558,1095 611,1095 663,1097 712,1097 764,1097 813,1098 865,1101 914,1103 966,1105 1020,1106 1020,1081" />
+        <Baseline points="559,1088 611,1088 663,1089 712,1089 764,1089 814,1091 865,1094 915,1096 966,1098 1020,1099" />
+        <TextEquiv conf="0.998">
+          <Unicode>DESEA A SUS FAVORECEDORES TODA CLASE DE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l023" index="6" custom="heights_v2:[18.7,7.3]">
+        <Coords points="700,1124 722,1124 741,1124 761,1126 780,1126 800,1126 820,1127 839,1127 858,1127 883,1127 883,1101 858,1101 839,1101 820,1101 802,1100 780,1100 761,1100 743,1098 722,1098 700,1098 700,1124" />
+        <Baseline points="700,1117 722,1117 741,1117 761,1118 780,1118 801,1118 820,1120 839,1120 858,1120 883,1120" />
+        <TextEquiv conf="1.000">
+          <Unicode>FACILIDADES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l024" index="7" custom="heights_v2:[17.0,6.7]">
+        <Coords points="992,1130 944,1129 900,1129 857,1127 813,1125 769,1125 726,1124 681,1122 637,1122 590,1122 590,1146 637,1146 680,1146 725,1148 769,1149 812,1149 857,1151 900,1152 943,1152 991,1154 992,1130" />
+        <Baseline points="590,1139 637,1139 680,1139 725,1141 769,1142 812,1142 857,1144 900,1146 943,1146 992,1147" />
+        <TextEquiv conf="0.653">
+          <Unicode>EN EL PROXIMO 1945. ANO DE LA VICTORIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l025" index="8" custom="heights_v2:[19.8,7.5]">
+        <Coords points="738,1176 758,1176 778,1177 797,1177 817,1177 839,1177 839,1150 817,1150 797,1150 778,1150 761,1148 738,1148 738,1176" />
+        <Baseline points="738,1168 759,1168 778,1170 797,1170 817,1170 839,1170" />
+        <TextEquiv conf="0.998">
+          <Unicode>Visite el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l026" index="9" custom="heights_v2:[22.0,7.4]">
+        <Coords points="632,1206 669,1206 702,1206 738,1208 772,1209 805,1209 840,1209 874,1211 908,1211 946,1212 948,1183 909,1181 874,1181 842,1180 805,1180 772,1180 739,1178 704,1177 669,1177 632,1177 632,1206" />
+        <Baseline points="632,1199 669,1199 703,1199 738,1200 772,1202 805,1202 841,1202 874,1203 908,1203 947,1205" />
+        <TextEquiv conf="0.999">
+          <Unicode>TWO DICE CLUB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l027" index="10" custom="heights_v2:[20.8,7.1]">
+        <Coords points="554,1233 607,1233 656,1233 708,1235 757,1235 808,1236 827,1237 899,1238 910,1238 918,1238 1014,1239 1014,1212 960,1212 910,1210 858,1210 809,1208 758,1207 708,1207 657,1205 607,1205 554,1205 554,1233" />
+        <Baseline points="554,1226 607,1226 656,1226 708,1227 757,1227 809,1229 858,1231 910,1231 960,1232 1014,1232" />
+        <TextEquiv conf="0.832">
+          <Unicode>Brau 71 — Teléfono 502 — San Juan, P. R.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="259,1388 260,1476 269,1507 1001,1524 1020,1463 1019,1406 971,1342 310,1322 259,1388" />
+      <TextLine id="r001-l028" index="0" custom="heights_v2:[36.7,11.5]">
+        <Coords points="529,1329 456,1329 385,1326 310,1322 308,1371 383,1374 456,1377 530,1377 601,1377 674,1380 747,1382 820,1385 892,1387 969,1390 971,1342 529,1329" />
+        <Baseline points="308,1359 383,1362 456,1365 530,1365 602,1365 674,1369 748,1370 820,1374 892,1375 969,1378" />
+        <TextEquiv conf="0.993">
+          <Unicode>Alonso Sobrino Hermanos &amp; Co.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l029" index="1" custom="heights_v2:[20.5,7.8]">
+        <Coords points="259,1417 345,1418 428,1421 512,1425 595,1425 680,1428 764,1429 847,1431 931,1434 1019,1434 1019,1406 931,1406 848,1403 764,1401 681,1400 596,1396 512,1396 429,1393 346,1390 259,1388 259,1417" />
+        <Baseline points="259,1409 345,1410 428,1414 512,1417 595,1417 680,1420 764,1422 847,1423 931,1426 1019,1426" />
+        <TextEquiv conf="0.999">
+          <Unicode>Los almacenes de Alonso Sobrinos Hermanos y Compañía, esta-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l030" index="2" custom="heights_v2:[20.7,7.8]">
+        <Coords points="259,1446 345,1449 428,1449 513,1452 597,1454 680,1457 765,1458 849,1458 932,1462 1020,1463 1020,1435 933,1433 850,1430 765,1430 681,1428 598,1425 514,1423 429,1420 345,1420 259,1417 259,1418 259,1446" />
+        <Baseline points="259,1438 345,1441 428,1441 513,1444 597,1446 680,1449 765,1451 849,1451 932,1454 1020,1455" />
+        <TextEquiv conf="0.942">
+          <Unicode>blecidos en Allen 69, ofrece a sus numerosos favorecedores un</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l031" index="3" custom="heights_v2:[20.5,7.7]">
+        <Coords points="1016,1478 1016,1464 929,1464 846,1461 763,1459 679,1457 596,1456 513,1453 429,1451 345,1449 260,1448 260,1476 345,1477 428,1479 512,1481 595,1484 679,1486 762,1487 845,1489 929,1492 1011,1492 1016,1478" />
+        <Baseline points="260,1468 345,1470 428,1471 512,1473 595,1476 679,1478 762,1479 846,1481 929,1484 1014,1484" />
+        <TextEquiv conf="0.796">
+          <Unicode>completo surtido de mercancías acabadas de recibir. Grandes lo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l032" index="4" custom="heights_v2:[21.2,7.9]">
+        <Coords points="639,1515 675,1516 755,1518 787,1519 1001,1524 1002,1495 917,1493 836,1492 757,1489 676,1487 594,1485 514,1484 434,1481 353,1479 270,1477 269,1507 353,1508 433,1510 480,1512 639,1515" />
+        <Baseline points="270,1499 353,1500 433,1502 513,1505 594,1507 676,1508 756,1510 836,1513 916,1515 1001,1516" />
+        <TextEquiv conf="0.528">
+          <Unicode>tes para quincalleros y todo lo concerniente al ramo de tejidos.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="342,1552 342,1588 929,1601 930,1565 732,1561 695,1527 579,1525 538,1557 342,1552" />
+      <TextLine id="r005-l033" index="0" custom="heights_v2:[21.6,7.3]">
+        <Coords points="579,1525 579,1554 599,1554 619,1556 636,1556 656,1557 674,1557 697,1556 695,1527 672,1528 656,1528 639,1527 619,1527 605,1526 579,1525" />
+        <Baseline points="579,1547 600,1547 619,1548 637,1548 656,1550 674,1550 696,1548" />
+        <TextEquiv conf="0.992">
+          <Unicode>VISITA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l034" index="1" custom="heights_v2:[26.4,9.2]">
+        <Coords points="342,1588 562,1593 601,1593 667,1594 731,1596 796,1598 860,1599 929,1601 930,1565 861,1564 797,1562 732,1561 668,1559 602,1557 538,1557 342,1552 342,1588" />
+        <Baseline points="342,1579 409,1580 473,1582 538,1584 602,1584 667,1585 732,1587 796,1589 860,1590 929,1592" />
+        <TextEquiv conf="0.802">
+          <Unicode>ALONSO SOBRINO HERMANOS Y COMPANIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

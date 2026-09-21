@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T12:33:28.385084+00:00</Created>
+    <LastChange>2026-09-16T12:33:28.385084+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1939-10-08_p031" imageWidth="1349" imageHeight="1787">
+    <TextRegion id="r000">
+      <Coords points="222,196 218,376 685,376 682,196 222,196" />
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[63.5,23.4]">
+        <Coords points="621,196 572,196 325,196 323,197 279,196 222,196 222,283 279,283 329,283 377,280 426,280 475,280 522,279 572,283 621,283 682,283 682,196 621,196" />
+        <Baseline points="222,260 279,260 328,260 377,256 426,256 475,256 523,256 572,260 621,260 682,260" />
+        <TextEquiv conf="0.998">
+          <Unicode>CEVERZA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l002" index="1" custom="heights_v2:[69.1,25.7]">
+        <Coords points="218,376 275,376 324,376 377,376 426,376 475,376 527,376 576,376 625,376 685,376 683,281 625,281 576,281 527,281 475,281 426,281 377,281 324,281 275,281 220,281 218,376" />
+        <Baseline points="219,350 275,350 324,350 377,350 426,350 475,350 527,350 576,350 625,350 685,350" />
+        <TextEquiv conf="0.997">
+          <Unicode>SCHLITZ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="666,536 599,536 599,604 792,604 795,491 716,491 666,536" />
+      <TextLine id="r002-l003" index="0" custom="heights_v2:[44.3,14.5]">
+        <Coords points="795,491 716,491 716,549 793,549 795,491" />
+        <Baseline points="716,535 794,535" />
+        <TextEquiv conf="0.978">
+          <Unicode>ITE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l004" index="1" custom="heights_v2:[51.7,16.8]">
+        <Coords points="599,536 599,604 662,604 662,604 792,604 788,536 720,540 666,536 599,536" />
+        <Baseline points="599,588 663,588 723,591 791,588" />
+        <TextEquiv conf="0.669">
+          <Unicode>A UNA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="286,1482 286,1541 437,1595 957,1595 1100,1541 1100,1482 1081,1414 1081,1432 1013,1432 1013,1365 1067,1365 1033,1242 682,612 595,612 286,1482" />
+      <TextLine id="r001-l005" index="0" custom="heights_v2:[619.2,40.5]">
+        <Coords points="595,612 595,1272 682,1272 682,612 595,612" />
+        <Baseline points="595,1232 682,1232" />
+        <TextEquiv conf="0.999">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="1" custom="heights_v2:[54.1,16.7]">
+        <Coords points="950,1245 878,1249 807,1253 738,1253 663,1253 591,1253 523,1249 448,1249 372,1245 368,1316 448,1320 519,1320 591,1324 663,1324 738,1324 811,1324 882,1320 954,1316 1036,1312 1033,1242 950,1245" />
+        <Baseline points="369,1299 448,1303 520,1303 591,1307 663,1307 738,1307 810,1307 881,1303 953,1299 1036,1296" />
+        <TextEquiv conf="0.935">
+          <Unicode>LACEPVEZA EXQUISITA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="2" custom="heights_v2:[33.6,12.4]">
+        <Coords points="523,1462 576,1462 625,1462 670,1462 718,1462 765,1466 813,1466 870,1466 870,1420 813,1420 765,1420 722,1416 670,1416 625,1416 576,1416 523,1416 523,1462" />
+        <Baseline points="523,1450 576,1450 625,1450 670,1450 719,1450 765,1454 813,1454 870,1454" />
+        <TextEquiv conf="0.993">
+          <Unicode>DISTRIBUIDORES:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="3" custom="heights_v2:[43.5,15.8]">
+        <Coords points="286,1541 380,1541 471,1541 557,1541 648,1541 734,1541 825,1541 911,1541 1002,1541 1100,1541 1100,1482 1002,1482 911,1482 825,1482 734,1482 648,1482 557,1482 471,1482 380,1482 286,1482 286,1541" />
+        <Baseline points="286,1525 380,1525 471,1525 557,1525 648,1525 734,1525 825,1525 911,1525 1002,1525 1100,1525" />
+        <TextEquiv conf="0.999">
+          <Unicode>BALLESTER HERMANAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="4" custom="heights_v2:[36.2,12.9]">
+        <Coords points="687,1595 722,1595 722,1595 957,1595 954,1546 890,1549 836,1549 780,1549 726,1546 667,1546 610,1546 554,1546 497,1546 437,1546 437,1595 687,1595" />
+        <Baseline points="437,1582 497,1582 554,1582 610,1582 667,1582 723,1582 780,1586 836,1586 893,1586 957,1582" />
+        <TextEquiv conf="0.980">
+          <Unicode>SAN JUAN, PUERTO RICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="1081,1365 1013,1365 1013,1432 1081,1432 1081,1365" />
+      <TextLine id="r003-l007" index="0" custom="heights_v2:[50.9,16.4]">
+        <Coords points="1013,1365 1013,1432 1081,1432 1081,1365 1013,1365" />
+        <Baseline points="1013,1416 1081,1416" />
+        <TextEquiv conf="0.498">
+          <Unicode>7</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

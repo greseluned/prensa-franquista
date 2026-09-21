@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:32:08.110095+00:00</Created>
+    <LastChange>2026-09-16T11:32:08.110095+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1945-08-25_p001" imageWidth="1430" imageHeight="1837">
+    <TextRegion id="r002">
+      <Coords points="223,69 173,75 179,128 228,123 223,69" />
+      <TextLine id="r002-l001" index="0" custom="heights_v2:[38.8,15.0]">
+        <Coords points="173,75 179,128 228,123 223,69 173,75" />
+        <Baseline points="177,113 227,108" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="162,83 105,88 109,135 166,130 162,83" />
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[34.0,13.0]">
+        <Coords points="105,88 109,135 166,130 162,83 105,88" />
+        <Baseline points="108,122 165,117" />
+        <TextEquiv conf="0.570">
+          <Unicode>Q</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="1205,345 1058,342 1058,412 1201,415 1205,345" />
+      <TextLine id="r005-l004" index="0" custom="heights_v2:[51.8,18.1]">
+        <Coords points="1058,342 1058,412 1083,412 1106,412 1129,412 1151,412 1174,413 1201,415 1205,345 1058,342" />
+        <Baseline points="1058,393 1083,393 1106,393 1129,393 1152,393 1175,395 1202,397" />
+        <TextEquiv conf="0.132">
+          <Unicode>Tala</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="383,330 142,327 142,385 383,389 383,330" />
+      <TextLine id="r001-l003" index="0" custom="heights_v2:[45.3,12.9]">
+        <Coords points="142,327 142,385 170,385 197,385 223,385 247,385 275,387 300,387 311,388 383,389 383,330 353,330 326,330 313,329 142,327" />
+        <Baseline points="142,372 170,372 197,372 223,372 248,372 275,374 301,374 326,376 353,376 383,376" />
+        <TextEquiv conf="0.198">
+          <Unicode>Vot</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="467,531 461,565 499,572 539,613 699,658 722,661 748,650 788,658 796,625 779,592 505,509 467,531" />
+      <TextLine id="r003-l005" index="0" custom="heights_v2:[14.3,7.0]">
+        <Coords points="505,509 500,530 531,538 563,551 593,560 622,569 652,577 682,588 711,597 741,606 775,613 779,592 746,585 717,576 688,568 659,557 628,548 600,539 569,530 548,522 505,509" />
+        <Baseline points="502,523 534,532 565,544 596,553 624,562 654,571 684,581 713,590 743,599 776,606" />
+        <TextEquiv conf="0.627">
+          <Unicode>PRECPRIEDAD DE LA BIBLIOTECA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l006" index="1" custom="heights_v2:[23.8,9.9]">
+        <Coords points="461,565 499,572 534,580 570,593 605,602 640,612 676,624 711,637 748,650 788,658 796,625 755,617 722,605 687,593 651,580 615,569 578,560 545,548 507,539 467,531 461,565" />
+        <Baseline points="463,555 502,562 537,571 573,583 608,592 643,603 679,615 714,627 750,640 791,649" />
+        <TextEquiv conf="0.761">
+          <Unicode>NÍVERSIDAD DE PUERTO RICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="2" custom="heights_v2:[19.1,9.0]">
+        <Coords points="699,658 722,661 726,633 703,630 684,626 668,620 647,614 627,609 608,604 590,597 569,591 545,586 539,613 561,618 580,623 594,629 699,658" />
+        <Baseline points="541,604 564,610 583,615 603,622 622,627 642,633 661,638 681,645 700,649 723,652" />
+        <TextEquiv conf="0.614">
+          <Unicode>RIO PIEDRAS F. R.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="975,692 899,694 899,773 975,771 975,692" />
+      <TextLine id="r004-l008" index="0" custom="heights_v2:[61.2,17.5]">
+        <Coords points="935,693 921,694 899,694 899,773 937,772 948,771 975,771 975,692 935,693" />
+        <Baseline points="899,755 925,755 948,753 975,753" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T10:56:30.376488+00:00</Created>
+    <LastChange>2026-09-16T10:56:30.376488+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1943-10-12_p016" imageWidth="1315" imageHeight="1740">
+    <TextRegion id="r000">
+      <Coords points="223,89 108,89 108,117 223,117 223,89" />
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[21.1,7.5]">
+        <Coords points="197,89 175,89 154,89 132,89 108,89 108,117 132,117 154,117 175,117 197,117 223,117 223,89 197,89" />
+        <Baseline points="108,110 132,110 154,110 175,110 197,110 223,110" />
+        <TextEquiv conf="0.998">
+          <Unicode>Página 14</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r009">
+      <Coords points="461,91 460,121 753,119 752,89 461,91" />
+      <TextLine id="r009-l003" index="0" custom="heights_v2:[22.1,7.5]">
+        <Coords points="460,121 753,119 752,89 717,91 686,91 654,91 621,93 591,92 559,92 527,92 495,92 461,91 460,121" />
+        <Baseline points="460,113 495,115 527,115 559,115 591,115 622,115 654,113 686,113 718,113 753,111" />
+        <TextEquiv conf="0.999">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r011">
+      <Coords points="1116,88 923,90 923,117 1118,115 1116,88" />
+      <TextLine id="r011-l002" index="0" custom="heights_v2:[20.3,7.1]">
+        <Coords points="923,117 1118,115 1116,88 1091,90 1071,90 1051,90 1028,91 1011,90 989,90 968,90 947,90 923,90 923,117" />
+        <Baseline points="923,110 947,110 968,110 989,110 1009,110 1030,111 1051,110 1071,110 1092,110 1118,108" />
+        <TextEquiv conf="1.000">
+          <Unicode>Octubre 12, 1943</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="153,327 159,409 942,409 984,383 1091,383 1089,303 993,188 251,187 198,303 153,327" />
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[71.1,19.4]">
+        <Coords points="548,187 497,188 416,188 334,188 251,187 250,277 334,279 416,279 499,279 579,277 662,279 743,279 826,279 907,279 993,279 993,188 907,188 826,188 743,188 662,188 621,188 548,187" />
+        <Baseline points="250,258 334,259 416,259 498,259 579,258 662,259 743,259 826,259 907,259 993,259" />
+        <TextEquiv conf="1.000">
+          <Unicode>Señores Ganaderos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="1" custom="heights_v2:[19.8,7.4]">
+        <Coords points="987,305 889,303 790,303 691,303 594,303 495,303 396,303 297,305 198,303 197,331 298,332 396,331 495,331 594,331 691,331 790,331 888,331 987,332 1089,331 1089,303 987,305" />
+        <Baseline points="197,323 298,325 396,323 495,323 594,323 691,323 790,323 888,323 987,325 1089,323" />
+        <TextEquiv conf="0.940">
+          <Unicode>Hace alrededor de veinticinco años se establéció en Puerto Rico la primera planeta.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="2" custom="heights_v2:[20.1,7.8]">
+        <Coords points="155,355 260,356 363,355 466,355 570,355 673,355 777,355 880,355 984,356 1090,356 1089,329 984,329 881,327 777,327 673,327 570,327 466,327 363,327 259,329 153,327 155,355" />
+        <Baseline points="155,347 259,349 363,347 466,347 570,347 673,347 777,347 880,347 984,349 1090,349" />
+        <TextEquiv conf="0.530">
+          <Unicode>ta de abonos químicos; en años sucesivos se establecieron algunas más. Estas nuevas era</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="3" custom="heights_v2:[19.9,7.8]">
+        <Coords points="157,383 260,383 363,382 466,382 570,382 673,382 777,382 880,382 984,383 1091,383 1090,356 984,356 881,354 777,354 673,354 570,354 466,354 363,354 259,356 155,356 157,383" />
+        <Baseline points="157,376 259,376 363,374 466,374 570,374 673,374 777,374 880,374 984,376 1090,376" />
+        <TextEquiv conf="0.950">
+          <Unicode>industrias tropezaron en su iniciación con la hostilidad de una mayoría de agricultor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="4" custom="heights_v2:[19.9,7.9]">
+        <Coords points="943,381 852,380 766,380 680,380 594,380 506,381 421,380 334,380 248,381 159,381 159,409 248,409 334,408 420,408 506,409 594,408 680,408 766,408 852,408 942,409 943,381" />
+        <Baseline points="159,401 248,401 334,400 420,400 506,401 594,400 680,400 766,400 852,400 942,401" />
+        <TextEquiv conf="0.581">
+          <Unicode>res que dudaban de la calidad del producto fabricado en Puerto Rico.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="154,449 156,581 207,582 595,581 673,557 1091,554 1091,424 204,424 154,449" />
+      <TextLine id="r002-l009" index="0" custom="heights_v2:[20.2,8.0]">
+        <Coords points="989,424 892,424 793,424 695,426 597,424 500,424 401,424 304,424 204,424 204,452 304,452 401,452 500,452 597,452 696,454 793,452 892,452 989,452 1091,452 1091,424 989,424" />
+        <Baseline points="204,444 304,444 401,444 500,444 597,444 696,446 793,444 892,444 989,444 1091,444" />
+        <TextEquiv conf="1.000">
+          <Unicode>La experiencia y los conocimientos que se fueron divulgando sobre abonos.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l010" index="1" custom="heights_v2:[20.2,8.1]">
+        <Coords points="155,478 259,478 363,478 466,478 570,478 673,478 777,478 880,478 984,479 1091,478 1091,473 1090,449 984,451 881,449 777,449 673,449 570,449 466,449 363,449 259,449 154,449 155,478" />
+        <Baseline points="155,470 259,470 363,470 466,470 570,470 673,470 777,470 880,470 984,471 1091,470" />
+        <TextEquiv conf="0.444">
+          <Unicode>químicos fueron venciendo estas dificultades y en poco tiempo el 100% de los agri-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l011" index="2" custom="heights_v2:[20.2,8.1]">
+        <Coords points="155,503 259,505 363,505 467,505 570,503 672,505 775,503 879,505 982,503 1089,505 1089,476 983,475 878,476 776,475 672,476 570,475 466,476 363,476 259,476 155,475 155,477 155,503" />
+        <Baseline points="155,495 259,497 363,497 466,497 570,495 672,497 775,495 879,497 982,495 1089,497" />
+        <TextEquiv conf="0.830">
+          <Unicode>cultores llegaron a conocer que las fórmulas de abonos del mismo análisis hechas</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l012" index="3" custom="heights_v2:[20.1,8.0]">
+        <Coords points="156,527 261,529 365,529 468,527 570,529 673,530 777,530 879,530 982,529 1089,530 1089,502 983,501 878,502 777,502 673,502 570,501 468,499 364,501 261,501 156,499 156,527" />
+        <Baseline points="156,519 261,521 365,521 468,519 570,521 673,522 777,522 879,522 982,521 1089,522" />
+        <TextEquiv conf="0.668">
+          <Unicode>con los mismos componentes, eran las mis mas compuestas aquí o compuestas en el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l013" index="4" custom="heights_v2:[20.4,7.8]">
+        <Coords points="155,554 259,555 363,555 466,555 570,555 673,557 1091,554 1090,526 984,527 880,529 777,529 673,529 570,527 466,527 363,527 259,527 155,526 155,554" />
+        <Baseline points="155,546 259,548 363,548 466,548 570,548 673,549 777,549 880,549 984,548 1091,546" />
+        <TextEquiv conf="0.871">
+          <Unicode>exterior. Hoy se fabrica en Puerto Rico el 100% del abono que se consume y constituye</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l014" index="5" custom="heights_v2:[20.2,7.7]">
+        <Coords points="207,582 262,582 302,581 350,581 400,581 447,581 495,581 543,581 595,581 595,553 543,553 495,553 447,553 400,553 350,553 302,553 254,555 207,555 157,553 156,581 207,582" />
+        <Baseline points="156,573 207,575 255,575 302,573 350,573 400,573 447,573 495,573 543,573 595,573" />
+        <TextEquiv conf="0.987">
+          <Unicode>tuyes una de las importantes industrias.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="156,660 159,767 271,769 368,742 1092,742 1092,633 892,634 767,599 205,596 156,660" />
+      <TextLine id="r004-l015" index="0" custom="heights_v2:[20.3,8.0]">
+        <Coords points="205,596 205,624 269,624 331,624 393,624 455,624 516,626 578,626 640,626 702,627 767,627 767,599 702,599 684,599 205,596" />
+        <Baseline points="205,616 269,616 331,616 393,616 455,616 516,618 578,618 640,618 702,619 767,619" />
+        <TextEquiv conf="0.926">
+          <Unicode>Esta situación se repite con toda nueva industria.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l016" index="1" custom="heights_v2:[20.2,7.9]">
+        <Coords points="1092,633 990,634 892,634 794,634 696,634 598,636 500,634 403,634 304,634 203,636 204,664 304,662 403,662 500,662 599,664 696,662 794,662 892,662 990,662 1092,661 1092,633" />
+        <Baseline points="204,656 304,654 403,654 500,654 599,656 696,654 794,654 892,654 990,654 1092,653" />
+        <TextEquiv conf="0.978">
+          <Unicode>La industria de alimentos de ganado tiene características absolutamente idénticas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l017" index="2" custom="heights_v2:[20.0,7.6]">
+        <Coords points="157,687 261,689 365,689 468,689 572,689 675,689 778,689 882,689 985,689 1092,689 1092,661 985,661 882,661 778,661 675,661 572,661 468,661 365,661 261,661 156,660 157,687" />
+        <Baseline points="157,680 261,681 365,681 468,681 572,681 675,681 778,681 882,681 985,681 1092,681" />
+        <TextEquiv conf="0.959">
+          <Unicode>cas a la industria de abonos químicos; las fórmulas de abonos químicos están com-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l018" index="3" custom="heights_v2:[20.0,7.7]">
+        <Coords points="158,715 263,715 366,715 470,715 573,715 675,716 778,715 882,715 985,715 1092,715 1092,687 985,687 882,687 778,687 675,688 573,687 470,687 366,687 263,687 158,687 158,708 158,715" />
+        <Baseline points="158,707 263,707 366,707 470,707 573,707 675,708 778,707 882,707 985,707 1092,707" />
+        <TextEquiv conf="0.852">
+          <Unicode>puestas por ingredientes minerales como nitrógeno, superfosfato y potasa, cuyos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l019" index="4" custom="heights_v2:[20.4,7.9]">
+        <Coords points="471,742 573,742 677,740 780,740 882,740 985,742 1092,742 1092,714 985,714 882,712 780,712 677,712 573,714 471,714 368,714 264,715 159,715 159,743 264,743 368,742 471,742" />
+        <Baseline points="159,735 264,735 368,734 471,734 573,734 677,732 780,732 882,732 985,734 1092,734" />
+        <TextEquiv conf="0.991">
+          <Unicode>elementos son necesarios al cultivo de las plantas para suplir la deficiencia en los</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l020" index="5" custom="heights_v2:[20.3,7.7]">
+        <Coords points="271,769 271,741 245,741 224,741 205,739 183,739 159,739 159,767 183,767 203,767 214,768 271,769" />
+        <Baseline points="159,759 183,759 204,759 224,761 245,761 271,761" />
+        <TextEquiv conf="1.000">
+          <Unicode>terrenos</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="156,808 158,890 472,888 573,861 1095,861 1094,782 202,782 156,808" />
+      <TextLine id="r003-l021" index="0" custom="heights_v2:[20.3,7.9]">
+        <Coords points="992,782 893,782 794,782 696,782 599,782 302,782 302,782 202,782 202,810 303,810 401,809 500,809 599,810 696,810 794,810 893,810 992,810 1094,810 1094,782 992,782" />
+        <Baseline points="202,802 302,802 401,801 500,801 599,802 696,802 794,802 893,802 992,802 1094,802" />
+        <TextEquiv conf="0.997">
+          <Unicode>Para una alimentación adecuada del ganado las investigaciones han demostrado</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l022" index="1" custom="heights_v2:[19.8,7.9]">
+        <Coords points="157,836 263,836 366,836 470,836 573,837 677,837 780,837 884,837 987,837 1095,837 1094,810 987,810 884,810 780,810 677,810 573,810 470,808 366,808 263,808 156,808 157,836" />
+        <Baseline points="156,828 263,828 366,828 470,828 573,829 677,829 780,829 884,829 987,829 1095,829" />
+        <TextEquiv conf="0.563">
+          <Unicode>que es necesaria una cantidad mínima de proteína, una cantidad mínima de carbo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l023" index="2" custom="heights_v2:[19.5,7.8]">
+        <Coords points="157,863 263,861 366,861 470,861 573,861 823,861 883,861 883,861 1095,861 1095,834 987,835 884,834 780,834 677,834 573,834 470,834 366,834 263,834 157,835 157,863" />
+        <Baseline points="157,855 263,853 366,853 470,853 573,853 677,853 780,853 884,853 987,855 1095,853" />
+        <TextEquiv conf="0.584">
+          <Unicode>hidratos, una cantidad mínima de grasa, etc., lo que constituye una alimentación baja.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l024" index="3" custom="heights_v2:[20.3,8.1]">
+        <Coords points="238,890 263,888 298,888 331,888 367,888 400,887 434,887 472,888 474,860 435,858 400,858 365,860 331,860 298,860 263,860 228,862 194,862 158,862 158,890 238,890" />
+        <Baseline points="158,882 194,882 229,882 263,880 298,880 331,880 366,880 400,879 435,879 473,880" />
+        <TextEquiv conf="1.000">
+          <Unicode>lanceada para los animales.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="158,927 162,1058 320,1060 371,1033 1099,1035 1093,902 202,903 158,927" />
+      <TextLine id="r005-l025" index="0" custom="heights_v2:[20.1,8.1]">
+        <Coords points="202,903 202,931 302,930 401,930 500,931 599,931 696,931 794,931 893,931 992,931 1094,930 1093,902 991,903 893,903 794,903 696,903 599,903 500,903 470,903 202,903" />
+        <Baseline points="202,923 302,922 401,922 500,923 599,923 696,923 794,923 893,923 992,923 1094,922" />
+        <TextEquiv conf="0.927">
+          <Unicode>Los estudios hechos en materia de alientación, así como la experiencia, han de-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l026" index="1" custom="heights_v2:[19.9,8.0]">
+        <Coords points="159,955 264,955 368,955 471,957 575,955 678,957 782,957 885,957 988,957 1095,958 1095,950 1095,931 989,929 885,929 782,929 678,929 575,927 471,929 368,927 264,927 158,927 159,955" />
+        <Baseline points="158,947 264,947 368,947 471,949 575,947 678,949 782,949 885,949 989,949 1095,950" />
+        <TextEquiv conf="0.953">
+          <Unicode>mostrado que hay un número de produc tos donde se encuentran estas propiedades</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l027" index="2" custom="heights_v2:[20.0,8.0]">
+        <Coords points="160,981 264,982 368,981 471,981 575,982 678,982 782,981 885,982 989,984 1095,982 1095,954 988,956 885,954 782,953 678,954 575,954 472,953 368,953 264,954 160,953 159,971 160,981" />
+        <Baseline points="159,973 264,974 368,973 471,973 575,974 678,974 782,973 885,974 989,976 1095,974" />
+        <TextEquiv conf="0.987">
+          <Unicode>alimenticias y estos productos son bien conocidos, era que el Departamento de Agri-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l028" index="3" custom="heights_v2:[20.1,7.9]">
+        <Coords points="1096,981 990,981 887,980 783,980 680,980 576,980 473,980 370,978 266,978 161,978 161,1006 266,1006 369,1006 473,1008 576,1008 680,1008 783,1008 887,1008 990,1009 1097,1009 1097,991 1096,981" />
+        <Baseline points="161,998 266,998 369,998 473,1000 576,1000 680,1000 783,1000 887,1000 990,1001 1097,1001" />
+        <TextEquiv conf="0.880">
+          <Unicode>cultura de los Estados Unidos ha invertido en la investigación y divulgación del</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l029" index="4" custom="heights_v2:[19.9,7.7]">
+        <Coords points="1099,1035 1097,1007 992,1008 889,1007 785,1007 681,1007 578,1005 474,1005 371,1005 267,1007 162,1007 162,1035 268,1035 371,1033 474,1033 578,1033 612,1033 1099,1035" />
+        <Baseline points="162,1027 267,1027 371,1025 474,1025 578,1025 681,1027 785,1027 888,1027 992,1028 1098,1027" />
+        <TextEquiv conf="0.757">
+          <Unicode>sistema de alimentación de ganado más millones que en ninguna otra investigación de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l030" index="5" custom="heights_v2:[19.3,7.6]">
+        <Coords points="320,1060 320,1033 298,1033 279,1033 259,1033 240,1033 221,1033 202,1033 185,1031 162,1031 162,1058 182,1058 186,1059 320,1060" />
+        <Baseline points="162,1051 183,1051 202,1052 221,1052 240,1052 259,1052 279,1052 298,1052 320,1052" />
+        <TextEquiv conf="1.000">
+          <Unicode>este carácter.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="164,1101 166,1383 970,1382 1105,1354 1100,1077 210,1075 164,1101" />
+      <TextLine id="r006-l031" index="0" custom="heights_v2:[20.2,7.6]">
+        <Coords points="210,1075 210,1103 310,1101 409,1103 508,1103 605,1103 704,1103 802,1103 899,1103 998,1104 1100,1104 1100,1077 998,1077 986,1076 210,1075" />
+        <Baseline points="210,1095 310,1094 409,1095 508,1095 605,1095 704,1095 802,1095 899,1095 998,1097 1100,1097" />
+        <TextEquiv conf="0.999">
+          <Unicode>Hemos establecido en Puerto Rico la primera industria de alimento de ganado</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l032" index="1" custom="heights_v2:[19.9,7.6]">
+        <Coords points="164,1128 271,1128 374,1127 477,1127 581,1128 685,1128 788,1128 891,1128 995,1130 1101,1132 1101,1104 995,1102 892,1101 788,1101 685,1101 581,1101 478,1099 374,1099 270,1101 164,1101 164,1128" />
+        <Baseline points="164,1121 271,1121 374,1119 478,1119 581,1121 685,1121 788,1121 892,1121 995,1122 1101,1124" />
+        <TextEquiv conf="0.801">
+          <Unicode>a tono con las establecidas fuera del país y en la confección de nuestras fórmulas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l033" index="2" custom="heights_v2:[20.1,7.6]">
+        <Coords points="164,1155 271,1155 374,1154 478,1154 581,1154 684,1154 788,1155 891,1154 995,1155 1101,1155 1101,1128 995,1128 892,1126 788,1128 685,1126 581,1126 478,1126 374,1126 270,1128 164,1128 164,1155" />
+        <Baseline points="164,1148 271,1148 374,1146 478,1146 581,1146 685,1146 788,1148 892,1146 995,1148 1101,1148" />
+        <TextEquiv conf="0.995">
+          <Unicode>usamos estrictamente aquellas materias de la más alta calidad y cuyas propiedad-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l034" index="3" custom="heights_v2:[20.1,7.7]">
+        <Coords points="1101,1152 996,1153 893,1153 790,1153 686,1153 583,1153 479,1153 376,1153 272,1153 165,1155 166,1183 272,1181 376,1181 479,1181 583,1181 686,1181 790,1181 893,1181 997,1181 1102,1179 1101,1152" />
+        <Baseline points="166,1175 272,1173 376,1173 479,1173 583,1173 686,1173 790,1173 893,1173 997,1173 1102,1172" />
+        <TextEquiv conf="0.997">
+          <Unicode>des alimenticias y digestivas están reconocidas por todas las autoridades en la ma-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l035" index="4" custom="heights_v2:[20.4,7.7]">
+        <Coords points="165,1208 188,1208 209,1208 234,1208 234,1180 209,1180 188,1180 164,1180 165,1208" />
+        <Baseline points="165,1200 188,1200 209,1200 234,1200" />
+        <TextEquiv conf="1.000">
+          <Unicode>tería.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l036" index="5" custom="heights_v2:[20.1,7.7]">
+        <Coords points="1102,1222 1001,1223 901,1222 801,1222 700,1222 602,1222 501,1222 401,1220 301,1222 199,1223 199,1251 301,1249 401,1248 501,1249 602,1249 700,1249 801,1249 901,1249 1001,1251 1103,1249 1102,1222" />
+        <Baseline points="199,1243 301,1242 401,1240 501,1242 602,1242 700,1242 801,1242 901,1242 1001,1243 1103,1242" />
+        <TextEquiv conf="0.866">
+          <Unicode>Un crecido número de ganaderos ha venido usando con éxito nuestros productos.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l037" index="6" custom="heights_v2:[20.4,7.9]">
+        <Coords points="165,1277 271,1275 374,1275 478,1275 581,1275 686,1275 790,1275 893,1275 996,1275 1103,1277 1103,1248 997,1247 893,1247 790,1247 686,1247 581,1247 478,1247 374,1247 271,1247 165,1248 165,1277" />
+        <Baseline points="165,1269 271,1267 374,1267 478,1267 581,1267 686,1267 790,1267 893,1267 997,1267 1103,1269" />
+        <TextEquiv conf="0.998">
+          <Unicode>tos y dentro de las dificultades que venimos atravesando les hemos prestado un</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l038" index="7" custom="heights_v2:[20.6,8.0]">
+        <Coords points="1103,1272 997,1272 893,1274 790,1272 686,1272 583,1272 479,1272 376,1272 272,1274 166,1274 166,1302 272,1302 376,1301 479,1301 583,1301 686,1301 789,1301 893,1302 997,1301 1104,1301 1103,1272" />
+        <Baseline points="166,1294 272,1294 376,1293 479,1293 583,1293 686,1293 790,1293 893,1294 997,1293 1104,1293" />
+        <TextEquiv conf="0.760">
+          <Unicode>excelente servicio. No obstante aun hay un número limitado de ganaderos que tie-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l039" index="8" custom="heights_v2:[20.6,7.8]">
+        <Coords points="1104,1298 996,1299 893,1299 790,1299 686,1299 583,1299 479,1299 376,1299 272,1299 166,1299 166,1328 272,1328 376,1328 479,1328 583,1328 686,1328 790,1328 893,1328 997,1328 1104,1326 1104,1298" />
+        <Baseline points="166,1320 272,1320 376,1320 479,1320 583,1320 686,1320 790,1320 893,1320 997,1320 1104,1318" />
+        <TextEquiv conf="0.891">
+          <Unicode>nene desconfianza del producto manufacturado en la Isla. No hay duda de que se re-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l040" index="9" custom="heights_v2:[20.3,7.5]">
+        <Coords points="166,1354 272,1354 376,1353 479,1353 583,1354 686,1353 790,1353 893,1353 996,1353 1105,1354 1104,1327 997,1325 893,1325 790,1325 686,1325 582,1327 479,1325 376,1325 272,1327 166,1327 166,1342 166,1354" />
+        <Baseline points="166,1347 272,1347 376,1345 479,1345 583,1347 686,1345 790,1345 893,1345 997,1345 1105,1347" />
+        <TextEquiv conf="0.834">
+          <Unicode>petirá la historia de los abonos químicos y de que en muy corto tiempo los factores</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l041" index="10" custom="heights_v2:[21.1,7.7]">
+        <Coords points="166,1383 256,1380 345,1382 435,1382 522,1382 611,1382 647,1382 866,1382 877,1382 970,1382 970,1353 877,1353 788,1354 700,1354 612,1353 522,1353 435,1353 345,1353 257,1351 166,1354 166,1383" />
+        <Baseline points="166,1375 256,1372 345,1374 435,1374 522,1374 611,1374 700,1375 788,1375 877,1374 970,1374" />
+        <TextEquiv conf="0.913">
+          <Unicode>precio y servicio serán decisivos en la elección de la marca de alimento.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="211,1397 212,1455 403,1453 413,1466 544,1464 544,1493 437,1495 466,1532 815,1530 887,1495 911,1495 966,1456 1063,1458 1064,1401 211,1397" />
+      <TextLine id="r007-l042" index="0" custom="heights_v2:[45.0,12.4]">
+        <Coords points="212,1455 309,1453 403,1453 497,1455 591,1455 685,1453 778,1453 872,1456 966,1456 1063,1458 1064,1401 211,1397 212,1455" />
+        <Baseline points="212,1442 309,1441 403,1441 497,1442 591,1442 685,1441 778,1441 872,1444 966,1444 1063,1446" />
+        <TextEquiv conf="0.984">
+          <Unicode>PUERTO RICO FEED PRODUCTS CORPORACION</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l043" index="1" custom="heights_v2:[21.8,8.1]">
+        <Coords points="911,1495 911,1465 887,1465 868,1465 850,1464 829,1464 809,1464 790,1464 771,1464 748,1464 748,1493 771,1493 790,1493 809,1493 829,1493 848,1493 868,1495 887,1495 911,1495" />
+        <Baseline points="748,1485 771,1485 790,1485 809,1485 829,1485 849,1485 868,1487 887,1487 911,1487" />
+        <TextEquiv conf="1.000">
+          <Unicode>Apartado 782.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l045" index="2" custom="heights_v2:[22.0,8.1]">
+        <Coords points="726,1530 735,1530 774,1530 815,1530 815,1500 774,1500 735,1500 696,1502 659,1502 620,1503 583,1503 545,1502 506,1502 466,1502 466,1532 726,1530" />
+        <Baseline points="466,1524 506,1524 544,1524 583,1525 621,1525 659,1524 697,1524 735,1522 774,1522 815,1522" />
+        <TextEquiv conf="0.982">
+          <Unicode>Tels, S. J. 2249-Z250-2251-2252</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="363,1495 544,1493 544,1464 363,1466 363,1495" />
+      <TextLine id="r008-l044" index="0" custom="heights_v2:[20.9,8.0]">
+        <Coords points="518,1494 521,1493 544,1493 544,1464 518,1465 500,1466 482,1466 463,1466 443,1466 423,1466 404,1466 385,1466 363,1466 363,1495 518,1494" />
+        <Baseline points="363,1487 385,1487 404,1487 423,1487 443,1487 463,1487 482,1487 501,1487 521,1485 544,1485" />
+        <TextEquiv conf="0.597">
+          <Unicode>San Juan, P. R.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r010">
+      <Coords points="716,1538 583,1539 583,1570 716,1569 716,1538" />
+      <TextLine id="r010-l046" index="0" custom="heights_v2:[22.3,8.5]">
+        <Coords points="606,1539 601,1540 583,1539 583,1570 607,1570 621,1569 640,1569 657,1569 677,1569 694,1569 716,1569 716,1538 606,1539" />
+        <Baseline points="583,1562 603,1562 621,1560 640,1560 657,1560 677,1560 694,1560 716,1560" />
+        <TextEquiv conf="0.997">
+          <Unicode>Sant, 3273.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

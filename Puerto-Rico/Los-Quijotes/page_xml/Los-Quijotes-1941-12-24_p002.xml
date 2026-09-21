@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:25:32.519781+00:00</Created>
+    <LastChange>2026-09-16T11:25:32.519781+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1941-12-24_p002" imageWidth="1326" imageHeight="1737">
+    <TextRegion id="r001">
+      <Coords points="400,213 320,455 320,640 455,777 576,937 960,937 960,874 1008,640 1008,455 942,345 951,205 720,197 400,213" />
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[107.0,33.1]">
+        <Coords points="951,205 720,197 615,205 560,205 400,213 410,353 520,345 627,345 720,337 822,337 942,345 951,205" />
+        <Baseline points="408,320 520,312 624,312 720,304 824,304 944,312" />
+        <TextEquiv conf="0.962">
+          <Unicode>BACARDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l002" index="1" custom="heights_v2:[144.6,39.8]">
+        <Coords points="320,640 427,640 520,632 616,632 704,632 797,632 896,640 1008,640 1008,455 896,455 812,448 704,447 616,447 520,447 412,456 320,455 320,640" />
+        <Baseline points="320,600 424,600 520,592 616,592 704,592 800,592 896,600 1008,600" />
+        <TextEquiv conf="0.720">
+          <Unicode>BACARDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l003" index="2" custom="heights_v2:[44.5,17.4]">
+        <Coords points="464,689 591,689 711,697 847,705 851,644 715,636 595,628 464,628 464,689" />
+        <Baseline points="464,672 592,672 712,680 848,688" />
+        <TextEquiv conf="0.569">
+          <Unicode>BACARDI "CARTA PLATA"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l004" index="3" custom="heights_v2:[47.5,16.8]">
+        <Coords points="592,785 720,785 864,785 864,721 720,721 592,721 459,713 455,777 592,785" />
+        <Baseline points="456,760 592,768 720,768 864,768" />
+        <TextEquiv conf="0.538">
+          <Unicode>BACARDI "CARTA AMBAR"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="4" custom="heights_v2:[46.1,15.8]">
+        <Coords points="567,848 767,856 770,794 570,786 567,848" />
+        <Baseline points="568,832 768,840" />
+        <TextEquiv conf="0.487">
+          <Unicode>“HATUEY"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="5" custom="heights_v2:[46.3,17.5]">
+        <Coords points="704,937 824,937 960,937 960,874 824,874 704,874 576,874 576,937 704,937" />
+        <Baseline points="576,920 704,920 824,920 960,920" />
+        <TextEquiv conf="0.387">
+          <Unicode>ENaVIDADsirvaESTEaño</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="240,969 120,968 120,1265 260,1265 736,1241 1240,1249 1240,952 736,944 240,969" />
+      <TextLine id="r000-l007" index="0" custom="heights_v2:[239.7,57.2]">
+        <Coords points="120,968 120,1265 260,1265 380,1257 496,1249 578,1249 736,1241 852,1241 892,1244 1240,1249 1240,952 1096,952 976,952 901,947 736,944 600,953 567,953 240,969 120,968" />
+        <Baseline points="120,1208 256,1208 376,1200 496,1192 616,1192 736,1184 856,1184 976,1192 1096,1192 1240,1192" />
+        <TextEquiv conf="0.839">
+          <Unicode>BACARDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="848,1407 512,1407 512,1517 848,1517 848,1407" />
+      <TextLine id="r002-l008" index="0" custom="heights_v2:[89.1,20.8]">
+        <Coords points="680,1407 512,1407 512,1517 680,1517 848,1517 848,1407 680,1407" />
+        <Baseline points="512,1496 680,1496 848,1496" />
+        <TextEquiv conf="0.277">
+          <Unicode>Sas veas revner nico</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

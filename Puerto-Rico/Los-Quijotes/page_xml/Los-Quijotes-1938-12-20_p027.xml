@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:06:59.313451+00:00</Created>
+    <LastChange>2026-09-16T11:06:59.313451+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1938-12-20_p027" imageWidth="1300" imageHeight="1729">
+    <TextRegion id="r000">
+      <Coords points="304,92 115,95 116,129 304,125 304,92" />
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[24.4,8.9]">
+        <Coords points="115,95 116,129 181,125 239,125 304,125 304,92 115,95" />
+        <Baseline points="116,120 181,116 239,116 304,116" />
+        <TextEquiv conf="0.949">
+          <Unicode>Puerto Rico - 24</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="747,89 522,93 522,133 747,130 747,89" />
+      <TextLine id="r004-l003" index="0" custom="heights_v2:[30.3,9.9]">
+        <Coords points="598,92 578,93 522,93 522,133 599,132 634,130 685,130 747,130 747,89 598,92" />
+        <Baseline points="522,123 580,123 634,120 685,120 747,120" />
+        <TextEquiv conf="0.999">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="1160,92 942,92 942,125 1160,125 1160,92" />
+      <TextLine id="r005-l001" index="0" custom="heights_v2:[23.8,8.5]">
+        <Coords points="1102,92 1051,92 1000,92 942,92 942,125 1000,125 1051,125 1102,125 1160,125 1160,92 1102,92" />
+        <Baseline points="942,116 1000,116 1051,116 1102,116 1160,116" />
+        <TextEquiv conf="1.000">
+          <Unicode>Diciembre 20, 1937.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="610,399 279,482 315,608 664,513 648,459 610,399" />
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[51.6,15.9]">
+        <Coords points="352,464 324,473 279,482 298,547 346,537 388,523 436,512 478,498 526,487 569,476 623,465 610,399 352,464" />
+        <Baseline points="293,532 341,522 384,507 431,497 475,482 522,471 565,460 620,449" />
+        <TextEquiv conf="0.208">
+          <Unicode>selices sícua</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="1" custom="heights_v2:[42.8,13.8]">
+        <Coords points="492,560 530,550 572,536 604,530 664,513 648,459 597,474 561,480 512,496 474,506 429,521 391,531 348,542 302,553 315,608 492,560" />
+        <Baseline points="312,594 359,584 402,573 442,562 486,547 526,536 569,522 609,515 660,500" />
+        <TextEquiv conf="0.389">
+          <Unicode>Boymočlno luwo</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="438,702 428,795 431,1059 889,1059 961,965 961,887 903,795 877,698 438,702" />
+      <TextLine id="r003-l006" index="0" custom="heights_v2:[55.7,21.0]">
+        <Coords points="438,702 444,779 493,775 540,775 587,775 634,775 681,775 729,775 776,775 823,775 877,775 877,698 438,702" />
+        <Baseline points="442,758 493,754 540,754 587,754 634,754 681,754 729,754 776,754 823,754 877,754" />
+        <TextEquiv conf="0.183">
+          <Unicode>Di, me dan el dato.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="1" custom="heights_v2:[53.0,20.1]">
+        <Coords points="429,868 484,868 536,872 587,872 638,872 692,872 743,872 794,872 846,872 907,868 903,795 841,799 794,799 743,799 692,799 638,799 587,799 536,799 490,795 428,795 429,868" />
+        <Baseline points="428,848 486,848 536,852 587,852 638,852 692,852 743,852 794,852 845,852 906,848" />
+        <TextEquiv conf="0.430">
+          <Unicode>Déuna los colores</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l008" index="2" custom="heights_v2:[55.5,22.9]">
+        <Coords points="961,887 895,887 837,887 779,887 721,887 667,887 609,887 551,887 493,887 431,887 431,965 493,965 551,965 609,965 667,965 721,965 779,965 837,965 895,965 961,965 961,887" />
+        <Baseline points="431,942 493,942 551,942 609,942 667,942 721,942 779,942 837,942 895,942 961,942" />
+        <TextEquiv conf="0.561">
+          <Unicode>Con ezea. India</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l009" index="3" custom="heights_v2:[53.9,19.0]">
+        <Coords points="651,1059 680,1059 681,1059 889,1059 885,987 827,990 779,990 732,990 685,987 634,986 584,986 536,986 486,986 431,986 431,1059 651,1059" />
+        <Baseline points="431,1040 486,1040 536,1040 584,1040 634,1040 681,1040 732,1044 779,1044 830,1044 888,1040" />
+        <TextEquiv conf="0.371">
+          <Unicode>Que clóquese la quiera</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="945,1118 319,1114 319,1157 391,1157 460,1209 797,1213 871,1164 947,1160 945,1118" />
+      <TextLine id="r002-l010" index="0" custom="heights_v2:[31.2,11.3]">
+        <Coords points="571,1116 528,1118 478,1115 319,1114 319,1157 391,1157 460,1157 530,1160 597,1157 663,1160 732,1164 801,1164 871,1164 947,1160 945,1118 868,1122 801,1122 732,1122 665,1118 632,1116 571,1116" />
+        <Baseline points="319,1145 391,1145 460,1145 529,1149 598,1145 663,1149 732,1153 801,1153 870,1153 946,1149" />
+        <TextEquiv conf="0.688">
+          <Unicode>COMPANÍA CERVECERA DE PUERTO RICO, ERA.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l011" index="1" custom="heights_v2:[21.9,8.8]">
+        <Coords points="555,1183 609,1183 656,1183 710,1183 710,1153 656,1153 609,1153 555,1153 555,1183" />
+        <Baseline points="555,1174 609,1174 656,1174 710,1174" />
+        <TextEquiv conf="0.814">
+          <Unicode>MAYAGUEZ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l012" index="2" custom="heights_v2:[25.0,9.2]">
+        <Coords points="797,1213 797,1179 747,1179 707,1179 667,1179 627,1179 587,1179 550,1175 507,1175 460,1175 460,1209 507,1209 547,1209 559,1210 797,1213" />
+        <Baseline points="460,1200 507,1200 547,1200 587,1203 627,1203 667,1203 707,1203 747,1203 797,1203" />
+        <TextEquiv conf="0.292">
+          <Unicode>CudadasCiuá Puná</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

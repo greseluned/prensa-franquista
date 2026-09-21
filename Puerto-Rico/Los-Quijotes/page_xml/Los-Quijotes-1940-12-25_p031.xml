@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:47:17.749582+00:00</Created>
+    <LastChange>2026-09-16T11:47:17.749582+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1940-12-25_p031" imageWidth="1288" imageHeight="1691">
+    <TextRegion id="r000">
+      <Coords points="468,562 367,569 376,706 477,700 468,562" />
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[106.9,31.3]">
+        <Coords points="367,569 376,706 477,700 468,562 367,569" />
+        <Baseline points="374,675 475,669" />
+        <TextEquiv conf="0.641">
+          <Unicode>Ui</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="907,522 499,576 511,670 918,617 907,522" />
+      <TextLine id="r002-l001" index="0" custom="heights_v2:[73.3,22.0]">
+        <Coords points="661,554 605,563 499,576 511,670 674,649 712,644 805,630 918,617 907,522 661,554" />
+        <Baseline points="508,648 615,635 709,622 802,608 916,595" />
+        <TextEquiv conf="0.208">
+          <Unicode>Ostiniñ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="775,665 702,665 702,742 775,742 775,665" />
+      <TextLine id="r003-l003" index="0" custom="heights_v2:[56.5,20.3]">
+        <Coords points="702,665 702,742 775,742 775,665 702,665" />
+        <Baseline points="702,722 775,722" />
+        <TextEquiv conf="0.295">
+          <Unicode>qab</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="752,1059 411,1072 424,1294 765,1280 752,1059" />
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[178.2,43.8]">
+        <Coords points="411,1072 424,1294 535,1287 593,1287 765,1280 752,1059 632,1066 585,1065 411,1072" />
+        <Baseline points="421,1250 535,1243 642,1243 762,1237" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

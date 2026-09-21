@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T12:26:26.992075+00:00</Created>
+    <LastChange>2026-09-16T12:26:26.992075+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1940-09-30_p028" imageWidth="1330" imageHeight="1760">
+    <TextRegion id="r000">
+      <Coords points="259,82 141,82 141,108 259,108 259,82" />
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[18.9,6.6]">
+        <Coords points="239,82 223,82 208,82 191,82 176,82 159,82 141,82 141,108 159,108 176,108 191,108 208,108 223,108 239,108 259,108 259,82 239,82" />
+        <Baseline points="141,101 159,101 176,101 191,101 208,101 223,101 239,101 259,101" />
+        <TextEquiv conf="0.987">
+          <Unicode>Página 26</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="755,81 578,83 578,111 755,110 755,81" />
+      <TextLine id="r003-l003" index="0" custom="heights_v2:[20.9,7.2]">
+        <Coords points="730,82 712,83 694,83 675,83 657,83 638,83 618,83 599,83 578,83 578,111 731,110 733,110 755,110 755,81 730,82" />
+        <Baseline points="578,104 599,104 618,104 638,104 657,104 675,104 694,104 714,104 733,102 755,102" />
+        <TextEquiv conf="1.000">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="1188,82 966,83 966,109 1188,108 1188,82" />
+      <TextLine id="r005-l002" index="0" custom="heights_v2:[19.4,6.7]">
+        <Coords points="1076,82 1063,83 1040,83 1015,83 992,83 966,83 966,109 1076,108 1089,108 1112,108 1137,108 1161,108 1188,108 1188,82 1076,82" />
+        <Baseline points="966,102 992,102 1015,102 1040,102 1064,102 1089,101 1112,101 1137,101 1161,101 1188,101" />
+        <TextEquiv conf="1.000">
+          <Unicode>Septiembre 30, 1940</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="825,857 1132,858 1129,232 1078,171 265,171 217,253 214,876 797,876 825,857" />
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[37.6,9.5]">
+        <Coords points="895,171 805,173 715,173 625,173 535,173 445,173 356,173 265,171 264,218 356,220 445,220 535,220 625,220 715,220 805,220 895,218 985,218 1078,218 1078,171 895,171" />
+        <Baseline points="264,209 356,210 445,210 535,210 625,210 715,210 805,210 895,209 985,209 1078,209" />
+        <TextEquiv conf="0.985">
+          <Unicode>Cooperemos con la American Railroad Co. de P. R.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="1" custom="heights_v2:[17.3,5.6]">
+        <Coords points="1129,232 1029,233 933,232 835,233 739,233 642,235 545,233 448,233 351,233 252,235 252,257 351,256 448,256 545,256 642,257 739,256 836,256 932,255 1029,256 1129,255 1129,232" />
+        <Baseline points="252,252 351,250 448,250 545,250 642,252 739,250 836,250 932,249 1029,250 1129,249" />
+        <TextEquiv conf="0.618">
+          <Unicode>El último Boletín de Seguros rendido por el Superintendente señor Héctor Ball, no puede ser más</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="2" custom="heights_v2:[17.1,5.5]">
+        <Coords points="1129,258 1129,250 1025,251 924,253 823,253 722,253 623,253 522,253 421,253 320,253 217,253 217,275 320,275 421,275 522,275 623,275 722,275 823,275 924,275 1025,274 1129,272 1129,258" />
+        <Baseline points="217,270 320,270 421,270 522,270 623,270 722,270 823,270 924,270 1025,268 1129,267" />
+        <TextEquiv conf="0.534">
+          <Unicode>alarmante en lo que atenta a accidentes provocados en las carreteras de Puerto Rico por los vehículos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="3" custom="heights_v2:[17.3,5.8]">
+        <Coords points="1129,268 1026,270 925,272 825,272 724,272 623,272 522,272 421,272 320,272 217,270 217,294 320,295 421,295 522,295 623,295 724,295 825,295 926,295 1027,294 1129,291 1129,268" />
+        <Baseline points="217,288 320,289 421,289 522,289 623,289 724,289 825,289 926,289 1027,288 1129,285" />
+        <TextEquiv conf="0.633">
+          <Unicode>de motor —(automóviles)—, cña estadística al compararla con la del año 1938, tampoco pende ser</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="4" custom="heights_v2:[17.1,5.8]">
+        <Coords points="1129,289 1027,289 925,290 824,291 724,291 624,291 523,290 422,291 321,291 219,290 219,313 321,314 422,314 523,313 624,314 724,314 825,314 926,313 1027,312 1129,312 1129,289" />
+        <Baseline points="219,307 321,309 422,309 523,307 624,309 724,309 825,309 926,307 1027,306 1129,306" />
+        <TextEquiv conf="0.897">
+          <Unicode>más inquietante. Durante el año 1938 se registraron cuatro mil setecientos doce accidentes —(4,712)—</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="5" custom="heights_v2:[17.1,5.8]">
+        <Coords points="1129,308 1026,309 926,308 825,308 723,309 624,311 523,311 422,311 321,309 219,309 219,332 321,332 422,334 523,334 624,334 724,332 825,331 925,331 1027,332 1129,331 1129,308" />
+        <Baseline points="219,326 321,326 422,328 523,328 624,328 724,326 825,325 926,325 1027,326 1129,325" />
+        <TextEquiv conf="0.571">
+          <Unicode>Y en el pasado afo la cifra aumentó a cinco mil treinta y nueve —(5,039). Jesú es un record! El número</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="6" custom="heights_v2:[16.9,5.8]">
+        <Coords points="1129,328 1026,329 926,329 825,329 723,330 624,330 523,330 422,330 321,330 219,329 219,352 321,353 422,353 523,353 624,353 724,353 825,352 926,352 1027,352 1129,350 1129,328" />
+        <Baseline points="219,346 321,347 422,347 523,347 624,347 724,347 825,346 926,346 1027,346 1129,344" />
+        <TextEquiv conf="0.882">
+          <Unicode>de muertos por accidentes de automóviles durante los dos años indicados fue de ciento ocho —(108)—</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l011" index="7" custom="heights_v2:[16.8,5.9]">
+        <Coords points="1129,348 1028,348 927,348 826,348 725,350 625,350 524,350 423,350 322,350 220,350 220,372 322,372 423,372 524,372 625,372 725,372 826,371 927,371 1028,371 1129,371 1129,348" />
+        <Baseline points="220,367 322,367 423,367 524,367 625,367 725,367 826,365 927,365 1028,365 1129,365" />
+        <TextEquiv conf="0.842">
+          <Unicode>Durante el pasado mes de enero se registraron cuatro cientos sesenta y cinco accidentes, con un total de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l012" index="8" custom="heights_v2:[16.8,6.0]">
+        <Coords points="1129,368 1028,368 927,368 826,368 725,369 625,369 524,369 423,369 323,368 220,369 220,392 322,391 423,392 524,392 625,392 725,392 826,391 927,391 1028,391 1129,391 1129,368" />
+        <Baseline points="220,386 322,385 423,386 524,386 625,386 725,386 826,385 927,385 1028,385 1129,385" />
+        <TextEquiv conf="0.888">
+          <Unicode>velintidos —(22)— muertes, divididas en la forma siguiente: Hombres diecisiete (17); mujeres dos (2);</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l013" index="9" custom="heights_v2:[16.7,5.9]">
+        <Coords points="1129,386 1026,387 926,387 826,387 725,389 625,389 524,389 425,389 324,387 221,389 221,411 324,410 425,411 524,411 625,411 725,411 826,410 926,410 1027,410 1129,408 1129,386" />
+        <Baseline points="221,405 324,404 425,405 524,405 625,405 725,405 826,404 926,404 1027,404 1129,403" />
+        <TextEquiv conf="0.907">
+          <Unicode>y niños tres (3). El registro da pues un aumento de trescientos veintisiete —(327)— accidentes automóviles.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l014" index="10" custom="heights_v2:[16.9,5.8]">
+        <Coords points="1129,405 1026,406 926,406 825,406 724,406 624,408 523,408 422,406 321,406 219,406 219,429 321,429 422,429 523,431 624,431 724,429 825,429 926,429 1027,429 1130,428 1129,405" />
+        <Baseline points="219,423 321,423 422,423 523,425 624,425 724,423 825,423 926,423 1027,423 1130,422" />
+        <TextEquiv conf="0.977">
+          <Unicode>vilisticos durante el año 1939 en comparación con los accidentes ocurridos en 1938. Qué significa to- -&gt; Qué significa "tonto"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l015" index="11" custom="heights_v2:[16.7,5.9]">
+        <Coords points="1130,427 1027,427 926,427 825,426 724,426 624,427 523,427 422,427 321,426 218,427 219,450 321,449 422,450 523,450 624,450 724,449 824,449 926,450 1027,450 1130,450 1130,427" />
+        <Baseline points="219,444 321,443 422,444 523,444 624,444 724,443 825,443 926,444 1027,444 1130,444" />
+        <TextEquiv conf="0.575">
+          <Unicode>do esto? Lo que significa es de tal naturaleza que por respeto al lector no lo estampamos aquí. Por</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="12" custom="heights_v2:[16.5,5.8]">
+        <Coords points="1130,444 1026,446 926,446 825,446 724,446 624,446 523,446 422,446 321,446 219,446 219,468 321,468 422,468 523,468 624,468 724,468 825,468 926,468 1027,468 1130,466 1130,444" />
+        <Baseline points="219,462 321,462 422,462 523,462 624,462 724,462 825,462 926,462 1027,462 1130,461" />
+        <TextEquiv conf="0.951">
+          <Unicode>Eso lo hemos dicho otras veces y lo repetiremos con tesón: las vidas de los viajeros que tienen la de-era de la aventura.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l017" index="13" custom="heights_v2:[16.7,5.9]">
+        <Coords points="1130,465 1027,465 926,465 825,465 724,465 622,466 522,465 420,466 320,465 217,465 217,487 319,487 421,489 521,487 623,489 724,487 825,487 926,487 1027,487 1130,487 1130,465" />
+        <Baseline points="217,481 320,481 421,483 522,481 623,483 724,481 825,481 926,481 1027,481 1130,481" />
+        <TextEquiv conf="0.669">
+          <Unicode>bilitad o la necesidad de hacer largos recorridos en automóviles públicos, está hoy por hoy, a espensas</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l018" index="14" custom="heights_v2:[16.6,5.8]">
+        <Coords points="1130,483 1028,484 927,486 826,486 725,484 624,486 523,486 422,484 321,486 217,486 217,508 321,508 422,507 523,508 624,508 725,507 826,508 927,508 1028,507 1130,505 1130,483" />
+        <Baseline points="217,502 321,502 422,501 523,502 624,502 725,501 826,502 927,502 1028,501 1130,499" />
+        <TextEquiv conf="0.681">
+          <Unicode>de cualquier condudetor desaprensivo, de cualquier chofer borracho o loco que en sus temblorosas ma-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l019" index="15" custom="heights_v2:[16.6,5.8]">
+        <Coords points="1130,502 1026,504 926,504 825,504 724,504 624,504 523,504 422,505 321,504 218,505 219,527 321,526 422,527 523,526 624,526 724,526 825,526 926,526 1027,526 1130,525 1130,502" />
+        <Baseline points="219,522 321,520 422,522 523,520 624,520 724,520 825,520 926,520 1027,520 1130,519" />
+        <TextEquiv conf="0.859">
+          <Unicode>nos coja el volante de un vehículo de motor. Es preciso observar por esas carreteras de Dios las ve-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l020" index="16" custom="heights_v2:[16.7,5.9]">
+        <Coords points="1130,524 1028,524 927,523 826,523 725,523 624,523 523,523 422,523 321,523 217,523 217,545 321,545 422,545 523,545 624,545 725,545 826,545 927,545 1028,547 1130,547 1130,524" />
+        <Baseline points="217,540 321,540 422,540 523,540 624,540 725,540 826,540 927,540 1028,541 1130,541" />
+        <TextEquiv conf="0.977">
+          <Unicode>locidades espantables que desarrollan la mayor parte de esos automóviles, muchas veces sin seguridad</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l021" index="17" custom="heights_v2:[16.7,5.9]">
+        <Coords points="1130,544 1028,542 927,542 826,541 725,541 624,542 523,542 422,542 321,542 217,542 217,565 321,565 422,565 523,565 624,565 725,563 826,563 927,565 1028,565 1130,566 1130,544" />
+        <Baseline points="217,559 321,559 422,559 523,559 624,559 725,558 826,558 927,559 1028,559 1130,560" />
+        <TextEquiv conf="0.953">
+          <Unicode>en los controles y sin garantía en los frenos. Si se hiciera una investigación en torno a los frenos de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l022" index="18" custom="heights_v2:[16.7,5.9]">
+        <Coords points="1130,562 1027,562 926,562 825,562 724,560 624,562 523,562 422,562 321,562 219,562 219,584 321,584 422,584 523,584 624,584 723,583 825,584 926,584 1027,584 1130,584 1130,579 1130,562" />
+        <Baseline points="219,578 321,578 422,578 523,578 624,578 724,577 825,578 926,578 1027,578 1130,578" />
+        <TextEquiv conf="0.673">
+          <Unicode>los automóviles públicos, a buen seguro que durante veinticuatro horas tendrían que suspender el tránsito.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l023" index="19" custom="heights_v2:[16.6,5.9]">
+        <Coords points="219,605 321,604 422,604 523,604 624,604 723,602 825,604 926,604 1027,604 1130,604 1130,581 1027,581 926,581 825,581 724,580 624,581 523,581 422,581 321,581 218,582 219,605" />
+        <Baseline points="219,599 321,598 422,598 523,598 624,598 724,596 825,598 926,598 1027,598 1130,598" />
+        <TextEquiv conf="0.642">
+          <Unicode>sito delario el noventinueve por ciento de los vehículos que están en circulación. Afortunadamente, la ofi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l024" index="20" custom="heights_v2:[16.6,5.9]">
+        <Coords points="217,623 319,621 421,623 522,621 623,621 724,621 824,621 926,623 1027,623 1130,623 1130,600 1027,600 926,600 825,599 724,599 623,599 522,599 420,600 320,599 217,600 217,623" />
+        <Baseline points="217,617 320,616 421,617 522,616 623,616 724,616 825,616 926,617 1027,617 1130,617" />
+        <TextEquiv conf="0.646">
+          <Unicode>cina del Superintendente de Seguros viene poniéndole coto a estos desmanes dando a la publicidad las</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l025" index="21" custom="heights_v2:[16.6,5.8]">
+        <Coords points="217,642 320,642 421,642 522,642 623,641 723,641 825,642 926,642 1027,642 1130,642 1130,620 1027,620 926,620 825,620 724,618 623,618 521,620 421,620 320,620 217,620 217,642" />
+        <Baseline points="217,636 320,636 421,636 522,636 623,635 724,635 825,636 926,636 1027,636 1130,636" />
+        <TextEquiv conf="0.976">
+          <Unicode>escalofriantes estadísticas que frecuentemente nos viene brindando. Y nosotros continuaremos haciéndolo.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l026" index="22" custom="heights_v2:[16.4,5.7]">
+        <Coords points="219,662 321,662 422,661 523,660 624,661 723,660 825,662 926,662 1026,661 1130,663 1130,641 1027,639 926,639 825,639 724,638 624,639 523,638 422,639 321,639 219,639 219,662" />
+        <Baseline points="219,656 321,656 422,656 523,654 624,656 724,654 825,656 926,656 1027,656 1130,657" />
+        <TextEquiv conf="0.999">
+          <Unicode>donos eco de los humanos informes que esta noble Dependencia Gubernamental nos pone ante los ojos.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l027" index="23" custom="heights_v2:[17.0,5.9]">
+        <Coords points="1131,658 1028,658 927,658 826,658 725,657 624,658 523,658 422,658 321,658 218,659 219,682 321,681 422,681 523,681 624,681 725,680 826,681 927,681 1028,681 1131,681 1131,658" />
+        <Baseline points="219,677 321,675 422,675 523,675 624,675 725,674 826,675 927,675 1028,675 1131,675" />
+        <TextEquiv conf="0.988">
+          <Unicode>y no nos arredrará por ello la suspensión que cierta y determinada compañía distribuidora de automó-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l028" index="24" custom="heights_v2:[16.8,5.9]">
+        <Coords points="1131,679 1028,679 927,679 826,678 725,678 624,678 523,678 422,678 321,678 217,678 217,700 321,700 422,700 523,700 624,700 725,700 826,700 927,702 1028,702 1131,702 1131,679" />
+        <Baseline points="217,694 321,694 422,694 523,694 624,694 725,694 826,694 927,696 1028,696 1131,696" />
+        <TextEquiv conf="0.971">
+          <Unicode>viles nos hicieron de sus anuncios. Si por propagar la verdad es necesario renunciar a un anuncio más o</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l029" index="25" custom="heights_v2:[16.5,5.8]">
+        <Coords points="1131,699 1028,699 927,699 826,697 725,696 624,696 523,697 422,697 321,697 217,697 217,720 321,720 422,720 523,720 624,718 725,718 826,720 927,721 1028,721 1131,721 1131,699" />
+        <Baseline points="217,714 321,714 422,714 523,714 624,712 725,712 826,714 927,715 1028,715 1131,715" />
+        <TextEquiv conf="0.938">
+          <Unicode>menos valioso, con gusto lo renunciamos. En cambio, ve el lector qué es lo que dice esa misma</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l030" index="26" custom="heights_v2:[16.2,5.8]">
+        <Coords points="1131,718 1029,717 928,717 827,717 727,716 626,714 524,714 423,716 322,717 219,717 219,739 322,739 423,738 524,736 625,736 726,738 827,739 928,739 1029,739 1131,740 1131,718" />
+        <Baseline points="219,733 322,733 423,732 524,730 625,730 726,732 827,733 928,733 1029,733 1131,735" />
+        <TextEquiv conf="0.954">
+          <Unicode>Oficina del Superintendente de Seguros acerca de la eficiente compañía ferrocarrilera denominada</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l031" index="27" custom="heights_v2:[16.8,6.1]">
+        <Coords points="1131,737 1029,737 929,736 828,734 726,734 627,733 526,733 424,734 324,734 222,733 221,756 324,757 425,757 526,756 627,756 726,757 827,757 928,759 1029,760 1131,760 1131,737" />
+        <Baseline points="221,750 324,751 425,751 526,750 627,750 726,751 827,751 928,753 1029,754 1131,754" />
+        <TextEquiv conf="0.772">
+          <Unicode>“AMERICAN RAILROAD COMPANY OF PORTO RICO". Nada, o casi nada dice. Por qué? Porque ra-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l032" index="28" custom="heights_v2:[16.8,6.2]">
+        <Coords points="1131,757 1028,757 927,754 826,754 725,754 625,754 524,754 423,754 322,754 220,755 220,778 322,777 423,777 524,777 625,777 725,777 826,777 927,777 1028,780 1131,780 1131,757" />
+        <Baseline points="220,772 322,771 423,771 524,771 625,771 725,771 826,771 927,771 1028,773 1131,773" />
+        <TextEquiv conf="0.997">
+          <Unicode>ro es el accidente que se registra en sus diarios recorridos por el litoral de la isla. Y eso es una gara.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l033" index="29" custom="heights_v2:[16.5,6.2]">
+        <Coords points="1131,776 1028,775 927,775 826,773 725,772 624,772 523,772 422,773 321,772 217,773 217,796 321,795 422,796 523,795 624,795 725,795 826,796 927,798 1028,798 1131,799 1131,776" />
+        <Baseline points="217,790 321,789 422,790 523,789 624,789 725,789 826,790 927,791 1028,791 1131,793" />
+        <TextEquiv conf="0.551">
+          <Unicode>rantia. Es una verdadera garantía viajar sin preocuparse de nada, puesto que en un vagón de inmediato.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l034" index="30" custom="heights_v2:[16.9,6.3]">
+        <Coords points="1131,795 1028,795 927,795 826,792 725,792 624,791 523,791 422,792 321,792 217,792 217,816 321,816 422,816 523,814 624,814 725,816 826,816 927,818 1028,818 1131,818 1131,795" />
+        <Baseline points="217,809 321,809 422,809 523,808 624,808 725,809 826,809 927,812 1028,812 1131,812" />
+        <TextEquiv conf="0.962">
+          <Unicode>AMERICAN RAILROAD COMPANY OF PORTO RICO, hay de todo: comodidades, aire, paisajes, agua</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l035" index="31" custom="heights_v2:[17.0,6.3]">
+        <Coords points="1131,816 1027,814 926,813 825,813 724,813 623,810 522,810 421,810 320,810 215,813 216,836 320,834 421,834 522,834 622,834 724,836 825,836 925,836 1026,838 1131,839 1131,816" />
+        <Baseline points="216,830 320,827 421,827 522,827 623,827 724,830 825,830 926,830 1027,831 1131,833" />
+        <TextEquiv conf="0.728">
+          <Unicode>fresca y otras cosas más muy necesarias en ciertos y determinados momentos de esta vida prosalca</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l036" index="32" custom="heights_v2:[16.8,6.1]">
+        <Coords points="1131,835 1027,834 926,834 825,834 724,833 623,831 522,831 421,831 319,833 216,834 216,857 320,855 421,854 522,854 622,854 723,855 825,857 926,857 1026,857 1132,858 1131,835" />
+        <Baseline points="216,851 320,849 421,848 522,848 623,848 724,849 825,851 926,851 1027,851 1132,852" />
+        <TextEquiv conf="0.979">
+          <Unicode>y grotesca. Y no se olvide: Puerto Rico dejaria de ser Puerto Rico si no contara con la admirabla.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l037" index="33" custom="heights_v2:[17.3,5.9]">
+        <Coords points="214,876 281,876 345,876 409,875 473,875 537,875 602,875 665,875 729,876 797,876 797,853 729,853 666,851 602,851 537,851 473,851 409,851 344,853 281,853 215,853 214,876" />
+        <Baseline points="214,870 281,870 344,870 409,869 473,869 537,869 602,869 665,869 729,870 797,870" />
+        <TextEquiv conf="0.835">
+          <Unicode>linea de ferrocarril con que cuenta. (Prohibida la reproducción)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="1108,995 652,989 652,1037 721,1078 721,1104 772,1142 775,1194 1000,1195 1015,1143 1106,1043 1108,995" />
+      <TextLine id="r004-l038" index="0" custom="heights_v2:[37.4,10.9]">
+        <Coords points="652,989 652,1037 704,1037 754,1037 804,1039 854,1039 903,1039 953,1039 1002,1039 1053,1042 1106,1043 1108,995 652,989" />
+        <Baseline points="652,1027 704,1027 754,1027 804,1028 854,1028 903,1028 953,1028 1003,1028 1053,1031 1107,1032" />
+        <TextEquiv conf="0.533">
+          <Unicode>Farmacia "GARABIS"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l039" index="1" custom="heights_v2:[19.5,7.1]">
+        <Coords points="721,1104 760,1104 795,1104 831,1104 867,1104 903,1106 939,1106 975,1107 1011,1107 1048,1107 1051,1103 1051,1080 1011,1080 975,1080 940,1079 903,1079 868,1078 831,1078 795,1078 760,1078 721,1078 721,1104" />
+        <Baseline points="721,1097 760,1097 795,1097 831,1097 867,1097 903,1098 939,1098 975,1100 1011,1100 1051,1100" />
+        <TextEquiv conf="0.983">
+          <Unicode>El más elegante y moderno</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l040" index="2" custom="heights_v2:[19.6,7.2]">
+        <Coords points="1015,1116 985,1116 959,1116 932,1116 907,1115 880,1115 854,1115 827,1115 801,1115 772,1115 772,1142 801,1142 827,1142 854,1142 880,1142 906,1142 932,1143 959,1143 985,1143 1015,1143 1015,1116" />
+        <Baseline points="772,1134 801,1134 827,1134 854,1134 880,1134 906,1134 932,1136 959,1136 985,1136 1015,1136" />
+        <TextEquiv conf="1.000">
+          <Unicode>establecimiento de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l041" index="3" custom="heights_v2:[26.1,8.2]">
+        <Coords points="1000,1195 1000,1161 973,1161 948,1161 924,1161 899,1161 874,1161 851,1161 827,1160 801,1160 775,1160 775,1194 801,1194 825,1194 832,1194 1000,1195" />
+        <Baseline points="775,1186 801,1186 826,1186 851,1187 874,1187 899,1187 924,1187 948,1187 973,1187 1000,1187" />
+        <TextEquiv conf="0.998">
+          <Unicode>DROGUERIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="1057,1263 291,1260 296,1589 638,1589 717,1550 794,1590 1058,1591 1057,1263" />
+      <TextLine id="r002-l042" index="0" custom="heights_v2:[19.8,6.5]">
+        <Coords points="597,1261 546,1263 462,1261 403,1260 291,1260 291,1286 378,1286 462,1288 547,1289 631,1286 715,1286 800,1286 884,1288 968,1289 1057,1289 1057,1263 968,1263 943,1262 597,1261" />
+        <Baseline points="291,1280 378,1280 462,1281 546,1282 631,1280 715,1280 800,1280 884,1281 968,1282 1057,1282" />
+        <TextEquiv conf="0.996">
+          <Unicode>Existencias frescas y acabadas de recibir. - Eficiente servicio a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l043" index="1" custom="heights_v2:[19.6,6.5]">
+        <Coords points="291,1312 378,1312 462,1312 546,1312 631,1312 715,1312 800,1311 884,1312 968,1314 1055,1315 1056,1289 969,1288 884,1286 800,1285 715,1286 631,1286 546,1286 462,1286 378,1286 291,1286 291,1312" />
+        <Baseline points="291,1306 378,1306 462,1306 546,1306 631,1306 715,1306 800,1305 884,1306 968,1307 1056,1309" />
+        <TextEquiv conf="0.781">
+          <Unicode>domicilio. - Carantias absolutas en el despacho de recetas por</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l044" index="2" custom="heights_v2:[19.8,6.8]">
+        <Coords points="477,1338 523,1338 566,1338 610,1338 653,1336 696,1336 740,1338 783,1338 826,1338 873,1339 874,1312 826,1311 783,1311 740,1311 696,1310 653,1310 609,1311 566,1311 523,1311 477,1311 477,1338" />
+        <Baseline points="477,1331 523,1331 566,1331 610,1331 653,1329 696,1329 740,1331 783,1331 826,1331 873,1332" />
+        <TextEquiv conf="1.000">
+          <Unicode>expertos guardados en Farmacia.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l045" index="3" custom="heights_v2:[21.8,7.4]">
+        <Coords points="483,1372 527,1373 570,1374 611,1376 654,1376 696,1376 739,1376 780,1376 823,1376 869,1374 868,1345 822,1346 780,1346 739,1346 696,1346 654,1346 611,1346 571,1345 528,1344 484,1342 483,1372" />
+        <Baseline points="483,1364 527,1365 570,1367 611,1368 654,1368 696,1368 739,1368 780,1368 823,1368 869,1367" />
+        <TextEquiv conf="0.986">
+          <Unicode>PERFUMES DE TODAS CLASES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l046" index="4" custom="heights_v2:[22.6,7.5]">
+        <Coords points="391,1398 457,1399 519,1399 581,1401 644,1402 707,1399 769,1399 831,1399 894,1399 960,1401 961,1371 894,1369 831,1369 769,1369 707,1369 642,1372 582,1371 519,1369 457,1369 392,1368 391,1398" />
+        <Baseline points="392,1390 457,1392 519,1392 581,1393 643,1395 707,1392 769,1392 831,1392 894,1392 960,1393" />
+        <TextEquiv conf="0.597">
+          <Unicode>PATENTIZADOS — AGUAS MINERALES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l047" index="5" custom="heights_v2:[21.8,7.6]">
+        <Coords points="296,1439 382,1439 466,1438 549,1438 634,1438 717,1438 801,1438 884,1438 968,1439 1055,1442 1056,1413 969,1410 884,1409 801,1409 717,1409 634,1409 549,1409 466,1409 381,1410 296,1410 296,1439" />
+        <Baseline points="296,1432 382,1432 466,1430 549,1430 634,1430 717,1430 801,1430 884,1430 968,1432 1056,1435" />
+        <TextEquiv conf="0.822">
+          <Unicode>En la Farmacia "GARABIS" se encuentra todo lo concerniente</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l048" index="6" custom="heights_v2:[23.1,7.4]">
+        <Coords points="563,1466 591,1466 616,1466 642,1464 667,1464 692,1464 718,1464 742,1463 768,1464 797,1464 797,1434 768,1434 744,1432 717,1434 692,1434 667,1434 642,1434 614,1435 591,1435 563,1435 563,1466" />
+        <Baseline points="563,1458 591,1458 616,1458 642,1457 667,1457 692,1457 718,1457 743,1455 768,1457 797,1457" />
+        <TextEquiv conf="0.772">
+          <Unicode>al ramo. Visite la</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l049" index="7" custom="heights_v2:[29.9,9.8]">
+        <Coords points="448,1512 483,1512 514,1512 546,1514 578,1514 610,1514 642,1514 674,1514 706,1514 740,1514 740,1474 706,1474 674,1474 642,1474 610,1474 578,1474 546,1474 516,1473 483,1473 448,1473 448,1512" />
+        <Baseline points="448,1502 483,1502 515,1502 546,1504 578,1504 610,1504 642,1504 674,1504 706,1504 740,1504" />
+        <TextEquiv conf="0.547">
+          <Unicode>FARMACIA “G</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l050" index="8" custom="heights_v2:[32.5,9.0]">
+        <Coords points="760,1514 779,1516 794,1516 809,1516 824,1516 841,1517 857,1517 872,1516 887,1516 906,1516 906,1474 887,1474 872,1474 853,1476 841,1475 827,1474 809,1474 794,1474 779,1474 763,1473 760,1514" />
+        <Baseline points="761,1505 779,1507 794,1507 809,1507 825,1507 841,1508 856,1508 872,1507 887,1507 906,1507" />
+        <TextEquiv conf="0.637">
+          <Unicode>ARABIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l051" index="9" custom="heights_v2:[21.8,7.5]">
+        <Coords points="742,1550 766,1550 794,1550 794,1521 766,1521 742,1521 717,1521 691,1522 667,1522 642,1522 617,1522 592,1522 567,1521 565,1550 592,1551 617,1551 642,1551 667,1551 692,1551 717,1550 742,1550" />
+        <Baseline points="566,1543 592,1544 617,1544 642,1544 667,1544 692,1544 717,1543 742,1543 766,1543 794,1543" />
+        <TextEquiv conf="0.708">
+          <Unicode>Tels. 2935 v 2936</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l052" index="10" custom="heights_v2:[22.5,7.7]">
+        <Coords points="336,1589 374,1589 411,1589 448,1589 486,1589 523,1589 560,1589 598,1589 638,1589 638,1559 598,1559 560,1559 523,1559 486,1559 448,1559 411,1559 374,1559 336,1559 296,1559 296,1589 336,1589" />
+        <Baseline points="296,1581 336,1581 374,1581 411,1581 448,1581 486,1581 523,1581 560,1581 598,1581 638,1581" />
+        <TextEquiv conf="0.675">
+          <Unicode>Avenida Ponce de León 245</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l053" index="11" custom="heights_v2:[21.9,7.1]">
+        <Coords points="1058,1591 1058,1562 1027,1562 997,1562 968,1562 939,1562 912,1562 883,1562 854,1562 825,1562 795,1561 794,1590 1058,1591" />
+        <Baseline points="794,1583 825,1584 854,1584 883,1584 912,1584 939,1584 968,1584 997,1584 1027,1584 1058,1584" />
+        <TextEquiv conf="0.998">
+          <Unicode>Santurce, Puerto Rico</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

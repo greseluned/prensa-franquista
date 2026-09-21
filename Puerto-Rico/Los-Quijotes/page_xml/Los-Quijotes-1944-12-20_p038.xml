@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:16:16.004070+00:00</Created>
+    <LastChange>2026-09-16T11:16:16.004070+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1944-12-20_p038" imageWidth="1334" imageHeight="1768">
+    <TextRegion id="r002">
+      <Coords points="998,119 976,119 976,137 998,137 998,119" />
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[13.0,5.3]">
+        <Coords points="976,119 976,137 998,137 998,119 976,119" />
+        <Baseline points="976,132 998,132" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="1154,98 1032,101 1034,127 1154,125 1154,98" />
+      <TextLine id="r003-l001" index="0" custom="heights_v2:[19.4,7.1]">
+        <Coords points="1032,101 1034,127 1074,125 1110,125 1154,125 1154,98 1032,101" />
+        <Baseline points="1034,120 1074,118 1110,118 1154,118" />
+        <TextEquiv conf="0.521">
+          <Unicode>“</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r000">
+      <Coords points="134,962 134,736 72,736 69,960 134,962" />
+      <TextLine id="r000-l003" index="0" custom="heights_v2:[45.5,15.5]">
+        <Coords points="134,736 72,736 72,797 134,797 134,736" />
+        <Baseline points="72,782 134,782" />
+        <TextEquiv conf="0.273">
+          <Unicode>—</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="1" custom="heights_v2:[51.1,14.7]">
+        <Coords points="134,815 71,815 70,880 134,880 134,815" />
+        <Baseline points="70,866 134,866" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="2" custom="heights_v2:[27.9,9.2]">
+        <Coords points="134,888 74,888 74,925 134,925 134,888" />
+        <Baseline points="74,916 134,916" />
+        <TextEquiv conf="0.499">
+          <Unicode>LILi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="3" custom="heights_v2:[38.0,12.6]">
+        <Coords points="134,912 71,909 69,960 134,962 134,912" />
+        <Baseline points="70,947 134,950" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="453,1003 412,1000 412,1003 453,1003" />
+      <TextLine id="r001-l007" index="0" custom="heights_v2:[2.3,1.0]">
+        <Coords points="412,1000 412,1003 453,1003 412,1000" />
+        <Baseline points="412,1002 441,1002" />
+        <TextEquiv conf="1.000">
+          <Unicode />
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

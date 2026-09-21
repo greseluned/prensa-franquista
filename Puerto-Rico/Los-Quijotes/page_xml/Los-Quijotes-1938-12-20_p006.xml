@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2026-09-16T11:02:37.482377+00:00</Created>
+    <LastChange>2026-09-16T11:02:37.482377+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Los-Quijotes-1938-12-20_p006" imageWidth="1295" imageHeight="1717">
+    <TextRegion id="r000">
+      <Coords points="269,91 95,89 95,116 269,118 269,91" />
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[20.1,6.9]">
+        <Coords points="95,89 95,116 115,116 134,116 139,116 269,118 269,91 247,91 228,91 209,91 190,91 172,91 153,91 140,89 95,89" />
+        <Baseline points="95,109 115,109 134,109 153,111 172,111 190,111 209,111 228,111 247,111 269,111" />
+        <TextEquiv conf="0.910">
+          <Unicode>Puerto Rico - 2</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r012">
+      <Coords points="705,85 492,86 492,122 705,120 705,85" />
+      <TextLine id="r012-l003" index="0" custom="heights_v2:[27.5,7.9]">
+        <Coords points="623,85 607,86 586,86 563,86 541,86 517,86 492,86 492,122 623,121 632,120 654,120 678,120 705,120 705,85 623,85" />
+        <Baseline points="492,114 517,114 541,114 563,114 586,114 608,114 632,112 654,112 678,112 705,112" />
+        <TextEquiv conf="1.000">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r015">
+      <Coords points="1127,85 910,86 910,115 1129,113 1127,85" />
+      <TextLine id="r015-l001" index="0" custom="heights_v2:[21.4,7.2]">
+        <Coords points="991,86 982,86 959,86 936,86 910,86 910,115 992,114 1007,113 1030,113 1040,114 1129,113 1127,85 1100,86 1078,86 1054,86 1041,85 991,86" />
+        <Baseline points="910,107 936,107 959,107 983,107 1007,106 1030,106 1054,107 1078,107 1102,107 1128,106" />
+        <TextEquiv conf="1.000">
+          <Unicode>Diciembre 20, 1938.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="1001,284 248,285 248,361 1000,359 1001,284" />
+      <TextLine id="r006-l004" index="0" custom="heights_v2:[57.7,18.1]">
+        <Coords points="716,284 664,285 623,284 530,285 498,285 416,285 333,285 248,285 248,361 530,360 581,359 624,360 717,360 748,359 832,359 913,358 1000,359 1001,284 716,284" />
+        <Baseline points="248,343 333,343 416,343 499,343 582,341 665,343 748,341 831,341 913,340 1000,341" />
+        <TextEquiv conf="1.000">
+          <Unicode>HOTEL CONDADO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="234,414 240,563 520,567 577,540 999,538 998,384 285,385 234,414" />
+      <TextLine id="r001-l005" index="0" custom="heights_v2:[19.3,6.8]">
+        <Coords points="998,384 916,385 837,387 759,387 680,387 602,387 523,388 444,388 365,387 285,385 284,411 365,413 444,415 523,415 602,413 680,413 759,413 838,413 917,411 999,410 998,384" />
+        <Baseline points="284,405 365,406 444,408 523,408 602,406 680,406 759,406 838,406 917,405 999,403" />
+        <TextEquiv conf="0.990">
+          <Unicode>El Hotel Condado, por su construcción y por la posición topó-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="1" custom="heights_v2:[18.8,6.4]">
+        <Coords points="235,439 321,438 405,438 488,438 572,438 657,438 741,438 825,438 909,438 997,438 997,413 909,413 825,413 741,413 657,413 572,413 488,413 405,413 321,413 234,414 235,439" />
+        <Baseline points="234,433 321,431 405,431 488,431 572,431 657,431 741,431 825,431 909,431 997,431" />
+        <TextEquiv conf="0.939">
+          <Unicode>gráfica que ocupa, es uno de los mejores hoteles de las Antillas.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="2" custom="heights_v2:[20.0,7.1]">
+        <Coords points="999,462 917,462 838,462 759,460 678,462 599,462 520,462 439,462 360,462 279,460 278,488 360,489 439,489 520,489 599,489 678,489 758,488 838,489 917,489 999,489 999,462" />
+        <Baseline points="278,480 360,482 439,482 520,482 599,482 678,482 759,480 838,482 917,482 999,482" />
+        <TextEquiv conf="0.626">
+          <Unicode>A excepción del Hotel Nacional de La Habana, ningún otro hotel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="3" custom="heights_v2:[19.9,7.2]">
+        <Coords points="999,486 912,487 828,487 744,487 661,487 577,486 493,487 409,487 326,486 239,484 239,511 325,513 409,514 493,514 577,513 661,514 744,514 828,514 912,514 999,513 999,486" />
+        <Baseline points="239,504 326,506 409,507 493,507 577,506 661,507 744,507 828,507 912,507 999,506" />
+        <TextEquiv conf="0.984">
+          <Unicode>hotel no digamos lo supera sino que ni lo iguala. Un servicio eficiente.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="4" custom="heights_v2:[20.0,7.2]">
+        <Coords points="999,538 998,511 912,513 828,514 744,514 661,514 577,513 493,511 409,511 326,511 240,511 240,538 326,538 409,538 493,538 577,540 999,538" />
+        <Baseline points="240,531 326,531 409,531 493,531 577,533 661,534 744,534 828,534 912,533 999,531" />
+        <TextEquiv conf="0.826">
+          <Unicode>ciento, esmerado y rápido hacen del Hotel Condado el sitio preferente.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="5" custom="heights_v2:[20.2,7.1]">
+        <Coords points="521,539 486,538 455,538 425,538 396,536 363,536 333,536 303,536 273,536 240,536 240,563 273,563 303,563 333,563 363,563 395,563 425,565 455,565 485,565 520,567 521,539" />
+        <Baseline points="240,556 273,556 303,556 333,556 363,556 395,556 425,558 455,558 485,558 520,559" />
+        <TextEquiv conf="0.998">
+          <Unicode>dilecto de Puerto Rico.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="241,611 240,663 348,666 405,666 495,639 1000,642 1000,588 285,585 241,611" />
+      <TextLine id="r003-l011" index="0" custom="heights_v2:[20.4,7.1]">
+        <Coords points="1000,588 918,590 840,588 760,588 681,588 602,588 523,588 444,588 365,586 285,585 284,612 365,614 444,616 523,616 602,616 681,616 760,616 839,616 918,617 1000,616 1000,588" />
+        <Baseline points="284,605 365,607 444,608 523,608 602,608 681,608 760,608 839,608 918,610 1000,608" />
+        <TextEquiv conf="0.999">
+          <Unicode>La nueva Administración del Hotel Condado ha reformado</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l012" index="1" custom="heights_v2:[20.0,7.1]">
+        <Coords points="240,638 327,639 411,639 495,639 748,641 830,641 870,642 1000,642 1000,615 913,615 830,614 746,614 662,615 579,614 495,612 411,612 327,612 241,611 240,638" />
+        <Baseline points="240,631 327,632 411,632 495,632 578,634 662,635 746,634 830,634 913,635 1000,635" />
+        <TextEquiv conf="0.887">
+          <Unicode>este sitio residencial de tal manera que sus favorecedores se han</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l013" index="2" custom="heights_v2:[20.6,7.4]">
+        <Coords points="294,665 296,665 313,665 330,665 348,666 365,666 382,666 405,666 405,638 382,638 365,638 348,638 332,637 313,637 296,637 278,637 261,637 242,635 240,663 294,665" />
+        <Baseline points="240,656 261,657 278,657 296,657 313,657 330,657 348,659 365,659 382,659 405,659" />
+        <TextEquiv conf="1.000">
+          <Unicode>multiplicado.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="285,686 242,712 242,764 447,766 495,741 1001,738 1000,686 285,686" />
+      <TextLine id="r004-l014" index="0" custom="heights_v2:[20.2,7.5]">
+        <Coords points="1000,686 918,688 839,689 760,689 682,688 602,688 523,688 444,688 365,688 285,686 284,714 365,716 444,716 523,716 602,716 681,716 760,717 839,717 918,716 1000,714 1000,686" />
+        <Baseline points="284,706 365,708 444,708 523,708 602,708 681,708 760,710 839,710 918,708 1000,706" />
+        <TextEquiv conf="0.997">
+          <Unicode>Para los turistas, es el Hotel Condado el preferido. Un ban-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l015" index="1" custom="heights_v2:[19.8,7.5]">
+        <Coords points="242,739 327,739 411,739 495,741 1001,738 1000,710 913,713 830,713 746,713 662,713 578,713 495,713 411,712 327,712 242,712 242,739" />
+        <Baseline points="242,732 327,732 411,732 495,733 578,733 662,733 746,733 830,733 913,733 1000,730" />
+        <TextEquiv conf="0.998">
+          <Unicode>quete ofrecido en el Hotel Condado significa ofrecer algo elegante.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l016" index="2" custom="heights_v2:[20.2,7.4]">
+        <Coords points="242,764 267,764 289,764 311,764 333,764 356,764 378,764 400,764 422,764 447,766 449,738 423,737 400,737 378,737 356,737 333,737 311,737 289,737 267,737 242,737 242,764" />
+        <Baseline points="242,757 267,757 289,757 311,757 333,757 356,757 378,757 400,757 422,757 447,759" />
+        <TextEquiv conf="0.999">
+          <Unicode>te y distinguido.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="285,785 237,813 237,841 607,842 680,817 997,816 997,787 285,785" />
+      <TextLine id="r002-l017" index="0" custom="heights_v2:[20.7,8.0]">
+        <Coords points="997,816 997,787 915,788 836,787 759,787 679,788 601,788 524,787 444,787 365,787 285,785 284,814 365,816 444,816 523,816 601,817 680,817 759,816 836,816 868,816 997,816" />
+        <Baseline points="284,806 365,808 444,808 523,808 601,809 680,809 759,808 836,808 915,809 997,808" />
+        <TextEquiv conf="0.948">
+          <Unicode>Las terrazas del Hotel Condado bañadas por las brisas maria.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l018" index="1" custom="heights_v2:[19.6,7.7]">
+        <Coords points="237,841 280,841 321,841 360,841 376,841 607,842 607,815 563,815 522,815 482,815 441,815 401,815 361,813 321,813 280,813 237,813 237,841" />
+        <Baseline points="237,833 280,833 321,833 360,833 401,834 441,834 482,834 522,834 563,834 607,834" />
+        <TextEquiv conf="0.992">
+          <Unicode>nás refrescan hasta el espíritu.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="545,864 286,859 286,892 545,896 545,864" />
+      <TextLine id="r007-l019" index="0" custom="heights_v2:[24.6,8.2]">
+        <Coords points="459,862 457,862 428,862 401,862 374,860 345,860 331,860 286,859 286,892 316,892 331,892 372,893 373,893 373,893 459,895 485,895 498,896 545,896 545,864 514,864 499,863 459,862" />
+        <Baseline points="286,883 316,883 345,885 373,885 401,887 428,887 457,887 485,887 514,888 545,888" />
+        <TextEquiv conf="0.729">
+          <Unicode>Exitos lisonjeros le debo</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r014">
+      <Coords points="608,864 607,893 1000,894 1000,865 608,864" />
+      <TextLine id="r014-l020" index="0" custom="heights_v2:[21.4,7.6]">
+        <Coords points="607,893 1000,894 1000,865 953,865 910,865 868,865 825,865 781,865 738,865 695,865 653,865 608,864 607,893" />
+        <Baseline points="607,885 653,887 695,887 738,887 781,887 825,887 868,887 910,887 953,887 1000,887" />
+        <TextEquiv conf="0.711">
+          <Unicode>nos a la nueva administración del</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r010">
+      <Coords points="393,912 392,965 864,965 864,912 393,912" />
+      <TextLine id="r010-l021" index="0" custom="heights_v2:[39.1,13.9]">
+        <Coords points="392,965 864,965 864,912 497,912 444,914 393,912 392,965" />
+        <Baseline points="392,951 446,953 498,951 550,951 602,951 653,951 705,951 757,951 809,951 864,951" />
+        <TextEquiv conf="0.999">
+          <Unicode>HOTEL CONDADO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="525,989 333,987 333,1016 525,1018 525,989" />
+      <TextLine id="r008-l022" index="0" custom="heights_v2:[21.0,8.2]">
+        <Coords points="333,987 333,1016 357,1016 378,1016 398,1016 406,1017 525,1018 525,989 501,989 480,989 460,989 439,989 419,989 407,988 333,987" />
+        <Baseline points="333,1008 357,1008 378,1008 398,1008 419,1010 439,1010 460,1010 480,1010 501,1010 525,1010" />
+        <TextEquiv conf="0.834">
+          <Unicode>Esta página no era</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r013">
+      <Coords points="920,988 607,990 607,1017 920,1016 920,988" />
+      <TextLine id="r013-l023" index="0" custom="heights_v2:[20.1,7.5]">
+        <Coords points="762,989 745,990 731,989 686,989 677,990 643,990 607,990 607,1017 686,1017 711,1016 732,1017 763,1017 779,1016 814,1016 847,1016 882,1016 920,1016 920,988 762,989" />
+        <Baseline points="607,1010 643,1010 678,1010 711,1008 746,1010 779,1008 814,1008 847,1008 882,1008 920,1008" />
+        <TextEquiv conf="0.779">
+          <Unicode>nuncio: es una atención de</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r011">
+      <Coords points="478,1078 424,1105 425,1133 444,1190 809,1193 830,1132 830,1103 800,1078 798,1032 480,1032 478,1078" />
+      <TextLine id="r011-l024" index="0" custom="heights_v2:[33.6,12.6]">
+        <Coords points="798,1032 759,1033 725,1033 691,1033 654,1035 621,1035 586,1035 553,1033 517,1033 480,1032 478,1078 517,1079 551,1079 586,1081 621,1081 656,1081 691,1079 725,1079 761,1079 800,1078 798,1032" />
+        <Baseline points="479,1065 517,1067 552,1067 586,1068 621,1068 656,1068 691,1067 725,1067 760,1067 800,1065" />
+        <TextEquiv conf="0.942">
+          <Unicode>LOS QUIJOTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r011-l025" index="1" custom="heights_v2:[20.3,7.9]">
+        <Coords points="425,1133 473,1132 517,1130 561,1130 605,1130 650,1130 694,1130 738,1132 782,1132 830,1132 830,1103 782,1103 738,1103 695,1102 650,1102 605,1102 561,1102 517,1102 472,1103 424,1105 425,1133" />
+        <Baseline points="425,1125 473,1124 517,1122 561,1122 605,1122 650,1122 694,1122 738,1124 782,1124 830,1124" />
+        <TextEquiv conf="0.997">
+          <Unicode>para la Nueva Administración del</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r011-l026" index="2" custom="heights_v2:[31.0,12.2]">
+        <Coords points="809,1193 809,1150 765,1150 725,1150 686,1150 646,1150 605,1150 567,1148 526,1148 487,1148 445,1146 444,1190 809,1193" />
+        <Baseline points="444,1177 487,1179 526,1179 566,1179 605,1181 646,1181 686,1181 725,1181 765,1181 809,1181" />
+        <TextEquiv conf="0.999">
+          <Unicode>HOTEL CONDADO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="245,1224 245,1253 1011,1255 1011,1226 245,1224" />
+      <TextLine id="r005-l027" index="0" custom="heights_v2:[21.4,7.9]">
+        <Coords points="245,1253 1011,1255 1011,1226 923,1226 839,1226 753,1227 670,1227 585,1227 501,1227 416,1227 332,1226 245,1224 245,1253" />
+        <Baseline points="245,1245 332,1247 416,1249 501,1249 585,1249 670,1249 754,1249 839,1247 923,1247 1011,1247" />
+        <TextEquiv conf="0.408">
+          <Unicode>No se pierda el debut de la gran artista española Amalia Molina.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r009">
+      <Coords points="392,1371 335,1436 335,1470 405,1554 405,1596 855,1598 855,1555 923,1473 922,1439 860,1371 392,1371" />
+      <TextLine id="r009-l028" index="0" custom="heights_v2:[40.4,12.5]">
+        <Coords points="392,1371 392,1424 446,1424 496,1424 548,1424 599,1424 650,1424 702,1422 752,1421 802,1421 857,1424 860,1371 392,1371" />
+        <Baseline points="392,1411 446,1411 496,1411 548,1411 599,1411 650,1411 702,1410 752,1408 803,1408 858,1411" />
+        <TextEquiv conf="0.503">
+          <Unicode>TURRONES "PAYCO"</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r009-l029" index="1" custom="heights_v2:[24.4,9.6]">
+        <Coords points="335,1470 401,1470 466,1471 531,1471 596,1471 660,1471 725,1473 790,1473 855,1475 923,1473 922,1439 854,1441 791,1439 725,1439 661,1438 596,1437 531,1437 466,1437 402,1436 335,1436 335,1470" />
+        <Baseline points="335,1460 401,1460 466,1462 531,1462 596,1462 661,1462 725,1463 790,1463 855,1465 923,1463" />
+        <TextEquiv conf="0.970">
+          <Unicode>ALICANTE - YEMA - FRUTA y MAZAPAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r009-l030" index="2" custom="heights_v2:[19.4,7.5]">
+        <Coords points="496,1501 528,1501 558,1501 588,1501 618,1503 648,1503 678,1504 708,1504 738,1504 771,1504 771,1477 738,1477 708,1477 678,1477 649,1476 618,1476 589,1474 558,1474 528,1474 496,1474 496,1501" />
+        <Baseline points="496,1493 528,1493 558,1493 588,1493 618,1495 648,1495 678,1497 708,1497 738,1497 771,1497" />
+        <TextEquiv conf="0.969">
+          <Unicode>De venta en toda la isla</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r009-l031" index="3" custom="heights_v2:[19.0,6.2]">
+        <Coords points="547,1541 567,1539 584,1539 602,1541 619,1541 637,1542 654,1542 672,1542 689,1542 711,1542 711,1517 689,1517 672,1517 654,1517 637,1517 621,1516 602,1516 586,1514 567,1514 545,1516 547,1541" />
+        <Baseline points="547,1535 567,1533 585,1533 602,1535 620,1535 637,1536 654,1536 672,1536 689,1536 711,1536" />
+        <TextEquiv conf="1.000">
+          <Unicode>Fabricados por</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r009-l032" index="4" custom="heights_v2:[33.0,9.3]">
+        <Coords points="405,1596 457,1596 505,1596 518,1596 855,1598 855,1555 801,1555 752,1555 703,1555 654,1555 604,1555 555,1555 507,1554 457,1554 405,1554 405,1596" />
+        <Baseline points="405,1587 457,1587 506,1587 555,1588 604,1588 654,1588 703,1588 752,1588 801,1588 855,1588" />
+        <TextEquiv conf="0.988">
+          <Unicode>PUIG ABRAHAM &amp; CO.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

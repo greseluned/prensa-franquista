@@ -12,14 +12,14 @@ Generación local : Ollama (opcional — modelos: qwen2.5:3b, llama3.2:3b, mistr
 Ejecutar con:
     streamlit run app_rag_prensa_franquista.py
 
-Estructura esperada en el mismo directorio:
-    corpus/                           ← carpeta con los .txt del repositorio
-        Filipinas/Excelsior/txt/*.txt
-        Filipinas/Hispanidad/txt/*.txt
-        Filipinas/Yugo/txt/*.txt
-        Puerto-Rico/Avance/txt/*.txt
-        Puerto-Rico/Los-Quijotes/txt/*.txt
-    glosario_ner_franquismo.py        ← capa experta
+Uso dentro del repositorio greseluned/prensa-franquista:
+    prensa-franquista/
+        Filipinas/  y  Puerto-Rico/        ← corpus (.txt), se detecta automáticamente
+        vocabulario/vocabulario_gresel_completo.json   ← capa experta
+        rag/app_rag_prensa_franquista.py   ← este script
+
+También admite una carpeta corpus/ y un glosario_ner_franquismo.py
+situados junto al script (versión distribuida en ZIP).
 """
 
 import os
@@ -190,16 +190,20 @@ SCRIPT_DIR = Path(__file__).parent.resolve()
 # Corpus: buscar carpeta "corpus" junto al script
 CORPUS_CANDIDATES = [
     SCRIPT_DIR / "corpus",
+    SCRIPT_DIR.parent,            # raíz del repositorio prensa-franquista
     SCRIPT_DIR / "prensa-repo",
-    Path("/tmp/claude-0/-home-claude/41636698-c6df-5db3-9686-4ea683148a07/scratchpad/prensa-repo"),
 ]
-CORPUS_ROOT = next((p for p in CORPUS_CANDIDATES if p.exists()), None)
+CORPUS_ROOT = next(
+    (p for p in CORPUS_CANDIDATES
+     if (p / "Filipinas").exists() or (p / "Puerto-Rico").exists()),
+    None,
+)
 
 # Glosario NER
 GLOSARIO_CANDIDATES = [
     SCRIPT_DIR / "glosario_ner_franquismo.py",
-    Path.home() / "glosario_ner_franquismo.py",
-    Path("/home/claude/glosario_ner_franquismo.py"),
+    SCRIPT_DIR.parent / "vocabulario" / "vocabulario_gresel_completo.json",
+    SCRIPT_DIR / "vocabulario_gresel_completo.json",
 ]
 GLOSARIO_PATH = next((p for p in GLOSARIO_CANDIDATES if p.exists()), None)
 
@@ -256,7 +260,7 @@ def parse_filename(fname: str) -> dict:
 def build_rag_system(corpus_root_str: str, glosario_path_str: str):
     """
     Construye dos índices independientes en memoria:
-      1. Corpus de prensa (1.985 páginas)
+      1. Corpus de prensa (páginas .txt del repositorio)
       2. Glosario NER (1.105 entradas — capa experta)
     """
     corpus_root = Path(corpus_root_str)
@@ -321,18 +325,30 @@ def build_rag_system(corpus_root_str: str, glosario_path_str: str):
         setattr(sys.modules["reportlab.lib.enums"], a, 0)
     sys.modules["reportlab.pdfgen.canvas"].Canvas = lambda *x, **k: None
 
-    with open(glosario_path_str, "r", encoding="utf-8") as f:
-        src = f.read()
-    cut = re.search(r"^def [a-z_]+\(", src, re.MULTILINE)
-    ns  = {}
-    exec(compile(src[: cut.start()] if cut else src, "glosario.py", "exec"), ns)
+    if glosario_path_str.lower().endswith(".json"):
+        # Vocabulario GRESEL en JSON (carpeta vocabulario/ del repositorio)
+        with open(glosario_path_str, "r", encoding="utf-8") as f:
+            vocab = json.load(f)
+        cat_map = {"TÉRMINOS": "TÉRMINOS", "EVENTOS": "EVENTOS",
+                   "PERSONAS": "PERSONAS", "LUGARES": "LUGARES/PUBLICACIONES"}
+        GLOSS_MAP = {c: [] for c in cat_map.values()}
+        for e in vocab:
+            cat = cat_map.get(e.get("categoria", ""), None)
+            if cat:
+                GLOSS_MAP[cat].append((e.get("lema", ""), e.get("definicion", "")))
+    else:
+        with open(glosario_path_str, "r", encoding="utf-8") as f:
+            src = f.read()
+        cut = re.search(r"^def [a-z_]+\(", src, re.MULTILINE)
+        ns  = {}
+        exec(compile(src[: cut.start()] if cut else src, "glosario.py", "exec"), ns)
 
-    GLOSS_MAP = {
-        "TÉRMINOS":              ns.get("TERMINOS", []),
-        "EVENTOS":               ns.get("EVENTOS",  []),
-        "PERSONAS":              ns.get("PERSONAS", []),
-        "LUGARES/PUBLICACIONES": ns.get("LUGARES",  []),
-    }
+        GLOSS_MAP = {
+            "TÉRMINOS":              ns.get("TERMINOS", []),
+            "EVENTOS":               ns.get("EVENTOS",  []),
+            "PERSONAS":              ns.get("PERSONAS", []),
+            "LUGARES/PUBLICACIONES": ns.get("LUGARES",  []),
+        }
     gloss_docs, gloss_meta = [], []
     for cat, entries in GLOSS_MAP.items():
         for term, defn in entries:
@@ -554,9 +570,9 @@ with st.sidebar:
     ready = CORPUS_ROOT is not None and GLOSARIO_PATH is not None
     if not ready:
         if CORPUS_ROOT is None:
-            st.error("No se encontró la carpeta `corpus/`.\nColócala junto al script.")
+            st.error("No se encontró el corpus. Ejecuta la app desde la carpeta rag/ del repositorio prensa-franquista.")
         if GLOSARIO_PATH is None:
-            st.error("No se encontró `glosario_ner_franquismo.py`.")
+            st.error("No se encontró el vocabulario (vocabulario/vocabulario_gresel_completo.json).")
 
     rag_ready = False
     if ready:

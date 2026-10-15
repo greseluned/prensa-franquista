@@ -1,124 +1,58 @@
-# Sistema RAG — Prensa Franquista (GRESEL-UNED)
+# Prototipo RAG — Prensa franquista
 
-Aplicación de búsqueda semántica y generación aumentada por recuperación (RAG) para los corpus de prensa franquista de circulación en **Filipinas** y **Puerto Rico**.
+Aplicación local de recuperación semántica sobre las transcripciones de este repositorio, con el vocabulario controlado de entidades del franquismo como capa experta.
 
----
+## Qué hace
 
-## Requisitos previos
+- Indexa las páginas `.txt` de las cinco cabeceras del repositorio (*Excelsior*, *Hispanidad* y *Yugo* en Filipinas; *Avance* y *Los Quijotes* en Puerto Rico).
+- Ante una consulta, recupera las páginas más próximas (TF-IDF de 1-2 gramas, SVD a 512 dimensiones y similitud coseno) y muestra publicación, fecha, número y página.
+- Junto a cada resultado muestra las entradas del vocabulario relacionadas (1.105 entradas, carpeta `../vocabulario/`).
+- Permite filtrar por publicación y ajustar el número de resultados.
+- Si Ollama está instalado, puede generar una respuesta en lenguaje natural a partir de los pasajes recuperados (opcional).
 
-- Python 3.9 o superior
-- [Streamlit](https://streamlit.io/)
-- (Opcional) [Ollama](https://ollama.com/) con un modelo local para generación de texto
+Funciona sin conexión a internet y sin GPU.
 
----
+## Requisitos
+
+- Python 3.10 o superior
+- Git
+- (Opcional) [Ollama](https://ollama.com) con un modelo pequeño, por ejemplo `llama3.2:3b` o `qwen2.5:3b`
 
 ## Instalación
 
 ```bash
-# 1. Clona el repositorio
 git clone https://github.com/greseluned/prensa-franquista.git
 cd prensa-franquista/rag
-
-# 2. Instala las dependencias
 pip install -r requirements.txt
-
-# 3. (Opcional) Instala Ollama y descarga un modelo
-#    https://ollama.com/download
-ollama pull qwen2.5:3b
 ```
 
----
-
-## Estructura del corpus
-
-Coloca los textos del corpus en una carpeta `corpus/` en el mismo directorio que la app:
-
-```
-rag/
-├── app_rag_prensa_franquista.py
-├── requirements.txt
-├── glosario_ner_franquismo.py          ← vocabulario GRESEL como módulo Python
-└── corpus/
-    ├── Filipinas/
-    │   ├── Excelsior/
-    │   │   └── txt/
-    │   │       ├── pagina_001.txt
-    │   │       └── ...
-    │   ├── Hispanidad/
-    │   │   └── txt/
-    │   └── Yugo/
-    │       └── txt/
-    └── Puerto-Rico/
-        ├── Avance/
-        │   └── txt/
-        └── Los-Quijotes/
-            └── txt/
-```
-
-Cada archivo `.txt` contiene el texto de una página o artículo del corpus.
-
----
-
-## Glosario NER como módulo Python
-
-El archivo `glosario_ner_franquismo.py` debe contener el vocabulario GRESEL en formato de diccionario Python:
-
-```python
-# glosario_ner_franquismo.py
-VOCABULARIO_GRESEL = {
-    "TÉRMINOS": ["Hispanidad", "Cruzada", ...],
-    "PERSONAS": ["Francisco Franco", ...],
-    "EVENTOS": ["Guerra Civil Española", ...],
-    "LUGARES": ["Manila", "Filipinas", ...]
-}
-```
-
-Puedes generarlo automáticamente a partir de `../vocabulario/vocabulario_gresel_completo.json`.
-
----
+El repositorio completo ocupa varios GB porque incluye las transcripciones.
 
 ## Ejecución
+
+Desde la carpeta `rag/`:
 
 ```bash
 streamlit run app_rag_prensa_franquista.py
 ```
 
-La aplicación se abrirá en el navegador en `http://localhost:8501`.
+La aplicación se abre en el navegador (`http://localhost:8501`). La primera vez tarda un poco en indexar el corpus.
 
----
+La app localiza automáticamente:
 
-## Funcionalidades
+- el corpus en la raíz del repositorio (`Filipinas/` y `Puerto-Rico/`);
+- el vocabulario en `vocabulario/vocabulario_gresel_completo.json`.
 
-### Búsqueda semántica
-- Indexación del corpus con **TF-IDF** y reducción dimensional **TruncatedSVD** (LSA)
-- Recuperación por **similitud de coseno** entre la consulta y los fragmentos del corpus
-- Filtrado opcional por publicación o territorio
+## Generación opcional con Ollama
 
-### Capa de experto (Vocabulario GRESEL)
-- Identifica automáticamente entidades del vocabulario GRESEL en los resultados
-- Enriquece la presentación con contexto histórico
+```bash
+ollama pull llama3.2:3b
+```
 
-### Generación de respuestas (opcional, requiere Ollama)
-- Genera respuestas en lenguaje natural a partir de los fragmentos recuperados
-- Modelos compatibles: `qwen2.5:3b`, `llama3.2:3b`, `mistral`
+Con Ollama en marcha, la app detecta los modelos instalados y permite activar la generación desde el panel lateral.
 
----
+## Limitaciones
 
-## Tecnología
-
-| Componente | Tecnología |
-|---|---|
-| Interfaz | Streamlit |
-| Indexación | scikit-learn TF-IDF + TruncatedSVD |
-| Recuperación | Cosine similarity |
-| Generación | Ollama (local, opcional) |
-
----
-
-## Proyecto
-
-- **Grupo**: GRESEL-UNED
-- **Proyecto**: PID2023-151280OB-C22
-- **IP**: Rocío Ortuño Casanova
-- **Desarrollo**: Fernando Obispo Permuy
-- **Web**: [gresel-uned.hypotheses.org](https://gresel-uned.hypotheses.org)
+- La recuperación es léxico-semántica (TF-IDF + SVD), no se usan embeddings neuronales.
+- La calidad depende del OCR. Parte del corpus no tiene revisión humana.
+- Es un prototipo para exploración interna y todavía no se ha evaluado de forma sistemática.

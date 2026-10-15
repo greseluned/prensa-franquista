@@ -1,90 +1,62 @@
-# Vocabulario Controlado GRESEL — Prensa Franquista
+# Vocabulario controlado de entidades del franquismo
 
-## Descripción
+`vocabulario_gresel_completo.json` es la versión estructurada del **Glosario NER del Franquismo** elaborado en el proyecto GRESEL-UNED (PID2023-151280OB-C22). Contiene **1.105 entradas**.
 
-`vocabulario_gresel_completo.json` es el vocabulario controlado del grupo GRESEL para el análisis de la **prensa franquista de circulación en Filipinas y Puerto Rico** (décadas de 1930–1960).
+## Fuentes
 
-Contiene **1.105 entidades** nombradas, organizadas en cuatro categorías de etiquetado NER (Named Entity Recognition).
+El glosario se construyó procesando íntegramente, página a página, cuatro obras de referencia:
 
----
+| Etiqueta | Obra |
+|---|---|
+| [Zira Box] | Zira Box, *España, Año Cero. La construcción simbólica del franquismo*, Madrid, Alianza Editorial, 2010. Fuente principal (pp. 1-588, procesada en 44 bloques). |
+| [Rodao] | Florentino Rodao, *Franquistas sin Franco. Una historia alternativa de la Guerra Civil española desde Filipinas*, Granada, Comares, 2012. |
+| [González Calleja] | Eduardo González Calleja, «Fascismo para la exportación: la delegación española del CAUR y el proyecto de una Internacional Fascista, 1933-1936», *Hispania*, LXXIV/246 (2014), pp. 205-236. |
+| [Orive de la Rosa] | Carmen Orive de la Rosa, «Arremangando las camisas negras: una historia transnacional del fascismo desde el feminismo», 2023. |
 
 ## Categorías
 
-| Categoría | Descripción |
-|---|---|
-| `TÉRMINOS` | Conceptos temáticos del discurso franquista: hispanidad, catolicismo, anticomunismo, etc. |
-| `PERSONAS` | Figuras históricas: políticos, militares, religiosos, periodistas relevantes |
-| `EVENTOS` | Sucesos históricos: Guerra Civil, proclamaciones, actos oficiales, etc. |
-| `LUGARES` | Topónimos: ciudades, regiones, países mencionados en la prensa |
+| Categoría | Entradas | % |
+|---|---|---|
+| TÉRMINOS | 201 | 18,2 % |
+| EVENTOS | 165 | 14,9 % |
+| PERSONAS | 452 | 40,9 % |
+| LUGARES / PUBLICACIONES | 287 | 26,0 % |
+| **Total** | **1.105** | **100 %** |
 
----
+En el JSON, la categoría LUGARES/PUBLICACIONES aparece con el valor `"LUGARES"`.
 
-## Estructura del JSON
+## Estructura de cada entrada
+
+Entrada real del archivo:
 
 ```json
 {
-  "TÉRMINOS": [
-    "Hispanidad",
-    "Cruzada",
-    ...
-  ],
-  "PERSONAS": [
-    "Francisco Franco",
-    "José Antonio Primo de Rivera",
-    ...
-  ],
-  "EVENTOS": [
-    "Guerra Civil Española",
-    "Alzamiento Nacional",
-    ...
-  ],
-  "LUGARES": [
-    "Manila",
-    "Filipinas",
-    "Madrid",
-    ...
+  "id": "cruzada",
+  "lema": "Cruzada",
+  "categoria": "TÉRMINOS",
+  "definicion": "Denominación oficial con la que el régimen y la Iglesia católica definieron la guerra civil española (1936–1939). Al presentar el conflicto como una cruzada religiosa contra el «marxismo ateo», se confería al alzamiento una dimensión sacra que legitimaba la violencia bélica.",
+  "fuentes": [],
+  "variantes": ["una cruzada"],
+  "relaciones": [
+    {"lema": "Nacional-catolicismo", "categoria": "TÉRMINO"},
+    {"lema": "Alzamiento Nacional", "categoria": "EVENTO"},
+    {"lema": "Religión política", "categoria": "TÉRMINO"}
   ]
 }
 ```
 
----
+- `lema`: forma normalizada (en personas, «Apellidos, Nombre»).
+- `definicion`: definición contextualizada con referencias de página a las fuentes.
+- `fuentes`: obras de las que procede la información. En la exportación actual el campo está relleno en 1.022 entradas (951 con [Zira Box] y 71 con [Rodao]) y vacío en 83; las atribuciones a González Calleja y Orive de la Rosa constan en la versión PDF/Word del glosario, pero no se trasladaron al JSON. Queda pendiente completar este campo.
+- `variantes`: formas alternativas de denominación.
+- `relaciones`: referencias cruzadas («Ver también») a otras entradas.
 
-## Fuentes y metodología
+## Metodología resumida
 
-El vocabulario está basado principalmente en la obra de **Florentino Rodao** sobre la proyección del franquismo en Asia y el Pacífico, especialmente:
+La extracción se hizo manualmente con asistencia de IA, leyendo cada fuente en bloques de unas 20 páginas. Para cada bloque se identificaban entidades candidatas, se comprobaba que no estuvieran ya registradas, se redactaba la definición con referencia a las páginas y se añadían referencias cruzadas. El detalle completo está en [`../documentacion/informe_tecnico_GRESEL.md`](../documentacion/informe_tecnico_GRESEL.md).
 
-- Rodao, F. (2002). *Franco y el Imperio Japonés: Imágenes y propaganda en tiempos de guerra*. Plaza & Janés.
-- Análisis del discurso franquista en publicaciones periódicas filipinas y puertorriqueñas.
+## Alcance
 
-El proceso de elaboración incluyó:
-1. Revisión bibliográfica de la historiografía sobre el franquismo exterior
-2. Análisis de los corpus textuales disponibles (Excelsior, Hispanidad, Yugo, Avance, Los Quijotes)
-3. Validación terminológica por parte del equipo investigador GRESEL
-4. Codificación manual por Fernando Obispo Permuy (técnico TIC, UNED)
-
----
-
-## Alcance y limitaciones
-
-> **IMPORTANTE**: Este vocabulario está diseñado específicamente para la **prensa franquista** (ca. 1936–1975). NO es adecuado para corpus anteriores al franquismo, como la revista *Excelsior* de Manila (1929–1932), que requiere un vocabulario propio adaptado a su contexto histórico pre-franquista.
-
-Para el corpus *Excelsior* (1929–1932) se está elaborando un vocabulario específico de temática naturaleza/patrimonio (trabajo en curso, Diana Villanueva Romero, UEx).
-
----
-
-## Uso en el sistema RAG
-
-Este vocabulario se usa como **capa de experto** en la aplicación `../rag/app_rag_prensa_franquista.py`:
-
-```python
-from glosario_ner_franquismo import VOCABULARIO_GRESEL
-# Enriquece los resultados de búsqueda con contexto histórico
-```
-
----
-
-## Contacto
-
-- Proyecto: PID2023-151280OB-C22
-- Grupo: GRESEL-UNED
-- Web: [gresel-uned.hypotheses.org](https://gresel-uned.hypotheses.org)
+- El vocabulario se diseñó para la **prensa franquista**. No es adecuado para corpus anteriores al franquismo, como *Excelsior* (Manila, 1929-1932).
+- Prioriza la dimensión estatal y nacional del franquismo; el vocabulario regional y local está subrepresentado y queda como línea de trabajo futura.
+- Refleja la perspectiva de las cuatro fuentes procesadas.

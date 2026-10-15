@@ -1,8 +1,8 @@
-# Prensa Franquista — GRESEL (UNED)
+# prensa-franquista
 
-Repositorio de recursos digitales del grupo **GRESEL** (Grupo de Investigación en Estudios de Literatura Española) de la UNED, proyecto **PID2023-151280OB-C22**.
+Ejemplares de periódicos pro-franquistas y falangistas de Filipinas y Puerto Rico relacionados con el estudio de caso del proyecto **GRESEL-UNED** (PID2023-151280OB-C22), junto con los recursos derivados: el vocabulario controlado de entidades del franquismo y un prototipo de recuperación semántica (RAG) sobre el corpus.
 
-Contiene el vocabulario controlado, el sistema RAG y la documentación técnica para el análisis de la prensa franquista de circulación en Filipinas y Puerto Rico.
+Estudio de caso: [gresel-uned.hypotheses.org](https://gresel-uned.hypotheses.org)
 
 ---
 
@@ -10,68 +10,45 @@ Contiene el vocabulario controlado, el sistema RAG y la documentación técnica 
 
 ```
 prensa-franquista/
-│
-├── vocabulario/               # Vocabulario controlado GRESEL
-│   ├── vocabulario_gresel_completo.json   # 1.105 entidades etiquetadas
-│   └── README.md              # Descripción del vocabulario y categorías
-│
-├── rag/                       # Sistema RAG (Retrieval-Augmented Generation)
-│   ├── app_rag_prensa_franquista.py       # Aplicación Streamlit principal
-│   ├── requirements.txt       # Dependencias Python
-│   └── README.md              # Instrucciones de instalación y uso
-│
-├── documentacion/             # Informes y metodología
-│   └── informe_tecnico_GRESEL.md          # Informe técnico completo
-│
-└── README.md                  # Este archivo
+├── Filipinas/          Transcripciones de las cabeceras filipinas
+├── Puerto-Rico/        Transcripciones de Avance y Los Quijotes
+├── vocabulario/        Vocabulario controlado de entidades del franquismo (1.105 entradas, JSON)
+├── rag/                Prototipo RAG en Streamlit e instrucciones de instalación
+└── documentacion/      Informe técnico del vocabulario y del prototipo RAG
 ```
 
----
-
-## Corpus cubierto
-
-| Territorio | Publicación | Período |
-|---|---|---|
-| Filipinas | *Excelsior* | 1929–1932 |
-| Filipinas | *Hispanidad* | Por confirmar |
-| Filipinas | *Yugo* | Por confirmar |
-| Puerto Rico | *Avance* | Por confirmar |
-| Puerto Rico | *Los Quijotes* | Por confirmar |
+De acuerdo con los criterios del proyecto, en este repositorio solo se publican transcripciones y archivos XML; los PDF originales no se comparten.
 
 ---
 
-## Vocabulario GRESEL
+## Vocabulario controlado
 
-El vocabulario controlado (`vocabulario/`) contiene **1.105 entidades** organizadas en cuatro categorías:
+`vocabulario/vocabulario_gresel_completo.json` contiene **1.105 entradas** extraídas de cuatro obras historiográficas sobre el franquismo (Zira Box, Rodao, González Calleja y Orive de la Rosa):
 
-- `TÉRMINOS` — conceptos temáticos relevantes para la prensa franquista
-- `PERSONAS` — figuras históricas y políticas
-- `EVENTOS` — sucesos históricos y coyunturales
-- `LUGARES` — topónimos geográficos relevantes
+| Categoría | Entradas |
+|---|---|
+| TÉRMINOS | 201 |
+| EVENTOS | 165 |
+| PERSONAS | 452 |
+| LUGARES / PUBLICACIONES | 287 |
+| **Total** | **1.105** |
 
-Basado en la obra de Florentino Rodao sobre la propaganda franquista en Asia y el Pacífico.
+Este vocabulario está pensado para la prensa franquista. No debe aplicarse a corpus anteriores al franquismo, como *Excelsior* (1929-1932).
 
----
-
-## Sistema RAG
-
-La aplicación RAG (`rag/`) permite buscar y recuperar fragmentos del corpus usando:
-
-- **TF-IDF + SVD** (recuperación semántica por similitud de coseno)
-- **Vocabulario GRESEL** como capa de experto para enriquecimiento contextual
-- **Generación opcional** con modelos Ollama locales (`qwen2.5:3b`, `llama3.2:3b`, `mistral`)
+Más información en [`vocabulario/README.md`](vocabulario/README.md).
 
 ---
 
-## Equipo
+## Prototipo RAG
 
-- **IP del proyecto**: Rocío Ortuño Casanova (UNED)
-- **Desarrollo técnico**: Fernando Obispo Permuy (UNED)
-- **Proyecto**: PID2023-151280OB-C22
-- **Grupo**: GRESEL-UNED — [gresel-uned.hypotheses.org](https://gresel-uned.hypotheses.org)
+Aplicación local en Streamlit que recupera páginas del corpus mediante TF-IDF + SVD y similitud coseno, y muestra junto a cada resultado las entradas del vocabulario relacionadas. La generación de respuestas con Ollama es opcional.
+
+Instrucciones en [`rag/README.md`](rag/README.md).
 
 ---
 
-## Licencia
+## Créditos
 
-Este recurso es de uso académico e investigador. Para otros usos, contactar con el grupo GRESEL.
+- Investigadora principal: Rocío Ortuño Casanova (UNED)
+- Colaborador técnico: Fernando Obispo Permuy (UNED)
+- Financiación: Ministerio de Ciencia, Innovación y Universidades / AEI, proyecto PID2023-151280OB-C22

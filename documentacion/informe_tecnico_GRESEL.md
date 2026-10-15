@@ -1,235 +1,121 @@
-# Informe Técnico — Vocabulario NER y Sistema RAG para la Prensa Franquista
+# Informe técnico: vocabulario controlado del franquismo y prototipo RAG
 
-**Proyecto**: PID2023-151280OB-C22  
-**Grupo**: GRESEL-UNED  
-**Elaborado por**: Fernando Obispo Permuy (Técnico TIC, UNED)  
-**Supervisión científica**: Rocío Ortuño Casanova (IP, UNED)  
-**Fecha**: Octubre 2026  
-
----
-
-## 1. Introducción
-
-Este informe describe el proceso de elaboración del **vocabulario controlado GRESEL** para el análisis de Named Entities (NER) en la prensa franquista de circulación en Filipinas y Puerto Rico, así como el desarrollo del **sistema RAG** (Retrieval-Augmented Generation) para la explotación de estos corpus.
-
-El trabajo se enmarca en el proyecto de investigación PID2023-151280OB-C22, financiado por el Ministerio de Ciencia, Innovación y Universidades (MICIU/AEI), y forma parte de la línea de **Humanidades Digitales** del grupo GRESEL-UNED.
+**Proyecto:** PID2023-151280OB-C22 · GRESEL-UNED · Departamento de Literatura Española, UNED
+**Autor:** Fernando Obispo Permuy (técnico informático)
+**Supervisión:** Rocío Ortuño Casanova
+**Fecha:** octubre de 2026
 
 ---
 
-## 2. Vocabulario Controlado NER
+## 1. Objeto
+
+Este informe documenta cómo se han elaborado los dos recursos publicados en este repositorio:
+
+1. El **vocabulario controlado de entidades del franquismo** (Glosario NER), carpeta `vocabulario/`.
+2. El **prototipo RAG** de recuperación sobre la prensa del repositorio, carpeta `rag/`.
+
+---
+
+## 2. Glosario NER del franquismo
 
 ### 2.1 Objetivo
 
-Construir un léxico de entidades nombradas representativas del **discurso franquista** en prensa de circulación hispanofilipina e hispanoboricua, que permita:
+Disponer de un inventario controlado de las entidades más relevantes del discurso y la simbología franquista, que sirva de base para la anotación semántica, la recuperación de información y el análisis del discurso sobre el corpus de prensa del grupo.
 
-- Etiquetar automáticamente documentos del corpus
-- Enriquecer búsquedas semánticas con contexto histórico
-- Cuantificar la presencia de entidades clave en el corpus
+### 2.2 Fuentes procesadas
 
-### 2.2 Categorías
+Cuatro obras procesadas íntegramente, de la introducción a las conclusiones (sin la bibliografía final):
 
-El vocabulario se organiza en cuatro categorías NER:
+| Fuente | Aportación |
+|---|---|
+| Zira Box, *España, Año Cero. La construcción simbólica del franquismo* (Alianza, 2010) | Fuente principal: liturgia política, simbolismo y rituales del régimen. 44 bloques, pp. 1-588 |
+| Florentino Rodao, *Franquistas sin Franco* (Comares, 2012) | Contexto internacional y redes franquistas en el ámbito hispanofilipino |
+| Eduardo González Calleja, «Fascismo para la exportación…», *Hispania* (2014) | Fascismo internacional y organismos de coordinación fascista |
+| Carmen Orive de la Rosa, «Arremangando las camisas negras…» (2023) | Género, fascismo femenino y redes transnacionales |
 
-| Categoría | N.º entidades (aprox.) | Descripción |
+### 2.3 Procedimiento
+
+La extracción se hizo de forma manual con asistencia de IA (Claude, de Anthropic):
+
+1. Lectura de cada fuente en PDF, en bloques de unas 20 páginas.
+2. Identificación de entidades candidatas a partir de cuatro preguntas: ¿es un concepto clave del discurso franquista?, ¿un evento datable?, ¿una persona con papel en el período?, ¿un lugar o publicación citado como referencia?
+3. Comprobación de que la entidad no estaba ya registrada.
+4. Redacción de una definición contextualizada con referencia a las páginas de la fuente.
+5. Registro con etiqueta de fuente y referencias cruzadas («Ver también»).
+6. Actualización de entradas existentes cuando un bloque aportaba información nueva.
+7. Regeneración del PDF al cerrar cada bloque para verificar la integridad y el recuento.
+
+El glosario se mantiene en un script Python (`glosario_ner_franquismo.py`) que genera el PDF con ReportLab y el Word con python-docx. Para su uso en herramientas se exportó a JSON (`vocabulario_gresel_completo.json`) con los campos `id`, `lema`, `categoria`, `definicion`, `fuentes`, `variantes` y `relaciones`.
+
+### 2.4 Resultado
+
+| Categoría | Entradas | % |
 |---|---|---|
-| `TÉRMINOS` | ~350 | Conceptos del discurso franquista (Hispanidad, Cruzada, Caudillo…) |
-| `PERSONAS` | ~300 | Figuras históricas relevantes (políticos, militares, religiosos…) |
-| `EVENTOS` | ~200 | Sucesos históricos del período (Guerra Civil, proclamaciones…) |
-| `LUGARES` | ~255 | Topónimos de relevancia (ciudades, regiones, países…) |
-| **TOTAL** | **~1.105** | |
+| TÉRMINOS | 201 | 18,2 % |
+| EVENTOS | 165 | 14,9 % |
+| PERSONAS | 452 | 40,9 % |
+| LUGARES / PUBLICACIONES | 287 | 26,0 % |
+| **Total** | **1.105** | **100 %** |
 
-### 2.3 Fuentes
+### 2.5 Criterios y limitaciones
 
-El vocabulario se ha elaborado principalmente a partir de:
-
-1. **Rodao, Florentino** (2002). *Franco y el Imperio Japonés: Imágenes y propaganda en tiempos de guerra*. Plaza & Janés. — Principal fuente historiográfica sobre el franquismo en Asia.
-2. **Análisis exploratorio del corpus**: lectura y análisis manual de ejemplares de *Excelsior* (Manila), *Hispanidad*, *Yugo*, *Avance* (Puerto Rico) y *Los Quijotes*.
-3. **Bibliografía secundaria** sobre propaganda franquista exterior, hispanismo y relaciones con Filipinas y Puerto Rico.
-
-### 2.4 Proceso de elaboración
-
-1. **Revisión bibliográfica**: Extracción de entidades nombradas relevantes de la bibliografía historiográfica.
-2. **Análisis de corpus**: Lectura exploratoria de fragmentos representativos de las publicaciones del corpus.
-3. **Codificación manual**: Clasificación de cada entidad en su categoría NER correspondiente.
-4. **Validación**: Revisión y validación por parte del equipo investigador GRESEL.
-5. **Serialización**: Exportación a formato JSON (`vocabulario_gresel_completo.json`) para su uso en sistemas informáticos.
-
-### 2.5 Formato de salida
-
-El vocabulario se distribuye en formato JSON:
-
-```json
-{
-  "TÉRMINOS": ["Hispanidad", "Cruzada", "Caudillo", ...],
-  "PERSONAS": ["Francisco Franco", "José Antonio Primo de Rivera", ...],
-  "EVENTOS": ["Guerra Civil Española", "Alzamiento Nacional", ...],
-  "LUGARES": ["Manila", "Filipinas", "Madrid", "Puerto Rico", ...]
-}
-```
-
-### 2.6 Limitaciones y alcance
-
-> El vocabulario GRESEL está diseñado **exclusivamente para la prensa franquista** (ca. 1936–1975). No es adecuado para corpus anteriores al período franquista, como la revista *Excelsior* de Manila (1929–1932), cuyo contenido es predominantemente colonial filipino, pre-franquista y de temática distinta.
-
-Para el corpus *Excelsior* (1929–1932) se está elaborando un vocabulario específico de temática naturaleza/patrimonio natural filipino, a cargo de Diana Villanueva Romero (Universidad de Extremadura), en el marco del grupo de trabajo PHASSES (EUGreen Alliance).
+- Se excluyeron las entidades de alcance exclusivamente regional o local, las menciones anecdóticas y los topónimos genéricos sin significado simbólico propio. La incorporación de vocabulario regional queda como línea futura.
+- El glosario refleja la perspectiva de las cuatro fuentes; puede haber entidades relevantes ausentes.
+- Está diseñado para la prensa franquista y **no debe aplicarse a corpus anteriores al franquismo**, como *Excelsior* (Manila, 1929-1932).
+- En el JSON, el campo `fuentes` está incompleto (vacío en 83 entradas y sin las atribuciones a González Calleja y Orive de la Rosa, que sí constan en la versión Word/PDF).
 
 ---
 
-## 3. Sistema RAG (Retrieval-Augmented Generation)
+## 3. Prototipo RAG
 
-### 3.1 Objetivo
+### 3.1 Antecedentes
 
-Desarrollar una herramienta de consulta semántica del corpus de prensa franquista que permita:
+Una primera exploración comparó frameworks RAG (LlamaIndex, LangChain, Haystack), bases vectoriales (ChromaDB, FAISS, Weaviate, Pinecone) y modelos de embeddings, y construyó un prototipo de recuperación solo sobre el glosario. Tras la revisión de la investigadora principal, que indicó que el RAG debía operar sobre los propios periódicos con el glosario como capa adicional, se desarrolló el prototipo actual.
 
-- Buscar fragmentos relevantes del corpus mediante lenguaje natural
-- Enriquecer los resultados con el vocabulario GRESEL
-- (Opcionalmente) Generar respuestas en lenguaje natural con modelos locales
-
-### 3.2 Arquitectura del sistema
+### 3.2 Arquitectura
 
 ```
-CONSULTA DEL USUARIO
-        │
-        ▼
-┌───────────────────┐
-│   Vectorización   │  TF-IDF + TruncatedSVD (LSA, 300 dims)
-│   de la consulta  │
-└───────────────────┘
-        │
-        ▼
-┌───────────────────┐
-│  Búsqueda por     │  Cosine similarity sobre índice TF-IDF
-│  similitud        │
-└───────────────────┘
-        │
-        ▼
-┌───────────────────┐
-│  Fragmentos       │  Top-K fragmentos más relevantes
-│  recuperados      │
-└───────────────────┘
-        │
-        ▼
-┌───────────────────┐
-│  Capa de experto  │  Identificación de entidades GRESEL
-│  (vocabulario)    │  en los fragmentos recuperados
-└───────────────────┘
-        │
-        ▼
-┌───────────────────┐
-│  Generación       │  Ollama local (opcional)
-│  (opcional)       │  qwen2.5:3b / llama3.2:3b / mistral
-└───────────────────┘
-        │
-        ▼
-   RESULTADO EN PANTALLA (Streamlit)
+Consulta
+   │
+   ├─► Índice del corpus de prensa ──► páginas más similares (publicación, fecha, nº, página)
+   │       TF-IDF (1-2 gramas) + SVD 512 dim + coseno
+   │
+   └─► Índice del vocabulario ───────► entradas relacionadas (capa experta)
+           TF-IDF (1-2 gramas) + SVD 512 dim + coseno
+   │
+   └─► (opcional) Ollama: respuesta generada a partir de los pasajes recuperados
 ```
 
-### 3.3 Componentes técnicos
+- Interfaz: Streamlit, ejecución local (`localhost:8501`).
+- Sin dependencia de red ni de GPU.
+- Corpus: páginas `.txt` de *Excelsior*, *Hispanidad*, *Yugo*, *Avance* y *Los Quijotes*. En la versión enviada a la investigadora principal se indexaron 1.925 páginas.
+- Los metadatos (fecha, número, página) se extraen del nombre de cada fichero.
 
-#### Indexación del corpus
+### 3.3 Prueba funcional
 
-La indexación se realiza una sola vez al arrancar la aplicación:
+Consultas ejecutadas sobre el prototipo y resultado principal devuelto:
 
-```python
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.decomposition import TruncatedSVD
-from sklearn.pipeline import Pipeline
+| Consulta | Relevancia máx. | Primer resultado |
+|---|---|---|
+| «Falange española en Filipinas» | 39 % | *Yugo* (1938-01-25), artículo sobre el Día de los Caídos |
+| «José Antonio Primo de Rivera» | 52 % | Sumario de *Yugo* (1938-01-25) con artículos dedicados al fundador |
+| «Hispanidad y misión de España en América» | 40 % | Artículos de *Los Quijotes* y *Avance* sobre la Hispanidad |
+| «Prensa y propaganda del régimen franquista» | 56 % | Portada de *Yugo*: Delegación Territorial de Prensa y Propaganda de FET de las JONS en Filipinas |
+| «República española comunismo» (filtro *Excelsior*) | 24 % | Artículos de *Excelsior* de 1938 sobre la amenaza comunista |
 
-# Pipeline de vectorización semántica
-pipeline = Pipeline([
-    ('tfidf', TfidfVectorizer(
-        max_features=50000,
-        ngram_range=(1, 2),
-        sublinear_tf=True
-    )),
-    ('svd', TruncatedSVD(n_components=300))
-])
+Se trata de una prueba cualitativa; no se ha realizado todavía una evaluación sistemática con métricas.
 
-corpus_vectors = pipeline.fit_transform(documentos)
-```
+### 3.4 Limitaciones
 
-#### Recuperación
-
-```python
-from sklearn.metrics.pairwise import cosine_similarity
-
-query_vector = pipeline.transform([consulta])
-scores = cosine_similarity(query_vector, corpus_vectors)[0]
-top_k_idx = scores.argsort()[::-1][:10]
-fragmentos = [documentos[i] for i in top_k_idx]
-```
-
-#### Generación con Ollama (opcional)
-
-```python
-import requests
-
-prompt = f"""Contexto: {fragmentos_recuperados}
-Pregunta: {consulta}
-Responde en español basándote únicamente en el contexto proporcionado."""
-
-response = requests.post(
-    "http://localhost:11434/api/generate",
-    json={"model": "qwen2.5:3b", "prompt": prompt, "stream": False}
-)
-```
-
-### 3.4 Corpus cubierto
-
-| Publicación | Territorio | Período | Estado |
-|---|---|---|---|
-| *Excelsior* | Filipinas | 1929–1932 | ✅ Indexado |
-| *Hispanidad* | Filipinas | Por confirmar | 🔄 Pendiente de corpus |
-| *Yugo* | Filipinas | Por confirmar | 🔄 Pendiente de corpus |
-| *Avance* | Puerto Rico | Por confirmar | 🔄 Pendiente de corpus |
-| *Los Quijotes* | Puerto Rico | Por confirmar | 🔄 Pendiente de corpus |
-
-### 3.5 Interfaz
-
-La aplicación utiliza **Streamlit** como framework de interfaz web:
-
-- Panel lateral: selección de corpus, modelo de generación, número de resultados
-- Área principal: campo de búsqueda, resultados con puntuación de relevancia
-- Resaltado de entidades GRESEL en los fragmentos recuperados
-
-### 3.6 Ejecución
-
-```bash
-streamlit run app_rag_prensa_franquista.py
-```
-
-Acceso en: `http://localhost:8501`
+- Recuperación léxico-semántica (TF-IDF + SVD); no se usan embeddings neuronales.
+- Calidad dependiente del OCR; parte del corpus no tiene revisión humana.
+- Sin evaluación cuantitativa todavía.
 
 ---
 
-## 4. Etiquetado semántico y estructural
+## 4. Próximos pasos
 
-*(Sección en desarrollo — ver repositorio `greseluned/Etiquetado`)*
-
-En paralelo al vocabulario NER y al sistema RAG, se ha desarrollado una herramienta de **etiquetado semántico y estructural** del corpus:
-
-- **`app_etiquetado_semantico.py`**: Aplicación Streamlit para etiquetar fragmentos manualmente con las categorías GRESEL
-- **`etiquetado_semantico_gresel.csv`**: Resultados del etiquetado realizado hasta la fecha
-
-El etiquetado estructural (identificación de secciones, titulares, artículos, anuncios…) está en curso.
-
----
-
-## 5. Próximos pasos
-
-1. **Ampliar el corpus**: Incorporar los textos de *Hispanidad*, *Yugo*, *Avance* y *Los Quijotes* cuando estén disponibles en formato digital.
-2. **Vocabulario Excelsior**: Integrar el vocabulario de naturaleza/patrimonio natural de Diana Villanueva Romero (UEx) cuando esté disponible, como nueva categoría `NATURALEZA` en el JSON.
-3. **Evaluación del RAG**: Diseñar un conjunto de preguntas de evaluación para medir la precisión y recall del sistema de recuperación.
-4. **Integración con etiquetado**: Conectar el sistema RAG con los resultados del etiquetado semántico para búsquedas más precisas.
-
----
-
-## 6. Referencias
-
-- Rodao, F. (2002). *Franco y el Imperio Japonés: Imágenes y propaganda en tiempos de guerra*. Plaza & Janés.
-- Ortuño Casanova, R. (coord.). Proyecto PID2023-151280OB-C22. GRESEL-UNED.
-- Villanueva Romero, D. (2026). "Unearthing Nature in the Digitized Historical Press: The Case of the Hispanophone Magazine *Excelsior*". Ponencia presentada en el workshop *Memory and Expectations: Rethinking Heritage*, 16 de septiembre de 2026, EUGreen Alliance / PHASSES.
-
----
-
-*Documento elaborado por Fernando Obispo Permuy, técnico TIC UNED, en el marco del proyecto PID2023-151280OB-C22. Octubre 2026.*
+1. Diseñar un conjunto de preguntas de evaluación con el equipo investigador y comparar la recuperación con y sin capa experta.
+2. Sustituir TF-IDF + SVD por embeddings neuronales multilingües cuando se disponga del entorno adecuado.
+3. Completar el campo `fuentes` del JSON y añadir las entradas sobre Falange Exterior que prepare el equipo.
+4. Elaborar un vocabulario específico de naturaleza para *Excelsior* (1929-1932), siguiendo la misma metodología.

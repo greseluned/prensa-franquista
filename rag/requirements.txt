@@ -1,0 +1,14 @@
+# RAG Franquismo — Dependencias
+# GRESEL-UNED · PID2023-151280OB-C22
+#
+# Instalar con:
+#   pip install -r requirements_rag.txt
+#
+# Ejecutar la app:
+#   streamlit run app_rag_franquismo.py
+#
+# IMPORTANTE: coloca glosario_ner_franquismo.py en el mismo directorio.
+
+streamlit>=1.32.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
